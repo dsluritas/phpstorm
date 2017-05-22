@@ -132,18 +132,12 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" timestamp="1495252538966">
-        <mark key="'" line="21" column="0" />
-        <mark key="k" line="15" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/.env" timestamp="1495160460683">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="42" column="95" />
-        <mark key="^" line="42" column="95" />
-        <mark key="." line="42" column="95" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/.env" timestamp="1495428342482">
+        <mark key="'" line="50" column="50" />
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="12" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="12" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/template-slider.php" timestamp="1494734289644">
         <mark key="[" line="6" column="0" />
@@ -205,6 +199,12 @@
         <mark key="]" line="18" column="32" />
         <mark key="." line="18" column="32" />
         <mark key="^" line="18" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1495428324587">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="12" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="12" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/index.php" timestamp="1494733956719">
         <mark key="[" line="3" column="3" />
@@ -465,7 +465,7 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" timestamp="1495421415651">
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" timestamp="1495428092565">
         <mark key="'" line="97" column="8" />
         <mark key="[" line="488" column="12" />
         <mark key="]" line="488" column="13" />
@@ -474,8 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="26" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="112" column="10" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="21" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="54" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="73" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
@@ -574,16 +572,18 @@
       <jump line="20" column="8" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
       <jump line="97" column="8" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
       <jump line="212" column="9" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/git/ptp/duseAPI/.env" />
+      <jump line="50" column="50" filename="$USER_HOME$/git/ptp/duseAPI/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnb3NpbigpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT4KICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
-        <text>manage</text>
+        <text>naver</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">LmRhc2hib2FyZCB1bC5zdWItbGlzdCA+IGxpIA==</text>
@@ -622,9 +622,9 @@
       </register>
     </registers>
     <search>
-      <last-search>manage</last-search>
+      <last-search>naver</last-search>
       <last-offset />
-      <last-pattern>manage</last-pattern>
+      <last-pattern>naver</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>get_post</last-substitute>
       <last-dir>1</last-dir>
@@ -632,7 +632,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250ZW50XD4=</entry>
         <entry>누적회수금액</entry>
         <entry>h4</entry>
         <entry>예치금거래내역</entry>
@@ -652,6 +651,7 @@
         <entry>style</entry>
         <entry>User</entry>
         <entry>manage</entry>
+        <entry>naver</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
