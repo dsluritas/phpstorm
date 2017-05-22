@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="Macro.php-cs and save">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>

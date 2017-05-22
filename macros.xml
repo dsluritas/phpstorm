@@ -1,0 +1,12 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="php-cs and save">
+      <action id="$SelectAll" />
+      <action id="AutoIndentLines" />
+      <action id="ReformatCode" />
+      <shortuct text="ESCAPE" />
+      <shortuct text="DOWN" />
+      <shortuct text="control S" />
+    </macro>
+  </component>
+</application>
