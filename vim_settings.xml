@@ -34,12 +34,12 @@
         <mark key="." line="14" column="1" />
         <mark key="^" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/User.php" timestamp="1495446491167">
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/User.php" timestamp="1495513391466">
         <mark key="'" line="212" column="9" />
-        <mark key="[" line="418" column="44" />
-        <mark key="]" line="418" column="47" />
-        <mark key="." line="418" column="47" />
-        <mark key="^" line="418" column="47" />
+        <mark key="[" line="416" column="26" />
+        <mark key="]" line="416" column="34" />
+        <mark key="." line="416" column="34" />
+        <mark key="^" line="416" column="34" />
       </file>
       <file name="/a.dummy" timestamp="1495299360204">
         <mark key="[" line="0" column="0" />
@@ -218,11 +218,12 @@
         <mark key="." line="18" column="32" />
         <mark key="^" line="18" column="32" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1495447060044">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="12" />
-        <mark key="^" line="8" column="21" />
-        <mark key="." line="8" column="12" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1495513377203">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="49" column="17" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/index.php" timestamp="1494733956719">
         <mark key="[" line="3" column="3" />
@@ -462,12 +463,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" timestamp="1495447528306">
-        <mark key="'" line="94" column="21" />
-        <mark key="[" line="637" column="35" />
-        <mark key="]" line="637" column="35" />
-        <mark key="." line="637" column="35" />
-        <mark key="^" line="637" column="35" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" timestamp="1495513495487">
+        <mark key="'" line="123" column="20" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Auth/AuthController.php" timestamp="1495439867789">
         <mark key="'" line="90" column="51" />
@@ -522,18 +522,15 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" timestamp="1495446620628">
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" timestamp="1495513623244">
         <mark key="'" line="483" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+        <mark key="[" line="487" column="42" />
+        <mark key="]" line="487" column="42" />
+        <mark key="." line="487" column="42" />
         <mark key="^" line="485" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="142" column="26" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="181" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="150" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="186" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="185" column="23" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
@@ -631,55 +628,58 @@
       <jump line="95" column="7" filename="$USER_HOME$/git/ptp/peterWEB/app/Helpers/Helper.php" />
       <jump line="485" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
       <jump line="87" column="8" filename="$USER_HOME$/git/ptp/peterWEB/.gitignore" />
+      <jump line="19" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
+      <jump line="638" column="16" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
+      <jump line="123" column="20" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>서울 강남구 강남대로 298 (역삼동)</text>
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>서울 강남구 강남대로 298 (역삼동)</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>is_amdin</text>
+        <text>getList</text>
       </register>
       <register name="0" type="4">
         <text>Helper::getApiPath() . '/agency/agency_info/' . $idx</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZGQoJGFnZW5jeUluZm8pIH19Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZGQoJGFnZW5jeUluZm8pIH19Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkaWR4ID0gOTM2NDA7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZChIZWxwZXI6OmdldEFwaVBhdGgoKSAuICcvYWdlbmN5L2FnZW5jeV9pbmZvLycgLiAkaWR4KTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkbWFzdGVySWQpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZGQoJGFnZW5jeUluZm8pIH19Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZGQoJGFnZW5jeUluZm8pIH19Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNsaWVudCA9IG5ldyBDbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaWR4ID0gOTM2NDA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChIZWxwZXI6OmdldEFwaVBhdGgoKSAuICcvYWdlbmN5L2FnZW5jeV9pbmZvLycgLiAkaWR4KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNsaWVudCA9IG5ldyBDbGllbnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>288</text>
       </register>
     </registers>
     <search>
-      <last-search>is_amdin</last-search>
+      <last-search>getList</last-search>
       <last-offset />
-      <last-pattern>is_amdin</last-pattern>
+      <last-pattern>getList</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>get_post</last-substitute>
       <last-dir>1</last-dir>
@@ -687,7 +687,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDzsnpTsl6ztiKzsnpDquIjslaFcPg==</entry>
         <entry encoding="base64">XDztj4nqt6DtiKzsnpDsiJjsnbXrpaBf7IS47ZuEXD4=</entry>
         <entry encoding="base64">XDzqsbDrnpjrgrTsl61cPg==</entry>
         <entry encoding="base64">PA==</entry>
@@ -707,6 +706,7 @@
         <entry>script</entry>
         <entry>agencyInfo</entry>
         <entry>is_amdin</entry>
+        <entry>getList</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
