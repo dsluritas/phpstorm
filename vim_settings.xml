@@ -34,12 +34,12 @@
         <mark key="." line="14" column="1" />
         <mark key="^" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/User.php" timestamp="1495513391466">
-        <mark key="'" line="212" column="9" />
-        <mark key="[" line="416" column="26" />
-        <mark key="]" line="416" column="34" />
-        <mark key="." line="416" column="34" />
-        <mark key="^" line="416" column="34" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/User.php" timestamp="1495528260528">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="419" column="34" />
+        <mark key="]" line="419" column="34" />
+        <mark key="." line="419" column="34" />
+        <mark key="^" line="419" column="37" />
       </file>
       <file name="/a.dummy" timestamp="1495299360204">
         <mark key="[" line="0" column="0" />
@@ -81,12 +81,12 @@
         <mark key="." line="10" column="53" />
         <mark key="^" line="10" column="53" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1495443442482">
-        <mark key="'" line="70" column="16" />
-        <mark key="[" line="505" column="12" />
-        <mark key="]" line="505" column="36" />
-        <mark key="." line="505" column="79" />
-        <mark key="^" line="505" column="79" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1495528276689">
+        <mark key="'" line="505" column="35" />
+        <mark key="[" line="330" column="2" />
+        <mark key="]" line="330" column="15" />
+        <mark key="." line="330" column="2" />
+        <mark key="^" line="329" column="22" />
       </file>
       <file name="$USER_HOME$/git/ptp/test-share/config/app.php" timestamp="1495090788383">
         <mark key="'" line="199" column="0" />
@@ -532,36 +532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="186" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="185" column="23" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="137" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="166" column="37" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="169" column="18" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="228" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="115" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="201" column="55" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="199" column="40" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="198" column="32" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="41" column="13" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="40" column="13" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="203" column="40" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="46" column="6" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="211" column="25" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="250" column="21" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="64" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="245" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="72" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="122" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="175" column="37" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="196" column="39" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="197" column="39" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="222" column="37" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="227" column="41" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="232" column="45" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="236" column="45" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="242" column="43" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="246" column="67" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="53" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="258" column="28" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="266" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
@@ -608,7 +578,6 @@
       <jump line="45" column="10" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="83" column="23" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="84" column="24" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="505" column="38" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="29" column="46" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="30" column="47" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="33" column="57" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
@@ -632,55 +601,86 @@
       <jump line="19" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
       <jump line="638" column="16" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
       <jump line="123" column="20" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
+      <jump line="417" column="8" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="71" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="118" column="9" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="119" column="9" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="172" column="40" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="174" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="175" column="33" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="177" column="32" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="182" column="27" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="184" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="185" column="56" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="188" column="49" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="194" column="26" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="196" column="30" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="199" column="48" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="321" column="44" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="322" column="23" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="323" column="16" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="324" column="43" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="325" column="74" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="366" column="38" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="443" column="37" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="444" column="23" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="445" column="16" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="450" column="27" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="451" column="39" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="480" column="22" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="482" column="37" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="505" column="35" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>피터팬</text>
+        <text encoding="base64">LT5uYW1lKCd0aXAnKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>피터팬</text>
+        <text encoding="base64">LT5uYW1lKCd0aXAnKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>getList</text>
+        <text>tip</text>
       </register>
       <register name="0" type="4">
         <text>Helper::getApiPath() . '/agency/agency_info/' . $idx</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWFzdGVySWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICdIZWxsbyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZGQoJGFnZW5jeUluZm8pIH19Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZGQoJGFnZW5jeUluZm8pIH19Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkaWR4ID0gOTM2NDA7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZChIZWxwZXI6OmdldEFwaVBhdGgoKSAuICcvYWdlbmN5L2FnZW5jeV9pbmZvLycgLiAkaWR4KTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkZ29zaW5faWR4ID0gZW52KCdHT1NJTl9JRFgnLCczNScpOyAgICAvL+qzoOyLnOybkC/si6DstpXruYzrnbwg7IOB7ZKIIGlkeAogICAgICAgICRnb3Npbl9saXN0ID0gJHRoaXMtPmhhc01hbnkoJ0FwcFxQdXJjaGFzZScsICd1aWR4JykKICAgICAgICAgICAgLT53aGVyZSgncHJvZHVjdF9pZHgnLCAkZ29zaW5faWR4KS0+cGx1Y2soJ3VpZHgnKS0+dG9BcnJheSgpOwogICAgICAgIHJldHVybiBpbl9hcnJheSgkdGhpcy0+dWlkeCwgJGdvc2luX2xpc3QpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkZ29zaW5fbGlzdCk7CiAgICAgICAgJGdvc2luX2xpc3QgPSBQdXJjaGFzZTo6d2hlcmVQcm9kdWN0SWR4KCRnb3Npbl9pZHgpLT53aGVyZSgndWlkeCcsJHRoaXMtPnVpZHgpLT5wbHVjaygndWlkeCcpLT50b0FycmF5KCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkZ29zaW5fbGlzdCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNsaWVudCA9IG5ldyBDbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>288</text>
       </register>
     </registers>
     <search>
-      <last-search>getList</last-search>
+      <last-search>tip</last-search>
       <last-offset />
-      <last-pattern>getList</last-pattern>
+      <last-pattern>tip</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>get_post</last-substitute>
       <last-dir>1</last-dir>
@@ -688,9 +688,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDztj4nqt6DtiKzsnpDsiJjsnbXrpaBf7IS47ZuEXD4=</entry>
-        <entry encoding="base64">XDzqsbDrnpjrgrTsl61cPg==</entry>
-        <entry encoding="base64">PA==</entry>
         <entry encoding="base64">XDxpbnN0YWxsbWVudFw+</entry>
         <entry>style</entry>
         <entry>User</entry>
@@ -708,6 +705,9 @@
         <entry>agencyInfo</entry>
         <entry>is_amdin</entry>
         <entry>getList</entry>
+        <entry>user</entry>
+        <entry>use</entry>
+        <entry>tip</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
