@@ -1,1 +1,5 @@
-<keymap version="1" name="Default copy" parent="Mac OS X 10.5+" />
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+</keymap>

@@ -79,11 +79,12 @@
         <mark key="." line="10" column="53" />
         <mark key="^" line="10" column="53" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1495531373771">
-        <mark key="'" line="505" column="57" />
-        <mark key="[" line="506" column="0" />
-        <mark key="]" line="506" column="0" />
-        <mark key="." line="506" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1495535724836">
+        <mark key="'" line="10" column="26" />
+        <mark key="[" line="328" column="32" />
+        <mark key="]" line="329" column="19" />
+        <mark key="." line="329" column="19" />
+        <mark key="^" line="329" column="19" />
       </file>
       <file name="$USER_HOME$/git/ptp/test-share/config/app.php" timestamp="1495090788383">
         <mark key="'" line="199" column="0" />
@@ -110,6 +111,15 @@
         <mark key="]" line="11" column="21" />
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="21" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/MapViewController.php" timestamp="1495535287791">
+        <mark key="a" line="399" column="22" />
+        <mark key="'" line="520" column="12" />
+        <mark key="[" line="522" column="40" />
+        <mark key="m" line="413" column="0" />
+        <mark key="]" line="523" column="30" />
+        <mark key="." line="523" column="30" />
+        <mark key="^" line="523" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/index.html" timestamp="1490016148070">
         <mark key="[" line="26" column="42" />
@@ -344,6 +354,11 @@
         <mark key="^" line="85" column="8" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/tip.blade.php" timestamp="1495535658766">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/git/dev.snsl/view/wp-includes/class-wp-theme.php" timestamp="1494345146300">
         <mark key="[" line="895" column="8" />
         <mark key="]" line="895" column="9" />
@@ -382,7 +397,7 @@
         <mark key="." line="959" column="84" />
         <mark key="^" line="959" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495531411945">
+      <file name="/Dummy.txt" timestamp="1495534453653">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/view/wp-includes/class.wp-scripts.php" timestamp="1494344409719">
@@ -462,10 +477,6 @@
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" timestamp="1495532071109">
         <mark key="'" line="127" column="0" />
-        <mark key="[" line="630" column="34" />
-        <mark key="]" line="630" column="41" />
-        <mark key="." line="630" column="41" />
-        <mark key="^" line="630" column="41" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Auth/AuthController.php" timestamp="1495439867789">
         <mark key="'" line="90" column="51" />
@@ -506,6 +517,13 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="19" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php" timestamp="1495535332940">
+        <mark key="'" line="118" column="4" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/header.php" timestamp="1495261759395">
         <mark key="'" line="108" column="0" />
         <mark key="[" line="25" column="20" />
@@ -529,12 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="262" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="261" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="260" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="240" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="13" column="11" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="100" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="103" column="13" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="114" column="5" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="14" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
@@ -629,55 +641,61 @@
       <jump line="218" column="17" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="505" column="57" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="127" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
+      <jump line="500" column="47" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="399" column="58" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/MapViewController.php" />
+      <jump line="402" column="16" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/MapViewController.php" />
+      <jump line="520" column="12" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/MapViewController.php" />
+      <jump line="118" column="4" filename="$USER_HOME$/git/ptp/peterWEB/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php" />
+      <jump line="10" column="26" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">e3sgZGQoZ2V0X2RlZmluZWRfdmFycygpWydfX2RhdGEnXSkgfX0K</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>'abc'</text>
       </register>
       <register name="/" type="4">
-        <text>gosin</text>
+        <text>tip</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">QXV0aDo6dXNlcigpLT5pc0dvc2luKCk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">e3sgZGQoZ2V0X2RlZmluZWRfdmFycygpWydfX2RhdGEnXSkgfX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">e3sgJGFiYyA9ICcxMScgfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIEF1dGg6OnVzZXIoKS0+aXNHb3NpbigpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdWlkeCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHBhZ2VUaXRsZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnMTExJyk7CiAgICAgICAgZGQoREI6OmdldFF1ZXJ5TG9nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHBhZ2VUaXRsZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZChEQjo6Z2V0UXVlcnlMb2coKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdEFsbCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnMTExJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">e3sgZGQoJzExJykgfX0K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaG91c2UpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>288</text>
       </register>
     </registers>
     <search>
-      <last-search>gosin</last-search>
+      <last-search>tip</last-search>
       <last-offset />
-      <last-pattern>gosin</last-pattern>
+      <last-pattern>tip</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>get_post</last-substitute>
       <last-dir>1</last-dir>
@@ -685,7 +703,6 @@
     </search>
     <history>
       <history-search>
-        <entry>manage</entry>
         <entry>naver</entry>
         <entry>login</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
@@ -701,10 +718,11 @@
         <entry>getList</entry>
         <entry>user</entry>
         <entry>use</entry>
-        <entry>tip</entry>
         <entry encoding="base64">XDxyZWRpcmVjdFw+</entry>
         <entry>manage_house</entry>
         <entry>gosin</entry>
+        <entry>boot</entry>
+        <entry>tip</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
@@ -739,6 +757,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
