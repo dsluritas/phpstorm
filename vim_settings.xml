@@ -180,6 +180,9 @@
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="17" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/map_view2.blade.php" timestamp="1495596792692">
+        <mark key="'" line="142" column="0" />
+      </file>
       <file name="$USER_HOME$/git/index.php" timestamp="1494515739317">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="24" column="55" />
@@ -508,6 +511,11 @@
         <mark key="^" line="224" column="91" />
         <mark key="." line="224" column="91" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/map_view_sidebar.blade.php" timestamp="1495596832751">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/git/dev.snsl.dev/view1/wp-content/plugins/ignitiondeck-crowdfunding/ignitiondeck.php" timestamp="1494727974684">
         <mark key="'" line="986" column="0" />
         <mark key="[" line="1759" column="0" />
@@ -551,7 +559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/css/dashboard.css" />
       <jump line="187" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
       <jump line="22" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
       <jump line="27" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
@@ -651,10 +658,11 @@
       <jump line="330" column="2" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="168" column="4" filename="$USER_HOME$/git/ptp/peterWEB/app/Helpers/Helper.php" />
       <jump line="866" column="8" filename="$USER_HOME$/git/ptp/peterWEB/app/Helpers/Helper.php" />
+      <jump line="142" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/map_view2.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoZ2V0X2RlZmluZWRfdmFycygpKTsK</text>
+        <text encoding="base64">ICAgICAgICA8aDE+TG9yZW0uPC9oMT4K</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -666,31 +674,31 @@
         <text encoding="base64">QXV0aDo6dXNlcigpLT5pc0dvc2luKCk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoZ2V0X2RlZmluZWRfdmFycygpKTsK</text>
+        <text encoding="base64">ICAgICAgICA8aDE+TG9yZW0uPC9oMT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoZ2V0X2RlZmluZWRfdmFycygpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">e3sgZGQoZ2V0X2RlZmluZWRfdmFycygpKSB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">e3tIZWxwZXI6OmdldEFsbCgpfX0K</text>
+        <text encoding="base64">e3sgZGQoZ2V0X2RlZmluZWRfdmFycygpKSB9fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGllKCk7CnJldHVybiB2aWV3KCd0aXAnKTsK</text>
+        <text encoding="base64">e3tIZWxwZXI6OmdldEFsbCgpfX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Z2V0QXBpUGF0aAo=</text>
+        <text encoding="base64">ZGllKCk7CnJldHVybiB2aWV3KCd0aXAnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGVscGVyOjpnZXRBbGwoKTsKICAgICAgICAgICAgZGllKCk7CiAgICAgICAgICAgIHJldHVybiB2aWV3KCd0aXAnKTsK</text>
+        <text encoding="base64">Z2V0QXBpUGF0aAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGVscGVyOjpnZXRBbGwoKTsKICAgICAgICAgICAgZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGVscGVyOjpnZXRBbGwoKTsKICAgICAgICAgICAgZGllKCk7CiAgICAgICAgICAgIHJldHVybiB2aWV3KCd0aXAnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">e3sgZGQoZ2V0X2RlZmluZWRfdmFycygpWydfX2RhdGEnXSkgfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGVscGVyOjpnZXRBbGwoKTsKICAgICAgICAgICAgZGllKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>288</text>
