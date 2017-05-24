@@ -163,9 +163,6 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="12" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/common/head.blade.php" timestamp="1495443850977">
-        <mark key="'" line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/template-slider.php" timestamp="1494734289644">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -243,8 +240,8 @@
         <mark key="." line="18" column="32" />
         <mark key="^" line="18" column="32" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1495513377203">
-        <mark key="'" line="19" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1495625776288">
+        <mark key="'" line="50" column="0" />
         <mark key="[" line="49" column="17" />
         <mark key="]" line="50" column="0" />
         <mark key="^" line="50" column="0" />
@@ -415,7 +412,7 @@
         <mark key="." line="959" column="84" />
         <mark key="^" line="959" column="84" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495605528154">
+      <file name="/Dummy.txt" timestamp="1495625438215">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/view/wp-includes/class.wp-scripts.php" timestamp="1494344409719">
@@ -493,8 +490,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" timestamp="1495532071109">
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" timestamp="1495625770120">
         <mark key="'" line="127" column="0" />
+        <mark key="[" line="670" column="12" />
+        <mark key="]" line="670" column="20" />
+        <mark key="." line="670" column="20" />
+        <mark key="^" line="670" column="20" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Auth/AuthController.php" timestamp="1495439867789">
         <mark key="'" line="90" column="51" />
@@ -562,16 +563,13 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" timestamp="1495531426009">
-        <mark key="'" line="483" column="0" />
-        <mark key="[" line="485" column="16" />
-        <mark key="]" line="485" column="15" />
-        <mark key="." line="485" column="15" />
-        <mark key="^" line="485" column="15" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" timestamp="1495625422396">
+        <mark key="[" line="269" column="12" />
+        <mark key="]" line="269" column="12" />
+        <mark key="." line="269" column="12" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="273" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="15" column="0" filename="$USER_HOME$/git/pas/view/index.php" />
       <jump line="8" column="18" filename="$USER_HOME$/git/pas/view/index.php" />
@@ -671,55 +669,56 @@
       <jump line="142" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/map_view2.blade.php" />
       <jump line="1236" column="0" filename="$USER_HOME$/git/ptp/peterWEB/public/js/map.js" />
       <jump line="144" column="63" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/map_view_sidebar.blade.php" />
+      <jump line="50" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>imageProfile</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>imageProfile</text>
       </register>
       <register name="/" type="4">
-        <text>API</text>
+        <text>isGosin</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">QXV0aDo6dXNlcigpLT5pc0dvc2luKCk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGltYWdlUHJvZmlsZSA9IGpzb25fZGVjb2RlKCRyZXNwb25zZS0+Z2V0Qm9keSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGltYWdlUHJvZmlsZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGltYWdlUHJvZmlsZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaDE+bG9yZW0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aDE+TG9yZW0uPC9oMT4K</text>
+        <text encoding="base64">ICAgICAgICAkaW1hZ2VQcm9maWxlID0ganNvbl9kZWNvZGUoJHJlc3BvbnNlLT5nZXRCb2R5KCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoZ2V0X2RlZmluZWRfdmFycygpKTsK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRkCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">e3sgZGQoZ2V0X2RlZmluZWRfdmFycygpKSB9fQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">e3tIZWxwZXI6OmdldEFsbCgpfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaDE+bG9yZW0K</text>
       </register>
       <register name=":" type="4">
         <text>288</text>
       </register>
     </registers>
     <search>
-      <last-search>API</last-search>
+      <last-search>isGosin</last-search>
       <last-offset />
-      <last-pattern>API</last-pattern>
+      <last-pattern>isGosin</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>get_post</last-substitute>
       <last-dir>1</last-dir>
@@ -727,7 +726,6 @@
     </search>
     <history>
       <history-search>
-        <entry>login</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry>manege</entry>
         <entry>select_</entry>
@@ -747,6 +745,7 @@
         <entry>boot</entry>
         <entry>tip</entry>
         <entry>API</entry>
+        <entry>isGosin</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
