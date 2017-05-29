@@ -38,6 +38,12 @@
         <mark key="^" line="1215" column="9" />
         <mark key="." line="1215" column="9" />
       </file>
+      <file name="$USER_HOME$/git/ptp/test-share/.env" timestamp="1496037935833">
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="48" />
+        <mark key="^" line="8" column="48" />
+        <mark key="." line="8" column="48" />
+      </file>
       <file name="$USER_HOME$/git/dev.snsl.dev/view1/wp-includes/class-wp-query.php" timestamp="1494675840973">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="372" column="21" />
@@ -363,8 +369,8 @@
       <jump line="4343" column="76" filename="$USER_HOME$/git/ptp/peterWEB/_ide_helper.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHt7LS0gQGlmIChBdXRoOjpjaGVjaygpLT51c2VyKCktPmlzR29zaW4oKSkgLS19fQo=</text>
+      <register name="&quot;" type="4">
+        <text>http://test-share.dev</text>
       </register>
       <register name="-" type="4">
         <text>ㅏ</text>
@@ -372,8 +378,8 @@
       <register name="/" type="4">
         <text>user()</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBpZiAoQXV0aDo6Y2hlY2soKS0+dXNlcigpLT5pc0dvc2luKCkpCg==</text>
+      <register name="0" type="4">
+        <text>http://test-share.dev</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHt7LS0gQGlmIChBdXRoOjpjaGVjaygpLT51c2VyKCktPmlzR29zaW4oKSkgLS19fQo=</text>
