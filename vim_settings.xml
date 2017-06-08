@@ -243,6 +243,12 @@
         <mark key="^" line="3" column="9" />
         <mark key="." line="3" column="9" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/safetyMenuItem.blade.php" timestamp="1496886149541">
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="28" column="19" />
+        <mark key="^" line="28" column="13" />
+        <mark key="." line="28" column="14" />
+      </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/database/seeds/CodeBookTableSeeder.php" timestamp="1496815734225" />
       <file name="$USER_HOME$/git/snsl.dev/view/wp-content/themes/backer/header.php" timestamp="1495730686067">
         <mark key="'" line="123" column="0" />
@@ -433,6 +439,12 @@
         <mark key="^" line="1215" column="9" />
         <mark key="." line="1215" column="9" />
       </file>
+      <file name="$USER_HOME$/git/ptp/test-share/routes/web.php" timestamp="1495098431784">
+        <mark key="'" line="69" column="14" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ptp/test-share/.env" timestamp="1495097871135">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="14" />
@@ -604,6 +616,12 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
+      <file name="$USER_HOME$/git/ptp/test-share/vendor/ch0p/naver-api/src/Naver/Auth.php" timestamp="1495087421711">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="31" column="17" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/developements/laravel-web/markdown/routes/web.php" timestamp="1496711761091">
         <mark key="[" line="24" column="11" />
         <mark key="]" line="24" column="49" />
@@ -760,6 +778,12 @@
         <mark key="." line="12" column="53" />
         <mark key="^" line="12" column="53" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/common/header.blade.php" timestamp="1496885919259">
+        <mark key="'" line="98" column="28" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="90" />
+        <mark key="." line="130" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/schedule.php" timestamp="1496665419717">
         <mark key="'" line="53" column="28" />
         <mark key="[" line="3" column="3" />
@@ -786,8 +810,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="109" column="16" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/templates/_checkoutForm.php" />
       <jump line="12" column="14" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/templates/_checkoutForm.php" />
       <jump line="270" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="39" column="2" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
@@ -886,6 +908,8 @@
       <jump line="47" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="318" column="29" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/post-template.php" />
       <jump line="410" column="35" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
+      <jump line="143" column="7" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/common/header.blade.php" />
+      <jump line="98" column="28" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/common/header.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -910,14 +934,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkbmV4dCgkcmVxdWVzdCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>안심직거래</text>
       </register>
       <register name="-" type="4">
-        <text>// $amount가 조보다 크다면</text>
+        <text>안심직거래</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwxMDAwMFw+</text>
+        <text>안심직거래</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkbmV4dCgkcmVxdWVzdCk7Cg==</text>
@@ -954,9 +978,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwxMDAwMFw+</last-search>
+      <last-search>안심직거래</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwxMDAwMFw+</last-pattern>
+      <last-pattern>안심직거래</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>get_post</last-substitute>
       <last-dir>1</last-dir>
@@ -964,7 +988,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxrcm93bl9jdXN0b21fbG9naW5fbG9nb1w+</entry>
         <entry>items</entry>
         <entry>tag</entry>
         <entry>Krown_Nav_Walker</entry>
@@ -984,6 +1007,7 @@
         <entry>session</entry>
         <entry>getInfo</entry>
         <entry>agencyInfo</entry>
+        <entry>안심직거래</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
