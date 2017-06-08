@@ -168,6 +168,13 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
+      <file name="$USER_HOME$/git/ptp/naver/index.html" timestamp="1496909434412">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="179" column="38" />
+        <mark key="]" line="179" column="39" />
+        <mark key="^" line="175" column="13" />
+        <mark key="." line="179" column="39" />
+      </file>
       <file name="$USER_HOME$/developements/laravel-web/markdown/resources/views/docs/show.blade.php" timestamp="1496688454492">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="2" column="3" />
@@ -242,12 +249,6 @@
         <mark key="]" line="3" column="9" />
         <mark key="^" line="3" column="9" />
         <mark key="." line="3" column="9" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/safetyMenuItem.blade.php" timestamp="1496886149541">
-        <mark key="[" line="28" column="14" />
-        <mark key="]" line="28" column="19" />
-        <mark key="^" line="28" column="13" />
-        <mark key="." line="28" column="14" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/database/seeds/CodeBookTableSeeder.php" timestamp="1496815734225" />
       <file name="$USER_HOME$/git/snsl.dev/view/wp-content/themes/backer/header.php" timestamp="1495730686067">
@@ -616,12 +617,6 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/git/ptp/test-share/vendor/ch0p/naver-api/src/Naver/Auth.php" timestamp="1495087421711">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="31" column="17" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/developements/laravel-web/markdown/routes/web.php" timestamp="1496711761091">
         <mark key="[" line="24" column="11" />
         <mark key="]" line="24" column="49" />
@@ -730,7 +725,7 @@
         <mark key="." line="715" column="0" />
         <mark key="^" line="715" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496816051819">
+      <file name="/Dummy.txt" timestamp="1496904461093">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/view/wp-includes/class.wp-scripts.php" timestamp="1494344409719">
@@ -810,40 +805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="14" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/templates/_checkoutForm.php" />
-      <jump line="270" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="39" column="2" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="74" column="29" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/plugin.php" />
-      <jump line="12" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-config.php" />
-      <jump line="1143" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
-      <jump line="67" column="38" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/header.php" />
-      <jump line="77" column="9" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/general-template.php" />
-      <jump line="3795" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/general-template.php" />
-      <jump line="84" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/idcommerce-functions.php" />
-      <jump line="87" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/idcommerce-functions.php" />
-      <jump line="44" column="53" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="96" column="55" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="6" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="70" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="127" column="54" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="100" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="79" column="55" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="102" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="80" column="70" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="84" column="41" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="159" column="39" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="157" column="35" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="146" column="39" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="81" column="31" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="9" column="26" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="6750" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="6767" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="8" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="170" column="18" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="90" column="32" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="111" column="70" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="156" column="22" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="189" column="25" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
       <jump line="110" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
       <jump line="182" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
       <jump line="215" column="10" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
@@ -910,6 +871,40 @@
       <jump line="410" column="35" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="143" column="7" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/common/header.blade.php" />
       <jump line="98" column="28" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/common/header.blade.php" />
+      <jump line="1128" column="6" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="33" column="74" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="19" column="22" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="50" column="13" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="9" column="15" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="13" column="15" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="69" column="9" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="130" column="47" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="40" column="12" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="143" column="36" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="151" column="35" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="149" column="13" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="156" column="28" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="155" column="29" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="142" column="13" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="134" column="22" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="127" column="28" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="125" column="62" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="159" column="38" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="95" column="17" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="49" column="49" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="47" column="34" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="54" column="35" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="158" column="21" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="55" column="24" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="109" column="0" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="169" column="44" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="79" column="40" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="98" column="0" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="136" column="13" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="23" column="0" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="167" column="0" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="183" column="5" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="62" column="0" filename="$USER_HOME$/git/ptp/naver/index.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -934,53 +929,53 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>안심직거래</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="-" type="4">
-        <text>안심직거래</text>
+        <text>개</text>
       </register>
       <register name="/" type="4">
-        <text>안심직거래</text>
+        <text>방 개수</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkbmV4dCgkcmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzZWxlY3QgY2xhc3M9ImZvcm0tY29udHJvbCIgbmFtZT0idHlwZSIgaWQ9Im1vdmVfZGF0ZSI+CiAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iIiBzZWxlY3RlZD7tmJHsnZjqsIDriqU8L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIiPuymieyLnOyeheyjvDwvb3B0aW9uPgogICAgICAgICAgICAgICAgPC9zZWxlY3Q+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGV2aWNlSW5mbyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDsobAgPGJyPiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0PgogICAgICAgICAgICAkKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICQoJyNtYW5hZ2VtZW50X2ZlZTEsICNtYW5hZ2VtZW50X2ZlZTInKS5vbignY2hhbmdlJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgICAgIHZhciBmbGFnID0gJCgnI21hbmFnZW1lbnRfZmVlMScpLmlzKCc6Y2hlY2tlZCcpOwogICAgICAgICAgICAgICAgICAgIGlmIChmbGFnKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICQoJyNmb3JtX2ZlZScpLnNob3coKTsKICAgICAgICAgICAgICAgICAgICAgICAgJCgnI2ZlZScpLnZhbCgnJyk7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgJCgnI2Zvcm1fZmVlJykuaGlkZSgpOwogICAgICAgICAgICAgICAgICAgICAgICAkKCcjZmVlJykudmFsKCcwJyk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0pOwogICAgICAgIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDslrUgPGJyPiI7Cg==</text>
+        <text encoding="base64">ICAgICNtYW5hZ2VtZW50X2ZlZTE6Y2hlY2tlZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDsm5AgPGJyPiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c3R5bGU+CiAgICAgICAgICAgIGxhYmVsW2Zvcj1mbG9vcjFdLCBsYWJlbFtmb3I9bW92ZV9kYXRlXSB7CiAgICAgICAgICAgICAgICBwYWRkaW5nLXJpZ2h0OiAwOwogICAgICAgICAgICB9CgogICAgICAgICAgICBpbnB1dFt0eXBlPXJhZGlvXSB7CiAgICAgICAgICAgICAgICBkaXNwbGF5OiBub25lOwogICAgICAgICAgICB9CgogICAgICAgICAgICBsYWJlbFtmb3I9bWFuYWdlbWVudF9mZWUxXSwgbGFiZWxbZm9yPW1hbmFnZW1lbnRfZmVlMl0gewogICAgICAgICAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgICAgICAgICAgICAgcGFkZGluZzogNnB4IDEycHg7CiAgICAgICAgICAgICAgICB3aWR0aDogNDklOwoKICAgICAgICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiBub3JtYWw7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgICNtYW5hZ2VtZW50X2ZlZTE6Y2hlY2tlZCB+IGxhYmVsW2Zvcj1tYW5hZ2VtZW50X2ZlZTFdIHsKICAgICAgICAgICAgICAgIGNvbG9yOiAjZmZmOwogICAgICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzVjYjg1YzsKICAgICAgICAgICAgICAgIGJvcmRlci1jb2xvcjogIzRjYWU0YzsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgI21hbmFnZW1lbnRfZmVlMjpjaGVja2VkIH4gbGFiZWxbZm9yPW1hbmFnZW1lbnRfZmVlMl0gewogICAgICAgICAgICAgICAgY29sb3I6ICNmZmY7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjNWNiODVjOwogICAgICAgICAgICAgICAgYm9yZGVyLWNvbG9yOiAjNGNhZTRjOwogICAgICAgICAgICB9CiAgICAgICAgPC9zdHlsZT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDrp4wgPGJyPiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3N0eWxlPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc3RhdHVzWyfriITsoIHspJHqsJzslaEnXSA9IDEzMzIyKjEyMzQxKjEyMzIyKjEyMzM7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4KICAgICAgICA8c2NyaXB0Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRpc3BsYXlfYW1vdW50IC49ICgkYW1vdW50ICUgMTAwMDApIC4gJ+ybkCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c3R5bGU+CiAgICAgICAgICAgIGxhYmVsW2Zvcj1mbG9vcjFdLCBsYWJlbFtmb3I9bW92ZV9kYXRlXSB7CiAgICAgICAgICAgICAgICBwYWRkaW5nLXJpZ2h0OiAwOwogICAgICAgICAgICB9CgogICAgICAgICAgICBpbnB1dFt0eXBlPXJhZGlvXSB7CiAgICAgICAgICAgICAgICBkaXNwbGF5OiBub25lOwogICAgICAgICAgICB9CgogICAgICAgICAgICBsYWJlbFtmb3I9bWFuYWdlbWVudF9mZWUxXSwgbGFiZWxbZm9yPW1hbmFnZW1lbnRfZmVlMl0gewogICAgICAgICAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgICAgICAgICAgICAgcGFkZGluZzogNnB4IDEycHg7CiAgICAgICAgICAgICAgICB3aWR0aDogNDklOwoKICAgICAgICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiBub3JtYWw7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgICNtYW5hZ2VtZW50X2ZlZTE6Y2hlY2tlZCB+IGxhYmVsW2Zvcj1tYW5hZ2VtZW50X2ZlZTFdIHsKICAgICAgICAgICAgICAgIGNvbG9yOiAjZmZmOwogICAgICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzVjYjg1YzsKICAgICAgICAgICAgICAgIGJvcmRlci1jb2xvcjogIzRjYWU0YzsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgI21hbmFnZW1lbnRfZmVlMjpjaGVja2VkIH4gbGFiZWxbZm9yPW1hbmFnZW1lbnRfZmVlMl0gewogICAgICAgICAgICAgICAgY29sb3I6ICNmZmY7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjNWNiODVjOwogICAgICAgICAgICAgICAgYm9yZGVyLWNvbG9yOiAjNGNhZTRjOwogICAgICAgICAgICB9CiAgICAgICAgPC9zdHlsZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRpc3BsYXlfYW1vdW50IC49ICgoJGFtb3VudCAvIDEwMDAwKSAlIDEwMDAwKSAuICfrp4wnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpbnB1dC1ncm91cC1hZGRvbiI+6rCcPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>안심직거래</last-search>
+      <last-search>방 개수</last-search>
       <last-offset />
-      <last-pattern>안심직거래</last-pattern>
+      <last-pattern>방 개수</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>get_post</last-substitute>
       <last-dir>1</last-dir>
@@ -988,26 +983,26 @@
     </search>
     <history>
       <history-search>
-        <entry>items</entry>
-        <entry>tag</entry>
-        <entry>Krown_Nav_Walker</entry>
-        <entry encoding="base64">XDxwZXJtYWxpbmtcPg==</entry>
-        <entry>login</entry>
-        <entry>pasword</entry>
-        <entry>case</entry>
-        <entry>swithc</entry>
-        <entry>switch</entry>
-        <entry>case 'login'</entry>
-        <entry encoding="base64">XDxvcHRpb25cPg==</entry>
-        <entry encoding="base64">XDxhcGlVUkxcPg==</entry>
-        <entry>apiURl</entry>
-        <entry>apu</entry>
-        <entry>api</entry>
-        <entry>Session</entry>
-        <entry>session</entry>
-        <entry>getInfo</entry>
-        <entry>agencyInfo</entry>
         <entry>안심직거래</entry>
+        <entry>현재층</entry>
+        <entry>style</entry>
+        <entry>있음</entry>
+        <entry encoding="base64">XDxtYW5nZW1lbnRfZmVlMVw+</entry>
+        <entry>&quot;fee&quot;</entry>
+        <entry encoding="base64">XDxmb3JtX2ZlZVw+</entry>
+        <entry encoding="base64">XDxtYW5hZ2VtZW50X2ZlZTFcPg==</entry>
+        <entry>입주가능일</entry>
+        <entry>연락처</entry>
+        <entry>소재지</entry>
+        <entry>add</entry>
+        <entry>add-on</entry>
+        <entry>input-g</entry>
+        <entry>금액</entry>
+        <entry>방수</entry>
+        <entry>options</entry>
+        <entry>select</entry>
+        <entry>방개수</entry>
+        <entry>방 개수</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
