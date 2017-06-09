@@ -9,6 +9,9 @@
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" timestamp="1496982320394">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/git/dev.snsl.dev/index.php" timestamp="1494653939988">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="12" />
@@ -671,6 +674,7 @@
         <mark key="^" line="22" column="111" />
         <mark key="." line="22" column="111" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/safety-service-apply.blade.php" timestamp="1496982343885" />
       <file name="$USER_HOME$/developements/laravel-web/markdown/app/Http/Controllers/DocsController.php" timestamp="1496688922883">
         <mark key="[" line="19" column="11" />
         <mark key="]" line="20" column="7" />
@@ -743,7 +747,7 @@
         <mark key="." line="715" column="0" />
         <mark key="^" line="715" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496904461093">
+      <file name="/Dummy.txt" timestamp="1496982701187">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/view/wp-includes/class.wp-scripts.php" timestamp="1494344409719">
@@ -823,7 +827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="18" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
       <jump line="1188" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
       <jump line="1218" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
       <jump line="19" column="20" filename="$USER_HOME$/developements/git/myapp/routes/web.php" />
@@ -923,6 +926,7 @@
       <jump line="223" column="13" filename="$USER_HOME$/git/ptp/naver/index.html" />
       <jump line="100" column="31" filename="$USER_HOME$/git/ptp/naver/index.html" />
       <jump line="118" column="13" filename="$USER_HOME$/git/ptp/naver/index.html" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2487,7 +2491,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>공급면적</text>
+        <text>safetyService</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJcmV0dXJuICIiLiR0ZW1wVmFsdWUxLiR0ZW1wVmFsdWUyOwo=</text>
@@ -2524,9 +2528,9 @@
       </register>
     </registers>
     <search>
-      <last-search>공급면적</last-search>
+      <last-search>safetyService</last-search>
       <last-offset />
-      <last-pattern>공급면적</last-pattern>
+      <last-pattern>safetyService</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>get_post</last-substitute>
       <last-dir>1</last-dir>
@@ -2534,7 +2538,6 @@
     </search>
     <history>
       <history-search>
-        <entry>입주가능일</entry>
         <entry>연락처</entry>
         <entry>소재지</entry>
         <entry>add</entry>
@@ -2554,6 +2557,7 @@
         <entry>거래구분</entry>
         <entry>보증금</entry>
         <entry>공급면적</entry>
+        <entry>safetyService</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
