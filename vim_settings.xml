@@ -591,11 +591,11 @@
         <mark key="]" line="897" column="0" />
         <mark key="." line="897" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/building-info/src/class/building.php" timestamp="1497320369106">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="16" column="30" />
-        <mark key="." line="16" column="30" />
-        <mark key="^" line="16" column="30" />
+      <file name="$USER_HOME$/git/ptp/building-info/src/class/building.php" timestamp="1497335384702">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="5" column="10" />
       </file>
       <file name="$USER_HOME$/git/snsl.dev/view/wp-includes/functions.wp-scripts.php" timestamp="1495730630782">
         <mark key="[" line="189" column="5" />
@@ -631,6 +631,9 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/public/js/register_house.js" timestamp="1497335582098">
+        <mark key="'" line="1147" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" timestamp="1495942547983">
         <mark key="'" line="5" column="0" />
@@ -885,7 +888,7 @@
         <mark key="." line="715" column="0" />
         <mark key="^" line="715" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497081781140">
+      <file name="/Dummy.txt" timestamp="1497335559270">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/view/wp-includes/class.wp-scripts.php" timestamp="1494344409719">
@@ -993,19 +996,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/developements/git/myapp/database/migrations/2017_06_03_034722_create_posts_table.php" />
-      <jump line="42" column="21" filename="$USER_HOME$/developements/git/myapp/routes/web.php" />
-      <jump line="20" column="0" filename="$USER_HOME$/developements/git/myapp/app/User.php" />
-      <jump line="13" column="0" filename="$USER_HOME$/developements/git/myapp/database/factories/ModelFactory.php" />
-      <jump line="8" column="5" filename="$USER_HOME$/developements/git/myapp/database/seeds/DatabaseSeeder.php" />
-      <jump line="24" column="31" filename="$USER_HOME$/developements/git/myapp/database/seeds/DatabaseSeeder.php" />
-      <jump line="14" column="31" filename="$USER_HOME$/developements/git/myapp/database/seeds/DatabaseSeeder.php" />
-      <jump line="161" column="18" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="1188" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
-      <jump line="1218" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
-      <jump line="19" column="20" filename="$USER_HOME$/developements/git/myapp/routes/web.php" />
-      <jump line="2" column="0" filename="$USER_HOME$/developements/git/myapp/routes/web.php" />
-      <jump line="140" column="36" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-last.php" />
       <jump line="17" column="30" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-last.php" />
       <jump line="1189" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
       <jump line="294" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
@@ -1093,6 +1083,19 @@
       <jump line="30" column="13" filename="$USER_HOME$/git/ptp/inicis/sample/INIStdPayRequest.php" />
       <jump line="40" column="24" filename="$USER_HOME$/git/ptp/inicis/sample/INIStdPayRequest.php" />
       <jump line="45" column="33" filename="$USER_HOME$/git/ptp/inicis/sample/INIStdPayRequest.php" />
+      <jump line="924" column="6" filename="$USER_HOME$/git/ptp/peterWEB/public/js/register_house.js" />
+      <jump line="52" column="8" filename="$USER_HOME$/git/ptp/peterWEB/public/js/register_house.js" />
+      <jump line="897" column="25" filename="$USER_HOME$/git/ptp/peterWEB/public/js/register_house.js" />
+      <jump line="857" column="40" filename="$USER_HOME$/git/ptp/peterWEB/public/js/register_house.js" />
+      <jump line="855" column="8" filename="$USER_HOME$/git/ptp/peterWEB/public/js/register_house.js" />
+      <jump line="443" column="8" filename="$USER_HOME$/git/ptp/peterWEB/public/js/register_house.js" />
+      <jump line="344" column="8" filename="$USER_HOME$/git/ptp/peterWEB/public/js/register_house.js" />
+      <jump line="255" column="8" filename="$USER_HOME$/git/ptp/peterWEB/public/js/register_house.js" />
+      <jump line="107" column="8" filename="$USER_HOME$/git/ptp/peterWEB/public/js/register_house.js" />
+      <jump line="53" column="8" filename="$USER_HOME$/git/ptp/peterWEB/public/js/register_house.js" />
+      <jump line="1142" column="35" filename="$USER_HOME$/git/ptp/peterWEB/public/js/register_house.js" />
+      <jump line="918" column="8" filename="$USER_HOME$/git/ptp/peterWEB/public/js/register_house.js" />
+      <jump line="1147" column="0" filename="$USER_HOME$/git/ptp/peterWEB/public/js/register_house.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1117,7 +1120,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>interface</text>
+        <text>$</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -2653,10 +2656,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>interface</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>st</text>
+        <text>서버</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsJyA9PiAkcmVxdWVzdC0+aW5wdXQoJ2VtYWlsJyksCg==</text>
@@ -2693,9 +2696,9 @@
       </register>
     </registers>
     <search>
-      <last-search>st</last-search>
+      <last-search>서버</last-search>
       <last-offset />
-      <last-pattern>st</last-pattern>
+      <last-pattern>서버</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>get_post</last-substitute>
       <last-dir>1</last-dir>
@@ -2703,11 +2706,6 @@
     </search>
     <history>
       <history-search>
-        <entry>add-on</entry>
-        <entry>input-g</entry>
-        <entry>금액</entry>
-        <entry>방수</entry>
-        <entry>options</entry>
         <entry>select</entry>
         <entry>방개수</entry>
         <entry>방 개수</entry>
@@ -2723,6 +2721,11 @@
         <entry>key</entry>
         <entry>regist</entry>
         <entry>st</entry>
+        <entry>서버오류</entry>
+        <entry>id=&quot;regist</entry>
+        <entry>id='regist</entry>
+        <entry encoding="base64">XDxyZWdpc3RIb3VzZUZvcm1cPg==</entry>
+        <entry>서버</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
