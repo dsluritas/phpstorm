@@ -9,11 +9,11 @@
       <file name="/a.dummy" timestamp="1497515215693">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/building-info/composer.json" timestamp="1497517394870">
-        <mark key="[" line="14" column="7" />
-        <mark key="]" line="14" column="13" />
-        <mark key="^" line="14" column="13" />
-        <mark key="." line="14" column="13" />
+      <file name="$USER_HOME$/git/ptp/building-info/composer.json" timestamp="1497524970634">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="30" />
       </file>
       <file name="$USER_HOME$/git/snsl.dev/view/index.php" timestamp="1495730656720">
         <mark key="[" line="16" column="0" />
@@ -136,12 +136,12 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/git/ptp/building-info/src/class/OpenAPI.php" timestamp="1497523258513">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="58" column="8" />
-        <mark key="]" line="58" column="14" />
-        <mark key="." line="58" column="14" />
-        <mark key="^" line="58" column="14" />
+      <file name="$USER_HOME$/git/ptp/building-info/src/class/OpenAPI.php" timestamp="1497525885549">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="55" column="17" />
+        <mark key="]" line="55" column="22" />
+        <mark key="." line="55" column="22" />
+        <mark key="^" line="55" column="22" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/404.php" timestamp="1494788417386">
         <mark key="'" line="13" column="0" />
@@ -191,11 +191,11 @@
         <mark key="]" line="276" column="0" />
         <mark key="." line="276" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/building-info/index.php" timestamp="1497517772956">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="7" column="24" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/git/ptp/building-info/index.php" timestamp="1497524338959">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
       </file>
       <file name="/PHP Console" timestamp="1496143415664">
         <mark key="[" line="0" column="0" />
@@ -370,7 +370,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>var_dump</text>
+        <text>items['item']</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -1906,40 +1906,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>var_dump</text>
+        <text>items['item']</text>
       </register>
       <register name="/" type="4">
         <text>App</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;key1: &quot; . $</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICI8cHJlPiI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaXRlbXMgPSAoYXJyYXkpJHJlc3VsdC0+Ym9keS0+aXRlbXM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gc2ltcGxleG1sX2xvYWRfc3RyaW5nKCR4bWwpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gc2ltcGxleG1sX2xvYWRfc3RyaW5nKCRjb250ZW50KTsKICAgICAgICAkanNvbiA9IGpzb25fZW5jb2RlKCR4bWwpOwogICAgICAgICRhcnJheSA9IGpzb25fZGVjb2RlKCRqc29uLFRSVUUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRjb250ZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICI8cHJlPiI7CiAgICAgICAgcHJpbnRfcigkaXRlbXNbJ2l0ZW0nXSk7CiAgICAgICAgZWNobyAiPC9wcmU+IjsKICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVhZGVyLT54bWwoJGNvbnRlbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEd1enpsZUh0dHBcUHNyN1xSZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICI8cHJlPiI7CiAgICAgICAgcHJpbnRfcigkaXRlbXNbJ2l0ZW0nXSk7CiAgICAgICAgZWNobyAiPC9wcmU+IjsKICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICI8cHJlPiI7CiAgICAgICAgcHJpbnRfcigkaXRlbXMpOwogICAgICAgIGVjaG8gIjxwcmU+IjsKICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcXVlcnlTdHJpbmcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiPHByZT4iOwogICAgICAgICAgICBwcmludF9yKCR2YWx1ZSk7CiAgICAgICAgICAgIGVjaG8gIjxwcmU+IjsKICAgICAgICAgICAgZGllKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICI8cHJlPiI7CiAgICAgICAgcHJpbnRfcigkaXRlbXMpOwogICAgICAgIGVjaG8gIjxwcmU+IjsKICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1981,11 +1981,8 @@
         <entry>65</entry>
         <entry>30</entry>
         <entry>447</entry>
-        <entry>55</entry>
         <entry>xa</entry>
-        <entry>ㅈ</entry>
         <entry>41</entry>
-        <entry>x</entry>
         <entry>239</entry>
         <entry>288</entry>
         <entry>146</entry>
@@ -1995,6 +1992,11 @@
         <entry>q</entry>
         <entry>594</entry>
         <entry>36</entry>
+        <entry>ㅈ</entry>
+        <entry>56</entry>
+        <entry>x</entry>
+        <entry>73</entry>
+        <entry>55</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
