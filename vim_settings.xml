@@ -136,12 +136,12 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/git/ptp/building-info/src/class/OpenAPI.php" timestamp="1497525885549">
+      <file name="$USER_HOME$/git/ptp/building-info/src/class/OpenAPI.php" timestamp="1497527909061">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="55" column="17" />
-        <mark key="]" line="55" column="22" />
-        <mark key="." line="55" column="22" />
-        <mark key="^" line="55" column="22" />
+        <mark key="[" line="53" column="15" />
+        <mark key="]" line="53" column="45" />
+        <mark key="." line="53" column="45" />
+        <mark key="^" line="53" column="45" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/404.php" timestamp="1494788417386">
         <mark key="'" line="13" column="0" />
@@ -191,11 +191,11 @@
         <mark key="]" line="276" column="0" />
         <mark key="." line="276" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/building-info/index.php" timestamp="1497524338959">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="21" />
-        <mark key="^" line="9" column="21" />
-        <mark key="." line="9" column="21" />
+      <file name="$USER_HOME$/git/ptp/building-info/index.php" timestamp="1497527943374">
+        <mark key="[" line="9" column="44" />
+        <mark key="]" line="12" column="13" />
+        <mark key="^" line="12" column="13" />
+        <mark key="." line="12" column="13" />
       </file>
       <file name="/PHP Console" timestamp="1496143415664">
         <mark key="[" line="0" column="0" />
@@ -370,7 +370,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>items['item']</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -1906,7 +1906,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>items['item']</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>App</text>
@@ -1915,28 +1915,28 @@
         <text encoding="base64">ICAgICAgICBlY2hvICI8cHJlPiI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkaXRlbXMgPSAoYXJyYXkpJHJlc3VsdC0+Ym9keS0+aXRlbXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJHRoaXMtPnhtbDJhcnJheShzaW1wbGV4bWxfbG9hZF9zdHJpbmcoJGNvbnRlbnQpKTsKICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gc2ltcGxleG1sX2xvYWRfc3RyaW5nKCR4bWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkCgoKICAgICAgICBlY2hvICI8cHJlPiI7CiAgICAgICAgcHJpbnRfcigkcmVzdWx0KTsKICAgICAgICBlY2hvICI8L3ByZT4iOwogICAgICAgIGRpZSgpOwoKICAgICAgICBmb3JlYWNoICgkaXRlbXNbJ2l0ZW0nXSBhcyAka2V5ID0+ICR2YWx1ZSkKICAgICAgICB7CiAgICAgICAgICAgIGVjaG8gInska2V5fSAvIHskdmFsdWV9ICIuIFBIUF9FT0w7CiAgICAgICAgfQogICAgICAgIGRpZSgpOwoKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gc2ltcGxleG1sX2xvYWRfc3RyaW5nKCRjb250ZW50KTsKICAgICAgICAkanNvbiA9IGpzb25fZW5jb2RlKCR4bWwpOwogICAgICAgICRhcnJheSA9IGpzb25fZGVjb2RlKCRqc29uLFRSVUUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkaXRlbXMgPSAoYXJyYXkpJHJlc3VsdC0+Ym9keS0+aXRlbXM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICI8cHJlPiI7CiAgICAgICAgcHJpbnRfcigkaXRlbXNbJ2l0ZW0nXSk7CiAgICAgICAgZWNobyAiPC9wcmU+IjsKICAgICAgICBkaWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gc2ltcGxleG1sX2xvYWRfc3RyaW5nKCR4bWwpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gc2ltcGxleG1sX2xvYWRfc3RyaW5nKCRjb250ZW50KTsKICAgICAgICAkanNvbiA9IGpzb25fZW5jb2RlKCR4bWwpOwogICAgICAgICRhcnJheSA9IGpzb25fZGVjb2RlKCRqc29uLFRSVUUpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBlY2hvICI8cHJlPiI7CiAgICAgICAgcHJpbnRfcigkaXRlbXNbJ2l0ZW0nXSk7CiAgICAgICAgZWNobyAiPC9wcmU+IjsKICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICI8cHJlPiI7CiAgICAgICAgcHJpbnRfcigkaXRlbXMpOwogICAgICAgIGVjaG8gIjxwcmU+IjsKICAgICAgICBkaWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiPHByZT4iOwogICAgICAgICAgICBwcmludF9yKCR2YWx1ZSk7CiAgICAgICAgICAgIGVjaG8gIjxwcmU+IjsKICAgICAgICAgICAgZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICI8cHJlPiI7CiAgICAgICAgcHJpbnRfcigkaXRlbXNbJ2l0ZW0nXSk7CiAgICAgICAgZWNobyAiPC9wcmU+IjsKICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBlY2hvICI8cHJlPiI7CiAgICAgICAgcHJpbnRfcigkaXRlbXMpOwogICAgICAgIGVjaG8gIjxwcmU+IjsKICAgICAgICBkaWUoKTsK</text>
@@ -1978,7 +1978,6 @@
         <entry>App</entry>
       </history-search>
       <history-cmd>
-        <entry>65</entry>
         <entry>30</entry>
         <entry>447</entry>
         <entry>xa</entry>
@@ -1997,6 +1996,7 @@
         <entry>x</entry>
         <entry>73</entry>
         <entry>55</entry>
+        <entry>10</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
