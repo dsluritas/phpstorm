@@ -125,12 +125,12 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" timestamp="1497588028829">
-        <mark key="'" line="483" column="47" />
-        <mark key="[" line="508" column="8" />
-        <mark key="]" line="508" column="9" />
-        <mark key="." line="508" column="9" />
-        <mark key="^" line="508" column="9" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" timestamp="1497594308075">
+        <mark key="'" line="777" column="35" />
+        <mark key="[" line="784" column="13" />
+        <mark key="]" line="784" column="13" />
+        <mark key="." line="784" column="13" />
+        <mark key="^" line="779" column="34" />
       </file>
       <file name="$USER_HOME$/git/ptp/test-share/routes/web.php" timestamp="1495098431784">
         <mark key="'" line="69" column="14" />
@@ -213,7 +213,7 @@
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497583156007">
+      <file name="/Dummy.txt" timestamp="1497590693713">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/building-info/src/class/Building.php" timestamp="1497518676001">
@@ -259,31 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="703" column="20" filename="$USER_HOME$/git/ptp/peterWEB/public/js/map_filter.js" />
-      <jump line="722" column="43" filename="$USER_HOME$/git/ptp/peterWEB/public/js/map_filter.js" />
-      <jump line="723" column="19" filename="$USER_HOME$/git/ptp/peterWEB/public/js/map_filter.js" />
-      <jump line="330" column="8" filename="$USER_HOME$/git/ptp/peterWEB/public/js/map_filter.js" />
-      <jump line="1262" column="30" filename="$USER_HOME$/git/ptp/peterWEB/public/js/map.js" />
-      <jump line="1241" column="11" filename="$USER_HOME$/git/ptp/peterWEB/public/js/map.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/git/ptp/wordpress/wp-config.php" />
-      <jump line="24" column="8" filename="$USER_HOME$/git/ptp/wordpress/wp-config.php" />
-      <jump line="654" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
-      <jump line="1441" column="25" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
-      <jump line="1438" column="22" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
-      <jump line="418" column="20" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
-      <jump line="16" column="13" filename="$USER_HOME$/git/ptp/building-info/src/class/OpenAPI.php" />
-      <jump line="18" column="30" filename="$USER_HOME$/git/ptp/building-info/src/class/OpenAPI.php" />
-      <jump line="47" column="22" filename="$USER_HOME$/git/ptp/building-info/src/class/OpenAPI.php" />
-      <jump line="11" column="15" filename="$USER_HOME$/git/ptp/building-info/src/class/OpenAPI.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/git/ptp/building-info/src/class/OpenAPI.php" />
-      <jump line="24" column="0" filename="$USER_HOME$/git/ptp/building-info/src/class/OpenAPI.php" />
-      <jump line="22" column="15" filename="$USER_HOME$/git/ptp/building-info/src/class/OpenAPI.php" />
-      <jump line="50" column="0" filename="$USER_HOME$/git/ptp/building-info/src/class/OpenAPI.php" />
-      <jump line="13" column="0" filename="$USER_HOME$/git/ptp/building-info/src/class/OpenAPI.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/MapViewController.php" />
-      <jump line="88" column="44" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/MapViewController.php" />
-      <jump line="163" column="44" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/MapViewController.php" />
-      <jump line="198" column="44" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/MapViewController.php" />
       <jump line="247" column="44" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/MapViewController.php" />
       <jump line="1116" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/MapViewController.php" />
       <jump line="1183" column="22" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/MapViewController.php" />
@@ -356,9 +331,34 @@
       <jump line="473" column="8" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
       <jump line="466" column="24" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
       <jump line="465" column="36" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
-      <jump line="484" column="47" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
       <jump line="23" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
       <jump line="93" column="48" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="456" column="8" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="459" column="35" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="469" column="97" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="475" column="129" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="478" column="43" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="479" column="43" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="483" column="21" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="484" column="70" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="485" column="19" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="507" column="18" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="537" column="21" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="498" column="26" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="585" column="23" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="616" column="23" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="685" column="55" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="775" column="49" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="612" column="46" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="757" column="23" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="772" column="27" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="536" column="34" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="586" column="23" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="617" column="23" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="686" column="55" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="776" column="49" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="778" column="35" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
+      <jump line="777" column="35" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -383,7 +383,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>print_r</text>
+        <text encoding="base64">IGVsc2VpZihpbl9hcnJheSgn7IOB6rCAJywgJGJ1aWxkaW5nX3R5cGUpKSB7</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -1919,49 +1919,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>print_r</text>
+        <text encoding="base64">IGVsc2VpZihpbl9hcnJheSgn7IOB6rCAJywgJGJ1aWxkaW5nX3R5cGUpKSB7</text>
       </register>
       <register name="/" type="4">
-        <text>getMapData</text>
+        <text>building_type</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGItPmdldEJpbmRpbmdzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFycmF5X3B1c2goJGJ1aWxkaW5nX3R5cGUsICfruYzrnbwv7KO87YOdJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGItPmdldEJpbmRpbmdzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFycmF5X3B1c2goJGJ1aWxkaW5nX3R5cGUsICfruYzrnbwv7KO87YOdJyk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRkYi0+dG9TcWwoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcS0+YnVpbGRpbmdfdHlwZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGJ1aWxkaW5nX3R5cGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnkgPSBzcHJpbnRmKHN0cl9yZXBsYWNlKCc/JywgJ1wnJXNcJycsICRkYi0+dG9TcWwoKSksICRkYi0+Z2V0QmluZGlucygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJyYXlfcHVzaCgkYnVpbGRpbmdfdHlwZSwgc3RyX3JlcGxhY2UoJ1wnJywgJycsICRyZXEtPmJ1aWxkaW5nX3R5cGUpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnkgPSBzcHJpbnRmKHN0cl9yZXBsYWNlKCc/JywgJ1wnJXNcJycsICRkYi0+dG9TcWwoKSksICRkYi0+Z2V0QmluZGlucygpKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">X3R5cGUpOwogICAgICAgICAgICAkYnVpbGRpbmdfdHlwZSA9IGV4cGxvZGUoJywnLCBzdHJfcmVwbGFjZSgnXCcnLCAnJywgJHJlcS0+YnVpbGRpbmdfdHlwZSkpOwogICAgICAgICAgICBhcnJheV9wdXNoKCRidWlsZGluZ190eXBlLCBzdHJfcmVwbGFjZSgnXCcnLCAnJywgJHJlcS0+YnVpbGRpbmdfdHlwZSkpOwogICAgICAgICAgICBkZCgkYnVpbGRpbmdfdHlwZSk7CiAgICAgICAgICAgICRkYiA9ICRkYi0+d2hlcmVJbignaFNhbGUuYnVpbGRpbmdfdHlwZScsICRidWlsZGluZ190eXBlKTsKICAgICAgICB9CgogICAgICAgIGlmICggJHJlcS0+cGFya2luZyA9PSA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGItPik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcS0+YnVpbGRpbmdfdHlwZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGJ1aWxkaW5nX3R5cGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHR5cGUgPSBzdHJfcmVwbGFjZSgnXCcnLCAnJywgJHR5cGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getMapData</last-search>
+      <last-search>building_type</last-search>
       <last-offset />
-      <last-pattern>getMapData</last-pattern>
+      <last-pattern>building_type</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>App</last-substitute>
       <last-dir>1</last-dir>
@@ -1969,11 +1969,6 @@
     </search>
     <history>
       <history-search>
-        <entry>regist</entry>
-        <entry>st</entry>
-        <entry>서버오류</entry>
-        <entry>id=&quot;regist</entry>
-        <entry>id='regist</entry>
         <entry encoding="base64">XDxyZWdpc3RIb3VzZUZvcm1cPg==</entry>
         <entry>서버</entry>
         <entry>hoop</entry>
@@ -1989,6 +1984,11 @@
         <entry>dd($db</entry>
         <entry>usr</entry>
         <entry>getMapData</entry>
+        <entry>빌딩</entry>
+        <entry>빌라</entry>
+        <entry>in</entry>
+        <entry>whereIn</entry>
+        <entry>building_type</entry>
       </history-search>
       <history-cmd>
         <entry>30</entry>
