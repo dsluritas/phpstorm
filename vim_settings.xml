@@ -431,7 +431,7 @@
         <mark key="." line="715" column="0" />
         <mark key="^" line="715" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497605165818">
+      <file name="/Dummy.txt" timestamp="1497606386546">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/building-info/src/class/Building.php" timestamp="1497518676001">
@@ -467,11 +467,11 @@
         <mark key="." line="30" column="45" />
       </file>
       <file name="$USER_HOME$/git/ptp/wordpress/wp-admin/includes/class-walker-category-checklist.php" timestamp="1497443155919" />
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/common/header.blade.php" timestamp="1497605205109">
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/common/header.blade.php" timestamp="1497606380551">
         <mark key="'" line="98" column="28" />
-        <mark key="[" line="190" column="42" />
-        <mark key="]" line="191" column="29" />
-        <mark key="." line="191" column="29" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
         <mark key="^" line="191" column="29" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/schedule.php" timestamp="1496665419717">
@@ -624,7 +624,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJzExJyk7Cg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -2169,31 +2169,31 @@
         <text encoding="base64">ICAgICAgICBlY2hvICI8cHJlPiI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJzExJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICI8cHJlPiI7CiAgICAgICAgcHJpbnRfcigkZGItPnRvU3FsKCkpOwogICAgICAgIHByaW50X3IoJGRiLT5nZXRCaW5kaW5ncygpKTsKICAgICAgICBlY2hvICI8L3ByZT4iOwogICAgICAgIGRkKCdieWUnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICI8cHJlPiI7CiAgICAgICAgcHJpbnRfcigkZGItPnRvU3FsKCkpOwogICAgICAgIHByaW50X3IoJGRiLT5nZXRCaW5kaW5ncygpKTsKICAgICAgICBlY2hvICI8L3ByZT4iOwogICAgICAgIGRkKCdieWUnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGItPnRvU3FsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnkpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZGItPnRvU3FsKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnkpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnkgPSBEQjo6Z2V0UXVlcnlMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEQjo6ZW5hYmxlUXVlcnlMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcXVlcnkgPSBEQjo6Z2V0UXVlcnlMb2coKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
