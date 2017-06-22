@@ -540,6 +540,9 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="39" column="65" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/UserController.php" timestamp="1498118646786">
+        <mark key="'" line="35" column="26" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INICls.php" timestamp="1498029202175">
         <mark key="'" line="94" column="0" />
       </file>
@@ -552,7 +555,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="417" column="75" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/paymentPopup.blade.php" />
       <jump line="388" column="32" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" />
       <jump line="404" column="38" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" />
       <jump line="328" column="6" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" />
@@ -652,6 +654,7 @@
       <jump line="426" column="14" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="49" column="20" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
       <jump line="1" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Auth/AuthController.php" />
+      <jump line="35" column="26" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/UserController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2220,7 +2223,7 @@
         <text encoding="base64">JHJlc3VsdC0+</text>
       </register>
       <register name="/" type="4">
-        <text>postLogin</text>
+        <text>profileUp</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">VXNlcjo6d2hlcmUoJ3VzZXJfaWQnLCAnPScsICRyZXF1ZXN0LT5lbWFpbCk=</text>
@@ -2257,9 +2260,9 @@
       </register>
     </registers>
     <search>
-      <last-search>postLogin</last-search>
+      <last-search>profileUp</last-search>
       <last-offset />
-      <last-pattern>postLogin</last-pattern>
+      <last-pattern>profileUp</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2267,7 +2270,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQYXltZW50Q29udHJvbGxlclw+</entry>
         <entry>biz</entry>
         <entry>bizlink</entry>
         <entry>safe</entry>
@@ -2287,6 +2289,7 @@
         <entry encoding="base64">XDxwcm9kdWN0X25hbWVcPg==</entry>
         <entry>v1</entry>
         <entry>postLogin</entry>
+        <entry>profileUp</entry>
       </history-search>
       <history-cmd>
         <entry>41</entry>
