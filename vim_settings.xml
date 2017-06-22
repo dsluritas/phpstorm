@@ -30,12 +30,6 @@
       <file name="/a.dummy" timestamp="1497515215693">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/building-info/composer.json" timestamp="1497524970634">
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="30" />
-        <mark key="^" line="10" column="30" />
-        <mark key="." line="10" column="30" />
-      </file>
       <file name="$USER_HOME$/git/snsl.dev/view/index.php" timestamp="1495730656720">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -101,9 +95,6 @@
         <mark key="^" line="62" column="44" />
         <mark key="." line="62" column="44" />
       </file>
-      <file name="$USER_HOME$/git/ptp/inicis/sample/text.text" timestamp="1498014666859">
-        <mark key="[" line="706" column="0" />
-      </file>
       <file name="$USER_HOME$/git/snsl.dev/view/wp-content/advanced-cache.php" timestamp="1495731248812">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -131,17 +122,18 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/User.php" timestamp="1498094975308" />
       <file name="$USER_HOME$/git/ptp/peterWEB/public/js/common.js" timestamp="1497873010578">
         <mark key="[" line="217" column="58" />
         <mark key="]" line="218" column="30" />
         <mark key="^" line="218" column="30" />
         <mark key="." line="218" column="30" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/database/migrations/2017_06_22_101357_create_inicis_logs_table.php" timestamp="1498094362733">
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="16" column="34" />
-        <mark key="^" line="16" column="36" />
-        <mark key="." line="16" column="34" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/database/migrations/2017_06_22_101357_create_inicis_logs_table.php" timestamp="1498095072696">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="26" />
+        <mark key="^" line="17" column="26" />
+        <mark key="." line="17" column="26" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" timestamp="1498034310024">
         <mark key="'" line="22" column="12" />
@@ -404,6 +396,7 @@
         <mark key="^" line="234" column="10" />
         <mark key="." line="234" column="10" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/database/migrations/2017_01_11_133007_create_payment_table.php" timestamp="1498095113544" />
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/option.php" timestamp="1495737032135">
         <mark key="'" line="116" column="57" />
         <mark key="[" line="90" column="0" />
@@ -477,12 +470,6 @@
         <mark key="]" line="276" column="0" />
         <mark key="." line="276" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/building-info/index.php" timestamp="1497527943374">
-        <mark key="[" line="9" column="44" />
-        <mark key="]" line="12" column="13" />
-        <mark key="^" line="12" column="13" />
-        <mark key="." line="12" column="13" />
-      </file>
       <file name="$USER_HOME$/developements/laravel-web/markdown/composer.json" timestamp="1496686808598">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="23" column="10" />
@@ -531,14 +518,8 @@
         <mark key="." line="715" column="0" />
         <mark key="^" line="715" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498093451064">
+      <file name="/Dummy.txt" timestamp="1498095104546">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/building-info/src/class/Building.php" timestamp="1497518676001">
-        <mark key="[" line="31" column="23" />
-        <mark key="]" line="31" column="25" />
-        <mark key="^" line="31" column="25" />
-        <mark key="." line="31" column="25" />
       </file>
       <file name="$USER_HOME$/git/ptp/inicis/libs/INILib.php" timestamp="1497945728002">
         <mark key="'" line="181" column="27" />
@@ -563,12 +544,6 @@
         <mark key="^" line="26" column="64" />
         <mark key="." line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/git/ptp/building-info/class/building.php" timestamp="1497319967950">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/developements/git/myapp/app/User.php" timestamp="1496464198882">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="27" column="6" />
@@ -584,12 +559,7 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/git/ptp/inicis/sample/INIStdPayReturn.php" timestamp="1497947103730">
-        <mark key="[" line="45" column="63" />
-        <mark key="]" line="45" column="62" />
-        <mark key="." line="45" column="62" />
-        <mark key="^" line="45" column="62" />
-      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/InicisLog.php" timestamp="1498094840972" />
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/common/header.blade.php" timestamp="1497864485677">
         <mark key="'" line="211" column="0" />
         <mark key="[" line="228" column="9" />
@@ -755,7 +725,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>int</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -2291,7 +2261,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>paymentsPo</text>
