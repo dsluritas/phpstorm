@@ -3,9 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" timestamp="1498094099475">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="21" column="32" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" timestamp="1498100076222">
+        <mark key="'" line="54" column="17" />
+        <mark key="[" line="347" column="28" />
         <mark key="]" line="22" column="17" />
         <mark key="." line="22" column="17" />
         <mark key="^" line="22" column="17" />
@@ -55,10 +55,11 @@
         <mark key="." line="30" column="30" />
         <mark key="^" line="30" column="30" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/database/migrations/2017_06_22_105624_create_payment_logs_table.php" timestamp="1498096596990">
-        <mark key="[" line="15" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/database/migrations/2017_06_22_105624_create_payment_logs_table.php" timestamp="1498099845739">
+        <mark key="[" line="23" column="28" />
         <mark key="]" line="23" column="33" />
-        <mark key="." line="15" column="0" />
+        <mark key="." line="23" column="33" />
+        <mark key="^" line="23" column="33" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/nav-menu.php" timestamp="1496145514115">
         <mark key="[" line="172" column="0" />
@@ -132,10 +133,10 @@
         <mark key="]" line="20" column="34" />
         <mark key="." line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/PaymentLog.php" timestamp="1498098279231">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/PaymentLog.php" timestamp="1498099654726">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/developements/laravel-web/myapp/routes/web.php" timestamp="1497065995789">
         <mark key="[" line="14" column="0" />
@@ -642,8 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="14" filename="$USER_HOME$/git/ptp/inicis/sample/INIStdPayRequest.php" />
-      <jump line="343" column="53" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/paymentPopup.blade.php" />
       <jump line="17" column="13" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/paymentPopup.blade.php" />
       <jump line="410" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/paymentPopup.blade.php" />
       <jump line="166" column="0" filename="$USER_HOME$/git/ptp/inicis/sample/INIStdPayRequest.php" />
@@ -742,6 +741,8 @@
       <jump line="23" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" />
       <jump line="28" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
       <jump line="13" column="21" filename="$USER_HOME$/git/ptp/peterWEB/app/Payment.php" />
+      <jump line="337" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" />
+      <jump line="54" column="17" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -770,8 +771,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vCgogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KGFycmF5ICRhdHRyaWJ1dGVzID0gW10pCiAgICB7CiAgICAgICAgcGFyZW50OjpfX2NvbnN0cnVjdCgkYXR0cmlidXRlcyk7CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>InicisLog</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -2307,49 +2308,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>InicisLog</text>
       </register>
       <register name="/" type="4">
-        <text>paymentsPo</text>
+        <text>pop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmJlbG9uZ3NUbygnQXBwXFVzZXInLCAndWlkeCcsICd1aWR4Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdwcmljZScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vCgogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KGFycmF5ICRhdHRyaWJ1dGVzID0gW10pCiAgICB7CiAgICAgICAgcGFyZW50OjpfX2NvbnN0cnVjdCgkYXR0cmlidXRlcyk7CiAgICB9Cg==</text>
+        <text encoding="base64">dXNlciBBcHAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aWR4Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRDb21wYW55KEluaWNpcyAkaW5pY2lzKQogICAgewoKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8vCgogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KGFycmF5ICRhdHRyaWJ1dGVzID0gW10pCiAgICB7CiAgICAgICAgcGFyZW50OjpfX2NvbnN0cnVjdCgkYXR0cmlidXRlcyk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YmVsb25nc1RvKCdBcHBcVXNlcicpCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+aWR4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChhcnJheSAkYXR0cmlidXRlcyA9IFtdKQogICAgewogICAgICAgIHBhcmVudDo6X19jb25zdHJ1Y3QoJGF0dHJpYnV0ZXMpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZCcpOwogICAgICAgICAgICAkdGFibGUtPnRpbWVzdGFtcHMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YmVsb25nc1RvKCdBcHBcVXNlcicpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5lbnVtKCdzdGF0dXMnLCBbJ2NyZWF0ZScsJ2luX3Byb2dyZXNzJywgJ2RvbmUnXSktPmNvbW1lbnQoJ2NyZWF0ZTrqsrDsoJztjpjsnbTsp4DsoJHsho0vaW5fcHJvZ3Jlc3M66rKw7KCc67KE7Yq87YG066atL2RvbmU66rKw7KCc7JmE66OMJyk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChhcnJheSAkYXR0cmlidXRlcyA9IFtdKQogICAgewogICAgICAgIHBhcmVudDo6X19jb25zdHJ1Y3QoJGF0dHJpYnV0ZXMpOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdoaWR4JyktPmRlZmF1bHQoJzAnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZCcpOwogICAgICAgICAgICAkdGFibGUtPnRpbWVzdGFtcHMoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5lbnVtKCdzdGF0dXMnLCBbJ2NyZWF0ZScsJ2luX3Byb2dyZXNzJywgJ2RvbmUnXSktPmNvbW1lbnQoJ2NyZWF0ZTrqsrDsoJztjpjsnbTsp4DsoJHsho0vaW5fcHJvZ3Jlc3M66rKw7KCc67KE7Yq87YG066atL2RvbmU66rKw7KCc7JmE66OMJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
       </register>
     </registers>
     <search>
-      <last-search>paymentsPo</last-search>
+      <last-search>pop</last-search>
       <last-offset />
-      <last-pattern>paymentsPo</last-pattern>
+      <last-pattern>pop</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2357,7 +2358,6 @@
     </search>
     <history>
       <history-search>
-        <entry>form</entry>
         <entry>signature</entry>
         <entry>timestamp</entry>
         <entry>Card</entry>
@@ -2377,6 +2377,7 @@
         <entry encoding="base64">XDxjYXJkUXVvdGFCYXNlXD4=</entry>
         <entry>buye</entry>
         <entry>paymentsPo</entry>
+        <entry>pop</entry>
       </history-search>
       <history-cmd>
         <entry>xa</entry>
