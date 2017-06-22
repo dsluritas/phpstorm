@@ -10,12 +10,12 @@
         <mark key="." line="695" column="7" />
         <mark key="^" line="695" column="7" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" timestamp="1498125207815">
-        <mark key="'" line="102" column="13" />
-        <mark key="[" line="160" column="39" />
-        <mark key="]" line="160" column="38" />
-        <mark key="." line="160" column="38" />
-        <mark key="^" line="160" column="38" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" timestamp="1498128533092">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="143" column="85" />
+        <mark key="]" line="143" column="85" />
+        <mark key="." line="143" column="85" />
+        <mark key="^" line="143" column="85" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/class-wp-query.php" timestamp="1494738129808">
         <mark key="'" line="4115" column="4" />
@@ -134,12 +134,12 @@
         <mark key="." line="10" column="13" />
         <mark key="^" line="10" column="2" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" timestamp="1498124064919">
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" timestamp="1498128366899">
         <mark key="'" line="102" column="0" />
-        <mark key="[" line="128" column="4" />
-        <mark key="]" line="128" column="17" />
-        <mark key="." line="128" column="17" />
-        <mark key="^" line="128" column="17" />
+        <mark key="[" line="104" column="47" />
+        <mark key="]" line="104" column="57" />
+        <mark key="." line="104" column="57" />
+        <mark key="^" line="104" column="57" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/INIStdPaySample/INIStdPayRequest.php" timestamp="1498026192970">
         <mark key="'" line="67" column="13" />
@@ -442,6 +442,7 @@
         <mark key="^" line="23" column="9" />
         <mark key="." line="23" column="10" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/HttpClient.php" timestamp="1498128507975" />
       <file name="/PHP Console" timestamp="1496143415664">
         <mark key="[" line="0" column="0" />
       </file>
@@ -473,7 +474,7 @@
         <mark key="." line="715" column="0" />
         <mark key="^" line="715" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498125034893">
+      <file name="/Dummy.txt" timestamp="1498127814705">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/building-info/src/class/Building.php" timestamp="1497518676001">
@@ -553,17 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="715" column="70" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="720" column="71" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="713" column="4" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="321" column="17" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="324" column="17" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="309" column="16" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="312" column="16" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="315" column="16" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="318" column="17" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="100" column="36" filename="$USER_HOME$/git/ptp/inicis/sample/INIStdPayRequest.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/git/ptp/inicis/sample/INIStdPayRequest.php" />
       <jump line="44" column="0" filename="$USER_HOME$/git/ptp/inicis/sample/INIStdPayRequest.php" />
       <jump line="14" column="35" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INICls.php" />
       <jump line="175" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INICls.php" />
@@ -639,9 +629,7 @@
       <jump line="136" column="17" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="125" column="17" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="108" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
-      <jump line="117" column="36" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="40" column="9" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
-      <jump line="51" column="42" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="152" column="17" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="153" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="144" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
@@ -653,6 +641,19 @@
       <jump line="94" column="28" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="102" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="31" column="70" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/request.blade.php" />
+      <jump line="170" column="17" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
+      <jump line="171" column="22" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
+      <jump line="82" column="46" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
+      <jump line="117" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
+      <jump line="51" column="9" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
+      <jump line="138" column="32" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
+      <jump line="111" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
+      <jump line="97" column="43" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
+      <jump line="43" column="9" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
+      <jump line="54" column="28" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
+      <jump line="77" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
+      <jump line="95" column="9" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -681,8 +682,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3BvbnNlLT5nZXRTdGF0dXNDb2RlKCkpOwo=</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -2218,49 +2219,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text encoding="base64">LT5nZXRIZWFkZXIoKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>result</text>
+        <text encoding="base64">XDxvcmRlck51bWJlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">e3sgdmFyX2R1bXAoJGRhdGEpIH19Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3BvbnNlLT5nZXRTdGF0dXNDb2RlKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwhLS0g7J2064uI7Iuc7IqkIO2RnOykgOqysOygnCBqcyAtLT4KICAgIDxzY3JpcHQgbGFuZ3VhZ2U9ImphdmFzY3JpcHQiIHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJodHRwczovL3N0Z3N0ZHBheS5pbmljaXMuY29tL3N0ZGpzL0lOSVN0ZFBheS5qcyIgY2hhcnNldD0iVVRGLTgiPjwvc2NyaXB0PgogICAgPCEtLSA8c2NyaXB0IGxhbmd1YWdlPSJqYXZhc2NyaXB0IiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cHM6Ly9zdGRwYXkuaW5pY2lzLmNvbS9zdGRqcy9JTklTdGRQYXkuanMiIGNoYXJzZXQ9IlVURi04Ij48L3NjcmlwdD4gLS0+CgogICAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgogICAgICAgIGZ1bmN0aW9uIHBheSgpIHsKICAgICAgICAgICAgSU5JU3RkUGF5LnBheSgnU2VuZFBheUZvcm1faWQnKTsKICAgICAgICB9CiAgICA8L3NjcmlwdD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHRhYmxlPgogICAgPHRyPgogICAgICAgIDx0ZCBzdHlsZT0idGV4dC1hbGlnbjpsZWZ0OyI+CgogICAgICAgICAgICA8IS0tIGluaWNpcyDtlYTsiJggLS0+CiAgICAgICAgPC90ZD4KICAgIDwvdHI+CjwvdGFibGU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiBvbmNsaWNrPSJwYXkoKSIgc3R5bGU9InBhZGRpbmc6MTBweCI+6rKw7KCc7JqU7LKtPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoZ2V0X2RlZmluZWRfdmFycygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGZvcm0gaWQ9IlNlbmRQYXlGb3JtX2lkIiBuYW1lPSIiIG1ldGhvZD0iUE9TVCI+CgogICAgICAgICAgICAgICAgPGJyLz48Yj4qKioqKiDtlYQg7IiYICoqKioqPC9iPgogICAgICAgICAgICAgICAgPGRpdiBzdHlsZT0iYm9yZGVyOjJweCAjZGRkZGRkIGRvdWJsZTtwYWRkaW5nOjEwcHg7YmFja2dyb3VuZC1jb2xvcjojZjNmM2YzOyI+CiAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0idmVyc2lvbiIgdmFsdWU9IjEuMCI+CiAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0ibWlkIiB2YWx1ZT0ie3sgJG1pZCB9fSI+CiAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0iZ29vZG5hbWUiIHZhbHVlPSJ7eyAkZ29vZG5hbWUgfX0iPgogICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9Im9pZCIgdmFsdWU9Int7ICRvcmRlck51bWJlciB9fSI+CiAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0icHJpY2UiIHZhbHVlPSJ7eyAkcHJpY2UgfX0iPgogICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9ImN1cnJlbmN5IiB2YWx1ZT0ie3sgJGN1cnJlbmN5IH19Ij4KICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJidXllcm5hbWUiIHZhbHVlPSJ7eyAkYnV5ZXJuYW1lIH19Ij4KICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJidXllcnRlbCIgdmFsdWU9Int7ICRidXllcnRlbCB9fSI+CiAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0idGltZXN0YW1wIiB2YWx1ZT0ie3sgJHRpbWVzdGFtcCB9fSI+CiAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgdHlwZT0iaGlkZGVuIiBuYW1lPSJzaWduYXR1cmUiIHZhbHVlPSJ7eyAkc2lnbiB9fSI+CiAgICAgICAgICAgICAgICAgICAgPGlucHV0IG5hbWU9InJldHVyblVybCIgdmFsdWU9Int7ICRzaXRlRG9tYWluIH19L3JldHVybiI+CiAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0ibUtleSIgdmFsdWU9Int7ICRtS2V5IH19Ij4KCiAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0iZ29wYXltZXRob2QiIHZhbHVlPSIiPgogICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9ImFjY2VwdG1ldGhvZCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9IkhQUCgxKTpub19yZWNlaXB0OnZhX3JlY2VpcHQ6dmJhbmtub3JlZygwKTpiZWxvdzEwMDAiPgogICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9Im5vaW50ZXJlc3QiCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPSI8P3BocCBlY2hvICRjYXJkTm9JbnRlcmVzdFF1b3RhID8+Ij4KICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJxdW90YWJhc2UiIHZhbHVlPSI8P3BocCBlY2hvICRjYXJkUXVvdGFCYXNlID8+Ij4KICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJtZXJjaGFudERhdGEiIHZhbHVlPSIiPgogICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9InZiYW5rUmVnTm8iIHZhbHVlPSIiPgogICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9ImNsb3NlVXJsIiB2YWx1ZT0iPD9waHAgZWNobyAkc2l0ZURvbWFpbiA/Pi9jbG9zZS5waHAiPgogICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9InBvcHVwVXJsIiB2YWx1ZT0iPD9waHAgZWNobyAkc2l0ZURvbWFpbiA/Pi9wb3B1cC5waHAiPgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8L2Zvcm0+Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3BvbnNlLT5nZXRCb2R5KCktPmdldENvbnRlbnRzKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRwYXltZW50UmVzdWx0ID0gJ+yEseqztSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJHJlc3VsdE1zZzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHRNc2cgPSAkcmVxdWVzdC0+cmVzdWx0TXNnOyAgICAgLy8g6rKw6rO86rCSCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCgiMDAwMCIgPT0gJHJlc3VsdE1hcFsicmVzdWx0Q29kZSJdKSAmJiAoJHNlY3VyZVNpZ25hdHVyZSA9PSAkcmVzdWx0TWFwWyJhdXRoU2lnbmF0dXJlIl0pKSB7ICAgIC8v6rKw7KCc67O07JWIIOy2lOqwgCAyMDE2LTA1LTE4CgogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgLy8jIyMjIyMjIyMjIyMjCiAgICAgICAgICAgICAgICAvLyDsnbjspp0g7Iuk7Yyo7IucCiAgICAgICAgICAgICAgICAvLyMjIyMjIyMjIyMjIyMKICAgICAgICAgICAgICAgIGVjaG8gIjxici8+IjsKICAgICAgICAgICAgICAgIGVjaG8gIiMjIyPsnbjspp3si6TtjKgjIyMjIjsKICAgICAgICAgICAgICAgICRyZXN1bHRNc2cgPSAkcmVxdWVzdC0+cmVzdWx0TXNnOyAgICAgLy8g6rKw6rO86rCSCiAgICAgICAgICAgICAgICBlY2hvICRyZXN1bHRNc2c7CiAgICAgICAgICAgICAgICBkZCgkcmVxdWVzdCk7CgogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWcoJHJlc3VsdE1hcCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcXVlc3QpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
       </register>
     </registers>
     <search>
-      <last-search>result</last-search>
+      <last-search encoding="base64">XDxvcmRlck51bWJlclw+</last-search>
       <last-offset />
-      <last-pattern>result</last-pattern>
+      <last-pattern encoding="base64">XDxvcmRlck51bWJlclw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2268,11 +2269,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sign</entry>
-        <entry encoding="base64">XDxzaWduXD4=</entry>
-        <entry encoding="base64">XDxjYXJkTm9JbnRlcmVzdFF1b3RhXD4=</entry>
-        <entry encoding="base64">XDxjYXJkUXVvdGFCYXNlXD4=</entry>
-        <entry>buye</entry>
         <entry>paymentsPo</entry>
         <entry>pop</entry>
         <entry encoding="base64">XDxwcm9kdWN0XD4=</entry>
@@ -2288,6 +2284,11 @@
         <entry encoding="base64">XDx0aW1lc3RhbXBcPg==</entry>
         <entry encoding="base64">XDxzaWduS2V5XD4=</entry>
         <entry>result</entry>
+        <entry>성공</entry>
+        <entry encoding="base64">XDxyZXN1bHRNc2dcPg==</entry>
+        <entry encoding="base64">XDxtS2V5XD4=</entry>
+        <entry encoding="base64">XDxmb3JtYXRcPg==</entry>
+        <entry encoding="base64">XDxvcmRlck51bWJlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>41</entry>
