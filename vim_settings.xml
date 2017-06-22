@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" timestamp="1498110220989">
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" timestamp="1498114615386">
         <mark key="'" line="353" column="18" />
         <mark key="[" line="362" column="0" />
         <mark key="]" line="362" column="0" />
@@ -239,6 +239,12 @@
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" timestamp="1497517367967">
         <mark key="'" line="1438" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Auth/AuthController.php" timestamp="1498115014764">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/test-share/resources/views/oauth.blade.php" timestamp="1495098386520">
         <mark key="'" line="1" column="5" />
@@ -508,14 +514,6 @@
         <mark key="^" line="30" column="45" />
         <mark key="." line="30" column="45" />
       </file>
-      <file name="$USER_HOME$/git/ptp/inicis/sample/INIStdPayRequest.php" timestamp="1498028462335">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="m" line="4" column="0" />
-        <mark key="]" line="2" column="37" />
-        <mark key="." line="18" column="1" />
-        <mark key="^" line="18" column="1" />
-      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/InicisLog.php" timestamp="1498096306130">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="10" column="10" />
@@ -554,7 +552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="405" column="76" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/paymentPopup.blade.php" />
       <jump line="417" column="75" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/paymentPopup.blade.php" />
       <jump line="388" column="32" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" />
       <jump line="404" column="38" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" />
@@ -654,6 +651,7 @@
       <jump line="487" column="6" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="426" column="14" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="49" column="20" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Auth/AuthController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -682,8 +680,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGV4dGVuZHMgUGF5R2F0ZQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoVXNlcjo6d2hlcmUoJ3VzZXJfaWQnLCAnPScsICRyZXF1ZXN0LT5lbWFpbCktPnRvU3FsKCkpOwo=</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -2219,49 +2217,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGV4dGVuZHMgUGF5R2F0ZQ==</text>
+        <text encoding="base64">JHJlc3VsdC0+</text>
       </register>
       <register name="/" type="4">
-        <text>v1</text>
+        <text>postLogin</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdwcmljZScpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">VXNlcjo6d2hlcmUoJ3VzZXJfaWQnLCAnPScsICRyZXF1ZXN0LT5lbWFpbCk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoVXNlcjo6d2hlcmUoJ3VzZXJfaWQnLCAnPScsICRyZXF1ZXN0LT5lbWFpbCktPnRvU3FsKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9IFsKICAgICAgICBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcXVlc3QpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3ZlcnNpb24nICAgICAgICAgICAgID0+ICRpbmljaXMtPnZlcnNpb24sCiAgICAgICAgICAgICdtaWQnICAgICAgICAgICAgICAgICA9PiAkaW5pY2lzLT5taWQsCiAgICAgICAgICAgICdnb29kbmFtZScgICAgICAgICAgICA9PiAkaW5pY2lzLT5wcm9kdWN0TmFtZSwKICAgICAgICAgICAgJ3NpZ24nICAgICAgICAgICAgICAgID0+ICRpbmljaXMtPnNpZ25hdHVyZSwKICAgICAgICAgICAgJ3RpbWVzdGFtcCcgICAgICAgICAgID0+ICRpbmljaXMtPnRpbWVzdGFtcCwKICAgICAgICAgICAgJ29yZGVyTnVtYmVyJyAgICAgICAgID0+ICRpbmljaXMtPm9pZCwKICAgICAgICAgICAgJ3ByaWNlJyAgICAgICAgICAgICAgID0+ICRpbmljaXMtPnByaWNlLAogICAgICAgICAgICAnYnV5ZXJuYW1lJyAgICAgICAgICAgPT4gJGluaWNpcy0+YnV5ZXJuYW1lLAogICAgICAgICAgICAnYnV5ZXJ0ZWwnICAgICAgICAgICAgPT4gJGluaWNpcy0+YnV5ZXJ0ZWwsCiAgICAgICAgICAgICdjdXJyZW5jeScgICAgICAgICAgICA9PiAkaW5pY2lzLT5jdXJyZW5jeSwKICAgICAgICAgICAgJ21LZXknICAgICAgICAgICAgICAgID0+ICRpbmljaXMtPm1LZXksCiAgICAgICAgICAgICdzaXRlRG9tYWluJyAgICAgICAgICA9PiAkaW5pY2lzLT5yZXR1cm5VcmwsCiAgICAgICAgICAgICdjYXJkTm9JbnRlcmVzdFF1b3RhJyA9PiAkaW5pY2lzLT5jYXJkTm9JbnRlcmVzdFF1b3RhLAogICAgICAgICAgICAnY2FyZFF1b3RhQmFzZScgICAgICAgPT4gJGluaWNpcy0+Y2FyZFF1b3RhQmFzZSwKICAgICAgICAgICAgJ2J1eWVybmFtZScgICAgICAgICAgID0+ICRpbmljaXMtPmJ1eWVybmFtZSwKICAgICAgICAgICAgJ2J1eWVydGVsJyAgICAgICAgICAgID0+ICRpbmljaXMtPmJ1eWVydGVsLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3ZlcnNpb24nICAgICAgICAgICAgID0+ICRpbmljaXMtPnZlcnNpb24sCiAgICAgICAgICAgICdtaWQnICAgICAgICAgICAgICAgICA9PiAkaW5pY2lzLT5taWQsCiAgICAgICAgICAgICdnb29kbmFtZScgICAgICAgICAgICA9PiAkaW5pY2lzLT5wcm9kdWN0TmFtZSwKICAgICAgICAgICAgJ3NpZ24nICAgICAgICAgICAgICAgID0+ICRpbmljaXMtPnNpZ25hdHVyZSwKICAgICAgICAgICAgJ3RpbWVzdGFtcCcgICAgICAgICAgID0+ICRpbmljaXMtPnRpbWVzdGFtcCwKICAgICAgICAgICAgJ29yZGVyTnVtYmVyJyAgICAgICAgID0+ICRpbmljaXMtPm9pZCwKICAgICAgICAgICAgJ3ByaWNlJyAgICAgICAgICAgICAgID0+ICRpbmljaXMtPnByaWNlLAogICAgICAgICAgICAnYnV5ZXJuYW1lJyAgICAgICAgICAgPT4gJGluaWNpcy0+YnV5ZXJuYW1lLAogICAgICAgICAgICAnYnV5ZXJ0ZWwnICAgICAgICAgICAgPT4gJGluaWNpcy0+YnV5ZXJ0ZWwsCiAgICAgICAgICAgICdjdXJyZW5jeScgICAgICAgICAgICA9PiAkaW5pY2lzLT5jdXJyZW5jeSwKICAgICAgICAgICAgJ21LZXknICAgICAgICAgICAgICAgID0+ICRpbmljaXMtPm1LZXksCiAgICAgICAgICAgICdzaXRlRG9tYWluJyAgICAgICAgICA9PiAkaW5pY2lzLT5yZXR1cm5VcmwsCiAgICAgICAgICAgICdjYXJkTm9JbnRlcmVzdFF1b3RhJyA9PiAkaW5pY2lzLT5jYXJkTm9JbnRlcmVzdFF1b3RhLAogICAgICAgICAgICAnY2FyZFF1b3RhQmFzZScgICAgICAgPT4gJGluaWNpcy0+Y2FyZFF1b3RhQmFzZSwKICAgICAgICAgICAgJ2J1eWVybmFtZScgICAgICAgICAgID0+ICRpbmljaXMtPmJ1eWVybmFtZSwKICAgICAgICAgICAgJ2J1eWVydGVsJyAgICAgICAgICAgID0+ICRpbmljaXMtPmJ1eWVydGVsLAo=</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YSA9IFsKICAgICAgICBdOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbG9nKTsK</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9IFsKICAgICAgICAgICAgJ3ZlcnNpb24nICAgICAgICAgICAgID0+ICRpbmljaXMtPnZlcnNpb24sCiAgICAgICAgICAgICdtaWQnICAgICAgICAgICAgICAgICA9PiAkaW5pY2lzLT5taWQsCiAgICAgICAgICAgICdnb29kbmFtZScgICAgICAgICAgICA9PiAkaW5pY2lzLT5wcm9kdWN0TmFtZSwKICAgICAgICAgICAgJ3NpZ24nICAgICAgICAgICAgICAgID0+ICRpbmljaXMtPnNpZ25hdHVyZSwKICAgICAgICAgICAgJ3RpbWVzdGFtcCcgICAgICAgICAgID0+ICRpbmljaXMtPnRpbWVzdGFtcCwKICAgICAgICAgICAgJ29yZGVyTnVtYmVyJyAgICAgICAgID0+ICRpbmljaXMtPm9pZCwKICAgICAgICAgICAgJ3ByaWNlJyAgICAgICAgICAgICAgID0+ICRpbmljaXMtPnByaWNlLAogICAgICAgICAgICAnYnV5ZXJuYW1lJyAgICAgICAgICAgPT4gJGluaWNpcy0+YnV5ZXJuYW1lLAogICAgICAgICAgICAnYnV5ZXJ0ZWwnICAgICAgICAgICAgPT4gJGluaWNpcy0+YnV5ZXJ0ZWwsCiAgICAgICAgICAgICdjdXJyZW5jeScgICAgICAgICAgICA9PiAkaW5pY2lzLT5jdXJyZW5jeSwKICAgICAgICAgICAgJ21LZXknICAgICAgICAgICAgICAgID0+ICRpbmljaXMtPm1LZXksCiAgICAgICAgICAgICdzaXRlRG9tYWluJyAgICAgICAgICA9PiAkaW5pY2lzLT5yZXR1cm5VcmwsCiAgICAgICAgICAgICdjYXJkTm9JbnRlcmVzdFF1b3RhJyA9PiAkaW5pY2lzLT5jYXJkTm9JbnRlcmVzdFF1b3RhLAogICAgICAgICAgICAnY2FyZFF1b3RhQmFzZScgICAgICAgPT4gJGluaWNpcy0+Y2FyZFF1b3RhQmFzZSwKICAgICAgICAgICAgJ2J1eWVybmFtZScgICAgICAgICAgID0+ICRpbmljaXMtPmJ1eWVybmFtZSwKICAgICAgICAgICAgJ2J1eWVydGVsJyAgICAgICAgICAgID0+ICRpbmljaXMtPmJ1eWVydGVsLAogICAgICAgIF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbG9nLT51c2VyKCktPmdldCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3ZlcnNpb24nICAgICAgICAgICAgID0+ICRpbmljaXMtPnZlcnNpb24sCiAgICAgICAgICAgICdtaWQnICAgICAgICAgICAgICAgICA9PiAkaW5pY2lzLT5taWQsCiAgICAgICAgICAgICdnb29kbmFtZScgICAgICAgICAgICA9PiAkaW5pY2lzLT5wcm9kdWN0TmFtZSwKICAgICAgICAgICAgJ3NpZ24nICAgICAgICAgICAgICAgID0+ICRpbmljaXMtPnNpZ25hdHVyZSwKICAgICAgICAgICAgJ3RpbWVzdGFtcCcgICAgICAgICAgID0+ICRpbmljaXMtPnRpbWVzdGFtcCwKICAgICAgICAgICAgJ29yZGVyTnVtYmVyJyAgICAgICAgID0+ICRpbmljaXMtPm9pZCwKICAgICAgICAgICAgJ3ByaWNlJyAgICAgICAgICAgICAgID0+ICRpbmljaXMtPnByaWNlLAogICAgICAgICAgICAnYnV5ZXJuYW1lJyAgICAgICAgICAgPT4gJGluaWNpcy0+YnV5ZXJuYW1lLAogICAgICAgICAgICAnYnV5ZXJ0ZWwnICAgICAgICAgICAgPT4gJGluaWNpcy0+YnV5ZXJ0ZWwsCiAgICAgICAgICAgICdjdXJyZW5jeScgICAgICAgICAgICA9PiAkaW5pY2lzLT5jdXJyZW5jeSwKICAgICAgICAgICAgJ21LZXknICAgICAgICAgICAgICAgID0+ICRpbmljaXMtPm1LZXksCiAgICAgICAgICAgICdzaXRlRG9tYWluJyAgICAgICAgICA9PiAkaW5pY2lzLT5yZXR1cm5VcmwsCiAgICAgICAgICAgICdjYXJkTm9JbnRlcmVzdFF1b3RhJyA9PiAkaW5pY2lzLT5jYXJkTm9JbnRlcmVzdFF1b3RhLAogICAgICAgICAgICAnY2FyZFF1b3RhQmFzZScgICAgICAgPT4gJGluaWNpcy0+Y2FyZFF1b3RhQmFzZSwKICAgICAgICAgICAgJ2J1eWVybmFtZScgICAgICAgICAgID0+ICRpbmljaXMtPmJ1eWVybmFtZSwKICAgICAgICAgICAgJ2J1eWVydGVsJyAgICAgICAgICAgID0+ICRpbmljaXMtPmJ1eWVydGVsLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>17</text>
+        <text>92</text>
       </register>
     </registers>
     <search>
-      <last-search>v1</last-search>
+      <last-search>postLogin</last-search>
       <last-offset />
-      <last-pattern>v1</last-pattern>
+      <last-pattern>postLogin</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2269,7 +2267,6 @@
     </search>
     <history>
       <history-search>
-        <entry>이니시스</entry>
         <entry encoding="base64">XDxQYXltZW50Q29udHJvbGxlclw+</entry>
         <entry>biz</entry>
         <entry>bizlink</entry>
@@ -2289,9 +2286,9 @@
         <entry encoding="base64">XDxwcm9kdWN0XD4=</entry>
         <entry encoding="base64">XDxwcm9kdWN0X25hbWVcPg==</entry>
         <entry>v1</entry>
+        <entry>postLogin</entry>
       </history-search>
       <history-cmd>
-        <entry>xa</entry>
         <entry>41</entry>
         <entry>239</entry>
         <entry>288</entry>
@@ -2311,6 +2308,7 @@
         <entry>w</entry>
         <entry>594</entry>
         <entry>17</entry>
+        <entry>92</entry>
       </history-cmd>
       <history-expr />
       <history-input />
