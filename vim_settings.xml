@@ -3,20 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" timestamp="1498131130154">
-        <mark key="e" line="379" column="18" />
-        <mark key="'" line="495" column="0" />
-        <mark key="[" line="379" column="53" />
-        <mark key="]" line="379" column="57" />
-        <mark key="." line="379" column="57" />
-        <mark key="^" line="379" column="57" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" timestamp="1498179203433">
+        <mark key="e" line="374" column="18" />
+        <mark key="'" line="491" column="0" />
+        <mark key="[" line="349" column="44" />
+        <mark key="]" line="349" column="45" />
+        <mark key="." line="349" column="45" />
+        <mark key="^" line="349" column="50" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" timestamp="1498131175748">
-        <mark key="'" line="102" column="14" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="^" line="102" column="21" />
-        <mark key="." line="158" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" timestamp="1498179493410">
+        <mark key="'" line="174" column="37" />
+        <mark key="[" line="170" column="31" />
+        <mark key="]" line="170" column="39" />
+        <mark key="^" line="170" column="39" />
+        <mark key="." line="170" column="39" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/class-wp-query.php" timestamp="1494738129808">
         <mark key="'" line="4115" column="4" />
@@ -165,12 +165,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" timestamp="1498131156187">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="46" column="42" />
-        <mark key="]" line="46" column="42" />
-        <mark key="." line="46" column="42" />
-        <mark key="^" line="46" column="24" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" timestamp="1498179460680">
+        <mark key="'" line="14" column="6" />
+        <mark key="[" line="100" column="16" />
+        <mark key="]" line="100" column="22" />
+        <mark key="." line="100" column="22" />
+        <mark key="^" line="100" column="22" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/meta.php" timestamp="1496728278057">
         <mark key="[" line="485" column="0" />
@@ -650,16 +650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
-      <jump line="36" column="9" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
-      <jump line="47" column="42" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
-      <jump line="50" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
-      <jump line="23" column="8" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
-      <jump line="113" column="57" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/request.blade.php" />
-      <jump line="115" column="70" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/request.blade.php" />
-      <jump line="39" column="58" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
-      <jump line="52" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
-      <jump line="114" column="89" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/request.blade.php" />
       <jump line="118" column="57" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/request.blade.php" />
       <jump line="120" column="70" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/request.blade.php" />
       <jump line="37" column="9" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
@@ -688,7 +678,6 @@
       <jump line="337" column="5" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" />
       <jump line="336" column="24" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" />
       <jump line="30" column="4" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
-      <jump line="91" column="20" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
       <jump line="40" column="24" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
       <jump line="351" column="18" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" />
       <jump line="487" column="6" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
@@ -750,6 +739,17 @@
       <jump line="100" column="15" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="8" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="102" column="14" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
+      <jump line="98" column="24" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
+      <jump line="172" column="37" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
+      <jump line="50" column="21" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
+      <jump line="61" column="11" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
+      <jump line="91" column="11" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
+      <jump line="106" column="11" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
+      <jump line="182" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
+      <jump line="2" column="24" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
+      <jump line="10" column="9" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
+      <jump line="12" column="26" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
+      <jump line="14" column="6" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -778,8 +778,8 @@
           <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Inicis::</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -2315,37 +2315,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mobile_phone</text>
+        <text>Inicis::</text>
       </register>
       <register name="/" type="4">
-        <text>email</text>
+        <text>Inicis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YnV5ZXJ0ZWwgPSBBdXRoOjp1c2VyKCktPm1vYmlsZV9waG9uZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+a2V5ID0gMTsKICAgICAgICAkcmVxdWVzdC0+dWlkeCA9IDE7CiAgICAgICAgJHJlcXVlc3QtPnByaWNlID0gMTAwMDA7CiAgICAgICAgJHJlcXVlc3QtPmhhc2ggPSAxOwogICAgICAgICRyZXF1ZXN0LT5hcHBubyA9IDE7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">PD9waHAgZWNobyAKPD9waHAgZWNobyA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="8">
+        <text encoding="base64">PD9waHAgZWNobyAKPD9waHAgZWNobyA=</text>
+      </register>
+      <register name="5" type="8">
         <text encoding="base64">Pz4KPz4=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2J1eWVyZW1haWwnICAgICAgICAgID0+ICRpbmljaXMtPmJ1eWVydGVsLAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXBzKCk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5tZWRpdW1UZXh0KCdtZW1vJyk7Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbG9nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5tZWRpdW1UZXh0KCdtZW1vJyk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkbG9nKTsK</text>
@@ -2355,9 +2355,9 @@
       </register>
     </registers>
     <search>
-      <last-search>email</last-search>
+      <last-search>Inicis</last-search>
       <last-offset />
-      <last-pattern>email</last-pattern>
+      <last-pattern>Inicis</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2365,9 +2365,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9kdWN0XD4=</entry>
-        <entry encoding="base64">XDxwcm9kdWN0X25hbWVcPg==</entry>
-        <entry>v1</entry>
         <entry>postLogin</entry>
         <entry>profileUp</entry>
         <entry>delete</entry>
@@ -2385,6 +2382,9 @@
         <entry encoding="base64">XDxzZXRTdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxyZXN1bHRNc2dcPg==</entry>
         <entry>email</entry>
+        <entry>inicis</entry>
+        <entry>static</entry>
+        <entry>Inicis</entry>
       </history-search>
       <history-cmd>
         <entry>41</entry>
