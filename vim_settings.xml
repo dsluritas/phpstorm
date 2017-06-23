@@ -197,12 +197,11 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" timestamp="1498210863215">
-        <mark key="'" line="40" column="24" />
-        <mark key="[" line="34" column="89" />
-        <mark key="]" line="34" column="103" />
-        <mark key="." line="34" column="103" />
-        <mark key="^" line="34" column="103" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" timestamp="1498212009302">
+        <mark key="'" line="41" column="23" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/test-share/app/Exceptions/Handler.php" timestamp="1495086736751">
         <mark key="'" line="1" column="0" />
@@ -652,7 +651,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" />
       <jump line="431" column="51" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/paymentPopup.blade.php" />
       <jump line="442" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/paymentPopup.blade.php" />
@@ -678,7 +676,6 @@
       <jump line="52" column="40" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" />
       <jump line="77" column="64" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" />
       <jump line="93" column="37" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" />
-      <jump line="41" column="40" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" />
       <jump line="44" column="57" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" />
       <jump line="45" column="82" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" />
       <jump line="46" column="89" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" />
@@ -752,6 +749,8 @@
       <jump line="158" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="31" column="32" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="40" column="24" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" />
+      <jump line="69" column="23" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" />
+      <jump line="41" column="23" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -781,7 +780,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxpZnJhbWUgc3JjPSIiIGZyYW1lYm9yZGVyPSIwIj48L2lmcmFtZT4K</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -2326,31 +2325,31 @@
         <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+cHJpY2UgPSAkdGhpcy0+bnVtT25seSgkcmVxdWVzdC0+cHJpY2UpOwogICAgICAgIGRkKCRyZXF1ZXN0LT5wcmljZSk7CiAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCdwYXltZW50LnJlcXVlc3QnLCAyMDAsIFsibWV0aG9kIiA9PiAnUE9TVCddKS0+c2V0UmVxdWVzdCgkcmVxdWVzdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxpZnJhbWUgc3JjPSIiIGZyYW1lYm9yZGVyPSIwIj48L2lmcmFtZT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+cHJpY2UgPSAkdGhpcy0+bnVtT25seSgkcmVxdWVzdC0+cHJpY2UpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+cHJpY2UpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxMaWJyYXJpZXNcSW5pY2lzXElOSVN0ZFBheVV0aWw7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XENzc1NlbGVjdG9yXFBhcnNlclxSZWFkZXI7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+cHJpY2UgPSAkdGhpcy0+bnVtT25seSgkcmVxdWVzdC0+cHJpY2UpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+cHJpY2UpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIEFwcFxMaWJyYXJpZXNcSW5pY2lzXElOSVN0ZFBheVV0aWw7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XENzc1NlbGVjdG9yXFBhcnNlclxSZWFkZXI7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gbnVtT25seSgkbnVtKQogICAgewogICAgICAgIC8vIHdpbGwgcmV0dXJuIG9ubHkgbnVtYmVycyBpbiBhIHN0cmluZwogICAgICAgIHJldHVybiBwcmVnX3JlcGxhY2UoIi9bXjAtOSwuXS8iLCAiIiwgJG51bSk7CiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gbnVtT25seSgkbnVtKQogICAgewogICAgICAgIC8vIHdpbGwgcmV0dXJuIG9ubHkgbnVtYmVycyBpbiBhIHN0cmluZwogICAgICAgIHJldHVybiBwcmVnX3JlcGxhY2UoIi9bXjAtOSwuXS8iLCAiIiwgJG51bSk7CiAgICB9Cgp9Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gbnVtT25seSgkbnVtKQogICAgewogICAgICAgIC8vIHdpbGwgcmV0dXJuIG9ubHkgbnVtYmVycyBpbiBhIHN0cmluZwogICAgICAgIHJldHVybiBwcmVnX3JlcGxhY2UoIi9bXjAtOSwuXS8iLCAiIiwgJG51bSk7CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBudW1Pbmx5KCRudW0pCiAgICB7CiAgICAgICAgLy8gd2lsbCByZXR1cm4gb25seSBudW1iZXJzIGluIGEgc3RyaW5nCiAgICAgICAgcmV0dXJuIHByZWdfcmVwbGFjZSgiL1teMC05LC5dLyIsICIiLCAkbnVtKTsKICAgIH0K</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gbnVtT25seSgkbnVtKQogICAgewogICAgICAgIC8vIHdpbGwgcmV0dXJuIG9ubHkgbnVtYmVycyBpbiBhIHN0cmluZwogICAgICAgIHJldHVybiBwcmVnX3JlcGxhY2UoIi9bXjAtOSwuXS8iLCAiIiwgJG51bSk7CiAgICB9Cgp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
