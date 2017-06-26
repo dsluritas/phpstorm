@@ -176,6 +176,7 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/.gitignore" timestamp="1498208231277">
         <mark key="'" line="5" column="10" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/ContactUsController.php" timestamp="1498457884191" />
       <file name="$USER_HOME$/developements/laravel-web/myapp/routes/thirdy/auth.php" timestamp="1497065703616">
         <mark key="'" line="47" column="10" />
         <mark key="[" line="0" column="0" />
@@ -239,6 +240,9 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/contact_us.blade.php" timestamp="1498457853847">
+        <mark key="'" line="100" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/post-template.php" timestamp="1496736379788">
         <mark key="'" line="318" column="29" />
@@ -333,9 +337,6 @@
         <mark key="]" line="32" column="0" />
         <mark key="^" line="61" column="31" />
         <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point.blade.php" timestamp="1498199246959">
-        <mark key="'" line="99" column="101" />
       </file>
       <file name="$USER_HOME$/git/dev.snsl.dev/view1/wp-content/themes/backer/functions.php" timestamp="1494728316143">
         <mark key="'" line="19" column="26" />
@@ -561,7 +562,7 @@
         <mark key="." line="715" column="0" />
         <mark key="^" line="715" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498217127701">
+      <file name="/Dummy.txt" timestamp="1498457888674">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/building-info/src/class/Building.php" timestamp="1497518676001">
@@ -639,7 +640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="12" filename="$USER_HOME$/git/ptp/peterWEB/public/build/js/agency-all-c5bb6d2e4d.js" />
       <jump line="68" column="3" filename="$USER_HOME$/git/ptp/peterWEB/public/build/js/agency-all-c5bb6d2e4d.js" />
       <jump line="69" column="8" filename="$USER_HOME$/git/ptp/peterWEB/public/build/js/agency-all-c5bb6d2e4d.js" />
       <jump line="106" column="12" filename="$USER_HOME$/git/ptp/peterWEB/public/build/js/agency-all-c5bb6d2e4d.js" />
@@ -739,6 +739,7 @@
       <jump line="9" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="159" column="15" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="40" column="67" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/request.blade.php" />
+      <jump line="100" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/contact_us.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
