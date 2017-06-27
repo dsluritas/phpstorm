@@ -130,13 +130,12 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/PaymentLog.php" timestamp="1498523159592">
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/PaymentLog.php" timestamp="1498524006890">
         <mark key="'" line="5" column="25" />
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="4" column="24" />
-        <mark key="m" line="19" column="36" />
-        <mark key="." line="4" column="24" />
-        <mark key="^" line="19" column="44" />
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="20" column="27" />
+        <mark key="^" line="20" column="27" />
       </file>
       <file name="$USER_HOME$/developements/laravel-web/myapp/routes/web.php" timestamp="1497065995789">
         <mark key="[" line="14" column="0" />
@@ -171,8 +170,11 @@
         <mark key="." line="173" column="114" />
         <mark key="^" line="173" column="114" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/.gitignore" timestamp="1498208231277">
-        <mark key="'" line="5" column="10" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/.gitignore" timestamp="1498524527026">
+        <mark key="'" line="11" column="9" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/developements/laravel-web/myapp/routes/thirdy/auth.php" timestamp="1497065703616">
         <mark key="'" line="47" column="10" />
@@ -181,7 +183,6 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/UserController.php" timestamp="1498523482573" />
       <file name="$USER_HOME$/developements/laravel-web/myapp/routes/third/auth.php" timestamp="1497067976382">
         <mark key="'" line="55" column="29" />
         <mark key="[" line="14" column="15" />
@@ -202,6 +203,7 @@
         <mark key="^" line="85" column="8" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/.composer/vendor/laravel/valet/server.php" timestamp="1498524183990" />
       <file name="$USER_HOME$/git/snsl.dev/view/wp-content/themes/backer/header.php" timestamp="1495730686067">
         <mark key="'" line="123" column="0" />
         <mark key="[" line="5" column="0" />
@@ -243,7 +245,7 @@
         <mark key="." line="245" column="0" />
         <mark key="^" line="247" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1496143589368">
+      <file name="/fragment.php" timestamp="1498524109628">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/developements/wordpress/wp-content/themes/house/functions.php" timestamp="1497082441421">
@@ -506,7 +508,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="451" column="6" />
       </file>
-      <file name="/PHP Console" timestamp="1496143415664">
+      <file name="/PHP Console" timestamp="1498524249938">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyPurchaseController.php" timestamp="1498477265113">
@@ -602,7 +604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="6" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/request.blade.php" />
       <jump line="27" column="12" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/request.blade.php" />
       <jump line="1" column="4" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/request.blade.php" />
       <jump line="34" column="8" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/request.blade.php" />
@@ -702,6 +703,7 @@
       <jump line="42" column="36" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" />
       <jump line="45" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="196" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
+      <jump line="11" column="9" filename="$USER_HOME$/git/ptp/peterWEB/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -731,7 +733,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChhcnJheSAkYXR0cmlidXRlcyA9IFtdKQogICAgewogICAgICAgIHBhcmVudDo6X19jb25zdHJ1Y3QoJGF0dHJpYnV0ZXMpOwogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">IyBpbmljaXMKYXBwL0xpYnJhcmllcy9JbmljaXMvCg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -2267,7 +2269,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>) {</text>
       </register>
       <register name="/" type="4">
         <text>udix</text>
@@ -2276,33 +2278,33 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIO2PrOyduO2KuCDstqnsoIQKICAgICAgICAgICAgICAgIFBvaW50SGlzdG9yeTo6Y3JlYXRlKFsKICAgICAgICAgICAgICAgICAgICAndWlkeCcgICAgICAgICAgID0+IEF1dGg6OnVzZXIoKS0+bWFzdGVyX2lkLAogICAgICAgICAgICAgICAgICAgICdwYXltZW50JyAgICAgICAgPT4gJHJBbXQsCiAgICAgICAgICAgICAgICAgICAgJ3BvaW50c19jaGFyZ2UnICA9PiAkcG9pbnQsCiAgICAgICAgICAgICAgICAgICAgJ3BvaW50c19iYWxhbmNlJyA9PiAoaW50KUhlbHBlcjo6Z2V0TXlQb2ludCgpICsgKGludCkkcG9pbnQsCiAgICAgICAgICAgICAgICAgICAgJ3BheW1lbnRfaWR4JyAgICA9PiAkcGF5bWVudC0+aWQsCiAgICAgICAgICAgICAgICAgICAgJ2NfZGF0ZScgICAgICAgICA9PiBDYXJib246Om5vdygpCiAgICAgICAgICAgICAgICBdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChhcnJheSAkYXR0cmlidXRlcyA9IFtdKQogICAgewogICAgICAgIHBhcmVudDo6X19jb25zdHJ1Y3QoJGF0dHJpYnV0ZXMpOwogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">IyBpbmljaXMKYXBwL0xpYnJhcmllcy9JbmljaXMvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgfQogICAgICAgICR0aGlzLT51aWR4ID0gQXV0aDo6dXNlcigpLT5tYXN0ZXJfaWQ7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoQXV0aCgpKQogICAgICAgICR1aWR4ID0gQXV0aDo6dXNlcgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChhcnJheSAkYXR0cmlidXRlcyA9IFtdKQogICAgewogICAgICAgIHBhcmVudDo6X19jb25zdHJ1Y3QoJGF0dHJpYnV0ZXMpOwogICAgICAgIAogICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAkZXZlCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>nt = [
             ''
         ]</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IC8vIO2PrOyduO2KuCDstqnsoIQKICAgIFBvaW50SGlzdG9yeTo6Y3JlYXRlKFsKICAgICAgICAgICAgICAgICAgICAndWlkeCcgICAgICAgICAgID0+IEF1dGg6OnVzZXIoKS0+bWFzdGVyX2lkLAogICAgICAgICAgICAgICAgICAgICdwYXltZW50JyAgICAgICAgPT4gJHJBbXQsCiAgICAgICAgICAgICAgICAgICAgJ3BvaW50c19jaGFyZ2UnICA9PiAkcG9pbnQsCiAgICAgICAgICAgICAgICAgICAgJ3BvaW50c19iYWxhbmNlJyA9PiAoaW50KUhlbHBlcjo6Z2V0TXlQb2ludCgpICsgKGludCkkcG9pbnQsCiAgICAgICAgICAgICAgICAgICAgJ3BheW1lbnRfaWR4JyAgICA9PiAkcGF5bWVudC0+aWQsCiAgICAgICAgICAgICAgICAgICAgJ2NfZGF0ZScgICAgICAgICA9PiBDYXJib246Om5vdygpCiAgICAgICAgICAgICAgICBdKTs=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB2aWV3KCdwYXltZW50LmluaWNpcy5yZXR1cm4nLCBbCiAgICAgICAgICAgICdkYXRhJyAgICAgICAgPT4gWwogICAgICAgICAgICAgICAgJ3Jlc3VsdE1zZycgPT4gJ+2FjOyKpO2KuCcsCiAgICAgICAgICAgICAgICAnVG90UHJpY2UnID0+IDEwMDAwLAogICAgICAgICAgICBdLAogICAgICAgIF0pOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdmlldygncGF5bWVudC5pbmljaXMucmV0dXJuJywgWwogICAgICAgICAgICAnZGF0YScgICAgICAgID0+IFsKICAgICAgICAgICAgICAgICdyZXN1bHRNc2cnID0+ICfthYzsiqTtirgnLAogICAgICAgICAgICAgICAgJ1RvdFByaWNlJyA9PiAxMDAwMCwKICAgICAgICAgICAgXSwKICAgICAgICBdKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
