@@ -32,13 +32,11 @@
         <mark key="^" line="502" column="44" />
         <mark key="." line="502" column="36" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/Bizlink/SafeNumberController.php" timestamp="1498120189718">
+        <mark key="'" line="287" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1497515215693">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/snsl.dev/view/index.php" timestamp="1495730656720">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/developements/laravel-web/myapp/database/migrations/2017_06_10_035438_add_confirm_code_column_on_users_table.php" timestamp="1497066976507">
         <mark key="'" line="16" column="28" />
@@ -52,11 +50,6 @@
         <mark key="]" line="29" column="30" />
         <mark key="." line="29" column="30" />
         <mark key="^" line="29" column="30" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/nav-menu.php" timestamp="1496145514115">
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer-child/style.css" timestamp="1495115075811">
         <mark key="'" line="3" column="27" />
@@ -106,22 +99,12 @@
         <mark key="^" line="62" column="44" />
         <mark key="." line="62" column="44" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/onePage.blade.php" timestamp="1498634375887">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="84" column="27" />
-        <mark key="]" line="84" column="30" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/onePage.blade.php" timestamp="1498635279833">
+        <mark key="'" line="71" column="9" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
         <mark key="^" line="84" column="30" />
-        <mark key="." line="84" column="30" />
-      </file>
-      <file name="$USER_HOME$/git/snsl.dev/view/wp-content/advanced-cache.php" timestamp="1495731248812">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/snsl.dev/view/wp-blog-header.php" timestamp="1495730729251">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-config.php" timestamp="1496145600183">
         <mark key="'" line="12" column="0" />
@@ -130,16 +113,6 @@
         <mark key="." line="35" column="28" />
         <mark key="^" line="35" column="32" />
       </file>
-      <file name="$USER_HOME$/git/index.html" timestamp="1496206527144">
-        <mark key="[" line="20" column="34" />
-        <mark key="]" line="20" column="34" />
-        <mark key="." line="20" column="34" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Product.php" timestamp="1498522912272">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/PaymentLog.php" timestamp="1498524006890">
         <mark key="'" line="5" column="25" />
         <mark key="[" line="20" column="15" />
@@ -147,10 +120,8 @@
         <mark key="." line="20" column="27" />
         <mark key="^" line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/developements/laravel-web/myapp/routes/web.php" timestamp="1497065995789">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/public/js/agency-all.js" timestamp="1498207829282">
+        <mark key="'" line="0" column="142" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/return.blade.php" timestamp="1498475217570">
         <mark key="[" line="50" column="60" />
@@ -164,11 +135,6 @@
         <mark key="]" line="100" column="22" />
         <mark key="." line="100" column="22" />
         <mark key="^" line="100" column="22" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/meta.php" timestamp="1496728278057">
-        <mark key="[" line="485" column="0" />
-        <mark key="]" line="485" column="0" />
-        <mark key="." line="485" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/INIStdPaySample/INIStdPayRequest.php" timestamp="1498217529203">
         <mark key="'" line="203" column="60" />
@@ -190,8 +156,8 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1498634079714">
-        <mark key="'" line="323" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1498635316055">
+        <mark key="'" line="410" column="0" />
         <mark key="[" line="400" column="71" />
         <mark key="]" line="400" column="73" />
         <mark key="^" line="400" column="73" />
@@ -251,15 +217,8 @@
         <mark key="." line="96" column="1" />
         <mark key="^" line="96" column="1" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/post.php" timestamp="1496728239236">
-        <mark key="[" line="1754" column="0" />
-        <mark key="]" line="1754" column="0" />
-        <mark key="." line="1754" column="0" />
-      </file>
-      <file name="$USER_HOME$/developements/git/myapp/database/seeds/UsersTableSeeder.php" timestamp="1496467613486">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/contact_us.blade.php" timestamp="1498457853847">
+        <mark key="'" line="100" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/post-template.php" timestamp="1496736379788">
         <mark key="'" line="318" column="29" />
@@ -306,11 +265,6 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/css/dashboard.css" timestamp="1495272731049">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/git/ptp/test-share/resources/views/oauth.blade.php" timestamp="1495098386520">
         <mark key="'" line="1" column="5" />
         <mark key="[" line="6" column="5" />
@@ -324,11 +278,6 @@
         <mark key="]" line="400" column="36" />
         <mark key="." line="400" column="36" />
         <mark key="^" line="400" column="36" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Middleware/AgentChecker.php" timestamp="1496816204225">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="39" />
-        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/developements/laravel-web/myapp/.env" timestamp="1497066223870">
         <mark key="'" line="12" column="0" />
@@ -351,17 +300,15 @@
         <mark key="^" line="61" column="31" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point.blade.php" timestamp="1498477329610">
+        <mark key="'" line="297" column="0" />
+      </file>
       <file name="$USER_HOME$/git/dev.snsl.dev/view1/wp-content/themes/backer/functions.php" timestamp="1494728316143">
         <mark key="'" line="19" column="26" />
         <mark key="[" line="1214" column="25" />
         <mark key="]" line="1215" column="9" />
         <mark key="^" line="1215" column="9" />
         <mark key="." line="1215" column="9" />
-      </file>
-      <file name="$USER_HOME$/developements/laravel-web/myapp/phpunit.xml" timestamp="1497070292745">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/git/ptp/building-info/src/class/OpenAPI.php" timestamp="1497527909061">
         <mark key="'" line="15" column="0" />
@@ -398,18 +345,8 @@
         <mark key="." line="240" column="0" />
         <mark key="^" line="240" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/building-info/src/class/building.php" timestamp="1497513196049">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/네이버직거래로그/20170627_naver.log" timestamp="1498631530007">
         <mark key="'" line="46" column="70" />
-      </file>
-      <file name="$USER_HOME$/developements/house/header.php" timestamp="1496714403476">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" timestamp="1495942547983">
         <mark key="'" line="5" column="0" />
@@ -425,11 +362,6 @@
         <mark key="^" line="123" column="72" />
         <mark key="." line="123" column="72" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/idcommerce-functions.php" timestamp="1496142690844">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/cache/supercache/dev.snsl.kr/view/index.html" timestamp="1496667941616">
         <mark key="'" line="138" column="10" />
         <mark key="[" line="234" column="6" />
@@ -437,8 +369,11 @@
         <mark key="^" line="234" column="10" />
         <mark key="." line="234" column="10" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/app_download.blade.php" timestamp="1498634349669">
-        <mark key="'" line="115" column="24" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/base.blade.php" timestamp="1498635322334">
+        <mark key="'" line="103" column="17" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/app_download.blade.php" timestamp="1498635286063">
+        <mark key="'" line="0" column="4" />
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
@@ -515,10 +450,8 @@
       <file name="vim_settings.xml" timestamp="1497254850833">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/class-wp-hook.php" timestamp="1496143150662">
-        <mark key="[" line="276" column="0" />
-        <mark key="]" line="276" column="0" />
-        <mark key="." line="276" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/public/build/js/agency-all-c5bb6d2e4d.js" timestamp="1498207532982">
+        <mark key="'" line="117" column="40" />
       </file>
       <file name="$USER_HOME$/developements/laravel-web/markdown/composer.json" timestamp="1496686808598">
         <mark key="'" line="13" column="0" />
@@ -550,11 +483,6 @@
         <mark key="]" line="6784" column="11" />
         <mark key="^" line="6784" column="17" />
         <mark key="." line="6784" column="11" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/payment/PaymentController.php" timestamp="1498027724197">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/index.php" timestamp="1498555061886">
         <mark key="'" line="19" column="1" />
@@ -607,10 +535,8 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="39" column="65" />
       </file>
-      <file name="$USER_HOME$/developements/wordpress/wp-content/themes/house/sidebar.php" timestamp="1496718351807">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/UserController.php" timestamp="1498118646786">
+        <mark key="'" line="35" column="26" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/single-ignition_product.php" timestamp="1494735414882">
         <mark key="'" line="224" column="0" />
@@ -619,23 +545,8 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/git/dev.snsl.dev/view/funding.php" timestamp="1495549220162">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="0" filename="$USER_HOME$/Downloads/네이버직거래로그/20170627_naver.log" />
-      <jump line="196" column="0" filename="$USER_HOME$/Downloads/네이버직거래로그/20170627_naver.log" />
-      <jump line="192" column="0" filename="$USER_HOME$/Downloads/네이버직거래로그/20170627_naver.log" />
-      <jump line="198" column="0" filename="$USER_HOME$/Downloads/네이버직거래로그/20170627_naver.log" />
-      <jump line="202" column="0" filename="$USER_HOME$/Downloads/네이버직거래로그/20170627_naver.log" />
-      <jump line="203" column="0" filename="$USER_HOME$/Downloads/네이버직거래로그/20170627_naver.log" />
-      <jump line="204" column="0" filename="$USER_HOME$/Downloads/네이버직거래로그/20170627_naver.log" />
-      <jump line="209" column="0" filename="$USER_HOME$/Downloads/네이버직거래로그/20170627_naver.log" />
-      <jump line="212" column="0" filename="$USER_HOME$/Downloads/네이버직거래로그/20170627_naver.log" />
-      <jump line="221" column="0" filename="$USER_HOME$/Downloads/네이버직거래로그/20170627_naver.log" />
       <jump line="222" column="0" filename="$USER_HOME$/Downloads/네이버직거래로그/20170627_naver.log" />
       <jump line="231" column="0" filename="$USER_HOME$/Downloads/네이버직거래로그/20170627_naver.log" />
       <jump line="238" column="0" filename="$USER_HOME$/Downloads/네이버직거래로그/20170627_naver.log" />
@@ -726,13 +637,23 @@
       <jump line="111" column="14" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/app_download.blade.php" />
       <jump line="115" column="24" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/app_download.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/onePage.blade.php" />
+      <jump line="94" column="9" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/onePage.blade.php" />
+      <jump line="71" column="9" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/onePage.blade.php" />
+      <jump line="0" column="4" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/app_download.blade.php" />
+      <jump line="282" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="397" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="79" column="14" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="410" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/base.blade.php" />
+      <jump line="110" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/base.blade.php" />
+      <jump line="103" column="17" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/base.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ndd</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>비용상담</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PGRpdiBpZD0id3BfdGdfY3RzIiBzdHlsZT0iZGlzcGxheTpub25lOyI+PC9kaXY+Cg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -2271,46 +2192,46 @@
         <text>비용상담</text>
       </register>
       <register name="/" type="4">
-        <text>naver</text>
+        <text encoding="base64">XDx3cF90Z19jdHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRsb2ctPnNhdmUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii8vY2RuLWFpdGcud2lkZXJwbGFuZXQuY29tL2pzL3dwX2FzdGdfNC4wLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">PGRpdiBpZD0id3BfdGdfY3RzIiBzdHlsZT0iZGlzcGxheTpub25lOyI+PC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZHNlY3Rpb24K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGlkPSJ3cF90Z19jdHMiIHN0eWxlPSJkaXNwbGF5Om5vbmU7Ij48L2Rpdj4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBXSURFUlBMQU5FVCBQVVJDSEFTRSBTQ1JJUFQgU1RBUlQgMjAxNy42LjI4IC0tPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS0gLy8gV0lERVJQTEFORVQgUFVSQ0hBU0UgU0NSSVBUIEVORCAyMDE3LjYuMjggLS0+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii8vY2RuLWFpdGcud2lkZXJwbGFuZXQuY29tL2pzL3dwX2FzdGdfNC4wLmpzIj48L3NjcmlwdD4K</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGVuZHNlY3Rpb24K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGlkPSJ3cF90Z19jdHMiIHN0eWxlPSJkaXNwbGF5Om5vbmU7Ij48L2Rpdj4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBXSURFUlBMQU5FVCBQVVJDSEFTRSBTQ1JJUFQgU1RBUlQgMjAxNy42LjI4IC0tPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDwhLS0gLy8gV0lERVJQTEFORVQgUFVSQ0hBU0UgU0NSSVBUIEVORCAyMDE3LjYuMjggLS0+Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii8vY2RuLWFpdGcud2lkZXJwbGFuZXQuY29tL2pzL3dwX2FzdGdfNC4wLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBXSURFUlBMQU5FVCBQVVJDSEFTRSBTQ1JJUFQgU1RBUlQgMjAxNy42LjI4IC0tPgo=</text>
+        <text encoding="base64">ICAgIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
       </register>
     </registers>
     <search>
-      <last-search>naver</last-search>
+      <last-search encoding="base64">XDx3cF90Z19jdHNcPg==</last-search>
       <last-offset />
-      <last-pattern>naver</last-pattern>
+      <last-pattern encoding="base64">XDx3cF90Z19jdHNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2318,7 +2239,6 @@
     </search>
     <history>
       <history-search>
-        <entry>container</entry>
         <entry>master</entry>
         <entry>Ex</entry>
         <entry>[article.spc1]</entry>
@@ -2338,6 +2258,7 @@
         <entry>agency_regi</entry>
         <entry>app_down</entry>
         <entry>naver</entry>
+        <entry encoding="base64">XDx3cF90Z19jdHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>288</entry>
