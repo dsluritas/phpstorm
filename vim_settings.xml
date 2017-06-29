@@ -402,8 +402,8 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/base.blade.php" timestamp="1498635322334">
         <mark key="'" line="103" column="17" />
       </file>
-      <file name="$USER_HOME$/git/ptp/jobs/text.php" timestamp="1498734516711">
-        <mark key="'" line="88" column="2" />
+      <file name="$USER_HOME$/git/ptp/jobs/text.php" timestamp="1498734561021">
+        <mark key="'" line="66" column="0" />
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
@@ -688,7 +688,6 @@
       <jump line="133" column="48" filename="$USER_HOME$/git/ptp/jobs/naver.html" />
       <jump line="12" column="0" filename="$USER_HOME$/git/ptp/jobs/naver.html" />
       <jump line="218" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="66" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="82" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="12" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="30" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
@@ -723,6 +722,7 @@
       <jump line="113" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="120" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="88" column="2" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="66" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
