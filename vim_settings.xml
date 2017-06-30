@@ -159,12 +159,6 @@
         <mark key="." line="173" column="114" />
         <mark key="^" line="173" column="114" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/.gitignore" timestamp="1498524527026">
-        <mark key="'" line="11" column="9" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INISoc.php" timestamp="1498653191688">
         <mark key="'" line="10" column="6" />
         <mark key="[" line="1" column="0" />
@@ -219,12 +213,6 @@
         <mark key="]" line="5" column="14" />
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="14" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/public/js/validate_agency_regist.js" timestamp="1498632279490">
-        <mark key="'" line="87" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" timestamp="1496665426205">
         <mark key="'" line="165" column="15" />
@@ -402,17 +390,12 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/base.blade.php" timestamp="1498635322334">
         <mark key="'" line="103" column="17" />
       </file>
-      <file name="$USER_HOME$/git/ptp/jobs/text.php" timestamp="1498734561021">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/app_download.blade.php" timestamp="1498635286063">
-        <mark key="'" line="0" column="4" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
+      <file name="$USER_HOME$/git/ptp/jobs/text.php" timestamp="1498782733513">
+        <mark key="'" line="104" column="7" />
+        <mark key="[" line="104" column="6" />
+        <mark key="]" line="104" column="6" />
+        <mark key="." line="104" column="7" />
+        <mark key="^" line="104" column="6" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/option.php" timestamp="1495737032135">
         <mark key="'" line="116" column="57" />
@@ -623,30 +606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1054" column="11" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INICls.php" />
-      <jump line="1065" column="11" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INICls.php" />
-      <jump line="1307" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INICls.php" />
-      <jump line="1306" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INICls.php" />
-      <jump line="220" column="30" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INICls.php" />
-      <jump line="1088" column="30" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INICls.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INIXml.php" />
-      <jump line="191" column="23" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INIXml.php" />
-      <jump line="450" column="28" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INIXml.php" />
-      <jump line="34" column="7" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INIXml.php" />
-      <jump line="181" column="39" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INIXml.php" />
-      <jump line="281" column="27" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INIXml.php" />
-      <jump line="42" column="4" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INISoc.php" />
-      <jump line="1" column="10" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/CreateIdModule.php" />
-      <jump line="6" column="6" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/HttpClient.php" />
-      <jump line="81" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INIDFN.php" />
-      <jump line="13" column="6" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INILib.php" />
-      <jump line="9" column="6" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INISoc.php" />
-      <jump line="3" column="6" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INIStdPayUtil.php" />
-      <jump line="3491" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INIXml.php" />
-      <jump line="37" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INIXml.php" />
-      <jump line="39" column="59" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INIXml.php" />
-      <jump line="54" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INIXml.php" />
-      <jump line="179" column="25" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INIXml.php" />
       <jump line="66" column="46" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="236" column="22" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="17" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
@@ -687,7 +646,6 @@
       <jump line="169" column="40" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="133" column="48" filename="$USER_HOME$/git/ptp/jobs/naver.html" />
       <jump line="12" column="0" filename="$USER_HOME$/git/ptp/jobs/naver.html" />
-      <jump line="218" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="82" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="12" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="30" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
@@ -696,25 +654,17 @@
       <jump line="89" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="54" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="87" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="58" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="91" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="67" column="2" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="76" column="5" filename="$USER_HOME$/git/ptp/jobs/naver.html" />
       <jump line="768" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="267" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="2" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="8" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="7" column="55" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="10" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="14" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="16" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="18" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="20" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="106" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="114" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="169" column="2" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="116" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="118" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="134" column="2" filename="$USER_HOME$/git/ptp/jobs/text.php" />
@@ -723,27 +673,57 @@
       <jump line="120" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="88" column="2" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="66" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="144" column="5" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="122" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="18" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="216" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="22" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="26" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="28" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="21" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="32" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="34" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="37" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="218" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="56" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="210" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="58" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="212" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="62" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="214" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="64" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="206" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="2" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="70" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="164" column="5" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="72" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="73" column="5" filename="$USER_HOME$/git/ptp/jobs/text.php" />
+      <jump line="104" column="7" filename="$USER_HOME$/git/ptp/jobs/text.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <keys>
-          <key char="47" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
           <key char="108" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">MjQ1NTExCg==</text>
+        <text encoding="base64">CgoKCgoKCgoKCgoK</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -2282,46 +2262,46 @@
         <text>&quot;&quot;+</text>
       </register>
       <register name="/" type="4">
-        <text>result</text>
+        <text>이미</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICIgKw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MjQ1NTExCg==</text>
+        <text encoding="base64">CgoKCgoKCgoKCgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">eyJyZXN1bHQiOnsidWlkIjoiMTcwODc5ODY1NCJ9fQo=</text>
+        <text encoding="base64">MjQ1MzEwCnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1MzA1CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MjQ1MzQ5Cg==</text>
+        <text encoding="base64">MjQ1NzA4CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1MzI3CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ0OTk2CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1Mjk2CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1MjUxCnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1NzAwCnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eyJyZXN1bHQiOnsidWlkIjoiMTcwODc5ODY1MyJ9fQo=</text>
+        <text encoding="base64">MjQ1NzA4CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1MzI3CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MjQ1MDgzCg==</text>
+        <text encoding="base64">MjQ1MjcwCnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1NTA0CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ0MDg0CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1NzE2CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1ODAwCnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1NjcyCnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1MzQzCnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1Mjk3CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eyJlcnJvciI6eyJjb2RlIjoiQVQ2MDMiLCJtZXNzYWdlIjoi7ZWE7IiYIO2VreuqqSDriITrnb0g7Zi57J2AIOycoO2aqO2VmOyngCDslYrsnYAg6rCS7J20IO2PrO2VqOuQmOyWtOyeiOyKteuLiOuLpC4gW2FydGljbGUuZmxvb3IyXSJ9fQo=</text>
+        <text encoding="base64">MjQ1MzYxCnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQzOTg3CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1MjkxCnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1Mzg0CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eyJlcnJvciI6eyJjb2RlIjoiQVQ2MDMiLCJtZXNzYWdlIjoi7ZWE7IiYIO2VreuqqSDriITrnb0g7Zi57J2AIOycoO2aqO2VmOyngCDslYrsnYAg6rCS7J20IO2PrO2VqOuQmOyWtOyeiOyKteuLiOuLpC4gW3ZlcmlmaWNhdGlvbi5vcGhvbmUo7IaM7Jyg7J6Q7KCE7ZmU67KI7Zi4IO2VhOyImCldIn19Cg==</text>
+        <text encoding="base64">MjQ1Mzk5CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1MzI0CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1MzM5CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1NTAyCnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1NzMwCnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MjQ1NTI2Cg==</text>
+        <text encoding="base64">MjQ1NDU1CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1MjY5CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1NTg2CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1NTU4CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1NDM4CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ0MDYyCnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MjQ1NTExCg==</text>
+        <text encoding="base64">MjQ1MzEwCnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0KMjQ1MzA1CnsiZXJyb3IiOnsiY29kZSI6IkFUNjA1IiwibWVzc2FnZSI6IuydtOuvuCDrk7HroZ0g7LKY66as65CcIOunpOusvOyeheuLiOuLpC4ifX0K</text>
       </register>
       <register name=":" type="4">
         <text>82</text>
       </register>
     </registers>
     <search>
-      <last-search>result</last-search>
+      <last-search>이미</last-search>
       <last-offset />
-      <last-pattern>result</last-pattern>
+      <last-pattern>이미</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2329,7 +2309,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mid</entry>
         <entry>action</entry>
         <entry>errors</entry>
         <entry encoding="base64">XDxyZXN1bHRDb2RlXD4=</entry>
@@ -2349,6 +2328,7 @@
         <entry>1000</entry>
         <entry>error</entry>
         <entry>result</entry>
+        <entry>이미</entry>
       </history-search>
       <history-cmd>
         <entry>192</entry>
