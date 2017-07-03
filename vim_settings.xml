@@ -35,9 +35,6 @@
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/Bizlink/SafeNumberController.php" timestamp="1498120189718">
         <mark key="'" line="287" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1497515215693">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/developements/laravel-web/myapp/database/migrations/2017_06_10_035438_add_confirm_code_column_on_users_table.php" timestamp="1497066976507">
         <mark key="'" line="16" column="28" />
         <mark key="[" line="30" column="24" />
@@ -131,6 +128,11 @@
         <mark key="]" line="35" column="33" />
         <mark key="." line="35" column="33" />
         <mark key="^" line="35" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/storage/framework/views/3b434c0fba928ba1c979c97aff93bf2becae858f.php" timestamp="1499076022906">
+        <mark key="[" line="239" column="40" />
+        <mark key="]" line="239" column="40" />
+        <mark key="." line="239" column="40" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/PaymentLog.php" timestamp="1498524006890">
         <mark key="'" line="5" column="25" />
@@ -268,9 +270,6 @@
         <mark key="." line="245" column="0" />
         <mark key="^" line="247" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1498544891004">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/developements/wordpress/wp-content/themes/house/functions.php" timestamp="1497082441421">
         <mark key="'" line="80" column="5" />
         <mark key="[" line="49" column="60" />
@@ -385,8 +384,8 @@
         <mark key="^" line="1761" column="41" />
         <mark key="." line="1765" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1499045278084">
-        <mark key="'" line="513" column="52" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1499075650393">
+        <mark key="'" line="95" column="38" />
         <mark key="[" line="543" column="37" />
         <mark key="]" line="543" column="42" />
         <mark key="." line="543" column="42" />
@@ -483,6 +482,11 @@
         <mark key="." line="37" column="2" />
         <mark key="^" line="37" column="2" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_home.blade.php" timestamp="1499076356648">
+        <mark key="[" line="204" column="40" />
+        <mark key="]" line="204" column="40" />
+        <mark key="." line="204" column="40" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/deposit.php" timestamp="1495941314391">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="1" column="0" />
@@ -503,9 +507,6 @@
         <mark key="]" line="34" column="2" />
         <mark key="^" line="34" column="2" />
         <mark key="." line="34" column="2" />
-      </file>
-      <file name="vim_settings.xml" timestamp="1497254850833">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/build/js/agency-all-c5bb6d2e4d.js" timestamp="1498207532982">
         <mark key="'" line="117" column="40" />
@@ -533,9 +534,6 @@
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/LoginController.php" timestamp="1499045295571">
         <mark key="'" line="153" column="33" />
-      </file>
-      <file name="/PHP Console" timestamp="1498544933676">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INILib.php" timestamp="1498654172688">
         <mark key="'" line="81" column="15" />
@@ -579,8 +577,11 @@
         <mark key="." line="715" column="0" />
         <mark key="^" line="715" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499045356647">
+      <file name="/Dummy.txt" timestamp="1499076044174">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/git/ptp/fa/index.php" timestamp="1498643892535">
         <mark key="'" line="19" column="43" />
@@ -596,15 +597,20 @@
         <mark key="." line="39" column="47" />
         <mark key="^" line="39" column="47" />
       </file>
-      <file name="$USER_HOME$/git/ptp/jobs/naver/status.php" timestamp="1499070887558">
+      <file name="$USER_HOME$/git/ptp/jobs/naver/status.php" timestamp="1499075510606">
         <mark key="'" line="9" column="19" />
         <mark key="[" line="27" column="12" />
-        <mark key="]" line="27" column="12" />
-        <mark key="^" line="33" column="21" />
-        <mark key="." line="27" column="12" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/inicis/libs/INILib.php" timestamp="1498651666758">
         <mark key="'" line="779" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/_guide/peterpan.blade.php" timestamp="1499075772759">
+        <mark key="[" line="239" column="40" />
+        <mark key="]" line="239" column="40" />
+        <mark key="." line="239" column="40" />
       </file>
       <file name="$USER_HOME$/git/ptp/inicis/sample/INIStdPayBill.php" timestamp="1497945852499">
         <mark key="'" line="155" column="105" />
@@ -668,9 +674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="18" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="216" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="20" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="14" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="22" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
@@ -768,6 +771,9 @@
       <jump line="148" column="85" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/LoginController.php" />
       <jump line="153" column="33" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/LoginController.php" />
       <jump line="9" column="19" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="31" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="60" column="30" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="95" column="38" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -784,7 +790,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>_</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2326,10 +2332,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>가입</text>
+        <text>image</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cmVxdWlyZSAnLi4vYXBwL2NvbmZpZy5waHAnOwo=</text>
@@ -2366,9 +2372,9 @@
       </register>
     </registers>
     <search>
-      <last-search>가입</last-search>
+      <last-search>image</last-search>
       <last-offset />
-      <last-pattern>가입</last-pattern>
+      <last-pattern>image</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2376,7 +2382,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJTklTb2NrZXRcPg==</entry>
         <entry encoding="base64">XDxJTklTdGRQYXlVdGlsXD4=</entry>
         <entry>nwe</entry>
         <entry>new</entry>
@@ -2396,6 +2401,7 @@
         <entry>path</entry>
         <entry>경로</entry>
         <entry>가입</entry>
+        <entry>image</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
