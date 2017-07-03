@@ -596,6 +596,13 @@
         <mark key="." line="39" column="47" />
         <mark key="^" line="39" column="47" />
       </file>
+      <file name="$USER_HOME$/git/ptp/jobs/naver/status.php" timestamp="1499070887558">
+        <mark key="'" line="9" column="19" />
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="12" />
+        <mark key="^" line="33" column="21" />
+        <mark key="." line="27" column="12" />
+      </file>
       <file name="$USER_HOME$/git/ptp/inicis/libs/INILib.php" timestamp="1498651666758">
         <mark key="'" line="779" column="0" />
       </file>
@@ -661,7 +668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="5" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="122" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="18" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="216" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
@@ -761,6 +767,7 @@
       <jump line="146" column="17" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/LoginController.php" />
       <jump line="148" column="85" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/LoginController.php" />
       <jump line="153" column="33" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/LoginController.php" />
+      <jump line="9" column="19" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -776,8 +783,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cmVxdWlyZSAnLi4vYXBwL2NvbmZpZy5waHAnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2319,7 +2326,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFuZA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>가입</text>
