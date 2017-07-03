@@ -597,12 +597,12 @@
         <mark key="." line="39" column="47" />
         <mark key="^" line="39" column="47" />
       </file>
-      <file name="$USER_HOME$/git/ptp/jobs/naver/status.php" timestamp="1499077177595">
-        <mark key="'" line="14" column="19" />
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/git/ptp/jobs/naver/status.php" timestamp="1499081976416">
+        <mark key="'" line="61" column="30" />
+        <mark key="[" line="63" column="39" />
+        <mark key="]" line="63" column="47" />
+        <mark key="." line="63" column="47" />
+        <mark key="^" line="63" column="47" />
       </file>
       <file name="$USER_HOME$/git/ptp/inicis/libs/INILib.php" timestamp="1498651666758">
         <mark key="'" line="779" column="0" />
@@ -633,7 +633,7 @@
         <mark key="^" line="30" column="45" />
         <mark key="." line="30" column="45" />
       </file>
-      <file name="$USER_HOME$/git/ptp/jobs/app/config.php" timestamp="1498810842622">
+      <file name="$USER_HOME$/git/ptp/jobs/app/config.php" timestamp="1499081275089">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
@@ -674,33 +674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="14" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="22" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="8" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="26" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="21" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="32" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="34" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="37" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="218" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="56" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="210" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="58" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="212" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="62" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="214" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="64" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="206" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="2" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="70" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="164" column="5" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="72" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="73" column="5" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="104" column="7" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="103" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="548" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="106" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="3" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="92" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="28" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
@@ -770,27 +743,50 @@
       <jump line="146" column="17" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/LoginController.php" />
       <jump line="148" column="85" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/LoginController.php" />
       <jump line="153" column="33" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/LoginController.php" />
-      <jump line="9" column="19" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
       <jump line="31" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="60" column="30" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="95" column="38" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="35" column="15" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="9" column="8" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="10" column="14" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="11" column="12" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="12" column="25" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="13" column="18" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="14" column="22" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="15" column="19" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="16" column="19" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="17" column="20" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="18" column="23" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="19" column="23" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="20" column="16" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="21" column="18" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="22" column="18" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="23" column="21" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="24" column="17" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="25" column="19" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="26" column="20" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="27" column="28" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="46" column="4" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="77" column="38" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="94" column="0" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="109" column="23" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="108" column="24" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="107" column="12" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="118" column="49" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
+      <jump line="55" column="30" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <keys>
+          <key char="68" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
+          <key char="110" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGQoJHF1ZXJ5KTsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2332,49 +2328,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IOyImOygleydvA==</text>
       </register>
       <register name="/" type="4">
-        <text>image</text>
+        <text encoding="base64">XDxjb25maXJtX3VybFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSAnLi4vYXBwL2NvbmZpZy5waHAnOwo=</text>
+        <text encoding="base64">ICAgICd1cGRhdGVkX2F0JyAgICAgICAgICAgPT4gJ+uniOyngOuniSDsiJjsoJXsnbwnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQoJHF1ZXJ5KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF0pOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">J2lkJywgJ2hpZHgnLCAndWlkeCcsICd2ZXJpZmljYXRpb25fdHlwZScsICdvd25lcl9uYW1lJywgJ293bmVyX3JlbGF0aW9uJywgJ293bmVyX3Bob25lJywgJ3NlbGxlcl9uYW1lJywgJ3NlbGxlcl9waG9uZScsICdzaXRlX3Zpc2l0X2RhdGUnLCAnaXNfaW5zaWRlX3Bob3RvJywgJ2lzX2xpdmVyJywgJ2NyZWF0ZWRfYXQnLCAndXBkYXRlZF9hdCcsICdvd25lcl90ZWxlY29tJywgJ293bmVyX3NleCcsICdvd25lcl9hZ3JlZScsICdyZWdpc3Rlcl91cmwnLCAnY29uZmlybV9kb2N1bWVudF91cmwnCg==</text>
+        <text encoding="base64">ZGQoJGRhdGFiYXNlLT5sb2coKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JycnJwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cmVxdWlyZSAnLi4vdmVuZG9yL2F1dG9sb2FkLnBocCc7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">cmVxdWlyZSAnLi4vdmVuZG9yL2F1dG9sb2FkLnBocCc7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFwcC9jb25maWcucGhwIgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ki8K</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGQoJGRhdGFiYXNlLT5sb2coKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICRlbmQgPSBkYXRlKCdZLW0tZCBIOmk6cycpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICRzdGFydCA9ICcwMDAwLTAwLTAwIDAwOjAwOjAwJzsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">JHN0YXJ0Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">JHN0YXJ0ID0gaXNzZXQoJF9SRVFVRVNUWydzdGFydCddKT8gJF9SRVFVRVNUWydzdGFydCddOiAnJzsKJGVuZCA9IGlzc2V0KCRfUkVRVUVTVFsnZW5kJ10pPyAkX1JFUVVFU1RbJ2VuZCddOiAnJzsKCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>20</text>
+        <text>88</text>
       </register>
     </registers>
     <search>
-      <last-search>image</last-search>
+      <last-search encoding="base64">XDxjb25maXJtX3VybFw+</last-search>
       <last-offset />
-      <last-pattern>image</last-pattern>
+      <last-pattern encoding="base64">XDxjb25maXJtX3VybFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2382,9 +2378,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJTklTdGRQYXlVdGlsXD4=</entry>
-        <entry>nwe</entry>
-        <entry>new</entry>
         <entry>class</entry>
         <entry encoding="base64">XDxtX0RhdGFcPg==</entry>
         <entry>main</entry>
@@ -2402,9 +2395,11 @@
         <entry>경로</entry>
         <entry>가입</entry>
         <entry>image</entry>
+        <entry encoding="base64">PT4=</entry>
+        <entry>dd</entry>
+        <entry encoding="base64">XDxjb25maXJtX3VybFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>14</entry>
         <entry>ㅈ</entry>
         <entry>56</entry>
         <entry>x</entry>
@@ -2424,6 +2419,7 @@
         <entry>66</entry>
         <entry>36</entry>
         <entry>20</entry>
+        <entry>88</entry>
       </history-cmd>
       <history-expr />
       <history-input />
