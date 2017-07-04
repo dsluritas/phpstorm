@@ -98,7 +98,7 @@
         <mark key="^" line="62" column="44" />
         <mark key="." line="62" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_3.log" timestamp="1499147896676">
+      <file name="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_3.log" timestamp="1499149075415">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="25" column="7" />
@@ -152,6 +152,11 @@
         <mark key="]" line="55" column="5" />
         <mark key="^" line="55" column="5" />
         <mark key="." line="55" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_5.log" timestamp="1499150558775">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="44" column="7" />
       </file>
       <file name="$USER_HOME$/git/ptp/jobs/composer.json" timestamp="1498810944460">
         <mark key="[" line="7" column="25" />
@@ -362,6 +367,13 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point.blade.php" timestamp="1498477329610">
         <mark key="'" line="297" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_6.log" timestamp="1499151085612">
+        <mark key="'" line="1" column="38" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="44" column="6" />
+      </file>
       <file name="$USER_HOME$/git/dev.snsl.dev/view1/wp-content/themes/backer/functions.php" timestamp="1494728316143">
         <mark key="'" line="19" column="26" />
         <mark key="[" line="1214" column="25" />
@@ -459,6 +471,12 @@
         <mark key="]" line="345" column="52" />
         <mark key="^" line="345" column="52" />
         <mark key="." line="345" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_4.log" timestamp="1499150249875">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="131" column="110" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/ignitiondeck-crowdfunding/ignitiondeck-functions.php" timestamp="1494737824184">
         <mark key="'" line="771" column="63" />
@@ -678,7 +696,7 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/libs/INIDFN.php" timestamp="1498653765452">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/jobs/naver/index.html" timestamp="1499147134531">
+      <file name="$USER_HOME$/git/ptp/jobs/naver/index.html" timestamp="1499151097276">
         <mark key="[" line="43" column="18" />
         <mark key="]" line="43" column="19" />
         <mark key="." line="43" column="19" />
@@ -686,17 +704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="17" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="623" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="117" column="7" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="68" column="10" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="125" column="4" filename="$USER_HOME$/git/ptp/jobs/naver.html" />
-      <jump line="133" column="0" filename="$USER_HOME$/git/ptp/jobs/naver.html" />
-      <jump line="24" column="0" filename="$USER_HOME$/git/ptp/jobs/naver.html" />
-      <jump line="16" column="5" filename="$USER_HOME$/git/ptp/jobs/naver.html" />
-      <jump line="124" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="1274" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
-      <jump line="1272" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="118" column="8" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="4" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
       <jump line="1273" column="0" filename="$USER_HOME$/git/ptp/jobs/text.php" />
@@ -786,6 +793,17 @@
       <jump line="1244" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_2.log" />
       <jump line="329" column="18" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_2.log" />
       <jump line="127" column="21" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_2.log" />
+      <jump line="127" column="97" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_4.log" />
+      <jump line="131" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_4.log" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_4.log" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_5.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_6.log" />
+      <jump line="449" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_6.log" />
+      <jump line="57" column="23" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_6.log" />
+      <jump line="89" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_6.log" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_6.log" />
+      <jump line="1" column="38" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_6.log" />
+      <jump line="17" column="5" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_7.log" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -807,7 +825,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">MjQ2Njk1LCB7InJlc3VsdCI6eyJ1aWQiOiIxNzA5MDM2MjkyIn19Cg==</text>
+        <text encoding="base64">MjQ4OTY3LCB7ImVycm9yIjp7ImNvZGUiOiJBVDYwNSIsIm1lc3NhZ2UiOiJcdWM3NzRcdWJiZjggXHViNGYxXHViODVkIFx1Y2M5OFx1YjlhY1x1YjQxYyBcdWI5ZTRcdWJiM2NcdWM3ODVcdWIyYzhcdWIyZTQuIn19Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2358,10 +2376,10 @@
         <text encoding="base64">PGJyPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MjQ2Njk1LCB7InJlc3VsdCI6eyJ1aWQiOiIxNzA5MDM2MjkyIn19Cg==</text>
+        <text encoding="base64">MjQ4OTY3LCB7ImVycm9yIjp7ImNvZGUiOiJBVDYwNSIsIm1lc3NhZ2UiOiJcdWM3NzRcdWJiZjggXHViNGYxXHViODVkIFx1Y2M5OFx1YjlhY1x1YjQxYyBcdWI5ZTRcdWJiM2NcdWM3ODVcdWIyYzhcdWIyZTQuIn19Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MjQ2NzAwLCB7InJlc3VsdCI6eyJ1aWQiOiIxNzA5MDM2Mjk1In19Cg==</text>
+        <text encoding="base64">MjQ4ODkzLCB7ImVycm9yIjp7ImNvZGUiOiJBVDYwNSIsIm1lc3NhZ2UiOiJcdWM3NzRcdWJiZjggXHViNGYxXHViODVkIFx1Y2M5OFx1YjlhY1x1YjQxYyBcdWI5ZTRcdWJiM2NcdWM3ODVcdWIyYzhcdWIyZTQuIn19Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -2385,7 +2403,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>88</text>
+        <text>45</text>
       </register>
     </registers>
     <search>
@@ -2421,7 +2439,6 @@
         <entry encoding="base64">XDxjb25maXJtX3VybFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>ㅈ</entry>
         <entry>56</entry>
         <entry>x</entry>
         <entry>73</entry>
@@ -2441,6 +2458,7 @@
         <entry>36</entry>
         <entry>20</entry>
         <entry>88</entry>
+        <entry>45</entry>
       </history-cmd>
       <history-expr />
       <history-input />
