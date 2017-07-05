@@ -37,6 +37,10 @@
         <mark key="^" line="570" column="3" />
         <mark key="." line="571" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_1.log" timestamp="1499233190903">
+        <mark key="'" line="414" column="21" />
+        <mark key="^" line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1499170229513">
         <mark key="[" line="554" column="41" />
         <mark key="]" line="554" column="41" />
@@ -184,7 +188,7 @@
         <mark key="." line="24" column="22" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/git/ptp/jobs/naver/index.html" timestamp="1499231259020">
+      <file name="$USER_HOME$/git/ptp/jobs/naver/index.html" timestamp="1499233328509">
         <mark key="[" line="43" column="18" />
         <mark key="]" line="43" column="19" />
         <mark key="." line="43" column="19" />
@@ -199,8 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_2.log" />
-      <jump line="111" column="7" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_2.log" />
       <jump line="1244" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_2.log" />
       <jump line="329" column="18" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_2.log" />
       <jump line="127" column="21" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_2.log" />
@@ -299,6 +301,8 @@
       <jump line="53" column="86" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
       <jump line="56" column="86" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
       <jump line="57" column="33" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
+      <jump line="12" column="5" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_1.log" />
+      <jump line="414" column="21" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_1.log" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -320,7 +324,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1871,31 +1875,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9InByb2R1Y3RfbmFtZSIgdmFsdWU9InBvaW50Ij4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gc3RyaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdXJsID0gcm91dGUoJ2FnZW5jeS5wdXJjaGFzZS5wb2ludCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Um91dGU6Omdyb3VwKAogICAgWwogICAgICAgICduYW1lc3BhY2UnID0+ICdQYXltZW50JywKICAgICAgICAncHJlZml4JyAgICA9PiAncGF5bWVudCcsCiAgICAgICAgJ2FzJyAgICAgICAgPT4gJ3BheW1lbnQuJywKICAgIF0sIGZ1bmN0aW9uICgpIHsKCiAgICBSb3V0ZTo6Z2V0KCcvJywgWwogICAgICAgICAgICAnYXMnICAgPT4gJ2hvbWUnLAogICAgICAgICAgICAndXNlcycgPT4gJ1BheW1lbnRDb250cm9sbGVyQGhvbWUnCiAgICAgICAgXQogICAgKTsKCiAgICBSb3V0ZTo6cG9zdCgnL3JlcXVlc3QnLCBbCiAgICAgICAgICAgICdhcycgICA9PiAncmVxdWVzdCcsCiAgICAgICAgICAgICd1c2VzJyA9PiAnUGF5bWVudENvbnRyb2xsZXJAcmVxdWVzdCcsCiAgICAgICAgXQogICAgKTsKCiAgICBSb3V0ZTo6cG9zdCgnL3JldHVybicsIFsKICAgICAgICAnYXMnICAgPT4gJ3JldHVybicsCiAgICAgICAgJ3VzZXMnID0+ICdQYXltZW50Q29udHJvbGxlckByZXR1cm4nLAogICAgXSk7CgogICAgUm91dGU6OmdldCgnL2Nsb3NlJywgWwogICAgICAgICdhcycgPT4gJ2Nsb3NlJywKICAgICAgICAndXNlcycgPT4gJ1BheW1lbnRDb250cm9sbGVyQGNsb3NlJywKICAgIF0pOwp9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlLWluaWNpcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlLWluaWNpcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
