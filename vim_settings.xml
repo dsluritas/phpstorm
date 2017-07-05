@@ -71,6 +71,13 @@
         <mark key="." line="220" column="44" />
         <mark key="^" line="220" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_2.log" timestamp="1499236600915">
+        <mark key="'" line="100" column="5" />
+        <mark key="[" line="138" column="6" />
+        <mark key="]" line="138" column="6" />
+        <mark key="^" line="138" column="6" />
+        <mark key="." line="138" column="7" />
+      </file>
       <file name="$USER_HOME$/git/ptp/jobs/fa/send.php" timestamp="1498810956402">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="2" column="0" />
@@ -188,10 +195,10 @@
         <mark key="." line="24" column="22" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/git/ptp/jobs/naver/index.html" timestamp="1499233328509">
-        <mark key="[" line="43" column="18" />
-        <mark key="]" line="43" column="19" />
-        <mark key="." line="43" column="19" />
+      <file name="$USER_HOME$/git/ptp/jobs/naver/index.html" timestamp="1499236763485">
+        <mark key="[" line="51" column="19" />
+        <mark key="]" line="51" column="19" />
+        <mark key="." line="51" column="19" />
         <mark key="^" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" timestamp="1499170775905">
@@ -203,9 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1244" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_2.log" />
-      <jump line="329" column="18" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_2.log" />
-      <jump line="127" column="21" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_2.log" />
       <jump line="127" column="97" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_4.log" />
       <jump line="131" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_4.log" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_4.log" />
@@ -303,6 +307,9 @@
       <jump line="57" column="33" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
       <jump line="12" column="5" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_1.log" />
       <jump line="414" column="21" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_1.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_2.log" />
+      <jump line="692" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_2.log" />
+      <jump line="100" column="5" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_2.log" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -323,8 +330,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ㅏ</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1866,7 +1873,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>ㅏ</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
