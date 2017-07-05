@@ -37,7 +37,7 @@
         <mark key="^" line="570" column="3" />
         <mark key="." line="571" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_1.log" timestamp="1499233190903">
+      <file name="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_1.log" timestamp="1499237072204">
         <mark key="'" line="414" column="21" />
         <mark key="^" line="0" column="6" />
       </file>
@@ -65,6 +65,9 @@
         <mark key="]" line="101" column="71" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_7.log" timestamp="1499237595931">
+        <mark key="'" line="12" column="44" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_regist.blade.php" timestamp="1498632300834">
         <mark key="[" line="220" column="53" />
         <mark key="]" line="220" column="44" />
@@ -82,10 +85,6 @@
         <mark key="[" line="0" column="5" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_2.log" timestamp="1499134955289">
-        <mark key="'" line="127" column="21" />
-        <mark key="^" line="1" column="6" />
       </file>
       <file name="$USER_HOME$/.composer/vendor/laravel/valet/server.php" timestamp="1498537161953">
         <mark key="[" line="128" column="1" />
@@ -150,6 +149,12 @@
         <mark key="^" line="131" column="110" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_3.log" timestamp="1499237721374">
+        <mark key="'" line="133" column="7" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="147" column="7" />
+      </file>
       <file name="$USER_HOME$/git/ptp/jobs/app/config.php" timestamp="1499081275089">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
@@ -210,8 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="97" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_4.log" />
-      <jump line="131" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_4.log" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_4.log" />
       <jump line="15" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_5.log" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_6.log" />
@@ -310,6 +313,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_2.log" />
       <jump line="692" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_2.log" />
       <jump line="100" column="5" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_2.log" />
+      <jump line="12" column="44" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_7.log" />
+      <jump line="133" column="7" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_3.log" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -330,8 +335,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ㅏ</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">MjUwMjI5LCB7ImVycm9yIjp7ImNvZGUiOiJBVDYwMyIsIm1lc3NhZ2UiOiJcdWQ1NDRcdWMyMTggXHVkNTZkXHViYWE5IFx1YjIwNFx1Yjc3ZCBcdWQ2MzlcdWM3NDAgXHVjNzIwXHVkNmE4XHVkNTU4XHVjOWMwIFx1YzU0YVx1Yzc0MCBcdWFjMTJcdWM3NzQgXHVkM2VjXHVkNTY4XHViNDE4XHVjNWI0XHVjNzg4XHVjMmI1XHViMmM4XHViMmU0LiBbdmVyaWZpY2F0aW9uLm9waG9uZShcdWMxOGNcdWM3MjBcdWM3OTBcdWM4MDRcdWQ2NTRcdWJjODhcdWQ2MzggXHVkNTQ0XHVjMjE4KV0ifX0K</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1876,16 +1881,16 @@
         <text>ㅏ</text>
       </register>
       <register name="/" type="4">
-        <text>:</text>
+        <text>이미</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9InByb2R1Y3RfbmFtZSIgdmFsdWU9InBvaW50Ij4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MjUwMjI5LCB7ImVycm9yIjp7ImNvZGUiOiJBVDYwMyIsIm1lc3NhZ2UiOiJcdWQ1NDRcdWMyMTggXHVkNTZkXHViYWE5IFx1YjIwNFx1Yjc3ZCBcdWQ2MzlcdWM3NDAgXHVjNzIwXHVkNmE4XHVkNTU4XHVjOWMwIFx1YzU0YVx1Yzc0MCBcdWFjMTJcdWM3NzQgXHVkM2VjXHVkNTY4XHViNDE4XHVjNWI0XHVjNzg4XHVjMmI1XHViMmM4XHViMmU0LiBbdmVyaWZpY2F0aW9uLm9waG9uZShcdWMxOGNcdWM3MjBcdWM3OTBcdWM4MDRcdWQ2NTRcdWJjODhcdWQ2MzggXHVkNTQ0XHVjMjE4KV0ifX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MjQ5NTMwLCB7InJlc3VsdCI6eyJ1aWQiOiIxNzA5MTEwOTI5In19Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1913,9 +1918,9 @@
       </register>
     </registers>
     <search>
-      <last-search>:</last-search>
+      <last-search>이미</last-search>
       <last-offset />
-      <last-pattern>:</last-pattern>
+      <last-pattern>이미</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1923,7 +1928,6 @@
     </search>
     <history>
       <history-search>
-        <entry>가입</entry>
         <entry>image</entry>
         <entry encoding="base64">PT4=</entry>
         <entry>dd</entry>
@@ -1943,6 +1947,7 @@
         <entry>form</entry>
         <entry>string</entry>
         <entry>:</entry>
+        <entry>이미</entry>
       </history-search>
       <history-cmd>
         <entry>73</entry>
