@@ -55,9 +55,6 @@
         <mark key="." line="29" column="30" />
         <mark key="^" line="29" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_7.log" timestamp="1499237595931">
-        <mark key="'" line="12" column="44" />
-      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_regist.blade.php" timestamp="1498632300834">
         <mark key="[" line="220" column="53" />
         <mark key="]" line="220" column="44" />
@@ -222,6 +219,13 @@
         <mark key="." line="19" column="51" />
         <mark key="^" line="19" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170705_2회차_총정리.log" timestamp="1499321880001">
+        <mark key="'" line="216" column="0" />
+        <mark key="[" line="214" column="6" />
+        <mark key="]" line="214" column="6" />
+        <mark key="^" line="214" column="6" />
+        <mark key="." line="214" column="7" />
+      </file>
       <file name="$USER_HOME$/git/ptp/jobs/helper.php" timestamp="1498800977283">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="10" />
@@ -253,7 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="9" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="231" column="20" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="247" column="35" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="66" column="24" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point.blade.php" />
@@ -353,6 +356,7 @@
       <jump line="17" column="95" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170705_naver_5.log" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170705_naver_5.log" />
       <jump line="208" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170705_naver_5.log" />
+      <jump line="1075" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170705_2회차_총정리.log" />
     </jumps>
     <registers>
       <register name="a" type="4">
