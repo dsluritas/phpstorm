@@ -37,6 +37,9 @@
         <mark key="^" line="570" column="3" />
         <mark key="." line="571" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170706_3회차_STEP1네이버PASS.log" timestamp="1499326083269">
+        <mark key="'" line="211" column="44" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1499170229513">
         <mark key="[" line="554" column="41" />
         <mark key="]" line="554" column="41" />
@@ -109,12 +112,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="131" column="110" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_3.log" timestamp="1499237721374">
-        <mark key="'" line="133" column="7" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="147" column="7" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/storage/framework/views/3b434c0fba928ba1c979c97aff93bf2becae858f.php" timestamp="1499076022906">
         <mark key="[" line="239" column="40" />
@@ -257,8 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="35" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
-      <jump line="66" column="24" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point.blade.php" />
       <jump line="101" column="14" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point.blade.php" />
       <jump line="46" column="108" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point.blade.php" />
       <jump line="39" column="24" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point.blade.php" />
@@ -357,6 +352,8 @@
       <jump line="208" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170705_naver_5.log" />
       <jump line="1075" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170705_2회차_총정리.log" />
       <jump line="63" column="38" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170705_2회차_총정리.log" />
+      <jump line="17" column="5" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170706_3회차_STEP1네이버PASS.log" />
+      <jump line="211" column="44" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170706_3회차_STEP1네이버PASS.log" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -378,7 +375,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MjUwNDIyLCB7ImVycm9yIjp7ImNvZGUiOiJBVDYwMyIsIm1lc3NhZ2UiOiJcdWQ1NDRcdWMyMTggXHVkNTZkXHViYWE5IFx1YjIwNFx1Yjc3ZCBcdWQ2MzlcdWM3NDAgXHVjNzIwXHVkNmE4XHVkNTU4XHVjOWMwIFx1YzU0YVx1Yzc0MCBcdWFjMTJcdWM3NzQgXHVkM2VjXHVkNTY4XHViNDE4XHVjNWI0XHVjNzg4XHVjMmI1XHViMmM4XHViMmU0LiBbdmVyaWZpY2F0aW9uLm9waG9uZShcdWMxOGNcdWM3MjBcdWM3OTBcdWM4MDRcdWQ2NTRcdWJjODhcdWQ2MzggXHVkNTQ0XHVjMjE4KV0ifX0K</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1929,28 +1926,28 @@
         <text encoding="base64">PGJ1dHRvbiB0eXBlPSJidXR0b24iIG9uY2xpY2s9ImNyZWF0ZUNvbW1hbmQoKSI+7IOd7ISxPC9idXR0b24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MjUwNDIyLCB7ImVycm9yIjp7ImNvZGUiOiJBVDYwMyIsIm1lc3NhZ2UiOiJcdWQ1NDRcdWMyMTggXHVkNTZkXHViYWE5IFx1YjIwNFx1Yjc3ZCBcdWQ2MzlcdWM3NDAgXHVjNzIwXHVkNmE4XHVkNTU4XHVjOWMwIFx1YzU0YVx1Yzc0MCBcdWFjMTJcdWM3NzQgXHVkM2VjXHVkNTY4XHViNDE4XHVjNWI0XHVjNzg4XHVjMmI1XHViMmM4XHViMmU0LiBbdmVyaWZpY2F0aW9uLm9waG9uZShcdWMxOGNcdWM3MjBcdWM3OTBcdWM4MDRcdWQ2NTRcdWJjODhcdWQ2MzggXHVkNTQ0XHVjMjE4KV0ifX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MjUwNDIzLCB7ImVycm9yIjp7ImNvZGUiOiJBVDYwNSIsIm1lc3NhZ2UiOiJcdWM3NzRcdWJiZjggXHViNGYxXHViODVkIFx1Y2M5OFx1YjlhY1x1YjQxYyBcdWI5ZTRcdWJiM2NcdWM3ODVcdWIyYzhcdWIyZTQuIn19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MjUwNDI0LCB7ImVycm9yIjp7ImNvZGUiOiJBVDYwMyIsIm1lc3NhZ2UiOiJcdWQ1NDRcdWMyMTggXHVkNTZkXHViYWE5IFx1YjIwNFx1Yjc3ZCBcdWQ2MzlcdWM3NDAgXHVjNzIwXHVkNmE4XHVkNTU4XHVjOWMwIFx1YzU0YVx1Yzc0MCBcdWFjMTJcdWM3NzQgXHVkM2VjXHVkNTY4XHViNDE4XHVjNWI0XHVjNzg4XHVjMmI1XHViMmM4XHViMmU0LiBbYXJ0aWNsZS5mbG9vcjJdIn19LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MjUwNDMxLCB7ImVycm9yIjp7ImNvZGUiOiJBVDYwNSIsIm1lc3NhZ2UiOiJcdWM3NzRcdWJiZjggXHViNGYxXHViODVkIFx1Y2M5OFx1YjlhY1x1YjQxYyBcdWI5ZTRcdWJiM2NcdWM3ODVcdWIyYzhcdWIyZTQuIn19Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MjUwNDMzLCB7ImVycm9yIjp7ImNvZGUiOiJBVDYwNSIsIm1lc3NhZ2UiOiJcdWM3NzRcdWJiZjggXHViNGYxXHViODVkIFx1Y2M5OFx1YjlhY1x1YjQxYyBcdWI5ZTRcdWJiM2NcdWM3ODVcdWIyYzhcdWIyZTQuIn19Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MjUwNDM3LCB7ImVycm9yIjp7ImNvZGUiOiJBVDYwNSIsIm1lc3NhZ2UiOiJcdWM3NzRcdWJiZjggXHViNGYxXHViODVkIFx1Y2M5OFx1YjlhY1x1YjQxYyBcdWI5ZTRcdWJiM2NcdWM3ODVcdWIyYzhcdWIyZTQuIn19LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MjUwNDQxLCB7ImVycm9yIjp7ImNvZGUiOiJBVDYwNSIsIm1lc3NhZ2UiOiJcdWM3NzRcdWJiZjggXHViNGYxXHViODVkIFx1Y2M5OFx1YjlhY1x1YjQxYyBcdWI5ZTRcdWJiM2NcdWM3ODVcdWIyYzhcdWIyZTQuIn19Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MjUwNDQzLCB7ImVycm9yIjp7ImNvZGUiOiJBVDYwMyIsIm1lc3NhZ2UiOiJcdWQ1NDRcdWMyMTggXHVkNTZkXHViYWE5IFx1YjIwNFx1Yjc3ZCBcdWQ2MzlcdWM3NDAgXHVjNzIwXHVkNmE4XHVkNTU4XHVjOWMwIFx1YzU0YVx1Yzc0MCBcdWFjMTJcdWM3NzQgXHVkM2VjXHVkNTY4XHViNDE4XHVjNWI0XHVjNzg4XHVjMmI1XHViMmM4XHViMmU0LiBbdHJhZGUucHJpY2UxXSJ9fQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
