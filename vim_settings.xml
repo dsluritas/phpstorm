@@ -276,11 +276,12 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/ptp/jobs/number/index.php" timestamp="1499674918733">
-        <mark key="[" line="14" column="49" />
-        <mark key="]" line="14" column="45" />
-        <mark key="." line="14" column="45" />
-        <mark key="^" line="14" column="45" />
+      <file name="$USER_HOME$/git/ptp/jobs/number/index.php" timestamp="1499682626073">
+        <mark key="'" line="34" column="12" />
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="39" />
+        <mark key="^" line="14" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_8.log" timestamp="1499166740232">
         <mark key="'" line="3" column="5" />
@@ -302,6 +303,7 @@
         <mark key="^" line="214" column="6" />
         <mark key="." line="214" column="7" />
       </file>
+      <file name="$USER_HOME$/git/ptp/jobs/number/log/2017-07-10_19:14:09.log" timestamp="1499682002809" />
       <file name="$USER_HOME$/git/ptp/jobs/helper.php" timestamp="1498800977283">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="10" />
@@ -341,7 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
       <jump line="163" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
       <jump line="166" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
       <jump line="169" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
@@ -441,6 +442,7 @@
       <jump line="559" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
       <jump line="39" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
       <jump line="238" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="31" column="12" filename="$USER_HOME$/git/ptp/jobs/number/index.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -462,7 +464,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'share-friend',</text>
+        <text>=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2004,40 +2006,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'share-friend',</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>find</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y291bnQoU2hhcmVGcmllbmQ6OldoZXJlKCdmcm9tJywgJHRoaXMtPnVpZHgpLT5nZXQoKSk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQU5EIG1vYmlsZV9waG9uZSAhPSBcJy0tXCcgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZXJyb3IgPSAnJzsK</text>
+        <text encoding="base64">ZGllKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGVjaG8gJzwvcHJlPic7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZChBdXRoOjp1c2VyKCktPmlzWmVyb01lbWJlcigpKTsK</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRkYXRhKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZChjb3VudChTaGFyZUZyaWVuZDo6V2hlcmUoJ2Zyb20nLCAkdGhpcy0+dWlkeCktPmdldCgpKSk7Cg==</text>
+        <text encoding="base64">cHJpbnRfcigkZGF0YSk7CmVjaG8gJzwvcHJlPic7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dWlkeCA9IDEyMzsK</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCR2YWx1ZVsndWlkeCddKTsKICAgIGRpZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3VsdCcgPT4gJHJlc3VsdCwKICAgICAgICAgICAgJ2Vycm9yJyAgPT4gJGVycm9yLAogICAgICAgIF0pOwo=</text>
+        <text encoding="base64">dmFyX2R1bXAoJGRhdGEpOwpkaWUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdCA9ICduZyc7Cg==</text>
+        <text encoding="base64">ZWNobyAkc3FsOwpkaWUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGVycm9yID0gJ+ydtOuvuCDstpTsspzsnYQg7ZWY7IWo7Iq164uI64ukLic7Cg==</text>
+        <text encoding="base64">ICAgIGRpZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZChBdXRoOjp1c2VyKCktPmlzWmVyb01lbWJlcigpKTsK</text>
+        <text encoding="base64">dmFyX2R1bXAoJGRhdHRhKTsK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
