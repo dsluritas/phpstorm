@@ -86,11 +86,11 @@
         <mark key="." line="21" column="10" />
         <mark key="^" line="66" column="22" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/database/migrations/2017_07_10_150846_create_share_friends_table.php" timestamp="1499668003193">
-        <mark key="[" line="17" column="33" />
-        <mark key="]" line="17" column="43" />
-        <mark key="." line="17" column="33" />
-        <mark key="^" line="17" column="70" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/database/migrations/2017_07_10_150846_create_share_friends_table.php" timestamp="1499673989433">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="39" />
+        <mark key="^" line="14" column="39" />
       </file>
       <file name="$USER_HOME$/git/ptp/jobs/text.php" timestamp="1498800598887">
         <mark key="[" line="0" column="0" />
@@ -150,11 +150,11 @@
         <mark key="^" line="55" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/Adjust/eventController.php" timestamp="1499671995702">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="52" />
-        <mark key="." line="21" column="52" />
-        <mark key="^" line="21" column="56" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/Adjust/eventController.php" timestamp="1499674311066">
+        <mark key="[" line="18" column="56" />
+        <mark key="]" line="18" column="63" />
+        <mark key="." line="18" column="63" />
+        <mark key="^" line="18" column="63" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/User.php" timestamp="1499671718866">
         <mark key="'" line="18" column="0" />
@@ -173,8 +173,8 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" timestamp="1499667875775">
-        <mark key="'" line="973" column="0" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" timestamp="1499672848880">
+        <mark key="'" line="976" column="20" />
         <mark key="[" line="973" column="0" />
         <mark key="]" line="979" column="5" />
       </file>
@@ -220,11 +220,11 @@
         <mark key="^" line="128" column="1" />
         <mark key="." line="128" column="1" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/ShareFriend.php" timestamp="1499669955251">
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="12" column="31" />
-        <mark key="^" line="12" column="31" />
-        <mark key="." line="12" column="31" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/ShareFriend.php" timestamp="1499674014883">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="12" column="32" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyPurchaseController.php" timestamp="1499167985613">
         <mark key="'" line="59" column="20" />
@@ -242,7 +242,7 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/request.blade.php" timestamp="1499168114305">
         <mark key="'" line="47" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499666891763">
+      <file name="/Dummy.txt" timestamp="1499673638936">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -280,11 +280,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/ptp/jobs/number/index.php" timestamp="1499420482353">
-        <mark key="[" line="14" column="59" />
-        <mark key="]" line="15" column="13" />
-        <mark key="." line="15" column="13" />
-        <mark key="^" line="15" column="13" />
+      <file name="$USER_HOME$/git/ptp/jobs/number/index.php" timestamp="1499674918733">
+        <mark key="[" line="14" column="49" />
+        <mark key="]" line="14" column="45" />
+        <mark key="." line="14" column="45" />
+        <mark key="^" line="14" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_8.log" timestamp="1499166740232">
         <mark key="'" line="3" column="5" />
@@ -346,9 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
-      <jump line="145" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
-      <jump line="148" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
       <jump line="151" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
       <jump line="154" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
       <jump line="157" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
@@ -446,6 +443,9 @@
       <jump line="7" column="4" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
       <jump line="4" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
       <jump line="18" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/User.php" />
+      <jump line="506" column="4" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
+      <jump line="627" column="58" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
+      <jump line="976" column="20" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -467,7 +467,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>//user());</text>
+        <text>+</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2009,49 +2009,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>//user());</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
-        <text>status</text>
+        <text>master</text>
       </register>
       <register name="0" type="4">
-        <text>ShareFriend::Where('to', $to)</text>
+        <text encoding="base64">U2hhcmVGcmllbmQ6OldoZXJlKCd0bycsICR0byktPmdldCgp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZChVc2VyOjpmaW5kKDEyMyktPnNoYXJlRnJpZW5kcygpLT5nZXQoKSk7Cg==</text>
+        <text encoding="base64">fSBjYXRjaCAoXEV4Y2VwdGlvbiAkZSkgewogICAgZWNobyAkZS0+Z2V0TWVzc2FnZSgpOwogICAgZGllKCk7Cn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RhdGEnICAgPT4ganNvbl9lbmNvZGUoJHNmKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkZmxhZyA9ICduZyc7Cg==</text>
+        <text encoding="base64">dHJ5IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZmxhZyA9ICdvayc7Cg==</text>
+        <text encoding="base64">JGZwID0gZm9wZW4oJy4vbG9nLycgLiBEYXRlKCdZLW0tZCcpIC4gJy5sb2cnLCAnK2EnKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWFzb24K</text>
+      <register name="5" type="4">
+        <text encoding="base64">Ci8vZm9yZWFjaCAoJGRhdGEgYXMgJGtleSA9PiAkdmFsdWUpIHs=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZsYWcgPSAnb2snOwo=</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCR2YWx1ZVsndWlkeCddKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGpzb25fZW5jb2RlKFsKICAgICAgICAgICAgICAgICdyZXN1bHQnID0+ICdvaycsCiAgICAgICAgICAgICAgICAnZGF0YScgPT4gJHNmLAogICAgICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXI6OmZpbmQoMTIzKS0+c2hhcmVGcmllbmRzKCktPmZpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZWFzb24nID0+ICcK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcUXVlcnlFeGNlcHRpb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
       </register>
     </registers>
     <search>
-      <last-search>status</last-search>
+      <last-search>master</last-search>
       <last-offset />
-      <last-pattern>status</last-pattern>
+      <last-pattern>master</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2059,10 +2059,6 @@
     </search>
     <history>
       <history-search>
-        <entry>master</entry>
-        <entry>route</entry>
-        <entry>product_name</entry>
-        <entry>hea</entry>
         <entry>return</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry encoding="base64">XDxjYW5jZWxcPg==</entry>
@@ -2079,6 +2075,10 @@
         <entry>belong</entry>
         <entry>status_index</entry>
         <entry>status</entry>
+        <entry>user</entry>
+        <entry>user()</entry>
+        <entry>master_id</entry>
+        <entry>master</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
