@@ -184,12 +184,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" timestamp="1499742887064">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1091" column="12" />
-        <mark key="]" line="1091" column="12" />
-        <mark key="." line="1091" column="12" />
-        <mark key="^" line="1091" column="11" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" timestamp="1499747029231">
+        <mark key="'" line="72" column="7" />
+        <mark key="[" line="1228" column="0" />
+        <mark key="]" line="1228" column="0" />
+        <mark key="." line="1228" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" timestamp="1499170775905">
         <mark key="'" line="57" column="33" />
@@ -348,10 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1075" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170705_2회차_총정리.log" />
-      <jump line="63" column="38" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170705_2회차_총정리.log" />
-      <jump line="17" column="5" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170706_3회차_STEP1네이버PASS.log" />
-      <jump line="211" column="44" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170706_3회차_STEP1네이버PASS.log" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170706_3회차_STEP1네이버PASS.log" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170706_3회차/20170706_3회차_오후5시.log" />
       <jump line="136" column="64" filename="$USER_HOME$/Documents/PeterPan/네이버/20170706_3회차/20170706_3회차_오후5시.log" />
@@ -446,8 +441,12 @@
       <jump line="239" column="46" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
       <jump line="18" column="23" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
       <jump line="1065" column="12" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
       <jump line="43" column="4" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
+      <jump line="744" column="24" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
+      <jump line="1246" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
+      <jump line="72" column="7" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -468,8 +467,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>`</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2011,7 +2010,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>setR</text>
@@ -2020,33 +2019,31 @@
         <text encoding="base64">ICAgICAgICAnY29tbWlzc2lvbicgPT4gJGNvbW1pc3Npb24sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnZGF0YScgICA9PiAkZGF0YSwK</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAncmVzdWx0JyA9PiAnb2snLAo=</text>
+        <text encoding="base64">ICAgICAqIEB2ZXJzaW9uIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnZGF0YScgICA9PiAkZGF0YSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRkYXRhID0gJGhvdXNlLT5jYWxjdWxhdGVDb21taXNzaW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAncmVzdWx0JyA9PiAnb2snLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAnZmVlJyA9PiAkcHJpY2UtPmNhbGN1bGF0ZSgpLAogICAgICAgICAgICAncmVhbF9lc3RhdGUnICAgICAgID0+IGpzb25fZGVjb2RlKCRwcmljZS0+X190b1N0cmluZygpKSwKICAgICAgICBdOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9ICRob3VzZS0+Y2FsY3VsYXRlQ29tbWlzc2lvbigpOwo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICRkYXRhID0gJGhvdXNlLT5jYWxjdWxhdGVDb21taXNzaW9uKCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>else {
-        
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAnZmVlJyA9PiAkcHJpY2UtPmNhbGN1bGF0ZSgpLAogICAgICAgICAgICAncmVhbF9lc3RhdGUnICAgICAgID0+IGpzb25fZGVjb2RlKCRwcmljZS0+X190b1N0cmluZygpKSwKICAgICAgICBdOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
