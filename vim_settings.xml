@@ -295,10 +295,10 @@
         <mark key="^" line="70" column="6" />
         <mark key="." line="70" column="7" />
       </file>
-      <file name="$USER_HOME$/git/ptp/jobs/cs/index.php" timestamp="1499647389270">
-        <mark key="[" line="19" column="53" />
-        <mark key="]" line="19" column="54" />
-        <mark key="." line="19" column="54" />
+      <file name="$USER_HOME$/git/ptp/jobs/cs/index.php" timestamp="1499759710864">
+        <mark key="[" line="19" column="51" />
+        <mark key="]" line="19" column="51" />
+        <mark key="." line="19" column="51" />
         <mark key="^" line="19" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170705_2회차_총정리.log" timestamp="1499324590749">
@@ -467,8 +467,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2010,7 +2010,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>setR</text>
