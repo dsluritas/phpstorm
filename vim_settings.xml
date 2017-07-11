@@ -34,6 +34,13 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" timestamp="1499737674686">
+        <mark key="'" line="33" column="17" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="109" column="21" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170706_3회차_STEP1네이버PASS.log" timestamp="1499327847091">
         <mark key="[" line="117" column="0" />
         <mark key="]" line="117" column="0" />
@@ -58,6 +65,12 @@
         <mark key="]" line="29" column="30" />
         <mark key="." line="29" column="30" />
         <mark key="^" line="29" column="30" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Classes/Pager.php" timestamp="1499733612277">
+        <mark key="[" line="28" column="30" />
+        <mark key="]" line="28" column="3" />
+        <mark key="^" line="28" column="3" />
+        <mark key="." line="28" column="3" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_regist.blade.php" timestamp="1498632300834">
         <mark key="[" line="220" column="53" />
@@ -132,11 +145,6 @@
         <mark key="]" line="239" column="40" />
         <mark key="." line="239" column="40" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/database/migrations/2017_07_10_145136_create_share_friends_table.php" timestamp="1499666741437">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="35" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_home.blade.php" timestamp="1499076356648">
         <mark key="[" line="204" column="40" />
         <mark key="]" line="204" column="40" />
@@ -178,10 +186,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" timestamp="1499672848880">
-        <mark key="'" line="976" column="20" />
-        <mark key="[" line="973" column="0" />
-        <mark key="]" line="979" column="5" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" timestamp="1499734995086">
+        <mark key="'" line="1179" column="4" />
+        <mark key="[" line="1181" column="39" />
+        <mark key="]" line="1182" column="21" />
+        <mark key="." line="1182" column="21" />
+        <mark key="^" line="1182" column="21" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" timestamp="1499170775905">
         <mark key="'" line="57" column="33" />
@@ -238,7 +248,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499676592164">
+      <file name="/Dummy.txt" timestamp="1499735096526">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -256,12 +266,12 @@
         <mark key="]" line="239" column="40" />
         <mark key="." line="239" column="40" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1499669214645">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="813" column="7" />
-        <mark key="]" line="813" column="64" />
-        <mark key="^" line="813" column="64" />
-        <mark key="." line="813" column="64" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1499734801288">
+        <mark key="'" line="822" column="2" />
+        <mark key="[" line="821" column="13" />
+        <mark key="]" line="821" column="16" />
+        <mark key="." line="821" column="16" />
+        <mark key="^" line="821" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/PeterPan/네이버/20170706_3회차/20170706_3회차_오후5시.log" timestamp="1499331147051">
         <mark key="'" line="136" column="64" />
@@ -276,12 +286,12 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/ptp/jobs/number/index.php" timestamp="1499684008434">
+      <file name="$USER_HOME$/git/ptp/jobs/number/index.php" timestamp="1499732642874">
         <mark key="'" line="35" column="12" />
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="15" column="39" />
-        <mark key="." line="15" column="39" />
-        <mark key="^" line="15" column="39" />
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_8.log" timestamp="1499166740232">
         <mark key="'" line="3" column="5" />
@@ -343,57 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
-      <jump line="166" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
-      <jump line="169" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
-      <jump line="44" column="32" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
-      <jump line="45" column="31" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
-      <jump line="46" column="33" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
-      <jump line="53" column="86" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
-      <jump line="56" column="86" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
-      <jump line="57" column="33" filename="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" />
-      <jump line="12" column="5" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_1.log" />
-      <jump line="414" column="21" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_1.log" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_2.log" />
-      <jump line="692" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_2.log" />
-      <jump line="100" column="5" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_2.log" />
-      <jump line="12" column="44" filename="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_7.log" />
-      <jump line="133" column="7" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_3.log" />
-      <jump line="59" column="0" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
-      <jump line="16" column="21" filename="$USER_HOME$/git/ptp/jobs/naver/index.html" />
-      <jump line="14" column="18" filename="$USER_HOME$/git/ptp/jobs/naver/Controller/idx.php" />
-      <jump line="19" column="0" filename="$USER_HOME$/git/ptp/jobs/naver/Controller/status.php" />
-      <jump line="60" column="0" filename="$USER_HOME$/git/ptp/jobs/naver/Controller/status.php" />
-      <jump line="6" column="0" filename="$USER_HOME$/git/ptp/jobs/naver/Controller/status.php" />
-      <jump line="22" column="44" filename="$USER_HOME$/git/ptp/jobs/naver/Controller/status.php" />
-      <jump line="61" column="0" filename="$USER_HOME$/git/ptp/jobs/naver/Controller/status.php" />
-      <jump line="13" column="0" filename="$USER_HOME$/git/ptp/jobs/naver/Controller/status.php" />
-      <jump line="10" column="0" filename="$USER_HOME$/git/ptp/jobs/naver/Controller/status.php" />
-      <jump line="62" column="15" filename="$USER_HOME$/git/ptp/jobs/naver/Controller/status.php" />
-      <jump line="78" column="13" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
-      <jump line="22" column="0" filename="$USER_HOME$/git/ptp/jobs/naver/index.html" />
-      <jump line="0" column="12" filename="$USER_HOME$/git/ptp/jobs/naver/index.html" />
-      <jump line="60" column="0" filename="$USER_HOME$/git/ptp/jobs/naver/index.html" />
-      <jump line="6" column="0" filename="$USER_HOME$/git/ptp/jobs/naver/index.html" />
-      <jump line="114" column="0" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
-      <jump line="9" column="0" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
-      <jump line="28" column="0" filename="$USER_HOME$/git/ptp/jobs/naver/Controller/status.php" />
-      <jump line="63" column="16" filename="$USER_HOME$/git/ptp/jobs/naver/Controller/status.php" />
-      <jump line="23" column="0" filename="$USER_HOME$/git/ptp/jobs/naver/Controller/status.php" />
-      <jump line="23" column="0" filename="$USER_HOME$/git/ptp/jobs/naver/index.html" />
-      <jump line="49" column="25" filename="$USER_HOME$/git/ptp/jobs/naver/index.html" />
-      <jump line="57" column="50" filename="$USER_HOME$/git/ptp/jobs/naver/index.html" />
-      <jump line="56" column="8" filename="$USER_HOME$/git/ptp/jobs/naver/index.html" />
-      <jump line="65" column="23" filename="$USER_HOME$/git/ptp/jobs/naver/Controller/status.php" />
-      <jump line="18" column="5" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_5.log" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_5.log" />
-      <jump line="1043" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_5.log" />
-      <jump line="201" column="38" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_5.log" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_5.log" />
-      <jump line="191" column="38" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_5.log" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_5.log" />
-      <jump line="182" column="35" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_3회차/20170705_naver_5.log" />
       <jump line="13" column="85" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170706_2회차_STEP3등록자_네이버전송.log" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170706_2회차_STEP3등록자_네이버전송.log" />
       <jump line="152" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170706_2회차_STEP3등록자_네이버전송.log" />
@@ -443,6 +402,57 @@
       <jump line="39" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
       <jump line="238" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="31" column="12" filename="$USER_HOME$/git/ptp/jobs/number/index.php" />
+      <jump line="4" column="13" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
+      <jump line="89" column="24" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
+      <jump line="123" column="15" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
+      <jump line="984" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
+      <jump line="1160" column="4" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
+      <jump line="36" column="21" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
+      <jump line="715" column="24" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="40" column="32" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="47" column="28" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="144" column="17" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="153" column="33" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="196" column="22" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="199" column="28" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="203" column="20" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="212" column="20" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="215" column="19" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="222" column="20" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="225" column="20" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="230" column="13" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="237" column="44" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="240" column="26" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="243" column="67" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="246" column="26" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="440" column="33" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="455" column="58" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="461" column="30" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="473" column="3" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="474" column="53" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="475" column="10" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="476" column="47" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="477" column="10" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="478" column="51" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="487" column="3" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="488" column="49" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="567" column="57" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="572" column="67" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="590" column="73" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="596" column="53" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="609" column="78" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="620" column="17" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="615" column="67" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="798" column="81" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="197" column="4" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
+      <jump line="822" column="2" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="42" column="15" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
+      <jump line="105" column="8" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
+      <jump line="141" column="21" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
+      <jump line="102" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
+      <jump line="116" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
+      <jump line="216" column="13" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
+      <jump line="33" column="17" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -463,8 +473,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdHlwZSk7Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2006,49 +2016,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>retv</text>
       </register>
       <register name="/" type="4">
-        <text>find</text>
+        <text>getCa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQU5EIG1vYmlsZV9waG9uZSAhPSBcJy0tXCcgCg==</text>
+        <text encoding="base64">ICAgICAgICAkdHlwZXMgPSBbCiAgICAgICAgICAgICfso7ztg50nICAgPT4gWwogICAgICAgICAgICAgICAgJ+u5jOudvCcsICfso7ztg50nLCAn67mM6528L+yjvO2DnScsICfso7ztg50v67mM6528JywgJ+yVhO2MjO2KuCcsCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICfsmKTtlLzsiqTthZQnID0+IFsKICAgICAgICAgICAgICAgICfsmKTtlLzsiqTthZQnCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICfquLDtg4AnICAgPT4gWwogICAgICAgICAgICAgICAgJ+yDgeqwgCcsICfsgqzrrLTsi6QnLCAn7IOB6rCAL+yCrOustOyLpCcsICfsgqzrrLTsi6Qv7IOB6rCAJywKICAgICAgICAgICAgXQogICAgICAgIF07CgogICAgICAgICR0eXBlID0gJ+yjvO2DnSc7CiAgICAgICAgZm9yZWFjaCAoJHR5cGVzIGFzICRrZXkgPT4gJHZhbHVlKSB7CiAgICAgICAgICAgIGlmIChpbl9hcnJheSgkdGhpcy0+Y2F0ZWdvcnksICR2YWx1ZSkpIHsKICAgICAgICAgICAgICAgICR0eXBlID0gJGtleTsKICAgICAgICAgICAgfTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdHlwZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJzwvcHJlPic7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY2F0ZWdvcnkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnRfcigkZGF0YSk7CmVjaG8gJzwvcHJlPic7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICfsg4HqsIAnLCAn7IKs66y07IukJywgJ+yDgeqwgC/sgqzrrLTsi6QnLCAn7IKs66y07IukL+yDgeqwgCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCR2YWx1ZVsndWlkeCddKTsKICAgIGRpZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ+q4sO2DgCcgICA9PiBbCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJGRhdGEpOwpkaWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkYXJyID0gWwogICAgICAgICAgICAn67mM6528JyAgICA9PiAn7KO87YOdJywKICAgICAgICAgICAgJ+yjvO2DnScgICAgPT4gJ+yjvO2DnScsCiAgICAgICAgICAgICfruYzrnbwv7KO87YOdJyA9PiAn7KO87YOdJywKCiAgICAgICAgICAgICfsmKTtlLzsiqTthZQnID0+ICfsmKTtlLzsiqTthZQnLAoKICAgICAgICAgICAgJ+yDgeqwgCcgICAgID0+ICfquLDtg4AnLAogICAgICAgICAgICAn7IKs66y07IukJyAgICA9PiAn6riw7YOAJywKICAgICAgICAgICAgJ+yDgeqwgC/sgqzrrLTsi6QnID0+ICfquLDtg4AnLAogICAgICAgIF07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWNobyAkc3FsOwpkaWUoKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmIChhcnJheV9rZXlfZXhpc3RzKCR0aGlzLT5jYXRlZ29yeSwgJGFycikpIHsKLy8gICAgICAgICAgICAkdmFsdWUgPSAkYXJyWyR0aGlzLT5jYXRlZ29yeV07Ci8vICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgICR2YWx1ZSA9ICfso7ztg50nOwovLyAgICAgICAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRpZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHR5cGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJGRhdHRhKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
       </register>
     </registers>
     <search>
-      <last-search>find</last-search>
+      <last-search>getCa</last-search>
       <last-offset />
-      <last-pattern>find</last-pattern>
+      <last-pattern>getCa</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2056,12 +2066,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYW5jZWxcPg==</entry>
-        <entry>form</entry>
-        <entry>string</entry>
-        <entry>:</entry>
-        <entry>이미</entry>
-        <entry>0109</entry>
         <entry>naver</entry>
         <entry encoding="base64">XDxzdGVwXD4=</entry>
         <entry>clientID</entry>
@@ -2076,6 +2080,12 @@
         <entry>master</entry>
         <entry>FindOr</entry>
         <entry>find</entry>
+        <entry encoding="base64">XDxydWxlc1w+</entry>
+        <entry>house</entry>
+        <entry>HouseSale</entry>
+        <entry>오피스테</entry>
+        <entry>오피스</entry>
+        <entry>getCa</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
