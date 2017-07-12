@@ -17,7 +17,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="44" column="6" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" timestamp="1499827503215" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" timestamp="1499844872995">
+        <mark key="[" line="198" column="14" />
+        <mark key="]" line="198" column="18" />
+        <mark key="." line="198" column="18" />
+        <mark key="^" line="198" column="18" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/User.php" timestamp="1499677784278">
         <mark key="'" line="559" column="0" />
         <mark key="[" line="582" column="0" />
@@ -37,7 +42,7 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="237" column="30" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" timestamp="1499841771913">
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" timestamp="1499844674850">
         <mark key="[" line="60" column="64" />
         <mark key="]" line="60" column="63" />
         <mark key="." line="60" column="63" />
@@ -203,6 +208,9 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" timestamp="1499844692021">
+        <mark key="'" line="40" column="23" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/vendor/composer/autoload_classmap.php" timestamp="1499823626539" />
       <file name="$USER_HOME$/.composer/vendor/laravel/valet/server.php" timestamp="1498537161953">
         <mark key="[" line="128" column="1" />
@@ -330,8 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="984" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
-      <jump line="1160" column="4" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
       <jump line="36" column="21" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
       <jump line="715" column="24" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
       <jump line="40" column="32" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
@@ -430,6 +436,8 @@
       <jump line="171" column="34" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/MapViewController.php" />
       <jump line="272" column="18" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/MapViewController.php" />
       <jump line="275" column="39" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/MapViewController.php" />
+      <jump line="38" column="14" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" />
+      <jump line="40" column="23" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -451,7 +459,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>toSql()</text>
+        <text>$this</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1993,10 +2001,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>toSql()</text>
+        <text>$this</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqUm93XD4=</text>
+        <text>form</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gJGRiLT5ncm91cEJ5KCdzaWd1bmd1JyktPmdyb3VwQnkoJ2FkbWluX2RvbmcnKS0+Z2V0KCk7Cg==</text>
@@ -2033,9 +2041,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqUm93XD4=</last-search>
+      <last-search>form</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqUm93XD4=</last-pattern>
+      <last-pattern>form</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2043,7 +2051,6 @@
     </search>
     <history>
       <history-search>
-        <entry>status</entry>
         <entry>user</entry>
         <entry>user()</entry>
         <entry>master_id</entry>
@@ -2063,6 +2070,7 @@
         <entry encoding="base64">XDxyZXR1cm5fanNvblw+</entry>
         <entry encoding="base64">XDxtYXJrZXJfbGlzdFw+</entry>
         <entry encoding="base64">XDxqUm93XD4=</entry>
+        <entry>form</entry>
       </history-search>
       <history-cmd>
         <entry>17</entry>
