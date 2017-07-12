@@ -22,12 +22,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="44" column="6" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/User.php" timestamp="1499677784278">
-        <mark key="'" line="559" column="0" />
-        <mark key="[" line="582" column="0" />
-        <mark key="]" line="582" column="0" />
-        <mark key="." line="582" column="0" />
-      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" timestamp="1499827503215" />
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Api/adjustController.php" timestamp="1499666579188">
         <mark key="[" line="13" column="5" />
         <mark key="]" line="14" column="20" />
@@ -108,7 +103,7 @@
         <mark key="." line="21" column="10" />
         <mark key="^" line="66" column="22" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/database/migrations/2017_07_10_150846_create_share_friends_table.php" timestamp="1499673989433">
+      <file name="$USER_HOME$/git/ptp/duseAPI/database/migrations/2017_07_10_150846_create_share_friends_table.php" timestamp="1499827418607">
         <mark key="[" line="14" column="24" />
         <mark key="]" line="14" column="39" />
         <mark key="." line="14" column="39" />
@@ -158,12 +153,12 @@
         <mark key="]" line="204" column="40" />
         <mark key="." line="204" column="40" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1499823833726">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="1" column="12" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1499827608260">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="63" column="18" />
+        <mark key="]" line="64" column="28" />
+        <mark key="^" line="64" column="28" />
+        <mark key="." line="64" column="28" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/Adjust/eventController.php" timestamp="1499678760546">
         <mark key="[" line="17" column="39" />
@@ -200,7 +195,7 @@
         <mark key="]" line="1228" column="0" />
         <mark key="." line="1228" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" timestamp="1499170775905">
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" timestamp="1499827776865">
         <mark key="'" line="57" column="33" />
         <mark key="[" line="42" column="39" />
         <mark key="]" line="42" column="39" />
@@ -359,9 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="7" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
-      <jump line="49" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
-      <jump line="84" column="19" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
       <jump line="154" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
       <jump line="55" column="14" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
       <jump line="96" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
@@ -459,6 +451,9 @@
       <jump line="9" column="15" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
       <jump line="54" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
       <jump line="16" column="0" filename="$USER_HOME$/git/ptp/peterWEB/database/migrations/2017_06_22_105624_create_payment_logs_table.php" />
+      <jump line="2" column="12" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
+      <jump line="8" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
     </jumps>
     <registers>
       <register name="a" type="4">
