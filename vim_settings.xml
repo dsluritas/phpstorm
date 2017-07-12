@@ -197,12 +197,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" timestamp="1499747029231">
-        <mark key="'" line="72" column="7" />
-        <mark key="[" line="1228" column="0" />
-        <mark key="]" line="1228" column="0" />
-        <mark key="." line="1228" column="0" />
-      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Libraries/Inicis/src/Inicis.php" timestamp="1499827776865">
         <mark key="'" line="57" column="33" />
         <mark key="[" line="42" column="39" />
@@ -311,12 +305,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/ptp/jobs/number/index.php" timestamp="1499732642874">
+      <file name="$USER_HOME$/git/ptp/jobs/number/index.php" timestamp="1499838678340">
         <mark key="'" line="35" column="12" />
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="30" />
-        <mark key="^" line="4" column="26" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PeterPan/네이버/201704/20170704_naver_8.log" timestamp="1499166740232">
         <mark key="'" line="3" column="5" />
@@ -325,11 +318,11 @@
         <mark key="^" line="70" column="6" />
         <mark key="." line="70" column="7" />
       </file>
-      <file name="$USER_HOME$/git/ptp/jobs/cs/index.php" timestamp="1499759710864">
+      <file name="$USER_HOME$/git/ptp/jobs/cs/index.php" timestamp="1499837744532">
         <mark key="[" line="19" column="51" />
-        <mark key="]" line="19" column="51" />
-        <mark key="." line="19" column="51" />
-        <mark key="^" line="19" column="54" />
+        <mark key="]" line="27" column="20" />
+        <mark key="." line="27" column="20" />
+        <mark key="^" line="27" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170705_2회차_총정리.log" timestamp="1499324590749">
         <mark key="'" line="63" column="38" />
@@ -499,7 +492,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">SU5JQ0lTX1NJR05LRVk9U1U1SlRFbFVSVjlVVWtsUVRFVkVSVk5mUzBWWlUxUlMKSU5JQ0lTX01JRD1JTklwYXlUZXN0CklOSUNJU19WRVJTSU9OPTEuMApJTklDSVNfVVJMPWh0dHA6Ly9kdXNlYXBpLmRldgo=</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRkYXRhKTsKICAgIGRpZSgpOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2041,7 +2034,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>purchase</text>
@@ -2050,34 +2043,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZHgnKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ29pZCcsIDI1NSktPmNvbW1lbnQoJ+q1rOunpOuyiO2YuCcpOwogICAgICAgICAgICAkdGFibGUtPmludGVnZXIoJ3VpZHgnKS0+dW5zaWduZWQoKTsKLy8gICAgICAgICAgICAkdGFibGUtPmZvcmVpZ24oJ3VpZHgnKS0+cmVmZXJlbmNlcygndWlkeCcpLT5vbigndXNlcnMnKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3Byb2R1Y3QnKTsKICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdwcmljZScpOwogICAgICAgICAgICAkdGFibGUtPnN0cmluZygncmVzdWx0X2NvZGUnKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3Jlc3VsdF9tc2cnKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2F1dGhfdXJsJyk7CiAgICAgICAgICAgICR0YWJsZS0+c3RyaW5nKCdhdXRoX3Rva2VuJyk7CiAgICAgICAgICAgICR0YWJsZS0+c3RyaW5nKCduZXRfY2FuY2VsX3VybCcpOwogICAgICAgICAgICAkdGFibGUtPm1lZGl1bVRleHQoJ3Jhd19kYXRhJyk7CiAgICAgICAgICAgICR0YWJsZS0+ZW51bSgnc3RhdHVzJywgWydjcmVhdGUnLCdpbl9wcm9ncmVzcycsICdkb25lJywgJ2Vycm9yJ10pLT5jb21tZW50KCdjcmVhdGU66rKw7KCc7Y6Y7J207KeA7KCR7IaNXG5pbl9wcm9ncmVzczrqsrDsoJzrsoTtirztgbTrpq1cbmRvbmU66rKw7KCc7JmE66OMXG5lcnJvcjrqsrDsoJzsl5Drn6wnKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3BhcnRuZXInKTsKICAgICAgICAgICAgJHRhYmxlLT5tZWRpdW1UZXh0KCdkZXZpY2UnKTsKICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXBzKCk7CiAgICAgICAgICAgICR0YWJsZS0+bWVkaXVtVGV4dCgnbWVtbycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SU5JQ0lTX1NJR05LRVk9U1U1SlRFbFVSVjlVVWtsUVRFVkVSVk5mUzBWWlUxUlMKSU5JQ0lTX01JRD1JTklwYXlUZXN0CklOSUNJU19WRVJTSU9OPTEuMApJTklDSVNfVVJMPWh0dHA6Ly9kdXNlYXBpLmRldgo=</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRkYXRhKTsKICAgIGRpZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8aWZyYW1lIG5hbWU9ImluaXBheSIgd2lkdGg9IjgwMHB4IiBoZWlnaHQ9IjU1MHB4Ij48L2lmcmFtZT4K</text>
+        <text encoding="base64">ICAgIGRpZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8Zm9ybSBpZD0iU2VuZFBheUZvcm1faWQiIG5hbWU9IiIgbWV0aG9kPSJQT1NUIiB0YXJnZXQ9ImluaXBheSI+Cg==</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJGRhdGEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">SU5JQ0lTX1NJR05LRVk9U1U1SlRFbFVSVjlVVWtsUVRFVkVSVk5mUzBWWlUxUlMKSU5JQ0lTX01JRD1JTklwYXlUZXN0CklOSUNJU19WRVJTSU9OPTEuMApJTklDSVNfVVJMPWh0dHA6Ly9kdXNlYXBpLmRldgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnQ3JlYXRlU2hhcmVGcmllbmRzVGFibGUnID0+IF9fRElSX18gLiAnLy4uLy4uJyAuICcvZGF0YWJhc2UvbWlncmF0aW9ucy8yMDE3XzA3XzEwXzE0NTEzNl9jcmVhdGVfc2hhcmVfZnJpZW5kc190YWJsZS5waHAnLAo=</text>
+        <text encoding="base64">ICAgICAgICA8aWZyYW1lIG5hbWU9ImluaXBheSIgd2lkdGg9IjgwMHB4IiBoZWlnaHQ9IjU1MHB4Ij48L2lmcmFtZT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdDcmVhdGVTaGFyZUZyaWVuZHNUYWJsZScgPT4gJGJhc2VEaXIgLiAnL2RhdGFiYXNlL21pZ3JhdGlvbnMvMjAxN18wN18xMF8xNDUxMzZfY3JlYXRlX3NoYXJlX2ZyaWVuZHNfdGFibGUucGhwJywK</text>
+        <text encoding="base64">ICAgICAgICA8Zm9ybSBpZD0iU2VuZFBheUZvcm1faWQiIG5hbWU9IiIgbWV0aG9kPSJQT1NUIiB0YXJnZXQ9ImluaXBheSI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEB2ZXJzaW9uIAo=</text>
+        <text encoding="base64">ICAgICAgICAnQ3JlYXRlU2hhcmVGcmllbmRzVGFibGUnID0+IF9fRElSX18gLiAnLy4uLy4uJyAuICcvZGF0YWJhc2UvbWlncmF0aW9ucy8yMDE3XzA3XzEwXzE0NTEzNl9jcmVhdGVfc2hhcmVfZnJpZW5kc190YWJsZS5waHAnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnZGF0YScgICA9PiAkZGF0YSwK</text>
+        <text encoding="base64">ICAgICdDcmVhdGVTaGFyZUZyaWVuZHNUYWJsZScgPT4gJGJhc2VEaXIgLiAnL2RhdGFiYXNlL21pZ3JhdGlvbnMvMjAxN18wN18xMF8xNDUxMzZfY3JlYXRlX3NoYXJlX2ZyaWVuZHNfdGFibGUucGhwJywK</text>
       </register>
       <register name=":" type="4">
-        <text>x</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2113,8 +2106,6 @@
         <entry>purchase</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
-        <entry>594</entry>
         <entry>17</entry>
         <entry>92</entry>
         <entry>383</entry>
@@ -2133,6 +2124,8 @@
         <entry>63</entry>
         <entry>15</entry>
         <entry>x</entry>
+        <entry>27</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
