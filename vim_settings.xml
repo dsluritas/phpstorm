@@ -47,6 +47,11 @@
         <mark key="^" line="116" column="6" />
         <mark key="." line="117" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/vendor/composer/autoload_static.php" timestamp="1499823202100">
+        <mark key="[" line="413" column="0" />
+        <mark key="]" line="413" column="0" />
+        <mark key="." line="413" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1499677526851">
         <mark key="'" line="238" column="0" />
         <mark key="[" line="571" column="37" />
@@ -148,12 +153,12 @@
         <mark key="]" line="204" column="40" />
         <mark key="." line="204" column="40" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1499677215750">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="55" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1499823833726">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/Adjust/eventController.php" timestamp="1499678760546">
         <mark key="[" line="17" column="39" />
@@ -220,6 +225,7 @@
         <mark key="]" line="38" column="31" />
         <mark key="." line="38" column="30" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/vendor/composer/autoload_classmap.php" timestamp="1499823626539" />
       <file name="$USER_HOME$/.composer/vendor/laravel/valet/server.php" timestamp="1498537161953">
         <mark key="[" line="128" column="1" />
         <mark key="]" line="128" column="1" />
@@ -244,7 +250,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499741173087">
+      <file name="/Dummy.txt" timestamp="1499823627161">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -347,9 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170705_2회차/20170706_3회차_STEP1네이버PASS.log" />
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/PeterPan/네이버/20170706_3회차/20170706_3회차_오후5시.log" />
-      <jump line="136" column="64" filename="$USER_HOME$/Documents/PeterPan/네이버/20170706_3회차/20170706_3회차_오후5시.log" />
       <jump line="554" column="6" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="0" column="7" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
       <jump line="49" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
@@ -447,6 +450,9 @@
       <jump line="1" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
       <jump line="1246" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
       <jump line="72" column="7" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
+      <jump line="1065" column="4" filename="$USER_HOME$/git/ptp/peterWEB/vendor/composer/autoload_classmap.php" />
+      <jump line="9" column="15" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
+      <jump line="54" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -468,7 +474,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>production</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2010,40 +2016,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>production</text>
       </register>
       <register name="/" type="4">
         <text>setR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnY29tbWlzc2lvbicgPT4gJGNvbW1pc3Npb24sCg==</text>
+        <text encoding="base64">IyBBUFBfRU5WPXByb2R1Y3Rpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICAnQ3JlYXRlU2hhcmVGcmllbmRzVGFibGUnID0+IF9fRElSX18gLiAnLy4uLy4uJyAuICcvZGF0YWJhc2UvbWlncmF0aW9ucy8yMDE3XzA3XzEwXzE0NTEzNl9jcmVhdGVfc2hhcmVfZnJpZW5kc190YWJsZS5waHAnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEB2ZXJzaW9uIAo=</text>
+        <text encoding="base64">ICAgICdDcmVhdGVTaGFyZUZyaWVuZHNUYWJsZScgPT4gJGJhc2VEaXIgLiAnL2RhdGFiYXNlL21pZ3JhdGlvbnMvMjAxN18wN18xMF8xNDUxMzZfY3JlYXRlX3NoYXJlX2ZyaWVuZHNfdGFibGUucGhwJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnZGF0YScgICA9PiAkZGF0YSwK</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAncmVzdWx0JyA9PiAnb2snLAo=</text>
+        <text encoding="base64">ICAgICAqIEB2ZXJzaW9uIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnZGF0YScgICA9PiAkZGF0YSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICRkYXRhID0gJGhvdXNlLT5jYWxjdWxhdGVDb21taXNzaW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAncmVzdWx0JyA9PiAnb2snLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAnZmVlJyA9PiAkcHJpY2UtPmNhbGN1bGF0ZSgpLAogICAgICAgICAgICAncmVhbF9lc3RhdGUnICAgICAgID0+IGpzb25fZGVjb2RlKCRwcmljZS0+X190b1N0cmluZygpKSwKICAgICAgICBdOwo=</text>
+        <text encoding="base64">ICAgICRkYXRhID0gJGhvdXNlLT5jYWxjdWxhdGVDb21taXNzaW9uKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
