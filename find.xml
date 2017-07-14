@@ -19,6 +19,11 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>route</mask>
+      <mask>routes</mask>
+      <mask>routes.</mask>
+      <mask>routes.php</mask>
     </recentFileMasks>
   </component>
 </application>
