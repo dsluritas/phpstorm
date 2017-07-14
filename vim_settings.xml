@@ -55,7 +55,7 @@
         <mark key="]" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1499940998793">
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1500013703200">
         <mark key="'" line="497" column="28" />
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
@@ -177,7 +177,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_home.blade.php" timestamp="1500012035812" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_home.blade.php" timestamp="1500013621778">
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="16" />
+        <mark key="^" line="206" column="15" />
+        <mark key="." line="210" column="16" />
+      </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/VerificationReceiveController.php" timestamp="1499942416053">
         <mark key="[" line="534" column="0" />
         <mark key="]" line="534" column="0" />
@@ -289,12 +294,12 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyPurchaseController.php" timestamp="1500011185431">
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyPurchaseController.php" timestamp="1500014000508">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="38" column="33" />
-        <mark key="]" line="38" column="33" />
-        <mark key="." line="38" column="33" />
-        <mark key="^" line="38" column="33" />
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="38" column="14" />
+        <mark key="." line="38" column="14" />
+        <mark key="^" line="38" column="14" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/database/migrations/2017_07_12_110118_create_share_friends_table.php" timestamp="1499824923760">
         <mark key="[" line="27" column="20" />
@@ -309,7 +314,7 @@
         <mark key="." line="20" column="55" />
         <mark key="^" line="20" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500011232117">
+      <file name="/Dummy.txt" timestamp="1500013609835">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -534,8 +539,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2077,40 +2082,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/purchase</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>point</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0ic2VhcmNoLWRlc2MtMiI+7IOB7ZKI6rWs66ek66W8IOybkO2VmOyLnOuptCDtlLzthLDtjKzsnZgg7KKL7J2A67CpIOq1rO2VmOq4sCgxNjQ0LTM2NzAp66GcIOyXsOudveyjvOyEuOyalC48L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0ic2VhcmNoLWRlc2MtMyI+KOyeheygkOydtCDrqqjrkZAg7JmE66OM65CcIOyngOyXreydmCDqsr3smrAg7ZS87YSw7Yys7Jy866GcIOyXsOudveyjvOyLnOuptCDsmIjslb0g6rCA64ql7ZWp64uI64ukLik8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXJlY3QoKS0+cm91dGUoJ2FnZW5jeS9ndWlkZS9wZXRlcnBhbmgnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXJlY3QoKS0+cm91dGUoJ2FnZW5jeS9ndWlkZS9wZXRlcnBhbmgnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRleHQtY2VudGVyIiBzdHlsZT0iYmFja2dyb3VuZC1jb2xvcjogcmdiKDI0OSwyNDksMjQ5KSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCh1cmwoJy9hZ2VuY3kvZ3VpZGUvcGV0ZXJwYW4nKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9hZ2VuY3kvZ3VpZGUvcGV0ZXJwYW4iPgogICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvaW1hZ2VzL25hdmVyL24tcGV0ZXJwYW4tbW9kYWwtMDIucG5nIj4KICAgICAgICAgICAgICAgIDwvYT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9hZ2VuY3kvcHVyY2hhc2UiPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9hZ2VuY3kvZ3VpZGUvcGV0ZXJwYW4iPgogICAgICAgICAgICAgICAgICAgIDxpbWcgc3R5bGU9Im1hcmdpbi1sZWZ0OiAtNHB4OyIgc3JjPSIvaW1hZ2VzL25hdmVyL24tcGV0ZXJwYW4tbW9kYWwtMDMucG5nIj4KICAgICAgICAgICAgICAgIDwvYT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9hZ2VuY3kvZ3VpZGUvcGV0ZXJwYW4iPgogICAgICAgICAgICAgICAgICAgIDxpbWcgc3R5bGU9Im1hcmdpbi1sZWZ0OiAtNHB4OyIgc3JjPSIvaW1hZ2VzL25hdmVyL24tcGV0ZXJwYW4tbW9kYWwtMDMucG5nIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRleHQtY2VudGVyIiBzdHlsZT0iYmFja2dyb3VuZC1jb2xvcjogcmdiKDI0OSwyNDksMjQ5KSI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXJlY3QoKS0+YmFjaygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEhISEhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9hZ2VuY3kvZ3VpZGUvcGV0ZXJwYW4iPgogICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvaW1hZ2VzL25hdmVyL24tcGV0ZXJwYW4tbW9kYWwtMDIucG5nIj4KICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9hZ2VuY3kvZ3VpZGUvcGV0ZXJwYW4iPgogICAgICAgICAgICAgICAgICAgIDxpbWcgc3R5bGU9Im1hcmdpbi1sZWZ0OiAtNHB4OyIgc3JjPSIvaW1hZ2VzL25hdmVyL24tcGV0ZXJwYW4tbW9kYWwtMDMucG5nIj4KICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name=":" type="4">
         <text>356</text>
