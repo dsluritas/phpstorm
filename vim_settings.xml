@@ -85,7 +85,7 @@
         <mark key="^" line="138" column="6" />
         <mark key="." line="138" column="7" />
       </file>
-      <file name="/PHP Console" timestamp="1500266750545">
+      <file name="/PHP Console" timestamp="1500275582267">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/NaverMap.vue" timestamp="1499855911530">
@@ -122,7 +122,7 @@
       <file name="$USER_HOME$/git/ptp/duseAPI/.env" timestamp="1499940447639">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500271967658">
+      <file name="/Dummy.txt" timestamp="1500275401486">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -147,8 +147,8 @@
         <mark key="]" line="203" column="0" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1500015022629">
-        <mark key="'" line="673" column="27" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1500275014883">
+        <mark key="'" line="440" column="19" />
         <mark key="[" line="831" column="55" />
         <mark key="]" line="831" column="55" />
         <mark key="." line="831" column="55" />
@@ -191,11 +191,11 @@
         <mark key="^" line="214" column="6" />
         <mark key="." line="214" column="7" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" timestamp="1500272058684">
-        <mark key="[" line="1105" column="31" />
-        <mark key="]" line="1107" column="10" />
-        <mark key="." line="1107" column="10" />
-        <mark key="^" line="1107" column="10" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" timestamp="1500275160885">
+        <mark key="[" line="1104" column="119" />
+        <mark key="]" line="1104" column="119" />
+        <mark key="." line="1104" column="119" />
+        <mark key="^" line="1104" column="119" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/vendor/phpunit/phpunit/src/Extensions/TicketListener.php" timestamp="1499664137398">
         <mark key="'" line="170" column="25" />
@@ -223,7 +223,7 @@
       <file name="$USER_HOME$/git/ptp/duseAPI/database/migrations/2017_07_07_151830_Organization_index_house_relation_table.php" timestamp="1499669127862">
         <mark key="'" line="31" column="80" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" timestamp="1500015111682">
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" timestamp="1500275578906">
         <mark key="'" line="324" column="0" />
         <mark key="[" line="1235" column="0" />
         <mark key="]" line="1235" column="0" />
@@ -245,10 +245,9 @@
         <mark key="^" line="122" column="47" />
         <mark key="." line="122" column="61" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/AgencyController.php" timestamp="1500275392924" />
     </filemarks>
     <jumps>
-      <jump line="152" column="27" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="164" column="98" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="169" column="18" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="370" column="20" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
       <jump line="1534" column="17" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
@@ -347,6 +346,8 @@
       <jump line="217" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_regist.blade.php" />
       <jump line="224" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_regist.blade.php" />
       <jump line="33" column="22" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_regist.blade.php" />
+      <jump line="805" column="57" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="440" column="19" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -368,7 +369,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>$</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1910,49 +1911,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PGZvcm0=</text>
+        <text>old_purchased_house_list</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IHZhbHVlPSJ7eyBvbGQoJ3RlbGVwaG9uZS4wJykgfX0i</text>
+        <text>Helper::getApiPath() . '/agency/old_purchased_house_list/' . $uidx . '/' . $type . '?is_total=' . $is_total</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UtPmdldEJvZHkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UtPmdldEJvZHkoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGh0bWwgKz0gIjxzcGFuIHN0eWxlPSdiYWNrZ3JvdW5kOiAjMUNEMUEwOyBjb2xvcjogd2hpdGU7Jz7tmITsnqXtmZXsnbg8L3NwYW4+IjsK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1ZygkdWlkeCk7Cg==</text>
+        <text encoding="base64">ICAgIGh0bWwgKz0gIjxzcGFuIHN0eWxlPSdiYWNrZ3JvdW5kOiAjMUNEMUEwOyBjb2xvcjogd2hpdGU7Jz7tmITsnqXtmZXsnbg8L3NwYW4+IjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdWlkeCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1ZygkdWlkeCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQ+CiAgICAgICAgJChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIGlmICh0cnVlKSB7CgoKICAgICAgICAgICAgICAgICQoJyNhZ2VuY3lfbmFtZScpLnZhbCgn7YWM7Iqk7Yq46rmA7J6s6rWtJyk7CgogICAgICAgICAgICAgICAgJCgnI3JlZ2lzdHJhdGlvbl9jb2RlXzEnKS52YWwoJzExMScpOwogICAgICAgICAgICAgICAgJCgnI3JlZ2lzdHJhdGlvbl9jb2RlXzInKS52YWwoJzExJyk7CiAgICAgICAgICAgICAgICAkKCcjcmVnaXN0cmF0aW9uX2NvZGVfMycpLnZhbCgnMTExMTEnKTsKCiAgICAgICAgICAgICAgICAkKCcjY2VvX25hbWUnKS52YWwoJ+q5gOyerOq1rScpOwoKCiAgICAgICAgICAgICAgICAkKCcjdGVsZXBob25lXzInKS52YWwoJzExMTEnKTsKICAgICAgICAgICAgICAgICQoJyN0ZWxlcGhvbmVfMycpLnZhbCgnMTExMScpOwoKICAgICAgICAgICAgICAgICQoJyNtb2JpbGVfcGhvbmVfMicpLnZhbCgnMTExMScpOwogICAgICAgICAgICAgICAgJCgnI21vYmlsZV9waG9uZV8zJykudmFsKCcxMTExJyk7CgoKICAgICAgICAgICAgICAgICQoJyNoaWRkZW5Qb3N0Y29kZScpLnZhbCgnMDYwMzUnKTsKICAgICAgICAgICAgICAgICQoJyNoaWRkZW5Sb2FkQWRkcmVzcycpLnZhbCgn7ISc7Jq4IOqwleuCqOq1rCDqsJXrgqjrjIDroZwgNjE2ICjsi6Dsgqzrj5kpJyk7CiAgICAgICAgICAgICAgICAkKCcjaGlkZGVuSmlidW5BZGRyZXNzJykudmFsKCfshJzsmrgg6rCV64Ko6rWsIOyLoOyCrOuPmSA1MDEnKTsKICAgICAgICAgICAgICAgICQoJyNoaWRkZW5BZGRyZXNzVHlwZScpLnZhbCgnUicpOwoKICAgICAgICAgICAgICAgICQoJyNkZXRhaWxBZGRyZXNzJykudmFsKCcxMDPtmLgnKTsKCgogICAgICAgICAgICAgICAgJCgnI2FnZW5jeS1lbWFpbCcpLnZhbCgnbHVyaXRhc0BkdXNlLmNvLmtyJyk7CgogICAgICAgICAgICAgICAgJCgnI3Bhc3N3b3JkJykudmFsKCcxMDPtmLgnKTsKICAgICAgICAgICAgICAgICQoJyNwYXNzd29yZF9jb25maXJtYXRpb24nKS52YWwoJzEwM+2YuCcpOwogICAgICAgICAgICB9CgogICAgICAgIH0pOwoKCiAgICA8L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdWlkeCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YVsnam9pbl9wYXRoJ10gPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQ+CiAgICAgICAgJChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIGlmICh0cnVlKSB7CgoKICAgICAgICAgICAgICAgICQoJyNhZ2VuY3lfbmFtZScpLnZhbCgn7YWM7Iqk7Yq46rmA7J6s6rWtJyk7CgogICAgICAgICAgICAgICAgJCgnI3JlZ2lzdHJhdGlvbl9jb2RlXzEnKS52YWwoJzExMScpOwogICAgICAgICAgICAgICAgJCgnI3JlZ2lzdHJhdGlvbl9jb2RlXzInKS52YWwoJzExJyk7CiAgICAgICAgICAgICAgICAkKCcjcmVnaXN0cmF0aW9uX2NvZGVfMycpLnZhbCgnMTExMTEnKTsKCiAgICAgICAgICAgICAgICAkKCcjY2VvX25hbWUnKS52YWwoJ+q5gOyerOq1rScpOwoKCiAgICAgICAgICAgICAgICAkKCcjdGVsZXBob25lXzInKS52YWwoJzExMTEnKTsKICAgICAgICAgICAgICAgICQoJyN0ZWxlcGhvbmVfMycpLnZhbCgnMTExMScpOwoKICAgICAgICAgICAgICAgICQoJyNtb2JpbGVfcGhvbmVfMicpLnZhbCgnMTExMScpOwogICAgICAgICAgICAgICAgJCgnI21vYmlsZV9waG9uZV8zJykudmFsKCcxMTExJyk7CgoKICAgICAgICAgICAgICAgICQoJyNoaWRkZW5Qb3N0Y29kZScpLnZhbCgnMDYwMzUnKTsKICAgICAgICAgICAgICAgICQoJyNoaWRkZW5Sb2FkQWRkcmVzcycpLnZhbCgn7ISc7Jq4IOqwleuCqOq1rCDqsJXrgqjrjIDroZwgNjE2ICjsi6Dsgqzrj5kpJyk7CiAgICAgICAgICAgICAgICAkKCcjaGlkZGVuSmlidW5BZGRyZXNzJykudmFsKCfshJzsmrgg6rCV64Ko6rWsIOyLoOyCrOuPmSA1MDEnKTsKICAgICAgICAgICAgICAgICQoJyNoaWRkZW5BZGRyZXNzVHlwZScpLnZhbCgnUicpOwoKICAgICAgICAgICAgICAgICQoJyNkZXRhaWxBZGRyZXNzJykudmFsKCcxMDPtmLgnKTsKCgogICAgICAgICAgICAgICAgJCgnI2FnZW5jeS1lbWFpbCcpLnZhbCgnbHVyaXRhc0BkdXNlLmNvLmtyJyk7CgogICAgICAgICAgICAgICAgJCgnI3Bhc3N3b3JkJykudmFsKCcxMDPtmLgnKTsKICAgICAgICAgICAgICAgICQoJyNwYXNzd29yZF9jb25maXJtYXRpb24nKS52YWwoJzEwM+2YuCcpOwogICAgICAgICAgICB9CgogICAgICAgIH0pOwoKCiAgICA8L3NjcmlwdD4K</text>
       </register>
       <register name=":" type="4">
         <text>356</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PGZvcm0=</last-search>
+      <last-search>old_purchased_house_list</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PGZvcm0=</last-pattern>
+      <last-pattern>old_purchased_house_list</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1960,7 +1961,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXN1bHRNYXBcPg==</entry>
         <entry>고객센터</entry>
         <entry>env</entry>
         <entry>public</entry>
@@ -1980,6 +1980,7 @@
         <entry>김재국</entry>
         <entry>create</entry>
         <entry encoding="base64">PGZvcm0=</entry>
+        <entry>old_purchased_house_list</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
