@@ -140,8 +140,12 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-product.blade.php" timestamp="1500010395185">
         <mark key="'" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1500366841703">
-        <mark key="'" line="391" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1500372004311">
+        <mark key="'" line="275" column="12" />
+        <mark key="[" line="277" column="19" />
+        <mark key="]" line="277" column="20" />
+        <mark key="." line="277" column="20" />
+        <mark key="^" line="283" column="21" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" timestamp="1500010634545">
         <mark key="[" line="16" column="43" />
@@ -163,6 +167,12 @@
       </file>
       <file name="/PHP Console" timestamp="1500359507876">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/public/js/house_detail.js" timestamp="1500371943616">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="68" column="2" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/NaverMap.vue" timestamp="1499855911530">
         <mark key="'" line="329" column="30" />
@@ -191,7 +201,7 @@
         <mark key="." line="20" column="55" />
         <mark key="^" line="20" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500366934351">
+      <file name="/Dummy.txt" timestamp="1500368529884">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -283,9 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1239" column="4" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
-      <jump line="323" column="25" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
-      <jump line="1234" column="10" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
       <jump line="24" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
       <jump line="324" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
       <jump line="13" column="20" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
@@ -381,8 +388,11 @@
       <jump line="240" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="31" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
       <jump line="385" column="24" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
-      <jump line="248" column="24" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
       <jump line="391" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="394" column="22" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="133" column="33" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="248" column="38" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="275" column="12" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -404,7 +414,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnVCcgPT4gJ+yghO2ZlO2ZleyduCcsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCfsp4Drj4TsnZgg7ZiE7J6sIO2ZleuMgOugiOuyqOydgCAnICsgbWFwLmdldExldmVsKCkgKyfroIjrsqgg7J6F64uI64ukLicpOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1946,49 +1956,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>staticM</text>
       </register>
       <register name="/" type="4">
-        <text>daum</text>
+        <text>map</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnVCcgPT4gJ+yghO2ZlO2ZleyduCcsCg==</text>
+        <text encoding="base64">bWFwLnNldE1heFpvb20oMTIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRuYXZlclZlcmlmaWNhdGlvbiA9IE5hdmVyVmVyaWZpY2F0aW9uOjpXaGVyZSgnaGlkeCcsICRob3VzZU1vZGVsLT5oaWR4KQogICAgICAgICAgICAgICAgICAgIC0+b3JkZXJCeSgndXBkYXRlZF9hdCcsICdkZXNjJykKICAgICAgICAgICAgICAgICAgICAtPmZpcnN0KCk7CiAgICAgICAgICAgICAgICAkdmVyaWZpY2F0aW9uVHlwZSA9IGlzc2V0KCRuYXZlclZlcmlmaWNhdGlvbi0+dmVyaWZpY2F0aW9uX3R5cGUpPyAkbmF2ZXJWZXJpZmljYXRpb24tPnZlcmlmaWNhdGlvbl90eXBlOiAnRCc7CiAgICAgICAgICAgICAgICAkdmVyaWZpY2F0aW9uVHlwZURhdGEgPSBbCiAgICAgICAgICAgICAgICAgICAgJ0QnID0+ICftmY3rs7TtmZXsnbjshJwnLAogICAgICAgICAgICAgICAgICAgICdUJyA9PiAn7KCE7ZmU7ZmV7J24JywKICAgICAgICAgICAgICAgICAgICAnTScgPT4gJ+uqqOuwlOydvO2ZleyduCcsCiAgICAgICAgICAgICAgICAgICAgJ1MnID0+ICftmITsnqXtmZXsnbgnLAogICAgICAgICAgICAgICAgICAgICdPJyA9PiAn66qo67CU7J287ZmV7J24VjInLAogICAgICAgICAgICAgICAgXTsKICAgICAgICAgICAgICAgICRyZXN1bHRbJGluZGV4XVsnaG91c2VJbmZvJ11bJ25hdmVyJ10gPSBbCiAgICAgICAgICAgICAgICAgICAgImlkIiAgID0+ICRuYXZlclN0YXR1cy0+bmF2ZXJfaWQsCiAgICAgICAgICAgICAgICAgICAgInR5cGUiID0+IGlzc2V0KCR2ZXJpZmljYXRpb25UeXBlRGF0YVskdmVyaWZpY2F0aW9uVHlwZV0pPyAkdmVyaWZpY2F0aW9uVHlwZURhdGFbJHZlcmlmaWNhdGlvblR5cGVdOiAnRCcsCiAgICAgICAgICAgICAgICBdOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCfsp4Drj4TsnZgg7ZiE7J6sIO2ZleuMgOugiOuyqOydgCAnICsgbWFwLmdldExldmVsKCkgKyfroIjrsqgg7J6F64uI64ukLicpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aWYgKG1hcC5nZXRMZXZlbCgpID4gNSkgewogICAgbWFwLnNldExldmVsKDUpOwp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRyZXN1bHQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWFwLnNldExldmVsKDUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF1bS5tYXBzLmV2ZW50LmFkZExpc3RlbmVyKG1hcCwgJ3pvb21fc3RhcnQnLCBmdW5jdGlvbihkYXRhKSB7CiAgICB9Cn0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChtYXAuZ2V0TGV2ZWwoKSA8IDUpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR2ZXJmaWNhdGlvbi0+dmVyaWZpY2F0aW9uX3R5cGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtYXAuc2V0TGV2ZWwoNSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR2ZXJmaWNhdGlvbi0+dmVyaWZpY2F0aW9uX3R5cGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRuVHlwZSA9ICR2ZXJpZmljYXRpb24/IAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name=":" type="4">
         <text>356</text>
       </register>
     </registers>
     <search>
-      <last-search>daum</last-search>
+      <last-search>map</last-search>
       <last-offset />
-      <last-pattern>daum</last-pattern>
+      <last-pattern>map</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1996,7 +2006,6 @@
     </search>
     <history>
       <history-search>
-        <entry>inicis</entry>
         <entry>point</entry>
         <entry>localPrice</entry>
         <entry>calc</entry>
@@ -2016,6 +2025,7 @@
         <entry>house</entry>
         <entry>marker</entry>
         <entry>daum</entry>
+        <entry>map</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
