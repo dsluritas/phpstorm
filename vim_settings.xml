@@ -34,8 +34,8 @@
         <mark key="^" line="593" column="60" />
         <mark key="." line="593" column="63" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1500358850795">
-        <mark key="'" line="497" column="28" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1500365927127">
+        <mark key="'" line="240" column="13" />
         <mark key="[" line="155" column="82" />
         <mark key="]" line="155" column="81" />
         <mark key="^" line="155" column="81" />
@@ -115,13 +115,6 @@
         <mark key="." line="525" column="62" />
         <mark key="^" line="525" column="60" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" timestamp="1500364713832">
-        <mark key="'" line="930" column="26" />
-        <mark key="[" line="919" column="0" />
-        <mark key="]" line="919" column="34" />
-        <mark key="." line="917" column="22" />
-        <mark key="^" line="918" column="22" />
-      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" timestamp="1500364022685">
         <mark key="'" line="135" column="0" />
         <mark key="^" line="235" column="62" />
@@ -146,6 +139,9 @@
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-product.blade.php" timestamp="1500010395185">
         <mark key="'" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1500366094698">
+        <mark key="'" line="391" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" timestamp="1500010634545">
         <mark key="[" line="16" column="43" />
@@ -195,7 +191,7 @@
         <mark key="." line="20" column="55" />
         <mark key="^" line="20" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500364271979">
+      <file name="/Dummy.txt" timestamp="1500365903029">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -287,23 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1237" column="19" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
-      <jump line="673" column="27" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="343" column="34" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" />
-      <jump line="4826" column="23" filename="$USER_HOME$/git/ptp/peterWEB/_ide_helper.php" />
-      <jump line="20" column="0" filename="$USER_HOME$/git/ptp/peterWEB/_ide_helper.php" />
-      <jump line="40" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
-      <jump line="1" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
-      <jump line="65" column="33" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" />
-      <jump line="101" column="64" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" />
-      <jump line="18" column="74" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" />
-      <jump line="34" column="56" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" />
-      <jump line="1" column="7" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/_guide/local.blade.php" />
-      <jump line="7" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/_guide/peterpan.blade.php" />
-      <jump line="17" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-product.blade.php" />
-      <jump line="1" column="19" filename="$USER_HOME$/git/ptp/peterWEB/storage/framework/views/7e3a4b5f5f895776aa5f27eb0e3daf0ec20ead6f.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/HouseSale.php" />
-      <jump line="290" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
       <jump line="1239" column="4" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
       <jump line="323" column="25" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
       <jump line="1234" column="10" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
@@ -387,6 +366,23 @@
       <jump line="911" column="13" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
       <jump line="912" column="56" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
       <jump line="927" column="26" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
+      <jump line="155" column="73" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="18" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="83" column="32" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="146" column="58" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="158" column="34" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="161" column="58" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="209" column="44" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="227" column="56" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="228" column="14" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="229" column="18" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="233" column="24" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="237" column="17" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="240" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="31" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="385" column="24" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="248" column="24" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="391" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1953,7 +1949,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxob3VzZU1vZGVsXD4=</text>
+        <text>daum</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnVCcgPT4gJ+yghO2ZlO2ZleyduCcsCg==</text>
@@ -1990,9 +1986,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxob3VzZU1vZGVsXD4=</last-search>
+      <last-search>daum</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxob3VzZU1vZGVsXD4=</last-pattern>
+      <last-pattern>daum</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2000,9 +1996,6 @@
     </search>
     <history>
       <history-search>
-        <entry>numb</entry>
-        <entry>only</entry>
-        <entry>payment</entry>
         <entry>inicis</entry>
         <entry>point</entry>
         <entry>localPrice</entry>
@@ -2020,6 +2013,9 @@
         <entry>verification</entry>
         <entry>naver</entry>
         <entry encoding="base64">XDxob3VzZU1vZGVsXD4=</entry>
+        <entry>house</entry>
+        <entry>marker</entry>
+        <entry>daum</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
