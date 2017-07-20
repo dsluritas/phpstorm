@@ -139,10 +139,6 @@
         <mark key="^" line="525" column="60" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" timestamp="1500376874405" />
-      <file name="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" timestamp="1500364022685">
-        <mark key="'" line="135" column="0" />
-        <mark key="^" line="235" column="62" />
-      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/css/house_detail.css" timestamp="1500534213136">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="236" column="11" />
@@ -166,12 +162,12 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-product.blade.php" timestamp="1500010395185">
         <mark key="'" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1500534670348">
-        <mark key="'" line="419" column="0" />
-        <mark key="[" line="403" column="23" />
-        <mark key="]" line="403" column="24" />
-        <mark key="n" line="127" column="24" />
-        <mark key="." line="403" column="24" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1500537630893">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="156" column="92" />
+        <mark key="]" line="156" column="93" />
+        <mark key="." line="156" column="93" />
+        <mark key="^" line="156" column="93" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" timestamp="1500010634545">
         <mark key="[" line="16" column="43" />
@@ -233,7 +229,7 @@
         <mark key="." line="20" column="55" />
         <mark key="^" line="20" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500534138004">
+      <file name="/Dummy.txt" timestamp="1500537175084">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -308,6 +304,12 @@
         <mark key="^" line="21" column="22" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/sideZero.blade.php" timestamp="1500536905967">
+        <mark key="[" line="17" column="149" />
+        <mark key="]" line="17" column="148" />
+        <mark key="^" line="17" column="148" />
+        <mark key="." line="17" column="148" />
+      </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/tests/ShareFriendsTest.php" timestamp="1500438939503">
         <mark key="[" line="16" column="41" />
         <mark key="]" line="17" column="19" />
@@ -324,29 +326,17 @@
         <mark key="^" line="122" column="47" />
         <mark key="." line="122" column="61" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" timestamp="1500529419711">
-        <mark key="'" line="112" column="16" />
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="226" column="28" />
-        <mark key="^" line="225" column="7" />
-        <mark key="." line="226" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" timestamp="1500537955275">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="8" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
-      <jump line="450" column="10" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
-      <jump line="44" column="39" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
-      <jump line="91" column="35" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
-      <jump line="76" column="35" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
-      <jump line="88" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
-      <jump line="157" column="7" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
-      <jump line="46" column="27" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
-      <jump line="100" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
-      <jump line="39" column="31" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
       <jump line="90" column="24" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
       <jump line="70" column="12" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
-      <jump line="117" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
       <jump line="970" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
       <jump line="72" column="46" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
       <jump line="106" column="54" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
@@ -359,7 +349,6 @@
       <jump line="122" column="12" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
       <jump line="120" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
       <jump line="124" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
-      <jump line="114" column="16" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
       <jump line="236" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
       <jump line="231" column="9" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
       <jump line="186" column="33" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
@@ -383,7 +372,6 @@
       <jump line="54" column="26" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
       <jump line="33" column="31" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
       <jump line="187" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
-      <jump line="115" column="16" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
       <jump line="112" column="16" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
       <jump line="240" column="47" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="246" column="20" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
@@ -433,6 +421,19 @@
       <jump line="254" column="33" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
       <jump line="404" column="24" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
       <jump line="420" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="413" column="23" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="510" column="14" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="182" column="21" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
+      <jump line="191" column="39" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
+      <jump line="303" column="21" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
+      <jump line="159" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
+      <jump line="114" column="27" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
+      <jump line="117" column="16" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
+      <jump line="53" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="616" column="27" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
+      <jump line="556" column="22" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
+      <jump line="115" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -454,7 +455,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8g7KeA64+E7JeQIOuhnOuTnOu3sCDsoJXrs7TqsIAg7J6I64qUIOuPhOuhnOulvCDtkZzsi5ztlZjrj4TroZ0g7KeA64+E7YOA7J6F7J2EIOy2lOqwgO2VqeuLiOuLpAo=</text>
+        <text encoding="base64">ICAgICAgICAoJGhvdXNlLT5oaWR4KQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1996,49 +1997,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>map</text>
+        <text>hidx</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjaXJjbGUuc2V0TWFwKG1hcCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8g7KeA64+E7JeQIOuhnOuTnOu3sCDsoJXrs7TqsIAg7J6I64qUIOuPhOuhnOulvCDtkZzsi5ztlZjrj4TroZ0g7KeA64+E7YOA7J6F7J2EIOy2lOqwgO2VqeuLiOuLpAo=</text>
+        <text encoding="base64">ICAgICAgICAoJGhvdXNlLT5oaWR4KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWFwLmFkZE92ZXJsYXlNYXBUeXBlSWQoZGF1bS5tYXBzLk1hcFR5cGVJZC5ST0FEVklFVyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWFwLnNldFpvb21hYmxlKGZhbHNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc2FibGVEb3VibGVDbGljazogZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaG91c2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc2FibGVEb3VibGVDbGljazogZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaG91c2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc2FibGVEb3VibGVDbGljawo=</text>
+        <text encoding="base64">ICAgICAgICAkaG91c2UtPmhpZHggPSAkaWR4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bWFwLnNldFpvb21hYmxlKDUpOyAvLyDsp4Drj4Qg7LaV7IaM7ZmV64yAIOyViOuQmOqyjAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7IGRkKCRob3VzZSkgfX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWFwLnNldFpvb21hYmxlKDUpOyAvLyDsp4Drj4Qg7LaV7IaM7ZmV64yAIOyViOuQmOqyjAo=</text>
+        <text encoding="base64">e3sgJGhvdXNlLT5uYXZlckluZm8gfX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBpZD0icm9hZHZpZXciPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaWR4KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>117</text>
       </register>
     </registers>
     <search>
-      <last-search>map</last-search>
+      <last-search>hidx</last-search>
       <last-offset />
-      <last-pattern>map</last-pattern>
+      <last-pattern>hidx</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2046,8 +2047,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hosue</entry>
-        <entry encoding="base64">XDxuYXZlckluZm9cPg==</entry>
         <entry encoding="base64">XDxpc1JlcG9ydEhvdXNlXD4=</entry>
         <entry encoding="base64">XDxyZXBvcnRIb3VzZVw+</entry>
         <entry>user</entry>
@@ -2066,9 +2065,10 @@
         <entry>road</entry>
         <entry encoding="base64">XDxtYXBPcHRpb25cPg==</entry>
         <entry>map</entry>
+        <entry>naverId</entry>
+        <entry>hidx</entry>
       </history-search>
       <history-cmd>
-        <entry>95</entry>
         <entry>135</entry>
         <entry>82</entry>
         <entry>66</entry>
@@ -2088,6 +2088,7 @@
         <entry>356</entry>
         <entry encoding="base64">JzwsJz5ub3JtIGkj</entry>
         <entry>w</entry>
+        <entry>117</entry>
       </history-cmd>
       <history-expr />
       <history-input />
