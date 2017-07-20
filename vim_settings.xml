@@ -149,12 +149,12 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-product.blade.php" timestamp="1500010395185">
         <mark key="'" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1500526353080">
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1500527189805">
         <mark key="'" line="139" column="35" />
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="240" column="0" />
+        <mark key="[" line="269" column="0" />
+        <mark key="]" line="269" column="0" />
         <mark key="n" line="102" column="24" />
-        <mark key="." line="240" column="0" />
+        <mark key="." line="269" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" timestamp="1500010634545">
         <mark key="[" line="16" column="43" />
@@ -288,12 +288,12 @@
         <mark key="^" line="122" column="47" />
         <mark key="." line="122" column="61" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" timestamp="1500526263883">
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" timestamp="1500527185376">
         <mark key="'" line="148" column="18" />
-        <mark key="[" line="227" column="8" />
-        <mark key="]" line="227" column="21" />
-        <mark key="." line="227" column="0" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
         <mark key="^" line="226" column="7" />
+        <mark key="." line="227" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -418,7 +418,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1ZygkdXNlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1969,31 +1969,31 @@
         <text>#1BC8C2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1ZygkdXNlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1ZygkdXNlcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1hbGlnbjogbGVmdDsK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1ZygkdXNlcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IGNhbGMoNTAlIC0gMnB4KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH19Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1hbGlnbjogbGVmdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sb3I6ICMxQkM4QzI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1hbGlnbjogbGVmdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuZmEgewogICAgICAgICAgICBtYXJnaW4tdG9wOiAxMHB4OwogICAgICAgICAgICB3aWR0aDogMTAwJTsKICAgICAgICAgICAgcGFkZGluZzogMDsKCiAgICAgICAgfQogICAgICAgIC5mYSBidXR0b24gewogICAgICAgICAgICBwYWRkaW5nOiAxNXB4IDMwcHg7CiAgICAgICAgICAgIG1hcmdpbjogMDsKICAgICAgICAgICAgd2lkdGg6IGNhbGMoNTAlIC0gMnB4KTsKICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQ7CiAgICAgICAgICAgIHRleHQtYWxpZ246IGxlZnQ7CiAgICAgICAgICAgIGNvbG9yOiAjMUJDOEMyOwogICAgICAgICAgICBib3JkZXI6IDFweCBzb2xpZCAjMUJDOEMyOwogICAgICAgICAgICBmb250LXNpemU6IDE1cHg7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IGNhbGMoNTAlIC0gMnB4KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLW1zLXRleHQtYWxpZ24tbGFzdDogcmlnaHQ7CiAgICAgICAgICAgIHRleHQtYWxpZ24tbGFzdDogcmlnaHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1hbGlnbjogbGVmdDsK</text>
       </register>
       <register name=":" type="4">
         <text>356</text>
