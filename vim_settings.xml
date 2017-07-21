@@ -165,7 +165,7 @@
       <file name="$USER_HOME$/git/ptp/jobs/number/index.php" timestamp="1500339715577">
         <mark key="'" line="29" column="12" />
       </file>
-      <file name="$USER_HOME$/git/ptp/jobs/cs/index.php" timestamp="1500341207072">
+      <file name="$USER_HOME$/git/ptp/jobs/cs/index.php" timestamp="1500614145081">
         <mark key="[" line="19" column="52" />
         <mark key="]" line="19" column="53" />
         <mark key="^" line="19" column="53" />
@@ -325,7 +325,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ㅏ</text>
+        <text>9</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1867,7 +1867,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ㅏ</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>MIX</text>
