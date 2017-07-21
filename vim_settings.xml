@@ -40,6 +40,13 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/_ide_helper.php" timestamp="1500021025636">
         <mark key="'" line="6501" column="31" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Dao/HouseSaleDao.php" timestamp="1500627691941">
+        <mark key="'" line="391" column="114" />
+        <mark key="[" line="401" column="53" />
+        <mark key="]" line="401" column="25" />
+        <mark key="." line="401" column="25" />
+        <mark key="^" line="401" column="25" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" timestamp="1500010634545">
         <mark key="[" line="16" column="43" />
         <mark key="]" line="16" column="43" />
@@ -58,6 +65,7 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/HouseController.php" timestamp="1500626949069" />
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_regist.blade.php" timestamp="1500028856992">
         <mark key="'" line="33" column="22" />
         <mark key="[" line="206" column="0" />
@@ -73,6 +81,7 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/database/seeds/CodeBookTableSeeder.php" timestamp="1500626863028" />
       <file name="$USER_HOME$/git/ptp/peterWEB/public/js/app.js" timestamp="1500514500639">
         <mark key="[" line="1372" column="32" />
         <mark key="]" line="1372" column="34" />
@@ -101,7 +110,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500622676924">
+      <file name="/Dummy.txt" timestamp="1500627226819">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -120,8 +129,8 @@
         <mark key="]" line="203" column="0" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1500438957879">
-        <mark key="'" line="440" column="19" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1500627240933">
+        <mark key="'" line="198" column="12" />
         <mark key="[" line="828" column="12" />
         <mark key="]" line="828" column="30" />
         <mark key="." line="831" column="55" />
@@ -206,9 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="333" column="9" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
-      <jump line="384" column="15" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
-      <jump line="137" column="44" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
       <jump line="138" column="34" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
       <jump line="139" column="35" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
       <jump line="29" column="22" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/contactInfo.blade.php" />
@@ -306,6 +312,9 @@
       <jump line="28" column="5" filename="$USER_HOME$/git/ptp/peterWEB/config/app.php" />
       <jump line="22" column="34" filename="$USER_HOME$/git/ptp/peterWEB/config/app.php" />
       <jump line="32" column="5" filename="$USER_HOME$/git/ptp/peterWEB/config/app.php" />
+      <jump line="832" column="13" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="198" column="12" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="391" column="114" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/HouseSaleDao.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -327,7 +336,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text>get</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1869,10 +1878,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
-        <text>debug</text>
+        <text>zero</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImNoZWNrIj7rrLTro4zrk7HquLDrtoDrk7HroZ0g7ZmV7J24PC9idXR0b24+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4K</text>
@@ -1909,9 +1918,9 @@
       </register>
     </registers>
     <search>
-      <last-search>debug</last-search>
+      <last-search>zero</last-search>
       <last-offset />
-      <last-pattern>debug</last-pattern>
+      <last-pattern>zero</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1919,8 +1928,6 @@
     </search>
     <history>
       <history-search>
-        <entry>daum</entry>
-        <entry encoding="base64">XDxsYXRcPg==</entry>
         <entry>position</entry>
         <entry encoding="base64">XDxtYXJrZXJcPg==</entry>
         <entry encoding="base64">XDxtYXBDb250YWluZXJcPg==</entry>
@@ -1939,6 +1946,8 @@
         <entry>MIX</entry>
         <entry>debugbar</entry>
         <entry>debug</entry>
+        <entry>get_detail</entry>
+        <entry>zero</entry>
       </history-search>
       <history-cmd>
         <entry>82</entry>
