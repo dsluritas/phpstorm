@@ -196,15 +196,14 @@
       <file name="$USER_HOME$/git/ptp/duseAPI/database/migrations/2017_07_07_151830_Organization_index_house_relation_table.php" timestamp="1499669127862">
         <mark key="'" line="31" column="80" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" timestamp="1500603815845">
-        <mark key="'" line="84" column="16" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" timestamp="1500612746193">
+        <mark key="'" line="104" column="0" />
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
       <jump line="148" column="18" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
       <jump line="150" column="43" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
       <jump line="301" column="12" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
@@ -304,6 +303,7 @@
       <jump line="61" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
       <jump line="58" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
       <jump line="60" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
+      <jump line="104" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
