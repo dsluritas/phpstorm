@@ -42,11 +42,11 @@
         <mark key="^" line="450" column="11" />
         <mark key="." line="450" column="11" />
       </file>
-      <file name="$USER_HOME$/git/ptp/wordpress/index.php" timestamp="1500875642154">
-        <mark key="[" line="12" column="3" />
-        <mark key="]" line="12" column="5" />
-        <mark key="^" line="12" column="5" />
-        <mark key="." line="12" column="5" />
+      <file name="$USER_HOME$/git/ptp/wordpress/index.php" timestamp="1500889516161">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="16" column="55" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/_ide_helper.php" timestamp="1500021025636">
         <mark key="'" line="6501" column="31" />
@@ -64,7 +64,7 @@
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="/PHP Console" timestamp="1500875032157">
+      <file name="/PHP Console" timestamp="1500889498311">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/js/app.js" timestamp="1500514500639">
@@ -313,8 +313,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>self::</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGhwaW5mbygpOwpkaWUoKTsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1865,31 +1865,31 @@
         <text encoding="base64">ICAgICAgICAkcHJvZHVjdHMgPSBQcm9kdWN0Ojp3aGVyZSgncHJvZHVjdF9uYW1lJywgJ2xpa2UnLCAn7J2867CY7IOB7ZKIJScpLT5wbHVjaygncGlkeCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bWFzdGVyX2lkID0gODQwOTg7ICAgICAgICAvLyDthYzsiqTtirgg7JWE7J2065SUCg==</text>
+        <text encoding="base64">cGhwaW5mbygpOwpkaWUoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bWFzdGVyX2lkID0gODQwOTg7ICAgICAgICAvLyDthYzsiqTtirgg7JWE7J2065SUCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHVyY2hhc2UpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaG91c2UpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVtYWluaW5nKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dWlkeCA9IDg0MDk4OyAgICAgICAgLy8g7YWM7Iqk7Yq4IOyVhOydtOuUlAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRwcm9kdWN0cyA9IFByb2R1Y3Q6OndoZXJlKCdwcm9kdWN0X25hbWUnLCAnbGlrZScsICfsnbzrsJjsg4HtkoglJyktPnBsdWNrKCdwaWR4Jyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcHVyY2hhc2UpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkaG91c2UpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcmVtYWluaW5nKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dWlkeCA9IDg0MDk4OyAgICAgICAgLy8g7YWM7Iqk7Yq4IOyVhOydtOuUlAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgICRwcm9kdWN0cyA9IFByb2R1Y3Q6OndoZXJlKCdwcm9kdWN0X25hbWUnLCAnbGlrZScsICfsnbzrsJjsg4HtkoglJyktPnBsdWNrKCdwaWR4Jyk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcHVyY2hhc2UgPSAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>521</text>
