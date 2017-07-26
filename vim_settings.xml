@@ -24,7 +24,8 @@
         <mark key="." line="600" column="60" />
         <mark key="^" line="600" column="65" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1500633245998">
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1501061443751">
+        <mark key="'" line="260" column="29" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="63" />
         <mark key="." line="22" column="0" />
@@ -84,7 +85,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501033978253">
+      <file name="/Dummy.txt" timestamp="1501061312422">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -183,10 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="960" column="45" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
-      <jump line="938" column="31" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
-      <jump line="145" column="5" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
-      <jump line="8" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
       <jump line="507" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
       <jump line="888" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
       <jump line="112" column="16" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
@@ -283,6 +280,10 @@
       <jump line="6" column="10" filename="$USER_HOME$/git/ptp/wordpress/wp-content/themes/Avada-Child-Theme/include/peterpanz.html" />
       <jump line="39098" column="0" filename="$USER_HOME$/git/ptp/wordpress/wp-content/themes/Avada-Child-Theme/js/app.js" />
       <jump line="14" column="6" filename="$USER_HOME$/git/ptp/wordpress/wp-content/themes/Avada-Child-Theme/style.css" />
+      <jump line="184" column="24" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="237" column="29" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="236" column="54" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="260" column="29" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1849,7 +1850,7 @@
         <text>none</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwxMDBcPg==</text>
+        <text>무료 등기부</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcHJvZHVjdHMgPSBQcm9kdWN0Ojp3aGVyZSgncHJvZHVjdF9uYW1lJywgJ2xpa2UnLCAn7J2867CY7IOB7ZKIJScpLT5wbHVjaygncGlkeCcpOwo=</text>
@@ -1886,18 +1887,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwxMDBcPg==</last-search>
+      <last-search>무료 등기부</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwxMDBcPg==</last-pattern>
+      <last-pattern>무료 등기부</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>minusNaverAd</entry>
-        <entry>getSele</entry>
         <entry>select</entry>
         <entry>광고개수</entry>
         <entry>purchase</entry>
@@ -1916,6 +1915,8 @@
         <entry>clientId</entry>
         <entry>client</entry>
         <entry encoding="base64">XDwxMDBcPg==</entry>
+        <entry>상가</entry>
+        <entry>무료 등기부</entry>
       </history-search>
       <history-cmd>
         <entry>82</entry>
