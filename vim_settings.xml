@@ -19,14 +19,14 @@
         <mark key="." line="600" column="60" />
         <mark key="^" line="600" column="65" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1501061443751">
-        <mark key="'" line="260" column="29" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="63" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1501143547032">
+        <mark key="'" line="135" column="0" />
+        <mark key="[" line="109" column="8" />
+        <mark key="]" line="109" column="8" />
+        <mark key="." line="109" column="8" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1500866662180">
-        <mark key="'" line="91" column="24" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1501139921447">
+        <mark key="'" line="233" column="17" />
         <mark key="[" line="450" column="12" />
         <mark key="]" line="450" column="11" />
         <mark key="^" line="450" column="11" />
@@ -51,7 +51,14 @@
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="/PHP Console" timestamp="1500889498311">
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/manage_house.blade.php" timestamp="1501139986748">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="12" />
+        <mark key="." line="24" column="12" />
+        <mark key="^" line="24" column="12" />
+      </file>
+      <file name="/PHP Console" timestamp="1501141375898">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/js/app.js" timestamp="1500514500639">
@@ -81,7 +88,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501128597467">
+      <file name="/Dummy.txt" timestamp="1501141724038">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -93,7 +100,7 @@
         <mark key="^" line="36" column="76" />
         <mark key="." line="36" column="76" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1501128576343">
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1501140638990">
         <mark key="'" line="829" column="0" />
         <mark key="[" line="828" column="12" />
         <mark key="]" line="828" column="30" />
@@ -102,6 +109,11 @@
       </file>
       <file name="/fragment.php" timestamp="1500875215716">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/HouseSale.php" timestamp="1501141831107">
+        <mark key="[" line="721" column="0" />
+        <mark key="]" line="723" column="30" />
+        <mark key="." line="721" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/jobs/cs/index.php" timestamp="1500863962326">
         <mark key="[" line="19" column="52" />
@@ -115,12 +127,11 @@
         <mark key="^" line="216" column="10" />
         <mark key="." line="216" column="18" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" timestamp="1500874405270">
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" timestamp="1501140625280">
         <mark key="'" line="276" column="20" />
-        <mark key="[" line="308" column="57" />
-        <mark key="]" line="308" column="76" />
-        <mark key="." line="308" column="76" />
-        <mark key="^" line="308" column="76" />
+        <mark key="[" line="1105" column="0" />
+        <mark key="]" line="1105" column="0" />
+        <mark key="." line="1105" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/DongListB.php" timestamp="1501126045424" />
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/sideZero.blade.php" timestamp="1500536905967">
@@ -177,6 +188,13 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" timestamp="1501139996435">
+        <mark key="'" line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" timestamp="1501141829779">
+        <mark key="[" line="914" column="0" />
+        <mark key="]" line="916" column="29" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/css/house_detail.css" timestamp="1500534213136">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="236" column="11" />
@@ -184,16 +202,22 @@
         <mark key="." line="236" column="12" />
         <mark key="^" line="236" column="12" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/AgencyController.php" timestamp="1501140714121">
+        <mark key="[" line="464" column="59" />
+        <mark key="]" line="464" column="14" />
+        <mark key="^" line="464" column="14" />
+        <mark key="." line="464" column="14" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" timestamp="1501141619062">
+        <mark key="'" line="532" column="0" />
+        <mark key="[" line="533" column="0" />
+        <mark key="]" line="533" column="0" />
+        <mark key="." line="533" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="34" filename="$USER_HOME$/git/ptp/peterWEB/config/app.php" />
-      <jump line="32" column="5" filename="$USER_HOME$/git/ptp/peterWEB/config/app.php" />
-      <jump line="832" column="13" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="391" column="114" filename="$USER_HOME$/git/ptp/duseAPI/app/Dao/HouseSaleDao.php" />
-      <jump line="443" column="69" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="99" column="8" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
       <jump line="44" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="90" column="23" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="91" column="24" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="323" column="8" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
       <jump line="332" column="28" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
@@ -286,6 +310,12 @@
       <jump line="42" column="6" filename="$USER_HOME$/git/ptp/duseAPI/vendor/maximebf/debugbar/src/DebugBar/DebugBar.php" />
       <jump line="265" column="33" filename="$USER_HOME$/git/ptp/duseAPI/vendor/maximebf/debugbar/src/DebugBar/DebugBar.php" />
       <jump line="259" column="29" filename="$USER_HOME$/git/ptp/duseAPI/vendor/maximebf/debugbar/src/DebugBar/DebugBar.php" />
+      <jump line="90" column="72" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="233" column="17" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="17" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/manage_house.blade.php" />
+      <jump line="69" column="0" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
+      <jump line="532" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
+      <jump line="126" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -306,8 +336,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3BvbnNlLT5zZXREYXRhKCRyZXNwb25zZS0+Z2V0RGF0YSh0cnVlKSArIFsgJ19kZWJ1Z2JhcicgPT4gYXBwKCdkZWJ1Z2JhcicpLT5nZXREYXRhKCksIF0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1849,49 +1879,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>none</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>json</text>
+        <text>무료 등기부</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJvZHVjdHMgPSBQcm9kdWN0Ojp3aGVyZSgncHJvZHVjdF9uYW1lJywgJ2xpa2UnLCAn7J2867CY7IOB7ZKIJScpLT5wbHVjaygncGlkeCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3BvbnNlLT5zZXREYXRhKCRyZXNwb25zZS0+Z2V0RGF0YSh0cnVlKSArIFsgJ19kZWJ1Z2JhcicgPT4gYXBwKCdkZWJ1Z2JhcicpLT5nZXREYXRhKCksIF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAuZmEtdHJhbnNhY3Rpb24gYnV0dG9uIGkgewogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Z0Jhcjo6ZW5hYmxlSnNvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ6IHJpZ2h0OwogICAgICAgICAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICAgICAgICAgIHRvcDogNXB4Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICdoZWxsbyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAuZmEtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2hpbGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudDogJz4nOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGltZyBzcmM9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9udAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1nWyBdCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmZ3Q7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWlyZSBfX0RJUl9fIC4gJy9pbmNsdWRlL3BldGVycGFuei5odG1sJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmZ3Q7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>521</text>
       </register>
     </registers>
     <search>
-      <last-search>json</last-search>
+      <last-search>무료 등기부</last-search>
       <last-offset />
-      <last-pattern>json</last-pattern>
+      <last-pattern>무료 등기부</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1899,10 +1929,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Purchase</entry>
-        <entry>Product</entry>
-        <entry>awesome</entry>
-        <entry>script</entry>
         <entry encoding="base64">ICJub3NjcmlwdCIgPT09IHAgfA==</entry>
         <entry>bootstrap</entry>
         <entry>.wrapper .house-list</entry>
@@ -1915,10 +1941,14 @@
         <entry>client</entry>
         <entry encoding="base64">XDwxMDBcPg==</entry>
         <entry>상가</entry>
-        <entry>무료 등기부</entry>
         <entry>ad</entry>
         <entry encoding="base64">XDxzZXRBZHZlcnRpc2VUYXJnZXRcPg==</entry>
         <entry>json</entry>
+        <entry>manage_house</entry>
+        <entry>pro</entry>
+        <entry>진행상황</entry>
+        <entry>홍보확인</entry>
+        <entry>무료 등기부</entry>
       </history-search>
       <history-cmd>
         <entry>82</entry>
