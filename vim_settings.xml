@@ -19,8 +19,8 @@
         <mark key="." line="600" column="60" />
         <mark key="^" line="600" column="65" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1501139921447">
-        <mark key="'" line="233" column="17" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1501555812735">
+        <mark key="'" line="297" column="13" />
         <mark key="[" line="450" column="12" />
         <mark key="]" line="450" column="11" />
         <mark key="^" line="450" column="11" />
@@ -84,7 +84,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501553040378">
+      <file name="/Dummy.txt" timestamp="1501555495476">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -111,6 +111,12 @@
       </file>
       <file name="/fragment.php" timestamp="1500875215716">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/map_view2.blade.php" timestamp="1501555894597">
+        <mark key="[" line="227" column="11" />
+        <mark key="]" line="228" column="11" />
+        <mark key="^" line="228" column="11" />
+        <mark key="." line="228" column="11" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/HouseSale.php" timestamp="1501141831107">
         <mark key="[" line="721" column="0" />
@@ -204,6 +210,13 @@
         <mark key="." line="236" column="12" />
         <mark key="^" line="236" column="12" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/map_view/map.blade.php" timestamp="1501555857104">
+        <mark key="'" line="59" column="8" />
+        <mark key="[" line="87" column="18" />
+        <mark key="]" line="87" column="18" />
+        <mark key="." line="87" column="18" />
+        <mark key="^" line="87" column="17" />
+      </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/AgencyController.php" timestamp="1501140714121">
         <mark key="[" line="464" column="59" />
         <mark key="]" line="464" column="14" />
@@ -218,13 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
-      <jump line="477" column="38" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
-      <jump line="478" column="21" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
-      <jump line="355" column="30" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
-      <jump line="1164" column="15" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
-      <jump line="1213" column="23" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
-      <jump line="1216" column="45" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
       <jump line="1221" column="62" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
       <jump line="1302" column="14" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
       <jump line="44" column="32" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
@@ -318,6 +324,13 @@
       <jump line="41" column="20" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/LoginController.php" />
       <jump line="196" column="20" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/LoginController.php" />
       <jump line="200" column="27" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/LoginController.php" />
+      <jump line="237" column="64" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="282" column="14" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="279" column="14" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="276" column="14" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="261" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="297" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="59" column="8" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/map_view/map.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -338,8 +351,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogI2ZmZmZmYjsK</text>
+      <register name="&quot;" type="4">
+        <text>session 삭제</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1881,49 +1894,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>session 삭제</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZ2VuY3lfcmVnaXN0X2RvbmVcPg==</text>
+        <text>map_view</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwo=</text>
+        <text encoding="base64">ICAgIEBwaHAKICAgICAgICBTZXNzaW9uOjpmb3JnZXQoJ21lbWJlckpvaW5Db21wbGV0ZScpOwogICAgQGVuZHBocAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogI2ZmZmZmYjsK</text>
+        <text encoding="base64">ICAgIHt7ICBTZXNzaW9uOjpoYXMoJ21lbWJlckpvaW5Db21wbGV0ZScpfX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogI2ZmZmZmYjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9wOiA1cHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuZmEtdHJhbnNhY3Rpb24gYnV0dG9uIGkgewogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9wOiA1cHg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ6IHJpZ2h0OwogICAgICAgICAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICAgICAgICAgIHRvcDogNXB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAuZmEtdHJhbnNhY3Rpb24gYnV0dG9uIGkgewogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ6IHJpZ2h0OwogICAgICAgICAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICAgICAgICAgIHRvcDogNXB4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuZmEtCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudDogJz4nOwo=</text>
+        <text encoding="base64">ICAgICAgICAuZmEtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9udAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudDogJz4nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>521</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZ2VuY3lfcmVnaXN0X2RvbmVcPg==</last-search>
+      <last-search>map_view</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZ2VuY3lfcmVnaXN0X2RvbmVcPg==</last-pattern>
+      <last-pattern>map_view</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1931,8 +1944,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.wrapper .house-list</entry>
-        <entry>position: sticky;top: 100px;z-index: 2;</entry>
         <entry>position: sticky;top:</entry>
         <entry>안심 직거래                             매물</entry>
         <entry>안심 직거래</entry>
@@ -1951,6 +1962,8 @@
         <entry>무료 등기부</entry>
         <entry>agency_regist</entry>
         <entry encoding="base64">XDxhZ2VuY3lfcmVnaXN0X2RvbmVcPg==</entry>
+        <entry>map_view2</entry>
+        <entry>map_view</entry>
       </history-search>
       <history-cmd>
         <entry>82</entry>
