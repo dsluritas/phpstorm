@@ -52,6 +52,9 @@
         <mark key="." line="24" column="12" />
         <mark key="^" line="24" column="12" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/LoginController.php" timestamp="1501553039739">
+        <mark key="'" line="200" column="27" />
+      </file>
       <file name="/PHP Console" timestamp="1501141375898">
         <mark key="[" line="0" column="0" />
       </file>
@@ -81,7 +84,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501471045754">
+      <file name="/Dummy.txt" timestamp="1501553040378">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -92,6 +95,12 @@
         <mark key="]" line="36" column="76" />
         <mark key="^" line="36" column="76" />
         <mark key="." line="36" column="76" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_regist_done.blade.php" timestamp="1501553025580">
+        <mark key="[" line="40" column="6" />
+        <mark key="]" line="40" column="6" />
+        <mark key="^" line="40" column="6" />
+        <mark key="." line="40" column="6" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1501140638990">
         <mark key="'" line="829" column="0" />
@@ -209,11 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="8" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
-      <jump line="44" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="91" column="24" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="323" column="8" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
-      <jump line="332" column="28" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
       <jump line="195" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
       <jump line="477" column="38" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
       <jump line="478" column="21" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
@@ -309,6 +313,11 @@
       <jump line="69" column="0" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
       <jump line="532" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
       <jump line="126" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="22" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/LoginController.php" />
+      <jump line="32" column="21" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/LoginController.php" />
+      <jump line="41" column="20" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/LoginController.php" />
+      <jump line="196" column="20" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/LoginController.php" />
+      <jump line="200" column="27" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/LoginController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1875,7 +1884,7 @@
         <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>무료 등기부</text>
+        <text encoding="base64">XDxhZ2VuY3lfcmVnaXN0X2RvbmVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwo=</text>
@@ -1912,9 +1921,9 @@
       </register>
     </registers>
     <search>
-      <last-search>무료 등기부</last-search>
+      <last-search encoding="base64">XDxhZ2VuY3lfcmVnaXN0X2RvbmVcPg==</last-search>
       <last-offset />
-      <last-pattern>무료 등기부</last-pattern>
+      <last-pattern encoding="base64">XDxhZ2VuY3lfcmVnaXN0X2RvbmVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1922,8 +1931,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">ICJub3NjcmlwdCIgPT09IHAgfA==</entry>
-        <entry>bootstrap</entry>
         <entry>.wrapper .house-list</entry>
         <entry>position: sticky;top: 100px;z-index: 2;</entry>
         <entry>position: sticky;top:</entry>
@@ -1942,6 +1949,8 @@
         <entry>진행상황</entry>
         <entry>홍보확인</entry>
         <entry>무료 등기부</entry>
+        <entry>agency_regist</entry>
+        <entry encoding="base64">XDxhZ2VuY3lfcmVnaXN0X2RvbmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>82</entry>
