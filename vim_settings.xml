@@ -51,6 +51,9 @@
         <mark key="." line="401" column="25" />
         <mark key="^" line="401" column="25" />
       </file>
+      <file name="$USER_HOME$/git/ptp/wordpress/wp-content/uploads/fusion-styles/fusion-8.css" timestamp="1501827229826">
+        <mark key="'" line="0" column="274932" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-point-inicis.blade.php" timestamp="1500010634545">
         <mark key="[" line="16" column="43" />
         <mark key="]" line="16" column="43" />
@@ -99,7 +102,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501578203221">
+      <file name="/Dummy.txt" timestamp="1501827287216">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -136,12 +139,6 @@
         <mark key="]" line="228" column="11" />
         <mark key="^" line="228" column="11" />
         <mark key="." line="228" column="11" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_renewal_purchase_item.blade.php" timestamp="1501642279402">
-        <mark key="[" line="396" column="32" />
-        <mark key="]" line="397" column="16" />
-        <mark key="^" line="397" column="16" />
-        <mark key="." line="397" column="16" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/HouseSale.php" timestamp="1501576096150">
         <mark key="'" line="1007" column="20" />
@@ -266,7 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="733" column="16" filename="$USER_HOME$/git/ptp/peterWEB/app/HouseSale.php" />
       <jump line="797" column="37" filename="$USER_HOME$/git/ptp/peterWEB/app/HouseSale.php" />
       <jump line="828" column="22" filename="$USER_HOME$/git/ptp/peterWEB/app/HouseSale.php" />
       <jump line="850" column="20" filename="$USER_HOME$/git/ptp/peterWEB/app/HouseSale.php" />
@@ -366,6 +362,7 @@
       <jump line="586" column="16" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_renewal_purchase_item.blade.php" />
       <jump line="580" column="17" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_renewal_purchase_item.blade.php" />
       <jump line="429" column="8" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_renewal_purchase_item.blade.php" />
+      <jump line="0" column="274932" filename="$USER_HOME$/git/ptp/wordpress/wp-content/uploads/fusion-styles/fusion-8.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1932,7 +1929,7 @@
         <text>retv</text>
       </register>
       <register name="/" type="4">
-        <text>todo</text>
+        <text>wordpress.dev</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaHRtbCArPSAnPHNlbGVjdCBuYW1lPSInICsgbmFtZSArICciIGlkPSInICsgaWQgKyAnIj4nCg==</text>
@@ -1969,9 +1966,9 @@
       </register>
     </registers>
     <search>
-      <last-search>todo</last-search>
+      <last-search>wordpress.dev</last-search>
       <last-offset />
-      <last-pattern>todo</last-pattern>
+      <last-pattern>wordpress.dev</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1979,8 +1976,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
-        <entry encoding="base64">PGZvcm0=</entry>
         <entry>select</entry>
         <entry encoding="base64">XDxkaXNjb3VudFw+</entry>
         <entry encoding="base64">XDxzdGFydFw+</entry>
@@ -1999,6 +1994,8 @@
         <entry>allPrice</entry>
         <entry encoding="base64">XDx0b3RhbFBsdXNcPg==</entry>
         <entry>todo</entry>
+        <entry>wordpress</entry>
+        <entry>wordpress.dev</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
