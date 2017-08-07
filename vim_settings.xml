@@ -102,7 +102,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501827287216">
+      <file name="/Dummy.txt" timestamp="1502099554321">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -1962,7 +1962,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jbGFzc05hbWUucmVwbGFjZSgvXHMrJC8sIiIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>211</text>
+        <text>126</text>
       </register>
     </registers>
     <search>
@@ -1998,7 +1998,6 @@
         <entry>wordpress.dev</entry>
       </history-search>
       <history-cmd>
-        <entry>66</entry>
         <entry>36</entry>
         <entry>20</entry>
         <entry>88</entry>
@@ -2018,6 +2017,7 @@
         <entry>117</entry>
         <entry>521</entry>
         <entry>211</entry>
+        <entry>126</entry>
       </history-cmd>
       <history-expr />
       <history-input />
