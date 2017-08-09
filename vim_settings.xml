@@ -42,7 +42,7 @@
         <mark key="." line="24" column="12" />
         <mark key="^" line="24" column="12" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterpan/app/Http/Controllers/MainController.php" timestamp="1502252064599">
+      <file name="$USER_HOME$/git/ptp/peterpan/app/Http/Controllers/MainController.php" timestamp="1502252957363">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -60,11 +60,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="45" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterpan/.env" timestamp="1502248219814">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterpan/.env" timestamp="1502253172644">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="8" column="18" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/header.blade.php" timestamp="1500009932917">
         <mark key="[" line="36" column="73" />
@@ -191,7 +191,7 @@
         <mark key="." line="119" column="0" />
         <mark key="^" line="123" column="15" />
       </file>
-      <file name="/PHP Console" timestamp="1502252127893">
+      <file name="/PHP Console" timestamp="1502252987424">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/js/app.js" timestamp="1500514500639">
@@ -408,8 +408,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgxMSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>WEB</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1951,7 +1951,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>retv</text>
+        <text>WEB</text>
       </register>
       <register name="/" type="4">
         <text>wordpress.dev</text>
