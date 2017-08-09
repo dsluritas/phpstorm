@@ -120,12 +120,12 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterpan/resources/views/main.blade.php" timestamp="1502260373056">
+      <file name="$USER_HOME$/git/ptp/peterpan/resources/views/main.blade.php" timestamp="1502261583118">
         <mark key="'" line="1" column="12" />
-        <mark key="[" line="128" column="95" />
-        <mark key="]" line="128" column="96" />
-        <mark key="." line="128" column="96" />
-        <mark key="^" line="125" column="198" />
+        <mark key="[" line="128" column="21" />
+        <mark key="]" line="128" column="117" />
+        <mark key="." line="128" column="117" />
+        <mark key="^" line="128" column="117" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/select_product.blade.php" timestamp="1500872242360">
         <mark key="'" line="37" column="0" />
@@ -423,8 +423,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1966,7 +1966,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWluRXZlbnRcPg==</text>
