@@ -60,12 +60,12 @@
         <mark key="^" line="16" column="55" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Classes/Pager.php" timestamp="1502946739398">
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Classes/Pager.php" timestamp="1502948179395">
         <mark key="'" line="56" column="15" />
-        <mark key="[" line="579" column="33" />
-        <mark key="]" line="579" column="40" />
-        <mark key="." line="579" column="40" />
-        <mark key="^" line="579" column="37" />
+        <mark key="[" line="591" column="0" />
+        <mark key="]" line="591" column="0" />
+        <mark key="." line="591" column="0" />
+        <mark key="^" line="590" column="18" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/manage_house.blade.php" timestamp="1501139986748">
         <mark key="'" line="17" column="0" />
@@ -83,10 +83,10 @@
       <file name="$USER_HOME$/PhpstormProjects/snsld/index.php" timestamp="1502445884291">
         <mark key="'" line="143" column="8" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/House/HouseController.php" timestamp="1502944582138">
-        <mark key="'" line="413" column="11" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/House/HouseController.php" timestamp="1502948125995">
+        <mark key="'" line="54" column="17" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="98" column="18" />
         <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/.env" timestamp="1502931008354">
@@ -258,7 +258,7 @@
         <mark key="." line="14" column="33" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1502946016907" />
-      <file name="/Dummy.txt" timestamp="1502946516778">
+      <file name="/Dummy.txt" timestamp="1502948058658">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -337,8 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="846" column="28" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_renewal_purchase_item.blade.php" />
-      <jump line="847" column="60" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_renewal_purchase_item.blade.php" />
       <jump line="848" column="70" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_renewal_purchase_item.blade.php" />
       <jump line="879" column="19" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_renewal_purchase_item.blade.php" />
       <jump line="880" column="52" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_renewal_purchase_item.blade.php" />
@@ -437,6 +435,8 @@
       <jump line="24" column="15" filename="$USER_HOME$/git/ptp/duseAPI/app/Classes/Pager.php" />
       <jump line="39" column="13" filename="$USER_HOME$/git/ptp/duseAPI/app/Classes/Pager.php" />
       <jump line="56" column="15" filename="$USER_HOME$/git/ptp/duseAPI/app/Classes/Pager.php" />
+      <jump line="220" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/House/HouseController.php" />
+      <jump line="54" column="17" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/House/HouseController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -457,8 +457,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>count</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdG90YWxDb3VudCA9IGNvdW50KCRjb3VudFF1ZXJ5KTsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2000,49 +2000,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>count</text>
+        <text>countQuery</text>
       </register>
       <register name="/" type="4">
-        <text>houseType</text>
+        <text>isNaverVerification</text>
       </register>
-      <register name="0" type="4">
-        <text>totalCount</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERCOjpyYXcoIgogICAgICAgICAgICAgICAgICAgIGlmICggIiAuIFBhZ2VyOjpnZXREQkZpZWxkKCduYXZlclN0YXR1c05hdmVySWQnKSAuICIgSVMgTk9UIE5VTEwgJiYgIiAuIFBhZ2VyOjpnZXREQkZpZWxkKCdob3VzZVN0YXR1c0NvZGUnKSAuICIgPSAnMDEwMycsIHRydWUsIGZhbHNlICkgYXMgaXNOYXZlclZlcmlmaWNhdGlvbgogICAgICAgICAgICAgICAgIiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdG90YWxDb3VudCA9IGNvdW50KCRjb3VudFF1ZXJ5KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkY291bnRNb2RlbC0+c2V0QmluZGluZ3MoWydqb2luJyA9PiBbJzEnLCdTJywgJyddXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdG90YWxDb3VudCA9ICRjb3VudE1vZGVsLT5jb3VudCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkam9pbmVkTW9kZWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY291bnRTcWwpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY291bnRNb2RlbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY291bnRNb2RlbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdG90YWxDb3VudCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkam9pbmVkTW9kZWwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
+        <text encoding="base64">ICAgICAgICAkY291bnRNb2RlbC0+c2V0QmluZGluZ3MoWydqb2luJyA9PiBbJzEnLCdTJywgJyddXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+cGFydHNNb2RlbHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkam9pbmVkTW9kZWw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkam9pbmVkTW9kZWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY291bnRNb2RlbCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>76</text>
       </register>
     </registers>
     <search>
-      <last-search>houseType</last-search>
+      <last-search>isNaverVerification</last-search>
       <last-offset />
-      <last-pattern>houseType</last-pattern>
+      <last-pattern>isNaverVerification</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2050,7 +2050,6 @@
     </search>
     <history>
       <history-search>
-        <entry>서울A</entry>
         <entry>PAYMENT</entry>
         <entry>inicis</entry>
         <entry encoding="base64">XDxpbmljaXNcPg==</entry>
@@ -2070,6 +2069,7 @@
         <entry>join</entry>
         <entry>partsModel</entry>
         <entry>houseType</entry>
+        <entry>isNaverVerification</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
