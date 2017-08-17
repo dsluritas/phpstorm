@@ -215,8 +215,8 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/purchase-product.blade.php" timestamp="1501567530787">
         <mark key="'" line="38" column="12" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1502952389627">
-        <mark key="'" line="411" column="30" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1502954296322">
+        <mark key="'" line="59" column="0" />
         <mark key="[" line="174" column="28" />
         <mark key="]" line="174" column="39" />
         <mark key="." line="174" column="39" />
@@ -368,7 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="885" column="52" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_renewal_purchase_item.blade.php" />
       <jump line="324" column="39" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_renewal_purchase_item.blade.php" />
       <jump line="722" column="26" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_renewal_purchase_item.blade.php" />
       <jump line="901" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_renewal_purchase_item.blade.php" />
@@ -468,6 +467,7 @@
       <jump line="53" column="6" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
       <jump line="66" column="6" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
       <jump line="163" column="4" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/House/HouseAdvertiseController.php" />
+      <jump line="59" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
