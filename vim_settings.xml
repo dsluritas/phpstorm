@@ -31,7 +31,11 @@
         <mark key="^" line="1900" column="15" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" timestamp="1502870224881" />
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/companyLayout.blade.php" timestamp="1503035134733" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/companyLayout.blade.php" timestamp="1503035699850">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-admin/admin.php" timestamp="1502973080002">
         <mark key="[" line="6" column="3" />
       </file>
@@ -323,7 +327,7 @@
         <mark key="." line="14" column="33" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1502946016907" />
-      <file name="/Dummy.txt" timestamp="1503035043415">
+      <file name="/Dummy.txt" timestamp="1503035708123">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
