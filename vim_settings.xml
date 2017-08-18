@@ -54,11 +54,11 @@
         <mark key="^" line="31" column="17" />
         <mark key="." line="31" column="17" />
       </file>
-      <file name="$USER_HOME$/git/ptp/jobs/config.php" timestamp="1503025940987">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="32" />
-        <mark key="." line="11" column="32" />
-        <mark key="^" line="11" column="32" />
+      <file name="$USER_HOME$/git/ptp/jobs/config.php" timestamp="1503027301860">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="14" column="37" />
+        <mark key="." line="14" column="37" />
+        <mark key="^" line="14" column="36" />
       </file>
       <file name="$USER_HOME$/git/ptp/wordpress/index.php" timestamp="1500889516161">
         <mark key="[" line="14" column="0" />
@@ -322,7 +322,7 @@
         <mark key="." line="14" column="33" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1502946016907" />
-      <file name="/Dummy.txt" timestamp="1503025751439">
+      <file name="/Dummy.txt" timestamp="1503026729304">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -548,7 +548,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>dukkubi2</text>
+        <text>@</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2090,7 +2090,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dukkubi2</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text>진행중인</text>
