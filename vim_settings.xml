@@ -163,6 +163,11 @@
         <mark key="^" line="101" column="69" />
       </file>
       <file name="$USER_HOME$/.composer/vendor/laravel/valet/server.php" timestamp="1502939397888" />
+      <file name="$USER_HOME$/PhpstormProjects/seoul/wp-config.php" timestamp="1503376596827">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/login_form.blade.php" timestamp="1502964586658">
         <mark key="[" line="61" column="44" />
         <mark key="]" line="61" column="44" />
@@ -405,6 +410,12 @@
         <mark key="." line="225" column="55" />
         <mark key="^" line="225" column="55" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/seoul/wp-includes/functions.php" timestamp="1503376461387">
+        <mark key="'" line="4268" column="25" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ptp/wordpress/wp-content/themes/Avada/header.php" timestamp="1503317661091">
         <mark key="'" line="28" column="43" />
       </file>
@@ -428,7 +439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="8" filename="$USER_HOME$/git/ptp/duseAPI/app/Subway.php" />
       <jump line="28" column="15" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/House/HouseAdvertiseController.php" />
       <jump line="117" column="36" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/House/HouseAdvertiseController.php" />
       <jump line="240" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
@@ -528,6 +538,7 @@
       <jump line="1103" column="141" filename="$USER_HOME$/PhpstormProjects/seoul/wp-content/themes/Avada/includes/avada-functions.php" />
       <jump line="1091" column="145" filename="$USER_HOME$/PhpstormProjects/seoul/wp-content/themes/Avada/includes/avada-functions.php" />
       <jump line="142" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/wp-content/themes/Avada/includes/lib/inc/class-fusion-settings.php" />
+      <jump line="4268" column="25" filename="$USER_HOME$/PhpstormProjects/seoul/wp-includes/functions.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -548,8 +559,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2091,7 +2102,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>example.com</text>
       </register>
       <register name="/" type="4">
         <text>get(</text>
@@ -2103,31 +2114,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnVG9wJyA9PSBBdmFkYSgpLT5zZXR0aW5ncy0+Z2V0KCAnaGVhZGVyX3Bvc2l0aW9uJyApICAK</text>
+        <text encoding="base64">ZGVmaW5lKCdXUF9IT01FJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsKZGVmaW5lKCdXUF9TSVRFVVJMJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgoKICAgICAgICB2YXJfZHVtcCgoICEgJHRoZW1lX29wdGlvbl9zbGlkZXJfcG9zaXRpb24gfHwgKCAkc2xpZGVyX3Bvc2l0aW9uID09ICR0aGVtZV9vcHRpb25fc2xpZGVyX3Bvc2l0aW9uICYmIHN0cnRvbG93ZXIoICRyZXZlcnNlX3Bvc2l0aW9uICkgIT0gJHBhZ2Vfb3B0aW9uX3NsaWRlcl9wb3NpdGlvbiApIHx8ICggJHRoZW1lX29wdGlvbl9zbGlkZXJfcG9zaXRpb24gIT0gJHNsaWRlcl9wb3NpdGlvbiAmJiBzdHJ0b2xvd2VyKCAkc2xpZGVyX3Bvc2l0aW9uICkgPT0gJHBhZ2Vfb3B0aW9uX3NsaWRlcl9wb3NpdGlvbiApICkpOwogICAgICAgIHZhcl9kdW1wKCEgaXNfcGFnZV90ZW1wbGF0ZSggJ2JsYW5rLnBocCcgKSk7CiAgICAgICAgJ25vJyAhPSBmdXNpb25fZ2V0X3BhZ2Vfb3B0aW9uKCAnZGlzcGxheV9oZWFkZXInLCAkcGFnZV9pZCApIAo=</text>
+        <text encoding="base64">CnVwZGF0ZV9vcHRpb24oJ3NpdGV1cmwnLCdodHRwOi8vc2VvdWwucGV0ZXJwYW56LmNvbScpOwp1cGRhdGVfb3B0aW9uKCdob21lJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsKCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ZGVmaW5lKCdXUF9IT01FJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsKZGVmaW5lKCdXUF9TSVRFVVJMJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ZGVmaW5lKCdXUF9IT01FJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsKZGVmaW5lKCdXUF9TSVRFVVJMJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ZGVmaW5lKCdXUF9IT01FJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsKZGVmaW5lKCdXUF9TSVRFVVJMJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAnVG9wJyA9PSBBdmFkYSgpLT5zZXR0aW5ncy0+Z2V0KCAnaGVhZGVyX3Bvc2l0aW9uJyApICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CgogICAgICAgIHZhcl9kdW1wKCggISAkdGhlbWVfb3B0aW9uX3NsaWRlcl9wb3NpdGlvbiB8fCAoICRzbGlkZXJfcG9zaXRpb24gPT0gJHRoZW1lX29wdGlvbl9zbGlkZXJfcG9zaXRpb24gJiYgc3RydG9sb3dlciggJHJldmVyc2VfcG9zaXRpb24gKSAhPSAkcGFnZV9vcHRpb25fc2xpZGVyX3Bvc2l0aW9uICkgfHwgKCAkdGhlbWVfb3B0aW9uX3NsaWRlcl9wb3NpdGlvbiAhPSAkc2xpZGVyX3Bvc2l0aW9uICYmIHN0cnRvbG93ZXIoICRzbGlkZXJfcG9zaXRpb24gKSA9PSAkcGFnZV9vcHRpb25fc2xpZGVyX3Bvc2l0aW9uICkgKSk7CiAgICAgICAgdmFyX2R1bXAoISBpc19wYWdlX3RlbXBsYXRlKCAnYmxhbmsucGhwJyApKTsKICAgICAgICAnbm8nICE9IGZ1c2lvbl9nZXRfcGFnZV9vcHRpb24oICdkaXNwbGF5X2hlYWRlcicsICRwYWdlX2lkICkgCiAgICAgICAgJ1RvcCcgPT0gQXZhZGEoKS0+c2V0dGluZ3MtPmdldCggJ2hlYWRlcl9wb3NpdGlvbicgKSAgCgkJCg==</text>
+        <text encoding="base64">CgoKICAgICAgICB2YXJfZHVtcCgoICEgJHRoZW1lX29wdGlvbl9zbGlkZXJfcG9zaXRpb24gfHwgKCAkc2xpZGVyX3Bvc2l0aW9uID09ICR0aGVtZV9vcHRpb25fc2xpZGVyX3Bvc2l0aW9uICYmIHN0cnRvbG93ZXIoICRyZXZlcnNlX3Bvc2l0aW9uICkgIT0gJHBhZ2Vfb3B0aW9uX3NsaWRlcl9wb3NpdGlvbiApIHx8ICggJHRoZW1lX29wdGlvbl9zbGlkZXJfcG9zaXRpb24gIT0gJHNsaWRlcl9wb3NpdGlvbiAmJiBzdHJ0b2xvd2VyKCAkc2xpZGVyX3Bvc2l0aW9uICkgPT0gJHBhZ2Vfb3B0aW9uX3NsaWRlcl9wb3NpdGlvbiApICkpOwogICAgICAgIHZhcl9kdW1wKCEgaXNfcGFnZV90ZW1wbGF0ZSggJ2JsYW5rLnBocCcgKSk7CiAgICAgICAgJ25vJyAhPSBmdXNpb25fZ2V0X3BhZ2Vfb3B0aW9uKCAnZGlzcGxheV9oZWFkZXInLCAkcGFnZV9pZCApIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>307</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2181,8 +2192,8 @@
         <entry>42</entry>
         <entry>76</entry>
         <entry>1085</entry>
-        <entry>w</entry>
         <entry>307</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
