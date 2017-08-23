@@ -151,8 +151,8 @@
         <mark key="^" line="101" column="69" />
       </file>
       <file name="$USER_HOME$/.composer/vendor/laravel/valet/server.php" timestamp="1502939397888" />
-      <file name="$USER_HOME$/PhpstormProjects/seoul/wp-config.php" timestamp="1503459300472">
-        <mark key="'" line="90" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/seoul/wp-config.php" timestamp="1503462754880">
+        <mark key="'" line="101" column="21" />
         <mark key="[" line="79" column="19" />
         <mark key="]" line="79" column="20" />
         <mark key="." line="79" column="20" />
@@ -444,7 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1370" column="17" filename="$USER_HOME$/git/ptp/wordpress/wp-content/themes/Avada/includes/avada-functions.php" />
       <jump line="1371" column="22" filename="$USER_HOME$/git/ptp/wordpress/wp-content/themes/Avada/includes/avada-functions.php" />
       <jump line="506" column="16" filename="$USER_HOME$/git/ptp/wordpress/wp-content/themes/Avada/includes/avada-functions.php" />
       <jump line="667" column="16" filename="$USER_HOME$/git/ptp/wordpress/wp-content/themes/Avada/includes/avada-functions.php" />
@@ -544,6 +543,7 @@
       <jump line="6" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/User.php" />
       <jump line="22" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/wp-config.php" />
       <jump line="90" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/wp-config.php" />
+      <jump line="101" column="21" filename="$USER_HOME$/PhpstormProjects/seoul/wp-config.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
