@@ -30,11 +30,10 @@
         <mark key="." line="591" column="0" />
         <mark key="^" line="590" column="18" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/seoul/wp-content/themes/Avada/includes/avada-functions.php" timestamp="1503388038855">
-        <mark key="[" line="1085" column="456" />
-        <mark key="]" line="1085" column="456" />
-        <mark key="^" line="1085" column="456" />
-        <mark key="." line="1085" column="456" />
+      <file name="$USER_HOME$/PhpstormProjects/seoul/wp-content/themes/Avada/includes/avada-functions.php" timestamp="1503455849521">
+        <mark key="[" line="1066" column="0" />
+        <mark key="]" line="1066" column="0" />
+        <mark key="." line="1066" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/free_house.blade.php" timestamp="1502964652876">
         <mark key="[" line="70" column="79" />
@@ -100,6 +99,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/seoul/.gitignore" timestamp="1503456166767">
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="35" column="45" />
+        <mark key="^" line="35" column="45" />
+        <mark key="." line="35" column="45" />
+      </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/DongListB.php" timestamp="1503366009618">
         <mark key="'" line="153" column="47" />
       </file>
@@ -143,11 +148,11 @@
         <mark key="]" line="1269" column="0" />
         <mark key="." line="1269" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/seoul/index.php" timestamp="1503369855695">
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="20" column="13" />
-        <mark key="^" line="20" column="13" />
-        <mark key="." line="20" column="13" />
+      <file name="$USER_HOME$/PhpstormProjects/seoul/index.php" timestamp="1503456516071">
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="24" column="31" />
+        <mark key="^" line="24" column="31" />
+        <mark key="." line="24" column="31" />
       </file>
       <file name="$USER_HOME$/git/ptp/wordpress/wp-content/uploads/fusion-styles/fusion-8.css" timestamp="1501828484142">
         <mark key="'" line="0" column="274932" />
@@ -163,10 +168,12 @@
         <mark key="^" line="101" column="69" />
       </file>
       <file name="$USER_HOME$/.composer/vendor/laravel/valet/server.php" timestamp="1502939397888" />
-      <file name="$USER_HOME$/PhpstormProjects/seoul/wp-config.php" timestamp="1503376596827">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/seoul/wp-config.php" timestamp="1503456480572">
+        <mark key="'" line="111" column="31" />
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/login_form.blade.php" timestamp="1502964586658">
         <mark key="[" line="61" column="44" />
@@ -416,6 +423,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/seoul/database.php" timestamp="1503456213991">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ptp/wordpress/wp-content/themes/Avada/header.php" timestamp="1503317661091">
         <mark key="'" line="28" column="43" />
       </file>
@@ -439,12 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="15" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/House/HouseAdvertiseController.php" />
-      <jump line="117" column="36" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/House/HouseAdvertiseController.php" />
-      <jump line="240" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="32" column="47" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="35" column="57" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="31" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="126" column="5" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/intro.blade.php" />
       <jump line="7" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/full-width.blade.php" />
       <jump line="20" column="27" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/full-width.blade.php" />
@@ -539,6 +545,12 @@
       <jump line="1091" column="145" filename="$USER_HOME$/PhpstormProjects/seoul/wp-content/themes/Avada/includes/avada-functions.php" />
       <jump line="142" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/wp-content/themes/Avada/includes/lib/inc/class-fusion-settings.php" />
       <jump line="4268" column="25" filename="$USER_HOME$/PhpstormProjects/seoul/wp-includes/functions.php" />
+      <jump line="96" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/wp-config.php" />
+      <jump line="21" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/wp-config.php" />
+      <jump line="27" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/wp-config.php" />
+      <jump line="103" column="20" filename="$USER_HOME$/PhpstormProjects/seoul/wp-config.php" />
+      <jump line="109" column="5" filename="$USER_HOME$/PhpstormProjects/seoul/wp-config.php" />
+      <jump line="100" column="31" filename="$USER_HOME$/PhpstormProjects/seoul/wp-config.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -559,8 +571,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2102,49 +2114,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>example.com</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>get(</text>
+        <text encoding="base64">XDxjb2xsYXRpb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJICAgIGVjaG8gJzEyMzEzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcQ2Fwc3VsZVxNYW5hZ2VyIGFzIENhcHN1bGU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmaW5lKCdXUF9IT01FJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsKZGVmaW5lKCdXUF9TSVRFVVJMJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsK</text>
+        <text encoding="base64">PD9waHAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnVwZGF0ZV9vcHRpb24oJ3NpdGV1cmwnLCdodHRwOi8vc2VvdWwucGV0ZXJwYW56LmNvbScpOwp1cGRhdGVfb3B0aW9uKCdob21lJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmaW5lKCdXUF9IT01FJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsKZGVmaW5lKCdXUF9TSVRFVVJMJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmaW5lKCdXUF9IT01FJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsKZGVmaW5lKCdXUF9TSVRFVVJMJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ZGVmaW5lKCdXUF9IT01FJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsKZGVmaW5lKCdXUF9TSVRFVVJMJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnVwZGF0ZV9vcHRpb24oJ3NpdGV1cmwnLCdodHRwOi8vc2VvdWwucGV0ZXJwYW56LmNvbScpOwp1cGRhdGVfb3B0aW9uKCdob21lJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsKCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnVG9wJyA9PSBBdmFkYSgpLT5zZXR0aW5ncy0+Z2V0KCAnaGVhZGVyX3Bvc2l0aW9uJyApICAK</text>
+        <text encoding="base64">ZGVmaW5lKCdXUF9IT01FJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsKZGVmaW5lKCdXUF9TSVRFVVJMJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoKICAgICAgICB2YXJfZHVtcCgoICEgJHRoZW1lX29wdGlvbl9zbGlkZXJfcG9zaXRpb24gfHwgKCAkc2xpZGVyX3Bvc2l0aW9uID09ICR0aGVtZV9vcHRpb25fc2xpZGVyX3Bvc2l0aW9uICYmIHN0cnRvbG93ZXIoICRyZXZlcnNlX3Bvc2l0aW9uICkgIT0gJHBhZ2Vfb3B0aW9uX3NsaWRlcl9wb3NpdGlvbiApIHx8ICggJHRoZW1lX29wdGlvbl9zbGlkZXJfcG9zaXRpb24gIT0gJHNsaWRlcl9wb3NpdGlvbiAmJiBzdHJ0b2xvd2VyKCAkc2xpZGVyX3Bvc2l0aW9uICkgPT0gJHBhZ2Vfb3B0aW9uX3NsaWRlcl9wb3NpdGlvbiApICkpOwogICAgICAgIHZhcl9kdW1wKCEgaXNfcGFnZV90ZW1wbGF0ZSggJ2JsYW5rLnBocCcgKSk7CiAgICAgICAgJ25vJyAhPSBmdXNpb25fZ2V0X3BhZ2Vfb3B0aW9uKCAnZGlzcGxheV9oZWFkZXInLCAkcGFnZV9pZCApIAo=</text>
+        <text encoding="base64">ZGVmaW5lKCdXUF9IT01FJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsKZGVmaW5lKCdXUF9TSVRFVVJMJywnaHR0cDovL3Nlb3VsLnBldGVycGFuei5jb20nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get(</last-search>
+      <last-search encoding="base64">XDxjb2xsYXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>get(</last-pattern>
+      <last-pattern encoding="base64">XDxjb2xsYXRpb25cPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2152,9 +2164,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hoses</entry>
-        <entry encoding="base64">XDxnZXRBZHZlcnRpc2VBZ2VuY3lcPg==</entry>
-        <entry encoding="base64">XDxwYWdlU2l6ZVw+</entry>
         <entry>agency_register</entry>
         <entry>agency_regist</entry>
         <entry>style</entry>
@@ -2172,6 +2181,9 @@
         <entry>settings</entry>
         <entry encoding="base64">XDxwYWdlX29wdGlvbl9zbGlkZXJfcG9zaXRpb25cPg==</entry>
         <entry>get(</entry>
+        <entry>vendor</entry>
+        <entry>mysql</entry>
+        <entry encoding="base64">XDxjb2xsYXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
