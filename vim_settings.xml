@@ -272,11 +272,12 @@
         <mark key="." line="806" column="70" />
         <mark key="^" line="806" column="70" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" timestamp="1503496844022">
-        <mark key="[" line="77" column="33" />
-        <mark key="]" line="77" column="36" />
-        <mark key="." line="77" column="36" />
-        <mark key="^" line="77" column="36" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" timestamp="1503500479472">
+        <mark key="'" line="19" column="11" />
+        <mark key="[" line="128" column="62" />
+        <mark key="]" line="128" column="69" />
+        <mark key="." line="128" column="69" />
+        <mark key="^" line="128" column="69" />
       </file>
       <file name="$USER_HOME$/git/ptp/jobs/cs/index.php" timestamp="1503034910015">
         <mark key="[" line="19" column="51" />
@@ -290,6 +291,10 @@
         <mark key="]" line="454" column="53" />
         <mark key="." line="454" column="53" />
         <mark key="^" line="454" column="53" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/public/css/dropzone.min.css" timestamp="1503497951234">
+        <mark key="[" line="511" column="0" />
+        <mark key="]" line="511" column="45" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/js/plugins/bootstrap-table/dist/bootstrap-table.css" timestamp="1500364329979">
         <mark key="[" line="216" column="17" />
@@ -549,7 +554,7 @@
         <mark key="^" line="44" column="49" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503496311335">
+      <file name="/Dummy.txt" timestamp="1503497942217">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -635,15 +640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="17" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
-      <jump line="181" column="32" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
-      <jump line="147" column="54" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
-      <jump line="146" column="53" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
-      <jump line="106" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
-      <jump line="696" column="41" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/NaverMap.vue" />
-      <jump line="690" column="109" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/NaverMap.vue" />
-      <jump line="158" column="8" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
       <jump line="322" column="8" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
       <jump line="323" column="10" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
       <jump line="463" column="12" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
@@ -688,7 +684,6 @@
       <jump line="133" column="56" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="221" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="116" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
-      <jump line="119" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="134" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="130" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="539" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
@@ -707,10 +702,6 @@
       <jump line="69" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="70" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="77" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
-      <jump line="18" column="20" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
-      <jump line="19" column="24" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
-      <jump line="20" column="38" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
-      <jump line="21" column="28" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="22" column="36" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="23" column="83" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="24" column="36" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
@@ -718,16 +709,13 @@
       <jump line="26" column="32" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="27" column="28" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="29" column="70" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
-      <jump line="30" column="32" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="31" column="28" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="32" column="28" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="33" column="36" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="34" column="140" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="35" column="92" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
-      <jump line="36" column="89" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="37" column="36" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="38" column="32" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
-      <jump line="40" column="24" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="90" column="24" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="44" column="52" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="11" column="0" filename="$USER_HOME$/git/ptp/peterWEB/public/css/user_profile.css" />
@@ -735,6 +723,23 @@
       <jump line="79" column="70" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="239" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="27" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
+      <jump line="88" column="28" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
+      <jump line="99" column="21" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
+      <jump line="109" column="67" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
+      <jump line="125" column="47" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
+      <jump line="113" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
+      <jump line="119" column="39" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
+      <jump line="18" column="53" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
+      <jump line="49" column="39" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
+      <jump line="40" column="39" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
+      <jump line="20" column="10" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
+      <jump line="36" column="14" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
+      <jump line="21" column="14" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
+      <jump line="30" column="15" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
+      <jump line="121" column="15" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
+      <jump line="17" column="7" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
+      <jump line="123" column="36" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
+      <jump line="19" column="11" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -756,7 +761,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>small</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2298,49 +2303,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>small</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>사진등록</text>
+        <text>subscriber_phone</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Ii9jc3MvZHJvcHpvbmUubWluLmNzcyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkcm9wem9uZSIgaWQ9Im15LWRyb3B6b25lIiBzdHlsZT0iYmFja2dyb3VuZC1jb2xvcjogI2ZiZmJmYjsiPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBpZD0icHJvZmlsZS1ib2R5Ij4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzbWFsbD7snoTrjIDssKjqs4Tslb3shJwg7YyM7J28IOyVlO2YuOuKlCAqKioqIOyeheuLiOuLpDwvc21hbGw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tZGFuZ2VyIGJ0bi1sZyBidG4tYmxvY2siPuuLpOyatOuhnOuTnDwvYnV0dG9uPgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNwYW4K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIOqyveyImOuLmOydtCDrp4zrk5zsi6Ag7IKs7KeEIOyXheuhnOuTnCDquLDriqXsnLzroZwg67aZ7ZiA64Sj6riwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRleHQtcmlnaHQiPgogICAgICAgICAgICAgICAgICAgIDxidXR0b24gaWQ9ImJ0blByb2ZpbGVDYW5jZWwiIGNsYXNzPSJidG4gYnRuLWNhbmNlbCBidG4tbGcgYnRuLWJsb2NrIj7st6jshow8L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGlkPSJwcm9maWxlLXVwZGF0ZSIgY2xhc3M9ImJ0biBidG4tZGFuZ2VyIGJ0bi1sZyBidG4tYmxvY2siPuyImOygleyZhOujjDwvYnV0dG9uPgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJwYXNzd29yZCIgaWQ9ImNoYW5nZV9wYXNzd29yZCIgbmFtZT0iY2hhbmdlX3Bhc3N3b3JkIiBjbGFzcz0iZm9ybS1jb250cm9sIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSLsiKvsnpAv7JiB66y4IOyhsO2VqSA47J6QIOydtOyDgeunjCDqsIDriqXtlanri4jri6QuIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0i7ZiE7J6sIOu5hOuwgOuyiO2YuOulvCDsnoXroKXtlbTso7zshLjsmpQuIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>사진등록</last-search>
+      <last-search>subscriber_phone</last-search>
       <last-offset />
-      <last-pattern>사진등록</last-pattern>
+      <last-pattern>subscriber_phone</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2348,7 +2353,6 @@
     </search>
     <history>
       <history-search>
-        <entry>app</entry>
         <entry>connectApp</entry>
         <entry>arrow</entry>
         <entry>footer</entry>
@@ -2368,6 +2372,7 @@
         <entry>34</entry>
         <entry>register_house</entry>
         <entry>사진등록</entry>
+        <entry>subscriber_phone</entry>
       </history-search>
       <history-cmd>
         <entry>117</entry>
