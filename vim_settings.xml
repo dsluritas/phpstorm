@@ -74,6 +74,9 @@
         <mark key="]" line="98" column="18" />
         <mark key="." line="135" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/connects/connectApp.blade.php" timestamp="1503488082685">
+        <mark key="'" line="3" column="58" />
+      </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/.env" timestamp="1502953356487">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="23" column="25" />
@@ -167,6 +170,13 @@
         <mark key="." line="34" column="47" />
         <mark key="^" line="34" column="47" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/public/css/connectApp.css" timestamp="1503488122140">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="84" column="17" />
+        <mark key="]" line="84" column="111" />
+        <mark key="." line="84" column="111" />
+        <mark key="^" line="84" column="111" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/full-width.blade.php" timestamp="1502963656577">
         <mark key="'" line="98" column="28" />
       </file>
@@ -235,9 +245,6 @@
         <mark key="[" line="121" column="42" />
         <mark key="]" line="121" column="42" />
         <mark key="." line="121" column="42" />
-      </file>
-      <file name="/fragment.php" timestamp="1502945951185">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/wordpress/wp-content/themes/Avada/templates/header-1.php" timestamp="1503320096601">
         <mark key="[" line="15" column="0" />
@@ -348,8 +355,8 @@
         <mark key="^" line="155" column="64" />
         <mark key="." line="155" column="64" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1502964489994">
-        <mark key="'" line="31" column="13" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1503487793547">
+        <mark key="'" line="364" column="13" />
         <mark key="[" line="31" column="13" />
         <mark key="]" line="31" column="17" />
         <mark key="^" line="31" column="17" />
@@ -484,9 +491,6 @@
         <mark key="." line="273" column="37" />
         <mark key="^" line="273" column="37" />
       </file>
-      <file name="/PHP Console" timestamp="1503372723003">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/js/app.js" timestamp="1503481005883">
         <mark key="'" line="2046" column="12" />
         <mark key="[" line="1614" column="0" />
@@ -602,19 +606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="12" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
-      <jump line="699" column="29" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/NaverMap.vue" />
-      <jump line="700" column="52" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/NaverMap.vue" />
-      <jump line="13" column="13" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
-      <jump line="125" column="27" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
-      <jump line="233" column="32" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
-      <jump line="235" column="34" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
-      <jump line="552" column="30" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/NaverMap.vue" />
-      <jump line="555" column="30" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/NaverMap.vue" />
-      <jump line="255" column="12" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/NaverMap.vue" />
-      <jump line="256" column="36" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/NaverMap.vue" />
-      <jump line="628" column="20" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/NaverMap.vue" />
       <jump line="642" column="39" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/NaverMap.vue" />
       <jump line="641" column="35" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/NaverMap.vue" />
       <jump line="639" column="19" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/NaverMap.vue" />
@@ -702,6 +693,19 @@
       <jump line="47" column="12" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
       <jump line="689" column="34" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/NaverMap.vue" />
       <jump line="325" column="46" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
+      <jump line="32" column="45" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="17" column="43" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="331" column="17" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="364" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="12" column="16" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/connects/connectApp.blade.php" />
+      <jump line="54" column="25" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/connects/connectApp.blade.php" />
+      <jump line="34" column="12" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/connects/connectApp.blade.php" />
+      <jump line="78" column="8" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/connects/connectApp.blade.php" />
+      <jump line="47" column="12" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/connects/connectApp.blade.php" />
+      <jump line="11" column="19" filename="$USER_HOME$/git/ptp/peterWEB/public/css/connectApp.css" />
+      <jump line="3" column="58" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/connects/connectApp.blade.php" />
+      <jump line="106" column="22" filename="$USER_HOME$/git/ptp/peterWEB/public/css/connectApp.css" />
+      <jump line="82" column="0" filename="$USER_HOME$/git/ptp/peterWEB/public/css/connectApp.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -723,7 +727,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>00e676</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2265,10 +2269,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>00e676</text>
       </register>
       <register name="/" type="4">
-        <text>NaPm</text>
+        <text>#desc_slider.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZFRhcmdldCA6IEpTT04uc3RyaW5naWZ5KHdpbmRvdy5zdG9yZS5zdGF0ZS5tYXAuYWR2ZXJ0aXNlLnRhcmdldCksCg==</text>
@@ -2305,9 +2309,9 @@
       </register>
     </registers>
     <search>
-      <last-search>NaPm</last-search>
+      <last-search>#desc_slider.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span</last-search>
       <last-offset />
-      <last-pattern>NaPm</last-pattern>
+      <last-pattern>#desc_slider.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2315,11 +2319,6 @@
     </search>
     <history>
       <history-search>
-        <entry>target</entry>
-        <entry encoding="base64">XDxOYXZlclNjcmlwdFw+</entry>
-        <entry>zoom</entry>
-        <entry>prop</entry>
-        <entry encoding="base64">XDxuYXZlck1hcFw+</entry>
         <entry>Extra</entry>
         <entry encoding="base64">XDxzZXRNYXBBZHZlcnRpc2VUYXJnZXRcPg==</entry>
         <entry encoding="base64">XDxzZXROYXZlclNjcmlwdFw+</entry>
@@ -2335,6 +2334,11 @@
         <entry encoding="base64">XDxzZXRNYXBOYVBtXD4=</entry>
         <entry encoding="base64">XDxOYVBtXD4=</entry>
         <entry>NaPm</entry>
+        <entry>app</entry>
+        <entry>connectApp</entry>
+        <entry>arrow</entry>
+        <entry>footer</entry>
+        <entry>#desc_slider.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span</entry>
       </history-search>
       <history-cmd>
         <entry>117</entry>
