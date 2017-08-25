@@ -122,10 +122,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/informationPage.blade.php" timestamp="1503646552405">
-        <mark key="[" line="22" column="38" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/informationPage.blade.php" timestamp="1503656361031">
+        <mark key="'" line="67" column="45" />
+        <mark key="[" line="51" column="20" />
+        <mark key="]" line="51" column="24" />
+        <mark key="^" line="51" column="19" />
+        <mark key="." line="51" column="20" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/return.blade.php" timestamp="1501568687847">
         <mark key="'" line="0" column="0" />
@@ -455,10 +457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="12" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/connects/connectApp.blade.php" />
-      <jump line="78" column="8" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/connects/connectApp.blade.php" />
-      <jump line="47" column="12" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/connects/connectApp.blade.php" />
-      <jump line="11" column="19" filename="$USER_HOME$/git/ptp/peterWEB/public/css/connectApp.css" />
       <jump line="3" column="58" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/connects/connectApp.blade.php" />
       <jump line="106" column="22" filename="$USER_HOME$/git/ptp/peterWEB/public/css/connectApp.css" />
       <jump line="82" column="0" filename="$USER_HOME$/git/ptp/peterWEB/public/css/connectApp.css" />
@@ -555,6 +553,10 @@
       <jump line="19" column="43" filename="$USER_HOME$/PhpstormProjects/seoul/wp-config.php" />
       <jump line="70" column="15" filename="$USER_HOME$/PhpstormProjects/seoul/wp-config.php" />
       <jump line="85" column="13" filename="$USER_HOME$/PhpstormProjects/seoul/wp-config.php" />
+      <jump line="35" column="15" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/informationPage.blade.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/informationPage.blade.php" />
+      <jump line="12" column="15" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/informationPage.blade.php" />
+      <jump line="51" column="45" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/informationPage.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -576,7 +578,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">QHNlY3Rpb24oJ2NvbnRlbnQnKQogICAgPGRpdiBjbGFzcz0id3JhcHBlciI+CiAgICAgICAgPGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iYm9yZGVyLWdyYXkiPgogICAgICAgICAgICAgICAgPGltZyBzcmM9Ii9pbWFnZXMvZmEvZnJlZVN1YnNjcmliZS1iYWNrZ3JvdW5kLnBuZyI+CiAgICAgICAgICAgICAgICA8ZGl2IGlkPSJidG5GYWNlYm9vayI+PC9kaXY+</text>
+        <text encoding="base64">PC9hPg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2118,49 +2120,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">PC9hPg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDYXBzdWxlXD4=</text>
+        <text>style</text>
       </register>
-      <register name="0" type="4">
-        <text>__DIR__ . &quot;/vendor/autoload.php&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgIDxhIGhyZWY9IiI+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">QHNlY3Rpb24oJ2NvbnRlbnQnKQogICAgPGRpdiBjbGFzcz0id3JhcHBlciI+CiAgICAgICAgPGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iYm9yZGVyLWdyYXkiPgogICAgICAgICAgICAgICAgPGltZyBzcmM9Ii9pbWFnZXMvZmEvZnJlZVN1YnNjcmliZS1iYWNrZ3JvdW5kLnBuZyI+CiAgICAgICAgICAgICAgICA8ZGl2IGlkPSJidG5GYWNlYm9vayI+PC9kaXY+</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9IiI+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9IiI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9IiI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJlcnJvciI+CiAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICA8cCBjbGFzcz0ic3VjY2VzcyI+CiAgICAgICAgICAgICAgICA8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3Ryb25nPkRhbmdlciE8L3N0cm9uZz4gSW5kaWNhdGVzIGEgZGFuZ2Vyb3VzIG9yIHBvdGVudGlhbGx5IG5lZ2F0aXZlIGFjdGlvbi4K</text>
+        <text encoding="base64">CgoKICAgICAgICDstpzsspg6IGh0dHA6Ly9hcmNhbmVsdXgudGlzdG9yeS5jb20vZW50cnkvaW1nLeydtOuvuOyngC3sgqzsnbQt6rO167CxLeyXhuyVoOq4sCBbRGV2QXJjYW5lbHV4XQogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDrs7Ttl5jssq3slb3sl5Ag6rCA7J6F7ZWY7IWo7Iq164uI64ukCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWcgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3Ryb25nPlN1Y2Nlc3MhPC9zdHJvbmc+IEluZGljYXRlcyBhIHN1Y2Nlc3NmdWwgb3IgcG9zaXRpdmUgYWN0aW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgICAgICAgICBib3JkZXI6IDA7CiAgICAgICAgICAgIG1hcmdpbjogMDsKICAgICAgICAgICAgcGFkZGluZzogMDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDYXBzdWxlXD4=</last-search>
+      <last-search>style</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDYXBzdWxlXD4=</last-pattern>
+      <last-pattern>style</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2168,7 +2170,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtaWRkbGV3YXJlXD4=</entry>
         <entry>Hel</entry>
         <entry>helper</entry>
         <entry>Helper</entry>
@@ -2188,6 +2189,7 @@
         <entry>WPLAN</entry>
         <entry>settings</entry>
         <entry encoding="base64">XDxDYXBzdWxlXD4=</entry>
+        <entry>style</entry>
       </history-search>
       <history-cmd>
         <entry>211</entry>
