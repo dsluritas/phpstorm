@@ -15,13 +15,6 @@
         <mark key="^" line="39" column="72" />
         <mark key="." line="39" column="72" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/User.php" timestamp="1503892976279">
-        <mark key="'" line="366" column="20" />
-        <mark key="[" line="587" column="66" />
-        <mark key="]" line="587" column="87" />
-        <mark key="." line="587" column="87" />
-        <mark key="^" line="587" column="87" />
-      </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/House/HouseFavoriteController.php" timestamp="1502938873661">
         <mark key="'" line="40" column="52" />
         <mark key="[" line="134" column="28" />
@@ -34,12 +27,12 @@
         <mark key="." line="14" column="37" />
         <mark key="^" line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1504147209706">
-        <mark key="'" line="534" column="25" />
-        <mark key="[" line="539" column="39" />
-        <mark key="]" line="539" column="39" />
-        <mark key="." line="539" column="39" />
-        <mark key="^" line="538" column="29" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1504157252356">
+        <mark key="'" line="268" column="0" />
+        <mark key="[" line="541" column="0" />
+        <mark key="]" line="541" column="0" />
+        <mark key="." line="541" column="0" />
+        <mark key="^" line="552" column="29" />
       </file>
       <file name="$USER_HOME$/git/ptp/wordpress/index.php" timestamp="1503372022773">
         <mark key="[" line="14" column="0" />
@@ -103,13 +96,6 @@
         <mark key="^" line="36" column="76" />
         <mark key="." line="36" column="76" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/public/js/fa-information-page.js" timestamp="1503979689536">
-        <mark key="'" line="40" column="3" />
-        <mark key="[" line="19" column="6" />
-        <mark key="]" line="19" column="8" />
-        <mark key="." line="19" column="8" />
-        <mark key="^" line="19" column="8" />
-      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_regist_done.blade.php" timestamp="1501553025580">
         <mark key="[" line="40" column="6" />
         <mark key="]" line="40" column="6" />
@@ -130,11 +116,12 @@
         <mark key="^" line="104" column="55" />
         <mark key="o" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" timestamp="1504156027611">
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" timestamp="1504156927206">
         <mark key="'" line="23" column="39" />
         <mark key="[" line="2" column="34" />
-        <mark key="]" line="2" column="34" />
-        <mark key="." line="2" column="34" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+        <mark key="^" line="2" column="36" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/storage/framework/views/de4cb2848bfd302a016184b683c639484b62f196.php" timestamp="1502703597876">
         <mark key="'" line="948" column="37" />
@@ -188,13 +175,6 @@
         <mark key="]" line="210" column="16" />
         <mark key="^" line="206" column="15" />
         <mark key="." line="210" column="16" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/informationPage.blade.php" timestamp="1503985784874">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="72" column="144" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/select_product.blade.php" timestamp="1504154737371">
         <mark key="'" line="698" column="34" />
@@ -271,13 +251,6 @@
         <mark key="^" line="44" column="49" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/seoul/wp-config.php" timestamp="1503569860267">
-        <mark key="'" line="86" column="13" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="70" column="7" />
-      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/css/custom.css" timestamp="1504154156160">
         <mark key="'" line="1654" column="0" />
         <mark key="[" line="1940" column="0" />
@@ -306,12 +279,12 @@
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1504148082749">
         <mark key="'" line="207" column="64" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" timestamp="1504154853639">
-        <mark key="'" line="107" column="42" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="148" column="12" />
-        <mark key="^" line="71" column="52" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" timestamp="1504157358182">
+        <mark key="'" line="113" column="42" />
+        <mark key="[" line="77" column="39" />
+        <mark key="]" line="77" column="39" />
+        <mark key="^" line="77" column="62" />
+        <mark key="." line="77" column="39" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/app/RealEstate.php" timestamp="1503458561736">
         <mark key="[" line="9" column="29" />
@@ -348,13 +321,6 @@
         <mark key="^" line="17" column="148" />
         <mark key="." line="17" column="148" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/naverVilla.blade.php" timestamp="1503903218543">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="12" />
-        <mark key="^" line="49" column="13" />
-        <mark key="." line="49" column="12" />
-      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/common/header.blade.php" timestamp="1502964482516">
         <mark key="[" line="225" column="51" />
         <mark key="]" line="225" column="55" />
@@ -366,13 +332,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/ppTable.blade.php" timestamp="1503903182894">
-        <mark key="'" line="22" column="37" />
-        <mark key="[" line="22" column="41" />
-        <mark key="]" line="22" column="48" />
-        <mark key="^" line="22" column="48" />
-        <mark key="." line="22" column="48" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/tests/ShareFriendsTest.php" timestamp="1500438939503">
         <mark key="[" line="16" column="41" />
@@ -392,17 +351,8 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" timestamp="1504004256463">
-        <mark key="'" line="661" column="44" />
-        <mark key="[" line="573" column="0" />
-        <mark key="]" line="573" column="0" />
-        <mark key="^" line="577" column="7" />
-        <mark key="." line="573" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/select_product.blade.php" />
-      <jump line="66" column="35" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/select_product.blade.php" />
       <jump line="15" column="8" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/select_product.blade.php" />
       <jump line="123" column="41" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/select_product.blade.php" />
       <jump line="87" column="32" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/select_product.blade.php" />
@@ -501,6 +451,8 @@
       <jump line="9" column="4" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
       <jump line="8" column="73" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
       <jump line="424" column="41" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
+      <jump line="587" column="14" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="268" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -522,7 +474,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>post</text>
+        <text>displayDeposit</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2064,49 +2016,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>post</text>
+        <text>displayDeposit</text>
       </register>
       <register name="/" type="4">
-        <text>datepick</text>
+        <text>property</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvanMvcGx1Z2lucy9kYXRlcGlja2VyL2Jvb3RzdHJhcC1kYXRlcGlja2VyLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aD48bGFiZWwgZm9yPSIiPuuztOymneq4iDwvbGFiZWw+PC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNvbHNwYW49IjMiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgJGhvdXNlLT5kaXNwbGF5RGVwb3NpdCBvciAnLScgfX0g7JuQCiAgICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPC90cj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9Im1vZGFsIiBhcmlhLWxhYmVsPSJDbG9zZSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgYXJpYS1oaWRkZW49InRydWUiIHNyYz0iL2ltYWdlcy9maWxsdGVyX2Nsb3NlLnBuZyI+CiAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9Im1vZGFsIiBhcmlhLWxhYmVsPSJDbG9zZSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgYXJpYS1oaWRkZW49InRydWUiIHNyYz0iL2ltYWdlcy9tb2RhbF9jbG9zZS5wbmciPgogICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9Im1vZGFsIiBhcmlhLWxhYmVsPSJDbG9zZSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgYXJpYS1oaWRkZW49InRydWUiIHNyYz0iL2ltYWdlcy9maWxsdGVyX2Nsb3NlLnBuZyI+CiAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9Im1vZGFsIiBhcmlhLWxhYmVsPSJDbG9zZSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgYXJpYS1oaWRkZW49InRydWUiIHNyYz0iL2ltYWdlcy9tb2RhbF9jbG9zZS5wbmciPgogICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">PHNjcmlwdD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJmYS1kZXBvc2l0Ij48L2xhYmVsPgo=</text>
+        <text encoding="base64">PHNjcmlwdD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJmYS1waG9uZSI+PC9sYWJlbD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJmYS1kZXBvc2l0Ij48L2xhYmVsPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJmYS1uYW1lIj48L2xhYmVsPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJmYS1waG9uZSI+PC9sYWJlbD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGl2I2ZhLW5ldy1zZXJ2aWNlLW1vZGFsIHsKICAgIAp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJmYS1uYW1lIj48L2xhYmVsPgo=</text>
       </register>
       <register name=":" type="4">
         <text>590</text>
       </register>
     </registers>
     <search>
-      <last-search>datepick</last-search>
+      <last-search>property</last-search>
       <last-offset />
-      <last-pattern>datepick</last-pattern>
+      <last-pattern>property</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2114,9 +2066,6 @@
     </search>
     <history>
       <history-search>
-        <entry>new-</entry>
-        <entry>apply</entry>
-        <entry>property</entry>
         <entry>modal</entry>
         <entry>houses</entry>
         <entry encoding="base64">XDxodHRwUmVzcG9uc2VcPg==</entry>
@@ -2134,6 +2083,9 @@
         <entry encoding="base64">XDxkYXRlcGlja2VyXD4=</entry>
         <entry>datetime</entry>
         <entry>datepick</entry>
+        <entry>insu</entry>
+        <entry>proper</entry>
+        <entry>property</entry>
       </history-search>
       <history-cmd>
         <entry>4318</entry>
