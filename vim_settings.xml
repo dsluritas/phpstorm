@@ -160,6 +160,11 @@
         <mark key="^" line="43" column="72" />
         <mark key="." line="43" column="72" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/meta_data.blade.php" timestamp="1504226449936">
+        <mark key="[" line="7" column="53" />
+        <mark key="]" line="7" column="53" />
+        <mark key="." line="7" column="53" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/common/footer.blade.php" timestamp="1503017388988">
         <mark key="[" line="49" column="88" />
         <mark key="]" line="49" column="92" />
@@ -526,8 +531,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aD48bGFiZWwgZm9yPSIiPuuztOymneq4iDwvbGFiZWw+PC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNvbHNwYW49IjMiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgJGhvdXNlLT5kaXNwbGF5RGVwb3NpdCBvciAnLScgfX0g7JuQCiAgICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPC90cj4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">6rWt64K0IOy1nOuMgCDrtoDrj5nsgrAg7Luk666k64uI7YuwIA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2069,7 +2074,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNvbHNwYW49IjMi</text>
+        <text encoding="base64">6rWt64K0IOy1nOuMgCDrtoDrj5nsgrAg7Luk666k64uI7YuwIA==</text>
       </register>
       <register name="/" type="4">
         <text>이사 예정일</text>
@@ -2105,7 +2110,7 @@
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgPGgxPuyViOyLrOyngeqxsOuemCDshJzruYTsiqQg6rCA7J6F7J20IOyZhOujjOuQmOyXiOyKteuLiOuLpDwvaDE+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>590</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2156,11 +2161,11 @@
         <entry>101</entry>
         <entry>71</entry>
         <entry>s</entry>
-        <entry>w</entry>
         <entry>226</entry>
         <entry>75</entry>
         <entry>518</entry>
         <entry>590</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
