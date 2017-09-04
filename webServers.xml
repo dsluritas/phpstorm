@@ -14,15 +14,7 @@
           <option name="port" value="6424" />
         </fileTransfer>
       </webServer>
-      <webServer id="e9201a18-493d-4956-b950-c9017819f089" name="seoul" url="http://seoul.peterpanz.com">
-        <fileTransfer host="1.234.83.234" port="22" rootFolder="/var/www/seoul" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="547e5623-4b50-49da-92a4-15cb26b36118" name="seoul" url="http://1.234.83.234">
+      <webServer id="547e5623-4b50-49da-92a4-15cb26b36118" name="seoul" url="http://api.seoul.peterpanz.com">
         <fileTransfer host="1.234.83.234" port="22" rootFolder="/var/www" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
