@@ -28,22 +28,14 @@
         <mark key="]" line="134" column="29" />
         <mark key="." line="134" column="29" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/agency.blade.php" timestamp="1503907502936">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="69" />
-      </file>
       <file name="$USER_HOME$/git/ptp/jobs/config.php" timestamp="1503027301860">
         <mark key="[" line="14" column="37" />
         <mark key="]" line="14" column="37" />
         <mark key="." line="14" column="37" />
         <mark key="^" line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1504593659809">
-        <mark key="'" line="229" column="17" />
-        <mark key="[" line="538" column="30" />
-        <mark key="]" line="538" column="10" />
-        <mark key="." line="538" column="10" />
-        <mark key="^" line="538" column="10" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1504602025252">
+        <mark key="'" line="154" column="27" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/api/index.php" timestamp="1504539738203">
         <mark key="'" line="41" column="0" />
@@ -64,6 +56,11 @@
         <mark key="^" line="16" column="55" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Classes/Pager.php" timestamp="1504149515100">
+        <mark key="[" line="599" column="0" />
+        <mark key="]" line="599" column="0" />
+        <mark key="." line="599" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/wp-content/themes/Avada/includes/avada-functions.php" timestamp="1503562141750">
         <mark key="'" line="1080" column="0" />
         <mark key="[" line="1066" column="0" />
@@ -82,7 +79,6 @@
         <mark key="." line="70" column="79" />
         <mark key="^" line="76" column="38" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/admin/report/list.blade.php" timestamp="1504575332116" />
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/manage_house.blade.php" timestamp="1504593807715">
         <mark key="'" line="18" column="16" />
         <mark key="[" line="14" column="0" />
@@ -96,7 +92,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/public/temp/test.html" timestamp="1504585902701" />
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/intro.blade.php" timestamp="1503572017596">
         <mark key="[" line="20" column="84" />
         <mark key="]" line="20" column="84" />
@@ -110,7 +105,12 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Admin/AdminReportController.php" timestamp="1504577469170" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Admin/AdminReportController.php" timestamp="1504602003412">
+        <mark key="[" line="33" column="38" />
+        <mark key="]" line="33" column="38" />
+        <mark key="." line="33" column="38" />
+        <mark key="^" line="33" column="38" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/base.blade.php" timestamp="1502953051764">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="97" column="0" />
@@ -139,9 +139,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="45" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/common/head.blade.php" timestamp="1504234265184">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="29" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/.env" timestamp="1504602234759">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="19" column="1" />
+        <mark key="^" line="19" column="1" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/header.blade.php" timestamp="1500009932917">
         <mark key="[" line="36" column="73" />
@@ -199,13 +201,17 @@
         <mark key="^" line="43" column="72" />
         <mark key="." line="43" column="72" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/meta_data.blade.php" timestamp="1504234180867">
+        <mark key="[" line="7" column="53" />
+        <mark key="]" line="7" column="53" />
+        <mark key="." line="7" column="53" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/common/footer.blade.php" timestamp="1503017388988">
         <mark key="[" line="49" column="88" />
         <mark key="]" line="49" column="92" />
         <mark key="." line="49" column="92" />
         <mark key="^" line="49" column="92" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mbstring/mbstring.php" timestamp="1504571426421" />
       <file name="$USER_HOME$/PhpstormProjects/seoul/.gitignore" timestamp="1503456166767">
         <mark key="[" line="20" column="35" />
         <mark key="]" line="35" column="45" />
@@ -222,16 +228,11 @@
         <mark key="." line="30" column="23" />
         <mark key="^" line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/main.blade.php" timestamp="1504174235012">
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="237" column="34" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php" timestamp="1504574764785" />
-      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1504170192418">
-        <mark key="[" line="3" column="59" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="4" column="26" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1504602214445">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+        <mark key="^" line="16" column="1" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_home.blade.php" timestamp="1500013621778">
         <mark key="[" line="210" column="0" />
@@ -260,15 +261,16 @@
         <mark key="." line="102" column="0" />
         <mark key="^" line="791" column="90" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/public/js/common.js" timestamp="1504586152170">
-        <mark key="[" line="136" column="12" />
-        <mark key="]" line="136" column="82" />
-      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/sub_header.blade.php" timestamp="1504593737277">
         <mark key="[" line="6" column="78" />
         <mark key="]" line="6" column="80" />
         <mark key="^" line="6" column="80" />
         <mark key="." line="6" column="80" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Route.php" timestamp="1504544334733">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/css/house_detail.css" timestamp="1504589001525">
         <mark key="[" line="1156" column="34" />
@@ -308,11 +310,10 @@
         <mark key="]" line="342" column="0" />
         <mark key="." line="342" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/VerificationReportController.php" timestamp="1504577406960">
-        <mark key="[" line="172" column="40" />
-        <mark key="]" line="172" column="43" />
-        <mark key="." line="172" column="43" />
-        <mark key="^" line="172" column="43" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/VerificationReportController.php" timestamp="1504602114859">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/LoginController.php" timestamp="1503016760631">
         <mark key="'" line="205" column="27" />
@@ -357,7 +358,7 @@
         <mark key="]" line="1940" column="0" />
         <mark key="." line="1940" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504593402460">
+      <file name="/Dummy.txt" timestamp="1504602148795">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -404,10 +405,6 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/public/css/dropzone.min.css" timestamp="1503497951234">
-        <mark key="[" line="511" column="0" />
-        <mark key="]" line="511" column="45" />
-      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/js/plugins/bootstrap-table/dist/bootstrap-table.css" timestamp="1500364329979">
         <mark key="[" line="216" column="17" />
         <mark key="]" line="216" column="18" />
@@ -438,10 +435,6 @@
         <mark key="]" line="13" column="5" />
         <mark key="." line="13" column="5" />
         <mark key="^" line="13" column="5" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/public/js/user_house_edit.js" timestamp="1504585425268">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="66" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/common/header.blade.php" timestamp="1502964482516">
         <mark key="[" line="225" column="51" />
@@ -495,8 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6059" column="10" filename="$USER_HOME$/git/ptp/peterWEB/public/plugins/d3/d3.js" />
-      <jump line="6064" column="10" filename="$USER_HOME$/git/ptp/peterWEB/public/plugins/d3/d3.js" />
       <jump line="6069" column="10" filename="$USER_HOME$/git/ptp/peterWEB/public/plugins/d3/d3.js" />
       <jump line="6074" column="10" filename="$USER_HOME$/git/ptp/peterWEB/public/plugins/d3/d3.js" />
       <jump line="6079" column="10" filename="$USER_HOME$/git/ptp/peterWEB/public/plugins/d3/d3.js" />
@@ -589,12 +580,14 @@
       <jump line="170" column="46" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="134" column="66" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="538" column="27" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="229" column="17" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="96" column="36" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="11" column="19" filename="$USER_HOME$/git/ptp/peterWEB/public/css/fa/fa-service.css" />
       <jump line="12" column="4" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="246" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
       <jump line="248" column="37" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/property/subscribe.blade.php" />
+      <jump line="229" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="507" column="26" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="154" column="27" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -615,8 +608,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2158,49 +2151,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>port</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>report</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9Ii9jc3MvYWdlbmN5X2xpc3QuY3NzIj4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">SGVscGVyOjpnZXRBcGlQYXRoKCkgLiAiL3ZhcGkvcmVjZWl2ZS1wb3N0LXRyZWF0LXRlc3VsdC8/Ii4KICAgICAgICAgICAgICAgICAgICAidWlkPSIuJHRoaXMtPnJlcG9ydC0+bmF2ZXJfcmVwb3J0X2lkLgogICAgICAgICAgICAgICAgICAgICImdHJlYXRDb2RlPSIuJHRoaXMtPmdldFRyZWF0Q29kZSgkdmFsdWUpLgogICAgICAgICAgICAgICAgICAgICImdHJlYXRUeXBlPUNBTEwi</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzdHlsZT4K</text>
+      <register name="2" type="8">
+        <text encoding="base64">IAogCiAKIAog</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvc3R5bGU+CiAgICA8c3R5bGU+CiAgICA8L3N0eWxlPgo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAubmF2YmFyLXN1Yi1tZW51IGxpIGEgewogICAgICAgICAgICBwYWRkaW5nOiAwOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+YWxsKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0ie3sgZWxpeGlyKCdjc3MvYWdlbmN5LWFsbC5jc3MnKSB9fSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+aG91c2UtPmlzU2VudFRvTmF2ZXIoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9Ii9jc3MvdXNlcl9wcm9maWxlLmNzcyI+Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+cmVwb3J0LT5ob3VzZVNhbGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9Ii9jc3MvdXNlcl9wcm9maWxlLmNzcyI+Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBEQl9EQVRBQkFTRT1kdWtrdWJpX3JlYWwKIyBEQl9VU0VSTkFNRT1yb290CiMgREJfUEFTU1dPUkQ9cGFzc3dvcmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">REJfSE9TVD0yMTguMzguMTIxLjExNwpEQl9EQVRBQkFTRT1wZXRlcnBhbnoKREJfVVNFUk5BTUU9ZGV2CkRCX1BBU1NXT1JEPWVuUmpxbHRwdGtkfn4K</text>
       </register>
       <register name=":" type="4">
         <text>141</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>report</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>report</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2208,7 +2201,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxudW1iZXJSZVw+</entry>
         <entry>deposit</entry>
         <entry>권리정보</entry>
         <entry>보증금</entry>
@@ -2228,6 +2220,7 @@
         <entry>manage_house</entry>
         <entry>fa</entry>
         <entry>log</entry>
+        <entry>report</entry>
       </history-search>
       <history-cmd>
         <entry>1900</entry>
