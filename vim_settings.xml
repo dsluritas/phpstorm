@@ -43,12 +43,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" timestamp="1504541944389">
+      <file name="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" timestamp="1504691493857">
         <mark key="'" line="3" column="9" />
-        <mark key="[" line="33" column="25" />
-        <mark key="]" line="33" column="25" />
-        <mark key="." line="33" column="25" />
-        <mark key="^" line="33" column="32" />
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="19" />
+        <mark key="^" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/wordpress/index.php" timestamp="1503372022773">
         <mark key="[" line="14" column="0" />
@@ -608,8 +608,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
+      <register name="&quot;" type="4">
+        <text>info</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2151,7 +2151,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>port</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text>subway</text>
