@@ -155,8 +155,8 @@
         <mark key="^" line="151" column="58" />
         <mark key="." line="180" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/informationPage.blade.php" timestamp="1503985784874">
-        <mark key="'" line="47" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/informationPage.blade.php" timestamp="1504762315117">
+        <mark key="'" line="13" column="30" />
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
@@ -418,7 +418,7 @@
         <mark key="^" line="44" column="49" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504760828937">
+      <file name="/Dummy.txt" timestamp="1504762295163">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -491,10 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6084" column="10" filename="$USER_HOME$/git/ptp/peterWEB/public/plugins/d3/d3.js" />
-      <jump line="5998" column="4" filename="$USER_HOME$/git/ptp/peterWEB/public/plugins/d3/d3.js" />
-      <jump line="6026" column="0" filename="$USER_HOME$/git/ptp/peterWEB/public/plugins/d3/d3.js" />
-      <jump line="6029" column="10" filename="$USER_HOME$/git/ptp/peterWEB/public/plugins/d3/d3.js" />
       <jump line="6034" column="10" filename="$USER_HOME$/git/ptp/peterWEB/public/plugins/d3/d3.js" />
       <jump line="105" column="30" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" />
       <jump line="36" column="47" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" />
@@ -591,6 +587,10 @@
       <jump line="209" column="33" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
       <jump line="56" column="9" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
       <jump line="75" column="13" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="16" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/informationPage.blade.php" />
+      <jump line="81" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/informationPage.blade.php" />
+      <jump line="72" column="37" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/informationPage.blade.php" />
+      <jump line="13" column="30" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/informationPage.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2157,7 +2157,7 @@
         <text>info</text>
       </register>
       <register name="/" type="4">
-        <text>subway</text>
+        <text>kakao</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">SGVscGVyOjpnZXRBcGlQYXRoKCkgLiAiL3ZhcGkvcmVjZWl2ZS1wb3N0LXRyZWF0LXRlc3VsdC8/Ii4KICAgICAgICAgICAgICAgICAgICAidWlkPSIuJHRoaXMtPnJlcG9ydC0+bmF2ZXJfcmVwb3J0X2lkLgogICAgICAgICAgICAgICAgICAgICImdHJlYXRDb2RlPSIuJHRoaXMtPmdldFRyZWF0Q29kZSgkdmFsdWUpLgogICAgICAgICAgICAgICAgICAgICImdHJlYXRUeXBlPUNBTEwi</text>
@@ -2194,9 +2194,9 @@
       </register>
     </registers>
     <search>
-      <last-search>subway</last-search>
+      <last-search>kakao</last-search>
       <last-offset />
-      <last-pattern>subway</last-pattern>
+      <last-pattern>kakao</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2204,7 +2204,6 @@
     </search>
     <history>
       <history-search>
-        <entry>권리정보</entry>
         <entry>보증금</entry>
         <entry>예시</entry>
         <entry>매물보기</entry>
@@ -2224,6 +2223,7 @@
         <entry>log</entry>
         <entry>report</entry>
         <entry>subway</entry>
+        <entry>kakao</entry>
       </history-search>
       <history-cmd>
         <entry>1900</entry>
