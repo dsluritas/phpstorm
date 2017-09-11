@@ -35,12 +35,11 @@
         <mark key="." line="151" column="81" />
         <mark key="^" line="151" column="81" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" timestamp="1504933880159">
-        <mark key="'" line="3" column="9" />
-        <mark key="[" line="30" column="64" />
-        <mark key="]" line="30" column="73" />
-        <mark key="." line="30" column="73" />
-        <mark key="^" line="30" column="73" />
+      <file name="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" timestamp="1505106453773">
+        <mark key="'" line="20" column="33" />
+        <mark key="[" line="56" column="53" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/wordpress/index.php" timestamp="1503372022773">
         <mark key="[" line="14" column="0" />
@@ -195,11 +194,12 @@
         <mark key="^" line="206" column="15" />
         <mark key="." line="210" column="16" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" timestamp="1504935244428">
-        <mark key="'" line="42" column="12" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" timestamp="1505108022146">
+        <mark key="'" line="376" column="30" />
+        <mark key="[" line="378" column="143" />
+        <mark key="]" line="378" column="145" />
+        <mark key="^" line="378" column="145" />
+        <mark key="." line="378" column="145" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/informationPage.blade.php" timestamp="1504762315117">
         <mark key="'" line="13" column="30" />
@@ -308,7 +308,7 @@
         <mark key="." line="56" column="3" />
         <mark key="^" line="56" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505096998739">
+      <file name="/Dummy.txt" timestamp="1505106325416">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -426,33 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="24" filename="$USER_HOME$/git/ptp/duseAPI/database/seeds/CodeBookTableSeeder.php" />
-      <jump line="159" column="22" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="162" column="26" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="165" column="26" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="398" column="18" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="401" column="12" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="404" column="12" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="407" column="12" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="410" column="19" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="413" column="12" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="416" column="19" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="419" column="12" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="422" column="19" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="425" column="13" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="428" column="13" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="431" column="13" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="434" column="52" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="571" column="14" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="609" column="18" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="31" column="38" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="32" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="150" column="35" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="151" column="16" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="1132" column="20" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
-      <jump line="1128" column="60" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
-      <jump line="1138" column="120" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
-      <jump line="1207" column="52" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
       <jump line="1206" column="29" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
       <jump line="958" column="79" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
       <jump line="959" column="51" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
@@ -526,6 +499,33 @@
       <jump line="563" column="4" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
       <jump line="1087" column="20" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
       <jump line="1106" column="22" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
+      <jump line="16" column="4" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
+      <jump line="16" column="29" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
+      <jump line="260" column="27" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="373" column="4" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="228" column="37" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="108" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="18" column="20" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
+      <jump line="34" column="24" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
+      <jump line="20" column="33" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
+      <jump line="376" column="26" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="375" column="23" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="279" column="16" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="275" column="34" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="274" column="34" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="270" column="17" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="268" column="17" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="264" column="25" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="257" column="25" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="248" column="9" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="246" column="36" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="115" column="26" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="100" column="8" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="421" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="52" column="36" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="374" column="30" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -546,8 +546,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPmZpcnN0T3JGYWlsKClbJ2hpZHgnXTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGFzIG1vbnRobHlGZWU=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2089,49 +2089,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>['hidx']</text>
+        <text encoding="base64">IGFzIG1vbnRobHlGZWU=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aHVtYm5haWxJbWFnZVw+</text>
+        <text encoding="base64">XDxmaWx0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPmZpcnN0T3JGYWlsKClbJ2hpZHgnXTsK</text>
+        <text encoding="base64">ICAgICR0aGlzLT5yZXNwb25zZUJvZHkgPSAnSGVsbG8nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPmZpcnN0T3JGYWlsKClbJ2hpZHgnXTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaG91c2VzLT50b1NxbCgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPnBsdWNrKCdoaWR4Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hdmcoJ21vbnRobHlfZmVlJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hdmcoJ21vbnRobHlfZmVlJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRrZXl3b3JkKTsK</text>
+        <text encoding="base64">ICAgICAgICAkaG91c2UgPSBSZWFsRXN0YXRlOjo7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPnBsdWNrKCdoaWR4Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZmlsdGVyID0gc2VsZjo6c3BsaXRGaWx0ZXIoRklMVEVSKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRrZXl3b3JkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRsaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICBkZChGSUxURVIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICR0aGlzLT5yZXNwb25zZUJvZHkgPSAnSGVsbG8nOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJzEyMzEnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>284</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aHVtYm5haWxJbWFnZVw+</last-search>
+      <last-search encoding="base64">XDxmaWx0ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aHVtYm5haWxJbWFnZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxmaWx0ZXJcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2139,8 +2139,6 @@
     </search>
     <history>
       <history-search>
-        <entry>API_LIST</entry>
-        <entry>get</entry>
         <entry>form</entry>
         <entry>.progress-circle span</entry>
         <entry>#53777A</entry>
@@ -2159,6 +2157,8 @@
         <entry>만원</entry>
         <entry>안심</entry>
         <entry encoding="base64">XDx0aHVtYm5haWxJbWFnZVw+</entry>
+        <entry encoding="base64">XDxzcGxpdEZpbHRlclw+</entry>
+        <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
