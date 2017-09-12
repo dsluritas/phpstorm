@@ -22,6 +22,12 @@
         <mark key="^" line="208" column="62" />
         <mark key="." line="208" column="62" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/User.php" timestamp="1505208801722">
+        <mark key="[" line="611" column="0" />
+        <mark key="]" line="611" column="0" />
+        <mark key="^" line="610" column="41" />
+        <mark key="." line="611" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ptp/jobs/config.php" timestamp="1503027301860">
         <mark key="[" line="14" column="37" />
         <mark key="]" line="14" column="37" />
@@ -46,6 +52,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="16" column="55" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/MapViewController.php" timestamp="1505213129035">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="45" column="10" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/free_house.blade.php" timestamp="1502964652876">
         <mark key="[" line="70" column="79" />
@@ -116,6 +126,12 @@
         <mark key="^" line="36" column="76" />
         <mark key="." line="36" column="76" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Helpers/Helper.php" timestamp="1505212909177">
+        <mark key="'" line="982" column="0" />
+        <mark key="[" line="989" column="0" />
+        <mark key="]" line="989" column="0" />
+        <mark key="." line="989" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_regist_done.blade.php" timestamp="1501553025580">
         <mark key="[" line="40" column="6" />
         <mark key="]" line="40" column="6" />
@@ -128,12 +144,12 @@
         <mark key="^" line="2401" column="0" />
         <mark key="." line="2401" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" timestamp="1505204808344">
-        <mark key="'" line="145" column="5" />
-        <mark key="[" line="144" column="9" />
-        <mark key="]" line="145" column="9" />
-        <mark key="." line="145" column="9" />
-        <mark key="^" line="145" column="9" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" timestamp="1505211974736">
+        <mark key="'" line="66" column="41" />
+        <mark key="[" line="64" column="56" />
+        <mark key="]" line="64" column="59" />
+        <mark key="." line="64" column="59" />
+        <mark key="^" line="64" column="59" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/map_view2.blade.php" timestamp="1501555894597">
         <mark key="[" line="227" column="11" />
@@ -162,12 +178,11 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/public/plugins/d3/d3.js" timestamp="1504587069118">
         <mark key="'" line="6034" column="10" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Property/InsuranceController.php" timestamp="1505206281816">
-        <mark key="'" line="36" column="20" />
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="30" column="23" />
-        <mark key="." line="30" column="23" />
-        <mark key="^" line="30" column="23" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Property/InsuranceController.php" timestamp="1505213551530">
+        <mark key="[" line="77" column="21" />
+        <mark key="]" line="77" column="28" />
+        <mark key="." line="77" column="28" />
+        <mark key="^" line="77" column="28" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/PaymentLog.php" timestamp="1504855119867">
         <mark key="[" line="19" column="62" />
@@ -181,7 +196,7 @@
         <mark key="." line="12" column="71" />
         <mark key="^" line="12" column="71" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1504859231882">
+      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1505209741997">
         <mark key="'" line="20" column="26" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -247,8 +262,8 @@
         <mark key="." line="35" column="31" />
         <mark key="^" line="35" column="31" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1505206097032">
-        <mark key="'" line="85" column="21" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1505210962522">
+        <mark key="'" line="143" column="28" />
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="34" />
         <mark key="^" line="184" column="64" />
@@ -307,7 +322,7 @@
         <mark key="." line="56" column="3" />
         <mark key="^" line="56" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505204729496">
+      <file name="/Dummy.txt" timestamp="1505213081927">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -388,11 +403,19 @@
         <mark key="." line="128" column="7" />
         <mark key="^" line="128" column="7" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/user_profile_form.blade.php" timestamp="1505207866211">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="80" column="32" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/common/header.blade.php" timestamp="1502964482516">
         <mark key="[" line="225" column="51" />
         <mark key="]" line="225" column="55" />
         <mark key="." line="225" column="55" />
         <mark key="^" line="225" column="55" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/UserController.php" timestamp="1505207910521">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="68" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/tests/ShareFriendsTest.php" timestamp="1500438939503">
         <mark key="[" line="16" column="41" />
@@ -412,37 +435,15 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" timestamp="1505205116627">
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" timestamp="1505213077829">
         <mark key="f" line="113" column="25" />
-        <mark key="[" line="112" column="39" />
-        <mark key="]" line="112" column="39" />
-        <mark key="." line="112" column="39" />
-        <mark key="^" line="241" column="55" />
+        <mark key="'" line="50" column="20" />
+        <mark key="[" line="668" column="0" />
+        <mark key="]" line="671" column="13" />
+        <mark key="." line="163" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/public/css/css-circular-prog-bar.css" />
-      <jump line="26" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/public/css/css-circular-prog-bar.css" />
-      <jump line="44" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/public/css/css-circular-prog-bar.css" />
-      <jump line="62" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/public/css/css-circular-prog-bar.css" />
-      <jump line="71" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/public/css/css-circular-prog-bar.css" />
-      <jump line="77" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/public/css/css-circular-prog-bar.css" />
-      <jump line="367" column="20" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/Funding.php" />
-      <jump line="219" column="82" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="43" column="6" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="41" column="6" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="349" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="327" column="16" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="331" column="16" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="335" column="16" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="339" column="16" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="257" column="69" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="105" column="9" filename="$USER_HOME$/PhpstormProjects/snsld/helper.php" />
-      <jump line="34" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/helper.php" />
-      <jump line="224" column="33" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="159" column="43" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="203" column="35" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="338" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="176" column="29" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="401" column="5" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
@@ -521,6 +522,28 @@
       <jump line="145" column="5" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" />
       <jump line="155" column="23" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
       <jump line="85" column="21" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="20" column="20" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="599" column="4" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="71" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="591" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="51" column="21" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="607" column="26" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="161" column="39" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
+      <jump line="376" column="17" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
+      <jump line="938" column="37" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
+      <jump line="50" column="20" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
+      <jump line="46" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Property/InsuranceController.php" />
+      <jump line="182" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Helpers/Helper.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Helpers/Helper.php" />
+      <jump line="768" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Helpers/Helper.php" />
+      <jump line="34" column="61" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" />
+      <jump line="143" column="28" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="65" column="41" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" />
+      <jump line="41" column="33" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Property/InsuranceController.php" />
+      <jump line="49" column="40" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Property/InsuranceController.php" />
+      <jump line="54" column="27" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Property/InsuranceController.php" />
+      <jump line="87" column="9" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Property/InsuranceController.php" />
+      <jump line="982" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Helpers/Helper.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -541,8 +564,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGlmCg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2084,49 +2107,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$houseReport</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>우리은행</text>
+        <text>Api</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBlbmRmb3JlYWNoCg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzID0gJGNsaWVudC0+cmVxdWVzdCgnUE9TVCcsIEhlbHBlcjo6Z2V0QXBpUGF0aCgpIC4gJy9nZXRfbWFwX2RhdGEnLCBbCiAgICAgICAgICAgICdmb3JtX3BhcmFtcycgPT4gJGRhdGEsCiAgICAgICAgICAgICd2ZXJpZnknID0+IGZhbHNlCiAgICAgICAgXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGlmCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+YWxsKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YSA9IFsKICAgICAgICBdOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyb3cgYm9yZGVyLXRvcCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0yIGNvbC14cy0zIGNvbHVtbiB2YWx1ZSB0ZXh0LWNlbnRlciI+6re87KCA64u56raMPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGF0YQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2tleScgID0+IGVudignRkFfQVVUSF9LRVknKSwKICAgICAgICAgICAgJ3VpZHgnID0+ICR1c2VyLT51aWR4LAogICAgICAgICAgICAnaGlkeCcgPT4gJGhpZHgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyb3cgYm9yZGVyLXRvcCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0yIGNvbC14cy0zIGNvbHVtbiB2YWx1ZSB0ZXh0LWNlbnRlciI+7J6E7LCo7J24PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC01IGNvbC14cy00IGNvbHVtbiB2YWx1ZSB0ZXh0LWNlbnRlciI+7ZmN6ri464+ZPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC01IGNvbC14cy01IGNvbHVtbiB2YWx1ZSB0ZXh0LWNlbnRlciI+MjAsMDAwLDAwMDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyBib3JkZXItdG9wIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTIgY29sLXhzLTMgY29sdW1uIHZhbHVlIHRleHQtY2VudGVyIj7soITshLjqtow8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTUgY29sLXhzLTQgY29sdW1uIHZhbHVlIHRleHQtY2VudGVyIj7tmY3quLjrj5k8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTUgY29sLXhzLTUgY29sdW1uIHZhbHVlIHRleHQtY2VudGVyIj4yMCwwMDAsMDAwPC9kaXY+Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSAkY2xpZW50LT5yZXF1ZXN0KAogICAgICAgICAgICAnR0VUJywKICAgICAgICApOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Jvd25lcicgPT4gJ+ydhOq1rEEvODAxMDEwLOydhOq1rEIvODkwOTA5JywK</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FjaGVvbicgPT4gJycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3ZlcmlmeScgPT4gZmFsc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FsZWFzZScgPT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGVscGVyOjpnZXRBcGlQYXRoKCkgLiAnL2FwaS9mYS9yZXF1ZXN0LWRpcmVjdC1kZWFsaW5nJwo=</text>
       </register>
       <register name=":" type="4">
         <text>26</text>
       </register>
     </registers>
     <search>
-      <last-search>우리은행</last-search>
+      <last-search>Api</last-search>
       <last-offset />
-      <last-pattern>우리은행</last-pattern>
+      <last-pattern>Api</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2134,15 +2157,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getCon</entry>
-        <entry>session</entry>
-        <entry>SESSION</entry>
-        <entry>error</entry>
-        <entry>alert</entry>
-        <entry>uk</entry>
-        <entry>files</entry>
-        <entry>tigger</entry>
-        <entry>modal</entry>
         <entry encoding="base64">PA==</entry>
         <entry>만원</entry>
         <entry>안심</entry>
@@ -2154,6 +2168,15 @@
         <entry>매물 검증</entry>
         <entry>신청자</entry>
         <entry>우리은행</entry>
+        <entry>mobile</entry>
+        <entry>phone</entry>
+        <entry>getDetail</entry>
+        <entry>comman</entry>
+        <entry>comma</entry>
+        <entry>hidx</entry>
+        <entry>password</entry>
+        <entry encoding="base64">XDxoaWR4XD4=</entry>
+        <entry>Api</entry>
       </history-search>
       <history-cmd>
         <entry>76</entry>
