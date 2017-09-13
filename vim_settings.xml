@@ -181,12 +181,12 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/public/plugins/d3/d3.js" timestamp="1504587069118">
         <mark key="'" line="6034" column="10" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Property/InsuranceController.php" timestamp="1505273744007">
-        <mark key="'" line="10" column="31" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
-        <mark key="^" line="152" column="26" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Property/InsuranceController.php" timestamp="1505279137325">
+        <mark key="'" line="39" column="4" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="143" column="26" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/PaymentLog.php" timestamp="1505263693152">
         <mark key="[" line="19" column="62" />
@@ -200,12 +200,12 @@
         <mark key="." line="12" column="71" />
         <mark key="^" line="12" column="71" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1505209741997">
-        <mark key="'" line="20" column="26" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="53" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1505279196226">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="53" column="22" />
+        <mark key="]" line="54" column="34" />
+        <mark key="." line="54" column="34" />
+        <mark key="^" line="54" column="34" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_home.blade.php" timestamp="1500013621778">
         <mark key="[" line="210" column="0" />
@@ -475,10 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="21" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date_c.php" />
-      <jump line="270" column="24" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date_c.php" />
-      <jump line="0" column="0" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date_c.php" />
-      <jump line="42" column="21" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date_c.php" />
       <jump line="44" column="24" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date_c.php" />
       <jump line="33" column="23" filename="$USER_HOME$/git/ptp/peterWEB/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
       <jump line="612" column="48" filename="$USER_HOME$/git/ptp/peterWEB/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
@@ -575,6 +571,10 @@
       <jump line="110" column="22" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="182" column="53" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Payment/PaymentController.php" />
       <jump line="584" column="42" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="82" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Property/InsuranceController.php" />
+      <jump line="39" column="4" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Property/InsuranceController.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
+      <jump line="38" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -595,8 +595,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGlmIChmYWxzZSkgewo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2138,49 +2138,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">ZmFsc2UgfHwg</text>
       </register>
       <register name="/" type="4">
-        <text>push</text>
+        <text>FA</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHJlcXVlc3QtPnNlc3Npb24oKS0+aGFzKCdoaWR4Jyk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRmbGFnKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmIChmYWxzZSkgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoISRmbGFnKTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcXVlc3QtPnNlc3Npb24oKS0+YWxsKCkpOwo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcXVlc3QtPnNlc3Npb24oKS0+aGFzKCdkdWVEYXRlJykpOwo=</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbG9nKTsK</text>
+        <text encoding="base64">dXNlIEd1enpsZUh0dHBcQ2xpZW50Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbign6rCV7KCcIOyXkOufrOuwnOyDnScpOwo=</text>
+        <text encoding="base64">dXNlIEhlbHBlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkcmVxdWVzdC0+c2Vzc2lvbigpLT5hbGwoKSk7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkcmVxdWVzdC0+c2Vzc2lvbigpLT5hbGwoKSk7Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF0pLT53aXRoRXJyb3JzKFsnbXNnJyA9PiAn7JWI7Ius7KeB6rGw656YIOyLoOyyreyXkCDsi6TtjKjtlojsirXri4jri6QnXSk7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name=":" type="4">
         <text>26</text>
       </register>
     </registers>
     <search>
-      <last-search>push</last-search>
+      <last-search>FA</last-search>
       <last-offset />
-      <last-pattern>push</last-pattern>
+      <last-pattern>FA</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2188,8 +2188,6 @@
     </search>
     <history>
       <history-search>
-        <entry>timestampe</entry>
-        <entry>timestamp</entry>
         <entry>\$year</entry>
         <entry>valida</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
@@ -2208,6 +2206,8 @@
         <entry>return</entry>
         <entry>Excep</entry>
         <entry>push</entry>
+        <entry>=====</entry>
+        <entry>FA</entry>
       </history-search>
       <history-cmd>
         <entry>76</entry>
