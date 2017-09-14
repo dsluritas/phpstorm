@@ -82,8 +82,8 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/.env" timestamp="1505387940315">
-        <mark key="[" line="63" column="0" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/.env" timestamp="1505388053448">
+        <mark key="[" line="62" column="0" />
         <mark key="]" line="65" column="50" />
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
@@ -156,8 +156,8 @@
         <mark key="." line="54" column="34" />
         <mark key="^" line="54" column="34" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" timestamp="1505364534180">
-        <mark key="'" line="243" column="4" />
+      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" timestamp="1505389875714">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="266" column="51" />
         <mark key="]" line="272" column="30" />
         <mark key="." line="272" column="30" />
@@ -279,17 +279,23 @@
         <mark key="." line="13" column="26" />
         <mark key="^" line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1505386830765">
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1505389445684">
         <mark key="'" line="509" column="58" />
-        <mark key="[" line="544" column="16" />
-        <mark key="]" line="544" column="16" />
-        <mark key="." line="544" column="16" />
-        <mark key="^" line="544" column="16" />
+        <mark key="[" line="553" column="29" />
+        <mark key="]" line="552" column="0" />
+        <mark key="." line="552" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Partners/NaverController.php" timestamp="1505387822202">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/FaAPIController.php" timestamp="1505388717354">
+        <mark key="[" line="285" column="32" />
+        <mark key="]" line="285" column="31" />
+        <mark key="^" line="285" column="31" />
+        <mark key="." line="285" column="31" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Partners/NaverController.php" timestamp="1505389796914">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="29" column="30" />
+        <mark key="." line="29" column="30" />
+        <mark key="^" line="29" column="30" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/api/index.php" timestamp="1504540303244">
         <mark key="'" line="18" column="0" />
@@ -307,11 +313,6 @@
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/public/css/css-circular-prog-bar.css" timestamp="1504874541640">
         <mark key="'" line="77" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/public/js/register_house.js" timestamp="1505304604409">
-        <mark key="[" line="1094" column="0" />
-        <mark key="]" line="1094" column="0" />
-        <mark key="." line="1094" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/HouseWithoutFee.php" timestamp="1500342025071">
         <mark key="[" line="18" column="0" />
@@ -344,7 +345,9 @@
         <mark key="^" line="43" column="72" />
         <mark key="." line="43" column="72" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Traits/NaverApiTrait.php" timestamp="1505387910553" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Traits/NaverApiTrait.php" timestamp="1505388925252">
+        <mark key="'" line="83" column="87" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_home.blade.php" timestamp="1500013621778">
         <mark key="[" line="210" column="0" />
         <mark key="]" line="210" column="16" />
@@ -408,7 +411,7 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/vendor/nesbot/carbon/src/Carbon/Carbon.php" timestamp="1505218750954">
         <mark key="'" line="2951" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505387838641">
+      <file name="/Dummy.txt" timestamp="1505389854726">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -420,8 +423,8 @@
         <mark key="^" line="52" column="23" />
         <mark key="." line="52" column="23" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1505365792322">
-        <mark key="'" line="875" column="19" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1505388527605">
+        <mark key="'" line="878" column="55" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/images/fa/stylesheet.txt" timestamp="1504251021808">
         <mark key="'" line="1" column="13071" />
@@ -476,14 +479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="244" column="94" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
-      <jump line="252" column="40" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
-      <jump line="253" column="58" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
-      <jump line="256" column="66" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
-      <jump line="261" column="66" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
-      <jump line="262" column="91" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
-      <jump line="328" column="52" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
-      <jump line="329" column="78" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
       <jump line="334" column="52" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
       <jump line="336" column="28" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
       <jump line="338" column="28" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
@@ -576,6 +571,14 @@
       <jump line="509" column="58" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="41" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
       <jump line="207" column="1" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
+      <jump line="878" column="55" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="39" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Traits/NaverApiTrait.php" />
+      <jump line="101" column="21" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Traits/NaverApiTrait.php" />
+      <jump line="76" column="29" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Traits/NaverApiTrait.php" />
+      <jump line="83" column="87" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Traits/NaverApiTrait.php" />
+      <jump line="217" column="29" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="73" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -596,8 +599,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">TkFWRVJfQVBJX0hPU1Q9aHR0cHM6Ly90ZXN0LXZhcGkubGFuZC5uYXZlci5jb20KTkFWRVJfQ1BfSUQ9dG9hZApOQVZFUl9DRVJUX0tFWT01NDJwb2lqNC0zazhzLTRlZjQtYTNhNy1qYTYzZW8zaWp2ZjMK</text>
+      <register name="&quot;" type="4">
+        <text>Api</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2139,49 +2142,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Api</text>
       </register>
       <register name="/" type="4">
-        <text>NAVER_CP_ID</text>
+        <text>client</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TkFWRVJfQVBJX0hPU1Q9aHR0cHM6Ly90ZXN0LXZhcGkubGFuZC5uYXZlci5jb20KTkFWRVJfQ1BfSUQ9dG9hZApOQVZFUl9DRVJUX0tFWT01NDJwb2lqNC0zazhzLTRlZjQtYTNhNy1qYTYzZW8zaWp2ZjMK</text>
+        <text encoding="base64">TkFWRVJfQ0xFQU5fQ0VOVEVSX0FQSV9IT1NUPWh0dHA6Ly90ZXN0LXZhcGkubGFuZC5uYXZlci5jb20KTkFWRVJfQVBJX0hPU1Q9aHR0cHM6Ly90ZXN0LXZhcGkubGFuZC5uYXZlci5jb20KTkFWRVJfQ1BfSUQ9dG9hZApOQVZFUl9DRVJUX0tFWT01NDJwb2lqNC0zazhzLTRlZjQtYTNhNy1qYTYzZW8zaWp2ZjMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IEFQSV9MSVNUID0gWwogICAgICAgICfrp6TrrLzrk7HroZ3smpTssq0nID0+ICdJQTEwMScsCiAgICBdOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnJwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJ2hlbGxvJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEFQSV9MSVNUOwo=</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YWRtaW4pOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gam9pbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YWRtaW4pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IE5BVkVSX0NQX0lEID0gJ3RvYWQnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YWRtaW4pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IE5BVkVSX0NFUlRfS0VZID0gJzQycG9pajQtM2s4cy00ZWY0LWEzYTctamE2M2VvM2lqdmYzJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJCkK</text>
+        <text encoding="base64">TkFWRVJfQ0xFQU5fQ0VOVEVSX0FQSV9IT1NUPQpOQVZFUl9BUElfSE9TVD1odHRwczovL3Rlc3QtdmFwaS5sYW5kLm5hdmVyLmNvbQpOQVZFUl9DUF9JRD0KTkFWRVJfQ0VSVF9LRVk9NQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TkFWRVJfQ0VSVF9LRVkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IE5BVkVSX0FQSV9IT1NUID0gJyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>NAVER_CP_ID</last-search>
+      <last-search>client</last-search>
       <last-offset />
-      <last-pattern>NAVER_CP_ID</last-pattern>
+      <last-pattern>client</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2189,9 +2192,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setFi</entry>
-        <entry>dd</entry>
-        <entry>leftjoin</entry>
         <entry>left</entry>
         <entry>detail</entry>
         <entry>Detail</entry>
@@ -2209,6 +2209,9 @@
         <entry>admin</entry>
         <entry>admin(</entry>
         <entry>NAVER_CP_ID</entry>
+        <entry>fa</entry>
+        <entry>version</entry>
+        <entry>client</entry>
       </history-search>
       <history-cmd>
         <entry>178</entry>
