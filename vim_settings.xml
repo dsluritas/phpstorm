@@ -41,8 +41,8 @@
         <mark key="." line="578" column="54" />
         <mark key="^" line="578" column="54" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" timestamp="1505310825470">
-        <mark key="'" line="20" column="33" />
+      <file name="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" timestamp="1505314786675">
+        <mark key="'" line="6" column="7" />
         <mark key="[" line="56" column="53" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
@@ -120,12 +120,6 @@
         <mark key="]" line="36" column="76" />
         <mark key="^" line="36" column="76" />
         <mark key="." line="36" column="76" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Helpers/Helper.php" timestamp="1505222668285">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="989" column="0" />
-        <mark key="]" line="989" column="0" />
-        <mark key="." line="989" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_regist_done.blade.php" timestamp="1501553025580">
         <mark key="[" line="40" column="6" />
@@ -214,12 +208,11 @@
         <mark key="^" line="206" column="15" />
         <mark key="." line="210" column="16" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" timestamp="1505313042008">
-        <mark key="'" line="155" column="25" />
-        <mark key="[" line="163" column="28" />
-        <mark key="]" line="164" column="11" />
-        <mark key="." line="164" column="11" />
-        <mark key="^" line="164" column="11" />
+      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" timestamp="1505315448811">
+        <mark key="'" line="243" column="4" />
+        <mark key="[" line="266" column="43" />
+        <mark key="]" line="266" column="44" />
+        <mark key="." line="266" column="44" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/informationPage.blade.php" timestamp="1504762315117">
         <mark key="'" line="13" column="30" />
@@ -278,12 +271,6 @@
         <mark key="^" line="21" column="46" />
         <mark key="." line="21" column="46" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" timestamp="1504879285355">
-        <mark key="'" line="238" column="0" />
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="243" column="30" />
-        <mark key="." line="240" column="0" />
-      </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/VerificationReportController.php" timestamp="1505307865250" />
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/HouseController.php" timestamp="1505305532621">
         <mark key="[" line="119" column="0" />
@@ -315,17 +302,17 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.composer/vendor/laravel/valet/server.php" timestamp="1505305849203" />
+      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/RealEstateFacility.php" timestamp="1505314347377">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="36" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/Map/MarkerCluster.vue" timestamp="1503480813210">
         <mark key="[" line="117" column="51" />
         <mark key="]" line="117" column="52" />
         <mark key="^" line="117" column="50" />
         <mark key="." line="117" column="52" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/confirm.blade.php" timestamp="1505266432678">
-        <mark key="'" line="37" column="29" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterpan/public/js/main.js" timestamp="1502259441209">
         <mark key="[" line="46" column="0" />
@@ -340,13 +327,7 @@
         <mark key="." line="56" column="3" />
         <mark key="^" line="56" column="3" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/request.blade.php" timestamp="1505266423830">
-        <mark key="'" line="54" column="15" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1505307462379">
+      <file name="/Dummy.txt" timestamp="1505313659594">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -453,22 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
-      <jump line="38" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
-      <jump line="8" column="45" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="1089" column="9" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
-      <jump line="1263" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
-      <jump line="1042" column="16" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
-      <jump line="1020" column="45" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
-      <jump line="1033" column="24" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
-      <jump line="1034" column="91" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
-      <jump line="1035" column="24" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
-      <jump line="1036" column="20" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
-      <jump line="1037" column="16" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
-      <jump line="1039" column="101" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
-      <jump line="1038" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
-      <jump line="1131" column="56" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
-      <jump line="1132" column="45" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
       <jump line="64" column="13" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
       <jump line="70" column="37" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
       <jump line="75" column="104" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
@@ -551,8 +516,24 @@
       <jump line="171" column="13" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
       <jump line="179" column="13" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
       <jump line="151" column="34" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
-      <jump line="153" column="216" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
       <jump line="155" column="25" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="266" column="35" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="408" column="8" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="256" column="324" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="95" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="156" column="18" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="159" column="45" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="153" column="11" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="31" column="35" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="30" column="10" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="358" column="17" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="359" column="17" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="366" column="17" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="42" column="38" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
+      <jump line="23" column="19" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
+      <jump line="6" column="7" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="243" column="4" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -573,8 +554,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>SALE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2116,49 +2097,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SALE</text>
+        <text>list</text>
       </register>
       <register name="/" type="4">
-        <text>type</text>
+        <text>temp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+d2hlcmUoJ1RCX0hPVVNFX1NBTEUudHlwZScsICdTJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRlbXAgPSBleHBsb2RlKCcmJywgJGxpc3RbMV0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHByb3BlcnRpZXNbJ2xpc3QnXVskdmFsdWVdWydpbWFnZXMnXSA9IFJlYWxFc3RhdGVJbWc6OndoZXJlKCdoaWR4JywgJGhpZHgpCiAgICAgICAgICAgICAgICAtPndoZXJlKCd0eXBlJywgJ00nKQogICAgICAgICAgICAgICAgLT5nZXQoKTsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkbGlzdCk7Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIEBwcm9wZXJ0eSBtaXhlZCAkcmVhbF9lc3RhdGVfaW1ncwogKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHRlbXApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBoYXNNYW55KCRyZWxhdGVkLCAkZm9yZWlnbktleSA9IG51bGwsICRsb2NhbEtleSA9IG51bGwpCiAgICB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbGlzdCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGVtcCA9IGV4cGxvZGUoJyYnLCAkbGlzdFsxXSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZmlsdGVyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhpZGVMb2FkaW5nKCk7CiAgICAgICAgICBzaG93QWxlcnQoJ+yEnOuyhOyYpOulmCDrsJzsg50uIOq0gOumrOyekOyXkOqyjCDrrLjsnZjtlbQg7KO87IS47JqULicpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbGlzdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGVtcCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>496</text>
+        <text>261</text>
       </register>
     </registers>
     <search>
-      <last-search>type</last-search>
+      <last-search>temp</last-search>
       <last-offset />
-      <last-pattern>type</last-pattern>
+      <last-pattern>temp</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2166,14 +2147,6 @@
     </search>
     <history>
       <history-search>
-        <entry>return</entry>
-        <entry>Excep</entry>
-        <entry>push</entry>
-        <entry>=====</entry>
-        <entry>FA</entry>
-        <entry>register_house</entry>
-        <entry>방 내놓기</entry>
-        <entry>form</entry>
         <entry encoding="base64">PA==</entry>
         <entry encoding="base64">PFwvZm9ybQ==</entry>
         <entry encoding="base64">PGZvcm0=</entry>
@@ -2186,9 +2159,16 @@
         <entry>realEstateImgs</entry>
         <entry>list</entry>
         <entry>type</entry>
+        <entry>setFi</entry>
+        <entry>dd</entry>
+        <entry>leftjoin</entry>
+        <entry>left</entry>
+        <entry>detail</entry>
+        <entry>Detail</entry>
+        <entry>info</entry>
+        <entry>temp</entry>
       </history-search>
       <history-cmd>
-        <entry>56</entry>
         <entry>x</entry>
         <entry>2130</entry>
         <entry>103</entry>
@@ -2204,10 +2184,11 @@
         <entry>141</entry>
         <entry>19</entry>
         <entry>284</entry>
-        <entry>26</entry>
         <entry>650</entry>
         <entry>605</entry>
         <entry>496</entry>
+        <entry>26</entry>
+        <entry>261</entry>
       </history-cmd>
       <history-expr />
       <history-input />
