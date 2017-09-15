@@ -294,9 +294,10 @@
         <mark key="^" line="206" column="15" />
         <mark key="." line="210" column="16" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/VerificationReceiveController.php" timestamp="1505391644160">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="47" column="43" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/VerificationReceiveController.php" timestamp="1505470934810">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/AgencyController.php" timestamp="1505459697690">
         <mark key="[" line="487" column="0" />
@@ -325,7 +326,7 @@
         <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Requests/RealEstateInformationRequest.php" timestamp="1505435065619" />
-      <file name="/Dummy.txt" timestamp="1505459788522">
+      <file name="/Dummy.txt" timestamp="1505470555918">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -337,7 +338,7 @@
         <mark key="^" line="52" column="23" />
         <mark key="." line="52" column="23" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1505459809165">
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1505470587260">
         <mark key="'" line="455" column="19" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/app/RealEstate.php" timestamp="1503458561736">
@@ -493,7 +494,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJ2hlbGxvJzsK</text>
+        <text encoding="base64">ICAgICAgICBkZChIb3VzZVNhbGU6OmZpbmQoJGF0Y2xObykpOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2035,7 +2036,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>nowProductCount</text>
+        <text encoding="base64">LT5nZXQoKQ==</text>
       </register>
       <register name="/" type="4">
         <text>old_purchased_house_list</text>
@@ -2044,31 +2045,31 @@
         <text>Helper::getApiPath() . '/agency/old_purchased_house_list/' . $uidx . '/' . $type . '?is_total=' . $is_total)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJ2hlbGxvJzsK</text>
+        <text encoding="base64">ICAgICAgICBkZChIb3VzZVNhbGU6OmZpbmQoJGF0Y2xObykpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaG91c2VTYWxlcy0+Z2V0KCktPnRvQXJyYXkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYXRjbE5vKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYWdlbmN5Rmlyc3ROb3JtYWxQcm9kdWN0QnV5RGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZGV0YWlsKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbm93UHJvZHVjdENvdW50KTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaG91c2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWFzdGVyVWlkeCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYXRjbE5vKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZChIZWxwZXI6OmdldEFwaVBhdGgoKSAuICcvYWdlbmN5L29sZF9wdXJjaGFzZWRfaG91c2VfbGlzdC8nIC4gJHVpZHggLiAnLycgLiAkdHlwZSAuICc/aXNfdG90YWw9JyAuICRpc190b3RhbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaGlkeCk7IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJ2hlZWwnOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJ2hlbGxvJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY2F0ZWdvcnktPnRvQXJyYXkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaG91c2VTYWxlcy0+Z2V0KCktPnRvQXJyYXkoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc2VsZWN0ZWRfdGFiKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYWdlbmN5Rmlyc3ROb3JtYWxQcm9kdWN0QnV5RGF0ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
