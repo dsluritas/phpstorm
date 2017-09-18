@@ -21,6 +21,9 @@
         <mark key="]" line="207" column="0" />
         <mark key="." line="207" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/House/HouseFavoriteController.php" timestamp="1505722064920">
+        <mark key="'" line="166" column="17" />
+      </file>
       <file name="$USER_HOME$/git/ptp/jobs/config.php" timestamp="1503027301860">
         <mark key="[" line="14" column="37" />
         <mark key="]" line="14" column="37" />
@@ -32,6 +35,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="16" column="55" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/_ide_helper.php" timestamp="1505223166283">
+        <mark key="'" line="12992" column="9" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/free_house.blade.php" timestamp="1502964652876">
         <mark key="[" line="70" column="79" />
@@ -56,6 +62,9 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/House/HouseController.php" timestamp="1504149764184">
+        <mark key="'" line="160" column="14" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterpan/.env" timestamp="1502253172644">
         <mark key="[" line="8" column="17" />
@@ -100,6 +109,9 @@
         <mark key="^" line="35" column="45" />
         <mark key="." line="35" column="45" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/public/plugins/d3/d3.js" timestamp="1504587069118">
+        <mark key="'" line="6034" column="10" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/PaymentLog.php" timestamp="1505263693152">
         <mark key="[" line="19" column="62" />
         <mark key="]" line="19" column="62" />
@@ -125,11 +137,19 @@
         <mark key="." line="272" column="30" />
         <mark key="^" line="272" column="30" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/House/HouseAdvertiseController.php" timestamp="1505722232396">
+        <mark key="[" line="40" column="44" />
+        <mark key="]" line="40" column="45" />
+        <mark key="." line="40" column="45" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/return.blade.php" timestamp="1505265705576">
         <mark key="[" line="57" column="7" />
         <mark key="]" line="57" column="6" />
         <mark key="^" line="57" column="6" />
         <mark key="." line="57" column="6" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" timestamp="1504853611545">
+        <mark key="'" line="280" column="9" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/sub_header.blade.php" timestamp="1504593737277">
         <mark key="[" line="6" column="78" />
@@ -156,6 +176,9 @@
         <mark key="^" line="35" column="31" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/VerificationReportController.php" timestamp="1505357773648" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/database/seeds/CodeBookTableSeeder.php" timestamp="1504851924558">
+        <mark key="'" line="17" column="24" />
+      </file>
       <file name="$USER_HOME$/.composer/vendor/laravel/valet/server.php" timestamp="1505305849203" />
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/RealEstateFacility.php" timestamp="1505314347377">
         <mark key="[" line="8" column="29" />
@@ -238,6 +261,9 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="57" column="30" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/public/css/css-circular-prog-bar.css" timestamp="1504874541640">
+        <mark key="'" line="77" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/js/register_house.js" timestamp="1505304604409">
         <mark key="[" line="1094" column="0" />
         <mark key="]" line="1094" column="0" />
@@ -296,10 +322,19 @@
         <mark key="^" line="59" column="23" />
         <mark key="." line="59" column="23" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" timestamp="1505097538130">
+        <mark key="'" line="1106" column="22" />
+      </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/AgencyController.php" timestamp="1505459697690">
         <mark key="[" line="487" column="0" />
         <mark key="]" line="487" column="0" />
         <mark key="." line="487" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/CustomerReport.php" timestamp="1504575580767">
+        <mark key="'" line="157" column="63" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date_c.php" timestamp="1505218773547">
+        <mark key="'" line="436" column="18" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/HouseController.php" timestamp="1505305532621">
         <mark key="[" line="119" column="0" />
@@ -322,8 +357,11 @@
         <mark key="^" line="44" column="49" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/vendor/nesbot/carbon/src/Carbon/Carbon.php" timestamp="1505218750954">
+        <mark key="'" line="2951" column="8" />
+      </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Requests/RealEstateInformationRequest.php" timestamp="1505435065619" />
-      <file name="/Dummy.txt" timestamp="1505470555918">
+      <file name="/Dummy.txt" timestamp="1505722069768">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -337,6 +375,9 @@
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1505470587260">
         <mark key="'" line="455" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/public/images/fa/stylesheet.txt" timestamp="1504251021808">
+        <mark key="'" line="1" column="13071" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/app/RealEstate.php" timestamp="1503458561736">
         <mark key="[" line="9" column="29" />
@@ -370,10 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="720" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" />
-      <jump line="225" column="30" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
-      <jump line="374" column="20" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
-      <jump line="273" column="20" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
       <jump line="90" column="37" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/select_product.blade.php" />
       <jump line="689" column="21" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/select_product.blade.php" />
       <jump line="723" column="21" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/select_product.blade.php" />
@@ -470,6 +507,10 @@
       <jump line="283" column="23" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="464" column="72" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
       <jump line="455" column="19" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="58" column="48" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/House/HouseFavoriteController.php" />
+      <jump line="137" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/House/HouseFavoriteController.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/House/HouseFavoriteController.php" />
+      <jump line="166" column="17" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/House/HouseFavoriteController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2036,7 +2077,7 @@
         <text encoding="base64">LT5nZXQoKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>old_purchased_house_list</text>
+        <text>limit</text>
       </register>
       <register name="0" type="4">
         <text>Helper::getApiPath() . '/agency/old_purchased_house_list/' . $uidx . '/' . $type . '?is_total=' . $is_total)</text>
@@ -2073,9 +2114,9 @@
       </register>
     </registers>
     <search>
-      <last-search>old_purchased_house_list</last-search>
+      <last-search>limit</last-search>
       <last-offset />
-      <last-pattern>old_purchased_house_list</last-pattern>
+      <last-pattern>limit</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2083,7 +2124,6 @@
     </search>
     <history>
       <history-search>
-        <entry>증권</entry>
         <entry>insu</entry>
         <entry>house</entry>
         <entry>getDetail</entry>
@@ -2103,6 +2143,7 @@
         <entry>agency\/categories</entry>
         <entry>get_list</entry>
         <entry>old_purchased_house_list</entry>
+        <entry>limit</entry>
       </history-search>
       <history-cmd>
         <entry>178</entry>
