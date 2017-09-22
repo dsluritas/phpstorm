@@ -219,6 +219,12 @@
         <mark key="." line="35" column="31" />
         <mark key="^" line="35" column="31" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1506061852640">
+        <mark key="'" line="162" column="45" />
+        <mark key="[" line="171" column="38" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/includes/deposit-list.php" timestamp="1506000458534">
         <mark key="'" line="4" column="23" />
       </file>
@@ -358,12 +364,12 @@
         <mark key="^" line="2401" column="0" />
         <mark key="." line="2401" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" timestamp="1506060262784">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="47" />
-        <mark key="." line="4" column="47" />
-        <mark key="^" line="4" column="47" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" timestamp="1506061876159">
+        <mark key="'" line="162" column="10" />
+        <mark key="[" line="170" column="12" />
+        <mark key="]" line="170" column="32" />
+        <mark key="." line="170" column="32" />
+        <mark key="^" line="170" column="32" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/map_view2.blade.php" timestamp="1501555894597">
         <mark key="[" line="227" column="11" />
@@ -455,7 +461,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506050411116">
+      <file name="/Dummy.txt" timestamp="1506061868036">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -509,12 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="29" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Traits/NaverApiTrait.php" />
-      <jump line="83" column="87" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Traits/NaverApiTrait.php" />
-      <jump line="217" column="29" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
-      <jump line="73" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
-      <jump line="42" column="45" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Partners/NaverController.php" />
       <jump line="298" column="37" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/FaAPIController.php" />
       <jump line="220" column="46" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/FaAPIController.php" />
       <jump line="372" column="42" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/FaAPIController.php" />
@@ -608,7 +608,13 @@
       <jump line="80" column="52" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
       <jump line="8" column="1" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
       <jump line="17" column="15" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" />
+      <jump line="5" column="47" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" />
+      <jump line="82" column="72" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" />
+      <jump line="175" column="10" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" />
+      <jump line="170" column="12" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" />
+      <jump line="1" column="13" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" />
+      <jump line="162" column="10" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" />
+      <jump line="162" column="45" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -630,7 +636,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>asdf</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2172,49 +2178,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>asdf</text>
       </register>
       <register name="/" type="4">
-        <text>form</text>
+        <text>#fa-new-service-modal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSBnZXRBUElDb250ZW50KCd1c2VyX3VwZGF0ZTogJyAuICR0aGlzLT51c2VySW5mby0+dXNlcl9lbWFpbCwgIlBPU1QiLCAkdXJsLCAkcGFyYW0pWydwc2Zvcm0nXVsnYm9keSddOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gJGUpIHsKICAgICAgICAgICAgZWNobyAkZS0+Z2V0TWVzc2FnZSgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZD0iIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkKCIjaW5zdXJhbmNlLXBhc3N3b3JkIikuYXR0cigndHlwZScsJ3Bhc3N3b3JkJyk7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSAkY2xpZW50LT5yZXF1ZXN0KCRtZXRob2QsICR1cmwsIFsnZm9ybV9wYXJhbXMnID0+ICRwYXJhbV0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWV0aG9kKTsK</text>
+        <text encoding="base64">ICAgICAgICAkKCIjaW5zdXJhbmNlLXBhc3N3b3JkIikuYXR0cigndHlwZScsJ3Bhc3N3b3JkJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY2xpZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gJGUpIHsKICAgICAgICAgICAgZWNobyAkZS0+Z2V0TWVzc2FnZSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UpOyAK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWV0aG9kKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGFyYW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSAkY2xpZW50LT5yZXF1ZXN0KCRtZXRob2QsICR1cmwsIFsnZm9ybV9wYXJhbXMnID0+ICRwYXJhbV0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>form</last-search>
+      <last-search>#fa-new-service-modal</last-search>
       <last-offset />
-      <last-pattern>form</last-pattern>
+      <last-pattern>#fa-new-service-modal</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2222,10 +2228,6 @@
     </search>
     <history>
       <history-search>
-        <entry>agency\/categories</entry>
-        <entry>get_list</entry>
-        <entry>old_purchased_house_list</entry>
-        <entry>limit</entry>
         <entry>price</entry>
         <entry encoding="base64">XDxsZWZ0Sm9pblw+</entry>
         <entry encoding="base64">XDxsYXRpdHVkZVw+</entry>
@@ -2242,6 +2244,10 @@
         <entry encoding="base64">PGZvcm0=</entry>
         <entry encoding="base64">XDxiYW5rc1w+</entry>
         <entry>form</entry>
+        <entry>비밀번호</entry>
+        <entry>password</entry>
+        <entry>fa-new-service-modal</entry>
+        <entry>#fa-new-service-modal</entry>
       </history-search>
       <history-cmd>
         <entry>178</entry>
