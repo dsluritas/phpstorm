@@ -65,7 +65,6 @@
         <mark key="^" line="20" column="84" />
         <mark key="." line="20" column="84" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/database/migrations/2017_08_24_155616_create_safe_direct_dealings_table.php" timestamp="1505367384793" />
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Admin/AdminReportController.php" timestamp="1504602003412">
         <mark key="[" line="33" column="38" />
         <mark key="]" line="33" column="38" />
@@ -116,6 +115,13 @@
         <mark key="]" line="92" column="35" />
         <mark key="^" line="92" column="9" />
         <mark key="." line="92" column="9" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-complete.php" timestamp="1506001217889">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="16" />
+        <mark key="^" line="17" column="16" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/common/footer.blade.php" timestamp="1503017388988">
         <mark key="[" line="49" column="88" />
@@ -176,6 +182,13 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" timestamp="1504853611545">
         <mark key="'" line="280" column="9" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-withdraw.php" timestamp="1506001538118">
+        <mark key="'" line="85" column="40" />
+        <mark key="[" line="79" column="57" />
+        <mark key="]" line="79" column="61" />
+        <mark key="^" line="79" column="61" />
+        <mark key="." line="79" column="61" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/sub_header.blade.php" timestamp="1504593737277">
         <mark key="[" line="6" column="78" />
         <mark key="]" line="6" column="80" />
@@ -206,11 +219,21 @@
         <mark key="." line="35" column="31" />
         <mark key="^" line="35" column="31" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/VerificationReportController.php" timestamp="1505357773648" />
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/includes/deposit-list.php" timestamp="1506000458534">
+        <mark key="'" line="4" column="23" />
+      </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/database/seeds/CodeBookTableSeeder.php" timestamp="1504851924558">
         <mark key="'" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/.composer/vendor/laravel/valet/server.php" timestamp="1505305849203" />
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit.php" timestamp="1506000998087">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="41" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/includes/mypage.php" timestamp="1506001020816">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="48" column="5" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/RealEstateFacility.php" timestamp="1505314347377">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="8" column="36" />
@@ -226,14 +249,16 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/safetyServiceApply.blade.php" timestamp="1505801431309">
         <mark key="'" line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/helper.php" timestamp="1506003717491">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="97" column="5" />
+        <mark key="." line="95" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/commonTable.blade.php" timestamp="1503902951874">
         <mark key="[" line="55" column="49" />
         <mark key="]" line="55" column="59" />
         <mark key="^" line="55" column="59" />
         <mark key="." line="55" column="59" />
-      </file>
-      <file name="/fragment.php" timestamp="1505458024200">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/jobs/cs/index.php" timestamp="1503902054887">
         <mark key="[" line="19" column="51" />
@@ -241,13 +266,24 @@
         <mark key="^" line="19" column="54" />
         <mark key="." line="19" column="54" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" timestamp="1506002882039">
+        <mark key="'" line="17" column="15" />
+        <mark key="[" line="149" column="61" />
+        <mark key="]" line="149" column="61" />
+        <mark key="." line="149" column="61" />
+        <mark key="^" line="149" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/js/plugins/bootstrap-table/dist/bootstrap-table.css" timestamp="1500364329979">
         <mark key="[" line="216" column="17" />
         <mark key="]" line="216" column="18" />
         <mark key="^" line="216" column="10" />
         <mark key="." line="216" column="18" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" timestamp="1505721428376" />
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/updateUser.php" timestamp="1506003379262">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/sideZero.blade.php" timestamp="1500536905967">
         <mark key="[" line="17" column="149" />
         <mark key="]" line="17" column="148" />
@@ -275,9 +311,6 @@
         <mark key="]" line="13" column="26" />
         <mark key="." line="13" column="26" />
         <mark key="^" line="13" column="26" />
-      </file>
-      <file name="/fragment.js" timestamp="1505458022068">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1505459034716">
         <mark key="'" line="283" column="23" />
@@ -338,7 +371,6 @@
         <mark key="^" line="228" column="11" />
         <mark key="." line="228" column="11" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Requests/DeliverInsurancePolicyRequest.php" timestamp="1505435529887" />
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/naverOfficetel.blade.php" timestamp="1503903011056">
         <mark key="[" line="43" column="65" />
         <mark key="]" line="43" column="72" />
@@ -351,6 +383,12 @@
         <mark key="^" line="206" column="15" />
         <mark key="." line="210" column="16" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" timestamp="1506003790084">
+        <mark key="[" line="90" column="81" />
+        <mark key="]" line="90" column="81" />
+        <mark key="." line="90" column="81" />
+        <mark key="^" line="88" column="23" />
+      </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/VerificationReceiveController.php" timestamp="1505721447364">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="59" column="23" />
@@ -359,6 +397,13 @@
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" timestamp="1505819036629">
         <mark key="'" line="1106" column="22" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/dashboard.php" timestamp="1506000330198">
+        <mark key="'" line="33" column="36" />
+        <mark key="[" line="129" column="48" />
+        <mark key="]" line="129" column="64" />
+        <mark key="." line="129" column="64" />
+        <mark key="^" line="129" column="64" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/AgencyController.php" timestamp="1505459697690">
         <mark key="[" line="487" column="0" />
@@ -389,9 +434,6 @@
         <mark key="." line="273" column="37" />
         <mark key="^" line="273" column="37" />
       </file>
-      <file name="/PHP Console" timestamp="1505458267010">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/confirm.blade.php" timestamp="1505266432678">
         <mark key="'" line="37" column="29" />
         <mark key="[" line="45" column="0" />
@@ -413,8 +455,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Requests/RealEstateInformationRequest.php" timestamp="1505435065619" />
-      <file name="/Dummy.txt" timestamp="1505921402751">
+      <file name="/Dummy.txt" timestamp="1506003250989">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -468,37 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="10" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
-      <jump line="358" column="17" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
-      <jump line="366" column="17" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
-      <jump line="42" column="38" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
-      <jump line="23" column="19" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
-      <jump line="6" column="7" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
-      <jump line="243" column="4" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
-      <jump line="805" column="25" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="875" column="19" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="227" column="8" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/FaAPIController.php" />
-      <jump line="385" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/FaAPIController.php" />
-      <jump line="93" column="41" filename="$USER_HOME$/git/ptp/duseAPI/app/Exceptions/Handler.php" />
-      <jump line="266" column="37" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/FaAPIController.php" />
-      <jump line="267" column="18" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/FaAPIController.php" />
-      <jump line="268" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/FaAPIController.php" />
-      <jump line="264" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/FaAPIController.php" />
-      <jump line="306" column="12" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/FaAPIController.php" />
-      <jump line="303" column="12" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/FaAPIController.php" />
-      <jump line="551" column="17" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="60" column="27" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Property/InsuranceController.php" />
-      <jump line="563" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="596" column="9" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
-      <jump line="51" column="20" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" />
-      <jump line="602" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="627" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="509" column="58" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="41" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
-      <jump line="207" column="1" filename="$USER_HOME$/git/ptp/peterWEB/app/User.php" />
-      <jump line="878" column="55" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
-      <jump line="39" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Traits/NaverApiTrait.php" />
       <jump line="101" column="21" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Traits/NaverApiTrait.php" />
       <jump line="76" column="29" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Traits/NaverApiTrait.php" />
       <jump line="83" column="87" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Traits/NaverApiTrait.php" />
@@ -568,6 +578,37 @@
       <jump line="466" column="176" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
       <jump line="7" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
       <jump line="27" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/HouseTypeMenu.vue" />
+      <jump line="131" column="30" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-withdraw.php" />
+      <jump line="15" column="16" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-withdraw.php" />
+      <jump line="149" column="5" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-withdraw.php" />
+      <jump line="138" column="11" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-withdraw.php" />
+      <jump line="47" column="21" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-withdraw.php" />
+      <jump line="16" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-withdraw.php" />
+      <jump line="125" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-withdraw.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-withdraw.php" />
+      <jump line="126" column="9" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-withdraw.php" />
+      <jump line="40" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-withdraw.php" />
+      <jump line="0" column="4" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/dashboard.php" />
+      <jump line="11" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/dashboard.php" />
+      <jump line="47" column="22" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/dashboard.php" />
+      <jump line="141" column="12" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/dashboard.php" />
+      <jump line="62" column="33" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/dashboard.php" />
+      <jump line="33" column="36" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/dashboard.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/includes/deposit-list.php" />
+      <jump line="30" column="39" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/includes/deposit-list.php" />
+      <jump line="4" column="23" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/includes/deposit-list.php" />
+      <jump line="62" column="43" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-withdraw.php" />
+      <jump line="76" column="45" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-withdraw.php" />
+      <jump line="28" column="45" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-withdraw.php" />
+      <jump line="73" column="40" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-withdraw.php" />
+      <jump line="79" column="40" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-withdraw.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/includes/mypage.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/includes/mypage.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-complete.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-complete.php" />
+      <jump line="80" column="52" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
+      <jump line="8" column="1" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
+      <jump line="17" column="15" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -588,8 +629,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAnJzsK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2131,49 +2172,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TB_HOUSE_SALE</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>todo</text>
+        <text encoding="base64">XDxiYW5rc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc3NldCgkZmlsdGVyWydiZXR3ZWVuJ10pKSB7CiAgICAgICAgICAgICAgICAgICAgZm9yZWFjaCAoJGZpbHRlclsnYmV0d2VlbiddIGFzICRrZXkgPT4gJHZhbHVlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICRxdWVyeS0+d2hlcmVCZXR3ZWVuKERCOjpyYXcoJ1RCX0hPVVNFX1NBTEUuJyAuICRrZXkpLCAkdmFsdWUpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSBnZXRBUElDb250ZW50KCd1c2VyX3VwZGF0ZTogJyAuICR0aGlzLT51c2VySW5mby0+dXNlcl9lbWFpbCwgIlBPU1QiLCAkdXJsLCAkcGFyYW0pWydwc2Zvcm0nXVsnYm9keSddOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAnJzsK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gJGUpIHsKICAgICAgICAgICAgZWNobyAkZS0+Z2V0TWVzc2FnZSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbG9jLT5nZXQoKS0+dG9BcnJheSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSAkY2xpZW50LT5yZXF1ZXN0KCRtZXRob2QsICR1cmwsIFsnZm9ybV9wYXJhbXMnID0+ICRwYXJhbV0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzc2V0KCRmaWx0ZXJbJ2JldHdlZW4nXSkpIHsKICAgICAgICAgICAgICAgIGZvcmVhY2ggKCRmaWx0ZXJbJ2JldHdlZW4nXSBhcyAka2V5ID0+ICR2YWx1ZSkgewogICAgICAgICAgICAgICAgICAgICRxdWVyeS0+d2hlcmVCZXR3ZWVuKERCOjpyYXcoJ1RCX0hPVVNFX1NBTEUuJyAuICRrZXkpLCAkdmFsdWUpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbWV0aG9kKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY2xpZW50KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7CiAgICAgICAgcHJpbnRfcigkaG91c2VzLT5nZXRCaW5kaW5ncygpKTsKICAgICAgICBlY2hvICc8L3ByZT4nOwogICAgICAgIGRkKCRob3VzZXMtPnRvU3FsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UpOyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbWV0aG9kKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbGFzdE1vbnRoLT5mb3JtYXQoJ1ktbS1kJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGFyYW0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>todo</last-search>
+      <last-search encoding="base64">XDxiYW5rc1w+</last-search>
       <last-offset />
-      <last-pattern>todo</last-pattern>
+      <last-pattern encoding="base64">XDxiYW5rc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2181,16 +2222,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NAVER_CP_ID</entry>
-        <entry>fa</entry>
-        <entry>version</entry>
-        <entry>client</entry>
-        <entry>cfname</entry>
-        <entry>cfnam</entry>
-        <entry>fa01</entry>
-        <entry>report</entry>
-        <entry>agency\/list</entry>
-        <entry>agency</entry>
         <entry>agency\/categories\/report</entry>
         <entry>agency\/categories</entry>
         <entry>get_list</entry>
@@ -2201,6 +2232,16 @@
         <entry encoding="base64">XDxsYXRpdHVkZVw+</entry>
         <entry>latitude</entry>
         <entry>todo</entry>
+        <entry>자동</entry>
+        <entry>562</entry>
+        <entry>가상계좌은행</entry>
+        <entry>require</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry>평균투자수익률</entry>
+        <entry>{</entry>
+        <entry>내 계좌 보기]</entry>
+        <entry encoding="base64">PGZvcm0=</entry>
+        <entry encoding="base64">XDxiYW5rc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>178</entry>
