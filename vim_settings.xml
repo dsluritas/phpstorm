@@ -358,12 +358,12 @@
         <mark key="^" line="2401" column="0" />
         <mark key="." line="2401" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" timestamp="1505265534811">
-        <mark key="'" line="67" column="41" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="6" column="83" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" timestamp="1506060262784">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="47" />
+        <mark key="." line="4" column="47" />
+        <mark key="^" line="4" column="47" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/map_view2.blade.php" timestamp="1501555894597">
         <mark key="[" line="227" column="11" />
@@ -509,7 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="21" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Traits/NaverApiTrait.php" />
       <jump line="76" column="29" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Traits/NaverApiTrait.php" />
       <jump line="83" column="87" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Traits/NaverApiTrait.php" />
       <jump line="217" column="29" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
@@ -609,6 +608,7 @@
       <jump line="80" column="52" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
       <jump line="8" column="1" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
       <jump line="17" column="15" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2175,7 +2175,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYW5rc1w+</text>
+        <text>form</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSBnZXRBUElDb250ZW50KCd1c2VyX3VwZGF0ZTogJyAuICR0aGlzLT51c2VySW5mby0+dXNlcl9lbWFpbCwgIlBPU1QiLCAkdXJsLCAkcGFyYW0pWydwc2Zvcm0nXVsnYm9keSddOwo=</text>
@@ -2212,9 +2212,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYW5rc1w+</last-search>
+      <last-search>form</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYW5rc1w+</last-pattern>
+      <last-pattern>form</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2222,7 +2222,6 @@
     </search>
     <history>
       <history-search>
-        <entry>agency\/categories\/report</entry>
         <entry>agency\/categories</entry>
         <entry>get_list</entry>
         <entry>old_purchased_house_list</entry>
@@ -2242,6 +2241,7 @@
         <entry>내 계좌 보기]</entry>
         <entry encoding="base64">PGZvcm0=</entry>
         <entry encoding="base64">XDxiYW5rc1w+</entry>
+        <entry>form</entry>
       </history-search>
       <history-cmd>
         <entry>178</entry>
