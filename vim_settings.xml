@@ -200,12 +200,12 @@
         <mark key="]" line="66" column="32" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" timestamp="1506318732048">
-        <mark key="'" line="626" column="57" />
-        <mark key="[" line="137" column="65" />
-        <mark key="]" line="137" column="65" />
-        <mark key="." line="137" column="65" />
-        <mark key="^" line="137" column="65" />
+      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" timestamp="1506321814167">
+        <mark key="'" line="653" column="0" />
+        <mark key="[" line="712" column="48" />
+        <mark key="]" line="712" column="56" />
+        <mark key="." line="712" column="48" />
+        <mark key="^" line="721" column="50" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/House/HouseAdvertiseController.php" timestamp="1506320547091">
         <mark key="[" line="39" column="42" />
@@ -301,12 +301,12 @@
         <mark key="]" line="151" column="0" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/style.css" timestamp="1506316656348">
+      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/style.css" timestamp="1506321034712">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="33" column="10" />
-        <mark key="]" line="33" column="10" />
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="20" />
         <mark key="^" line="33" column="21" />
-        <mark key="." line="33" column="10" />
+        <mark key="." line="27" column="20" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/includes/deposit-list.php" timestamp="1506000458534">
         <mark key="'" line="4" column="23" />
@@ -489,14 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/includes/mypage.php" />
-      <jump line="20" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/includes/mypage.php" />
-      <jump line="6" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-complete.php" />
-      <jump line="10" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-complete.php" />
-      <jump line="80" column="52" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
-      <jump line="8" column="1" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
-      <jump line="17" column="15" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
-      <jump line="5" column="47" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" />
       <jump line="82" column="72" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" />
       <jump line="175" column="10" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" />
       <jump line="170" column="12" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/fa_apply_password_modal.blade.php" />
@@ -589,6 +581,14 @@
       <jump line="262" column="35" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
       <jump line="622" column="57" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
       <jump line="285" column="36" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/House/HouseController.php" />
+      <jump line="289" column="47" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="307" column="40" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="631" column="34" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="691" column="35" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="145" column="44" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="281" column="47" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="722" column="28" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="650" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -610,7 +610,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>['data']</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2152,49 +2152,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>operator</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PGxp</text>
+        <text>HouseList</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRwcm9wZXJ0aWVzWydsaXN0J11bJHNlb3VsVHlwZV1bJGtleV1bJ2h0bWwnXSA9ICI8ZGl2IGNsYXNzPSdzb2NpYWxIb3VzaW5nJz4iOwo=</text>
+      <register name="0" type="4">
+        <text>['data']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRwcm9wZXJ0aWVzWydsaXN0J11bJHNlb3VsVHlwZV1bJGtleV1bJ2h0bWwnXSA9ICIiOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMz57JGh0bWx9PC9oMz48L2Rpdj4iOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHByCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHByb3BlcnRpZXMgPSBzZWxmOjpnZXRNYXBMb2NhdGlvbigkcHJvcGVydGllcywgJHNlb3VsVHlwZSwgJGZpbHRlcik7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJzxwcmU+JzsKICAgICAgICAgICAgICAgIGRkKCR2YWx1ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgkdmFsdWVbJ3NpZG8nXSkgewogICAgICAgICAgICAgICAgICAgICRodG1sID0gJHZhbHVlWydzaWRvJ107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHByb3BlcnRpZXNbJ3Jlc3VsdCddID0gJ29rJzsKICAgICAgICAgICAgJHByb3BlcnRpZXNbJ2xpc3QnXVskc2VvdWxUeXBlXSA9IHNlbGY6OmdldExvY2F0aW9uTmFtZSgkZmlsdGVyKTsKICAgICAgICAgICAgZm9yZWFjaCAoJHByb3BlcnRpZXNbJ2xpc3QnXVskc2VvdWxUeXBlXSBhcyAka2V5ID0+ICR2YWx1ZSkgewogICAgICAgICAgICAgICAgJGh0bWwgPSAnJzsKICAgICAgICAgICAgICAgIGlmICgkdmFsdWVbJ2RvbmcnXSkgewogICAgICAgICAgICAgICAgICAgICRodG1sID0gJHZhbHVlWydkb25nJ107CiAgICAgICAgICAgICAgICB9IGVsc2VpZiAoJHZhbHVlWydndWd1biddKSB7CiAgICAgICAgICAgICAgICAgICAgJGh0bWwgPSAkdmFsdWVbJ2d1Z3VuJ107CiAgICAgICAgICAgICAgICB9IGVsc2VpZiAoJHZhbHVlWydzaWRvJ10pIHsKICAgICAgICAgICAgICAgICAgICAkaHRtbCA9ICR2YWx1ZVsnc2lkbyddOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgJHByb3BlcnRpZXNbJ2xpc3QnXVskc2VvdWxUeXBlXVska2V5XVsnaHRtbCddID0gIjxkaXYgY2xhc3M9J3NvY2lhbEhvdXNpbmcnPiI7CiAgICAgICAgICAgICAgICAkcHJvcGVydGllc1snbGlzdCddWyRzZW91bFR5cGVdWyRrZXldWydodG1sJ10gLj0gIjxoMz4iOwogICAgICAgICAgICAgICAgJHByb3BlcnRpZXNbJ2xpc3QnXVskc2VvdWxUeXBlXVska2V5XVsnaHRtbCddIC49ICRodG1sOwogICAgICAgICAgICAgICAgJHByb3BlcnRpZXNbJ2xpc3QnXVskc2VvdWxUeXBlXVska2V5XVsnaHRtbCddIC49ICI8aDM+IjsKICAgICAgICAgICAgICAgICRwcm9wZXJ0aWVzWydsaXN0J11bJHNlb3VsVHlwZV1bJGtleV1bJ2h0bWwnXSAuPSAiPC9oMz4iOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcHJvcGVydGllcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZWlmICgkdmFsdWVbJ2RvbmcnXSkgewogICAgICAgICAgICAgICAgICAgICRodG1sID0gJHZhbHVlWydkb25nJ107CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRwcm9wZXJ0aWVzWydsaXN0J11bJHNlb3VsVHlwZV1bJGtleV1bJ2h0bWwnXSA9ICIiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMz57JGh0bWx9PC9oMz48L2Rpdj4iOwo=</text>
       </register>
       <register name=":" type="4">
         <text>144</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PGxp</last-search>
+      <last-search>HouseList</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PGxp</last-pattern>
+      <last-pattern>HouseList</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2202,9 +2202,6 @@
     </search>
     <history>
       <history-search>
-        <entry>공공주택</entry>
-        <entry>공공임대</entry>
-        <entry>content</entry>
         <entry>price</entry>
         <entry>HEX</entry>
         <entry>json_en</entry>
@@ -2222,6 +2219,9 @@
         <entry encoding="base64">XDxKU09OX0hFWF9BTVBcPg==</entry>
         <entry>li</entry>
         <entry encoding="base64">PGxp</entry>
+        <entry encoding="base64">XDxKU09OX0hFWF9UQUdcPg==</entry>
+        <entry encoding="base64">XDxnZXRNYXBMb2NhdGlvblw+</entry>
+        <entry>HouseList</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
