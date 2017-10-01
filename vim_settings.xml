@@ -3,11 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/ptp/wordpress/wp-content/themes/Avada-Child-Theme/map.php" timestamp="1500969460713">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="26" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/naverApt.blade.php" timestamp="1503902934123">
         <mark key="[" line="39" column="65" />
         <mark key="]" line="39" column="72" />
         <mark key="^" line="39" column="72" />
         <mark key="." line="39" column="72" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" timestamp="1506674953066">
+        <mark key="'" line="71" column="1" />
+        <mark key="k" line="61" column="13" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="69" column="35" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/House/HouseFavoriteController.php" timestamp="1505722064920">
         <mark key="'" line="166" column="17" />
@@ -23,6 +37,12 @@
         <mark key="]" line="16" column="43" />
         <mark key="." line="16" column="43" />
         <mark key="^" line="17" column="43" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1506823902424">
+        <mark key="'" line="495" column="3" />
+        <mark key="[" line="468" column="12" />
+        <mark key="]" line="468" column="12" />
+        <mark key="." line="468" column="12" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" timestamp="1506392699945">
         <mark key="'" line="57" column="3" />
@@ -40,6 +60,12 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/_ide_helper.php" timestamp="1505223166283">
         <mark key="'" line="12992" column="9" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/FaAPIController.php" timestamp="1505908664821">
+        <mark key="[" line="365" column="40" />
+        <mark key="]" line="365" column="38" />
+        <mark key="." line="365" column="38" />
+        <mark key="^" line="365" column="38" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/free_house.blade.php" timestamp="1502964652876">
         <mark key="[" line="70" column="79" />
         <mark key="]" line="70" column="79" />
@@ -51,6 +77,15 @@
         <mark key="]" line="20" column="84" />
         <mark key="^" line="20" column="84" />
         <mark key="." line="20" column="84" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/bundle.js" timestamp="1506393144806">
+        <mark key="'" line="1547" column="16" />
+        <mark key="[" line="1560" column="0" />
+        <mark key="]" line="1560" column="0" />
+        <mark key="." line="1560" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/public/css/css-circular-prog-bar.css" timestamp="1504874541640">
+        <mark key="'" line="77" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/Admin/AdminReportController.php" timestamp="1504602003412">
         <mark key="[" line="33" column="38" />
@@ -80,11 +115,23 @@
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/HouseWithoutFee.php" timestamp="1500342025071">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="16" column="45" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/header.blade.php" timestamp="1500009932917">
         <mark key="[" line="36" column="73" />
         <mark key="]" line="36" column="76" />
         <mark key="^" line="36" column="76" />
         <mark key="." line="36" column="76" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Helpers/Helper.php" timestamp="1505222668285">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="989" column="0" />
+        <mark key="]" line="989" column="0" />
+        <mark key="." line="989" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_regist_done.blade.php" timestamp="1501553025580">
         <mark key="[" line="40" column="6" />
@@ -92,11 +139,23 @@
         <mark key="^" line="40" column="6" />
         <mark key="." line="40" column="6" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/plugins/mailpoet/assets/css/newsletter_editor.aace9f8f.css" timestamp="1502446790265">
+        <mark key="[" line="2400" column="2" />
+        <mark key="]" line="2401" column="0" />
+        <mark key="^" line="2401" column="0" />
+        <mark key="." line="2401" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" timestamp="1505305953314">
         <mark key="'" line="720" column="0" />
         <mark key="[" line="389" column="0" />
         <mark key="]" line="389" column="24" />
         <mark key="." line="389" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/map_view2.blade.php" timestamp="1501555894597">
+        <mark key="[" line="227" column="11" />
+        <mark key="]" line="228" column="11" />
+        <mark key="^" line="228" column="11" />
+        <mark key="." line="228" column="11" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-complete.php" timestamp="1506244806563">
         <mark key="[" line="14" column="0" />
@@ -104,11 +163,20 @@
         <mark key="^" line="22" column="84" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/naverOfficetel.blade.php" timestamp="1503903011056">
+        <mark key="[" line="43" column="65" />
+        <mark key="]" line="43" column="72" />
+        <mark key="^" line="43" column="72" />
+        <mark key="." line="43" column="72" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/common/footer.blade.php" timestamp="1503017388988">
         <mark key="[" line="49" column="88" />
         <mark key="]" line="49" column="92" />
         <mark key="." line="49" column="92" />
         <mark key="^" line="49" column="92" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" timestamp="1506337722677">
+        <mark key="'" line="458" column="28" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/.gitignore" timestamp="1503456166767">
         <mark key="[" line="20" column="35" />
@@ -118,6 +186,13 @@
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/plugins/d3/d3.js" timestamp="1504587069118">
         <mark key="'" line="6034" column="10" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/mContactInfo.blade.php" timestamp="1506682175407">
+        <mark key="'" line="132" column="0" />
+        <mark key="[" line="180" column="23" />
+        <mark key="]" line="178" column="0" />
+        <mark key="^" line="178" column="0" />
+        <mark key="." line="178" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/PaymentLog.php" timestamp="1505263693152">
         <mark key="[" line="19" column="62" />
@@ -150,6 +225,31 @@
         <mark key="^" line="67" column="13" />
         <mark key="." line="67" column="13" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_home.blade.php" timestamp="1500013621778">
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="16" />
+        <mark key="^" line="206" column="15" />
+        <mark key="." line="210" column="16" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" timestamp="1506246103157">
+        <mark key="'" line="13" column="10" />
+        <mark key="[" line="235" column="22" />
+        <mark key="]" line="235" column="22" />
+        <mark key="." line="235" column="22" />
+        <mark key="^" line="235" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/VerificationReceiveController.php" timestamp="1505721447364">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="59" column="23" />
+        <mark key="^" line="59" column="23" />
+        <mark key="." line="59" column="23" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/SocialHousing.php" timestamp="1506339482883">
+        <mark key="[" line="31" column="40" />
+        <mark key="]" line="32" column="25" />
+        <mark key="." line="32" column="25" />
+        <mark key="^" line="32" column="25" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/return.blade.php" timestamp="1505265705576">
         <mark key="[" line="57" column="7" />
         <mark key="]" line="57" column="6" />
@@ -158,6 +258,9 @@
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" timestamp="1504853611545">
         <mark key="'" line="280" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" timestamp="1506674439400">
+        <mark key="'" line="1285" column="20" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/sub_header.blade.php" timestamp="1504593737277">
         <mark key="[" line="6" column="78" />
@@ -177,17 +280,31 @@
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/dashboard.php" timestamp="1506000330198">
+        <mark key="'" line="33" column="36" />
+        <mark key="[" line="129" column="48" />
+        <mark key="]" line="129" column="64" />
+        <mark key="." line="129" column="64" />
+        <mark key="^" line="129" column="64" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/footer.blade.php" timestamp="1503017039778">
         <mark key="[" line="34" column="43" />
         <mark key="]" line="34" column="47" />
         <mark key="." line="34" column="47" />
         <mark key="^" line="34" column="47" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/CustomerReport.php" timestamp="1504575580767">
+        <mark key="'" line="157" column="63" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-config.php" timestamp="1502445542850">
         <mark key="[" line="35" column="29" />
         <mark key="]" line="35" column="31" />
         <mark key="." line="35" column="31" />
         <mark key="^" line="35" column="31" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/safety-service-apply.blade.php" timestamp="1506823890256">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="20" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1506681644686">
         <mark key="'" line="81" column="0" />
@@ -202,8 +319,35 @@
         <mark key="." line="41" column="36" />
         <mark key="^" line="41" column="36" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/MarketPrice.php" timestamp="1506394115380">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/includes/deposit-list.php" timestamp="1506000458534">
         <mark key="'" line="4" column="23" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" timestamp="1504879285355">
+        <mark key="'" line="238" column="0" />
+        <mark key="[" line="240" column="0" />
+        <mark key="]" line="243" column="30" />
+        <mark key="." line="240" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/map.php" timestamp="1506338005059">
+        <mark key="'" line="59" column="14" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/HouseController.php" timestamp="1505305532621">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+        <mark key="^" line="123" column="15" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/HouseList.vue" timestamp="1503018310829">
+        <mark key="[" line="273" column="33" />
+        <mark key="]" line="273" column="37" />
+        <mark key="." line="273" column="37" />
+        <mark key="^" line="273" column="37" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/database/seeds/CodeBookTableSeeder.php" timestamp="1504851924558">
         <mark key="'" line="17" column="24" />
@@ -220,8 +364,23 @@
         <mark key="^" line="117" column="50" />
         <mark key="." line="117" column="52" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/confirm.blade.php" timestamp="1505266432678">
+        <mark key="'" line="37" column="29" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterpan/public/js/main.js" timestamp="1502259441209">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="44" column="49" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/SlackController.php" timestamp="1506078769613">
         <mark key="'" line="343" column="53" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/vendor/nesbot/carbon/src/Carbon/Carbon.php" timestamp="1505218750954">
+        <mark key="'" line="2951" column="8" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/safetyServiceApply.blade.php" timestamp="1505801431309">
         <mark key="'" line="0" column="4" />
@@ -233,11 +392,50 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/request.blade.php" timestamp="1505266423830">
+        <mark key="'" line="54" column="15" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1506682048607">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/safetyServiceNew.blade.php" timestamp="1504760827937">
+        <mark key="[" line="51" column="99" />
+        <mark key="]" line="52" column="23" />
+        <mark key="^" line="52" column="23" />
+        <mark key="." line="52" column="23" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/commonTable.blade.php" timestamp="1503902951874">
         <mark key="[" line="55" column="49" />
         <mark key="]" line="55" column="59" />
         <mark key="^" line="55" column="59" />
         <mark key="." line="55" column="59" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date_c.php" timestamp="1505218773547">
+        <mark key="'" line="436" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1505470587260">
+        <mark key="'" line="455" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/public/images/fa/stylesheet.txt" timestamp="1504251021808">
+        <mark key="'" line="1" column="13071" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/seoul/app/RealEstate.php" timestamp="1503458561736">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="8" column="13" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/investment.php" timestamp="1504875520725">
+        <mark key="[" line="62" column="39" />
+        <mark key="]" line="62" column="39" />
+        <mark key="." line="62" column="39" />
+        <mark key="^" line="62" column="40" />
       </file>
       <file name="$USER_HOME$/git/ptp/jobs/cs/index.php" timestamp="1503902054887">
         <mark key="[" line="19" column="51" />
@@ -264,209 +462,6 @@
         <mark key="^" line="17" column="148" />
         <mark key="." line="17" column="148" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/tests/ShareFriendsTest.php" timestamp="1500438939503">
-        <mark key="[" line="16" column="41" />
-        <mark key="]" line="17" column="19" />
-        <mark key="." line="17" column="19" />
-        <mark key="^" line="17" column="19" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/profile-menu.blade.php" timestamp="1504593397699">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="19" />
-        <mark key="^" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/wordpress/wp-content/themes/Avada-Child-Theme/map.php" timestamp="1500969460713">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="13" column="26" />
-        <mark key="." line="13" column="26" />
-        <mark key="^" line="13" column="26" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" timestamp="1506674953066">
-        <mark key="'" line="71" column="1" />
-        <mark key="k" line="61" column="13" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="69" column="35" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1506681218583">
-        <mark key="'" line="197" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/FaAPIController.php" timestamp="1505908664821">
-        <mark key="[" line="365" column="40" />
-        <mark key="]" line="365" column="38" />
-        <mark key="." line="365" column="38" />
-        <mark key="^" line="365" column="38" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/bundle.js" timestamp="1506393144806">
-        <mark key="'" line="1547" column="16" />
-        <mark key="[" line="1560" column="0" />
-        <mark key="]" line="1560" column="0" />
-        <mark key="." line="1560" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/public/css/css-circular-prog-bar.css" timestamp="1504874541640">
-        <mark key="'" line="77" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/HouseWithoutFee.php" timestamp="1500342025071">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="16" column="45" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Helpers/Helper.php" timestamp="1505222668285">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="989" column="0" />
-        <mark key="]" line="989" column="0" />
-        <mark key="." line="989" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/plugins/mailpoet/assets/css/newsletter_editor.aace9f8f.css" timestamp="1502446790265">
-        <mark key="[" line="2400" column="2" />
-        <mark key="]" line="2401" column="0" />
-        <mark key="^" line="2401" column="0" />
-        <mark key="." line="2401" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/map_view2.blade.php" timestamp="1501555894597">
-        <mark key="[" line="227" column="11" />
-        <mark key="]" line="228" column="11" />
-        <mark key="^" line="228" column="11" />
-        <mark key="." line="228" column="11" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/naverOfficetel.blade.php" timestamp="1503903011056">
-        <mark key="[" line="43" column="65" />
-        <mark key="]" line="43" column="72" />
-        <mark key="^" line="43" column="72" />
-        <mark key="." line="43" column="72" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" timestamp="1506337722677">
-        <mark key="'" line="458" column="28" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/mContactInfo.blade.php" timestamp="1506682175407">
-        <mark key="'" line="132" column="0" />
-        <mark key="[" line="180" column="23" />
-        <mark key="]" line="178" column="0" />
-        <mark key="^" line="178" column="0" />
-        <mark key="." line="178" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_home.blade.php" timestamp="1500013621778">
-        <mark key="[" line="210" column="0" />
-        <mark key="]" line="210" column="16" />
-        <mark key="^" line="206" column="15" />
-        <mark key="." line="210" column="16" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" timestamp="1506246103157">
-        <mark key="'" line="13" column="10" />
-        <mark key="[" line="235" column="22" />
-        <mark key="]" line="235" column="22" />
-        <mark key="." line="235" column="22" />
-        <mark key="^" line="235" column="22" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/VerificationReceiveController.php" timestamp="1505721447364">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="59" column="23" />
-        <mark key="^" line="59" column="23" />
-        <mark key="." line="59" column="23" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/SocialHousing.php" timestamp="1506339482883">
-        <mark key="[" line="31" column="40" />
-        <mark key="]" line="32" column="25" />
-        <mark key="." line="32" column="25" />
-        <mark key="^" line="32" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" timestamp="1506674439400">
-        <mark key="'" line="1285" column="20" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/dashboard.php" timestamp="1506000330198">
-        <mark key="'" line="33" column="36" />
-        <mark key="[" line="129" column="48" />
-        <mark key="]" line="129" column="64" />
-        <mark key="." line="129" column="64" />
-        <mark key="^" line="129" column="64" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/CustomerReport.php" timestamp="1504575580767">
-        <mark key="'" line="157" column="63" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/MarketPrice.php" timestamp="1506394115380">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" timestamp="1504879285355">
-        <mark key="'" line="238" column="0" />
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="243" column="30" />
-        <mark key="." line="240" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/map.php" timestamp="1506338005059">
-        <mark key="'" line="59" column="14" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/HouseController.php" timestamp="1505305532621">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-        <mark key="^" line="123" column="15" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/HouseList.vue" timestamp="1503018310829">
-        <mark key="[" line="273" column="33" />
-        <mark key="]" line="273" column="37" />
-        <mark key="." line="273" column="37" />
-        <mark key="^" line="273" column="37" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/confirm.blade.php" timestamp="1505266432678">
-        <mark key="'" line="37" column="29" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterpan/public/js/main.js" timestamp="1502259441209">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="44" column="49" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/vendor/nesbot/carbon/src/Carbon/Carbon.php" timestamp="1505218750954">
-        <mark key="'" line="2951" column="8" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/request.blade.php" timestamp="1505266423830">
-        <mark key="'" line="54" column="15" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1506682048607">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/safetyServiceNew.blade.php" timestamp="1504760827937">
-        <mark key="[" line="51" column="99" />
-        <mark key="]" line="52" column="23" />
-        <mark key="^" line="52" column="23" />
-        <mark key="." line="52" column="23" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date_c.php" timestamp="1505218773547">
-        <mark key="'" line="436" column="18" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1505470587260">
-        <mark key="'" line="455" column="19" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/public/images/fa/stylesheet.txt" timestamp="1504251021808">
-        <mark key="'" line="1" column="13071" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/seoul/app/RealEstate.php" timestamp="1503458561736">
-        <mark key="[" line="9" column="29" />
-        <mark key="]" line="9" column="30" />
-        <mark key="." line="9" column="30" />
-        <mark key="^" line="8" column="13" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/investment.php" timestamp="1504875520725">
-        <mark key="[" line="62" column="39" />
-        <mark key="]" line="62" column="39" />
-        <mark key="." line="62" column="39" />
-        <mark key="^" line="62" column="40" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/index.php" timestamp="1504540179969">
         <mark key="[" line="13" column="30" />
         <mark key="]" line="13" column="5" />
@@ -479,23 +474,26 @@
         <mark key="." line="225" column="55" />
         <mark key="^" line="225" column="55" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/tests/ShareFriendsTest.php" timestamp="1500438939503">
+        <mark key="[" line="16" column="41" />
+        <mark key="]" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+        <mark key="^" line="17" column="19" />
+      </file>
       <file name="$USER_HOME$/git/ptp/wordpress/wp-content/themes/Avada-Child-Theme/js/app.js" timestamp="1500969110373">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/profile-menu.blade.php" timestamp="1504593397699">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="8" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" />
-      <jump line="172" column="8" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" />
-      <jump line="256" column="8" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" />
-      <jump line="261" column="8" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" />
-      <jump line="288" column="8" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" />
-      <jump line="320" column="8" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" />
-      <jump line="352" column="8" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" />
-      <jump line="365" column="8" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" />
-      <jump line="374" column="8" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" />
       <jump line="391" column="8" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" />
       <jump line="406" column="8" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" />
       <jump line="422" column="8" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" />
@@ -565,8 +563,6 @@
       <jump line="429" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="430" column="17" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="434" column="49" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="457" column="20" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="498" column="18" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="520" column="73" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="526" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="568" column="22" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
@@ -587,6 +583,17 @@
       <jump line="220" column="25" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/mContactInfo.blade.php" />
       <jump line="324" column="4" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/mContactInfo.blade.php" />
       <jump line="132" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/mContactInfo.blade.php" />
+      <jump line="249" column="17" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="457" column="26" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="464" column="14" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="471" column="27" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="484" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="498" column="32" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="200" column="30" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="499" column="27" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="472" column="36" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="491" column="3" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="495" column="3" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -608,7 +615,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlmcmFtZSBpZD0ibWFpbkNvbnRlbnRGcmFtZSIgc3JjPSJ7eyBlbnYoJ0ZBX0RPTUFJTicpIH19dHcvdHMxMjA/a2V5PXt7ICRrZXkgb3IgbnVsbCB9fSZ1aWR4PXt7ICR1aWR4IG9yIG51bGwgfX0maGlkeD17eyAkaGlkeCBvciBudWxsIH19Jmhhc2g9e3sgJGhhc2ggb3IgbnVsbCB9fSZidWlsZGluZ2NvZGU9e3sgJGJ1aWxkaW5nQ29kZSBvciBudWxsIH19IgogICAgICAgICAgICAgICAgc3R5bGU9ImJvcmRlcjogbm9uZTsgd2lkdGg6IDEwMCU7IGhlaWdodDogMTIyNnB4OyBtYXJnaW4tdG9wOiA1MHB4OyI+CiAgICAgICAgICAgIDwvaWZyYW1lPgo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2153,10 +2160,10 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>style</text>
+        <text>무료등기부</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVmdEpvaW4oJ1RCX0RPTkdfTElTVF9CJywgZnVuY3Rpb24gKCRqb2luKSB7CiAgICAgICAgICAgICAgICAkam9pbi0+b24oJ1RCX0hPVVNFX1NBTEUuc2lkbycsICdUQl9ET05HX0xJU1RfQi5zaWRvJyk7CiAgICAgICAgICAgICAgICAkam9pbi0+b24oJ1RCX0hPVVNFX1NBTEUuc2lndW5ndScsICdUQl9ET05HX0xJU1RfQi5ndWd1bicpOwogICAgICAgICAgICAgICAgJGpvaW4tPm9uKCdUQl9IT1VTRV9TQUxFLmRvbmcnLCAnVEJfRE9OR19MSVNUX0IuZG9uZycpOwogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlmcmFtZSBpZD0ibWFpbkNvbnRlbnRGcmFtZSIgc3JjPSJ7eyBlbnYoJ0ZBX0RPTUFJTicpIH19dHcvdHMxMjA/a2V5PXt7ICRrZXkgb3IgbnVsbCB9fSZ1aWR4PXt7ICR1aWR4IG9yIG51bGwgfX0maGlkeD17eyAkaGlkeCBvciBudWxsIH19Jmhhc2g9e3sgJGhhc2ggb3IgbnVsbCB9fSZidWlsZGluZ2NvZGU9e3sgJGJ1aWxkaW5nQ29kZSBvciBudWxsIH19IgogICAgICAgICAgICAgICAgc3R5bGU9ImJvcmRlcjogbm9uZTsgd2lkdGg6IDEwMCU7IGhlaWdodDogMTIyNnB4OyBtYXJnaW4tdG9wOiA1MHB4OyI+CiAgICAgICAgICAgIDwvaWZyYW1lPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2190,9 +2197,9 @@
       </register>
     </registers>
     <search>
-      <last-search>style</last-search>
+      <last-search>무료등기부</last-search>
       <last-offset />
-      <last-pattern>style</last-pattern>
+      <last-pattern>무료등기부</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2200,12 +2207,6 @@
     </search>
     <history>
       <history-search>
-        <entry>keyword</entry>
-        <entry>apiKey</entry>
-        <entry>api</entry>
-        <entry>apikey</entry>
-        <entry>js</entry>
-        <entry>key</entry>
         <entry>price</entry>
         <entry>=''</entry>
         <entry>= ''</entry>
@@ -2220,6 +2221,12 @@
         <entry>중개</entry>
         <entry>how-sale</entry>
         <entry>style</entry>
+        <entry>safe-</entry>
+        <entry>safe</entry>
+        <entry>content</entry>
+        <entry>for app</entry>
+        <entry>safety-service-apply</entry>
+        <entry>무료등기부</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
