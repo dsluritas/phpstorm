@@ -15,6 +15,7 @@
         <mark key="^" line="39" column="72" />
         <mark key="." line="39" column="72" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/FaController.php" timestamp="1506824746997" />
       <file name="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" timestamp="1506674953066">
         <mark key="'" line="71" column="1" />
         <mark key="k" line="61" column="13" />
@@ -38,11 +39,11 @@
         <mark key="." line="16" column="43" />
         <mark key="^" line="17" column="43" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1506823902424">
-        <mark key="'" line="495" column="3" />
-        <mark key="[" line="468" column="12" />
-        <mark key="]" line="468" column="12" />
-        <mark key="." line="468" column="12" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1506825301352">
+        <mark key="'" line="465" column="26" />
+        <mark key="[" line="472" column="0" />
+        <mark key="]" line="472" column="0" />
+        <mark key="." line="472" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" timestamp="1506392699945">
         <mark key="'" line="57" column="3" />
@@ -382,7 +383,7 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/vendor/nesbot/carbon/src/Carbon/Carbon.php" timestamp="1505218750954">
         <mark key="'" line="2951" column="8" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/safetyServiceApply.blade.php" timestamp="1505801431309">
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/safetyServiceApply.blade.php" timestamp="1506825048712">
         <mark key="'" line="0" column="4" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/helper.php" timestamp="1506245267120">
@@ -494,9 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="391" column="8" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" />
-      <jump line="406" column="8" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" />
-      <jump line="422" column="8" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" />
       <jump line="432" column="8" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" />
       <jump line="443" column="8" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" />
       <jump line="454" column="21" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" />
@@ -542,7 +540,6 @@
       <jump line="168" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="378" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="83" column="32" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="381" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="324" column="12" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
       <jump line="52" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
       <jump line="154" column="21" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
@@ -585,15 +582,19 @@
       <jump line="132" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/mContactInfo.blade.php" />
       <jump line="249" column="17" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="457" column="26" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="464" column="14" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="471" column="27" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="484" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="498" column="32" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="200" column="30" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="499" column="27" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="472" column="36" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="491" column="3" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="495" column="3" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="512" column="46" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="381" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="498" column="32" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="488" column="32" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="471" column="26" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="472" column="29" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="484" column="18" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="464" column="28" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="465" column="26" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -615,7 +616,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlmcmFtZSBpZD0ibWFpbkNvbnRlbnRGcmFtZSIgc3JjPSJ7eyBlbnYoJ0ZBX0RPTUFJTicpIH19dHcvdHMxMjA/a2V5PXt7ICRrZXkgb3IgbnVsbCB9fSZ1aWR4PXt7ICR1aWR4IG9yIG51bGwgfX0maGlkeD17eyAkaGlkeCBvciBudWxsIH19Jmhhc2g9e3sgJGhhc2ggb3IgbnVsbCB9fSZidWlsZGluZ2NvZGU9e3sgJGJ1aWxkaW5nQ29kZSBvciBudWxsIH19IgogICAgICAgICAgICAgICAgc3R5bGU9ImJvcmRlcjogbm9uZTsgd2lkdGg6IDEwMCU7IGhlaWdodDogMTIyNnB4OyBtYXJnaW4tdG9wOiA1MHB4OyI+CiAgICAgICAgICAgIDwvaWZyYW1lPgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAnUGV0ZXJwYW56JzsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2157,49 +2158,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Hello</text>
       </register>
       <register name="/" type="4">
-        <text>무료등기부</text>
+        <text>-contents</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGlmcmFtZSBpZD0ibWFpbkNvbnRlbnRGcmFtZSIgc3JjPSJ7eyBlbnYoJ0ZBX0RPTUFJTicpIH19dHcvdHMxMjA/a2V5PXt7ICRrZXkgb3IgbnVsbCB9fSZ1aWR4PXt7ICR1aWR4IG9yIG51bGwgfX0maGlkeD17eyAkaGlkeCBvciBudWxsIH19Jmhhc2g9e3sgJGhhc2ggb3IgbnVsbCB9fSZidWlsZGluZ2NvZGU9e3sgJGJ1aWxkaW5nQ29kZSBvciBudWxsIH19IgogICAgICAgICAgICAgICAgc3R5bGU9ImJvcmRlcjogbm9uZTsgd2lkdGg6IDEwMCU7IGhlaWdodDogMTIyNnB4OyBtYXJnaW4tdG9wOiA1MHB4OyI+CiAgICAgICAgICAgIDwvaWZyYW1lPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAnUGV0ZXJwYW56JzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGQSDsoJXrs7Qg6rCA7KC47Jik6riwCiAgICAgICAgLy8g7J6E7Iuc6rCSCiAgICAgICAgLy8gJGhvdXNlUmVwb3J0ID0gWwogICAgICAgIC8vICAgICAvLydhb3duZXInID0+ICfqsJHqtaxBLzgwMTAxMCzqsJHqtaxCLzg5MDkwOScsCiAgICAgICAgLy8gICAgICdhc2VjdScgID0+ICfqsJHqtazqta3rr7zsnYDtlokvMTAwMDAwLOqwkeq1rOyasOumrOydgO2WiS8yMDAwMCzqsJHqtaxzYmkvMjAwMDAsMC8wJywKICAgICAgICAvLyAgICAgJ2FsZWFzZScgPT4gJ+yehOywqOq2jEEvODAxMDEwLOyehOywqOq2jEIvODkwOTA5LDAvMCcsCiAgICAgICAgLy8gICAgICdhY2hlb24nID0+ICfsoITshLjqtoxBLzgwMTAxMCzsoITshLjqtoxCLzg5MDkwOSwwLzAnLAogICAgICAgIC8vICAgICAvLydib3duZXInID0+ICfsnYTqtaxBLzgwMTAxMCzsnYTqtaxCLzg5MDkwOScsCiAgICAgICAgLy8gICAgICdic2VjdScgID0+ICfsnYTqtazqta3rr7zsnYDtlokvMTAwMDAwLOydhOq1rOyasOumrOydgO2WiS8yMDAwMCzsnYTqtaxzYmkvMjAwMDAsMC8wJywKICAgICAgICAvLyAgICAgJ2JsZWFzZScgPT4gJ+q1rOyehOywqOq2jEEvODAxMDEwLOydhOq1rOyehOywqOq2jEIvODkwOTA5LDAvMCcsCiAgICAgICAgLy8gICAgICdiY2hlb24nID0+ICfsnYTqtazsoITshLjqtoxBLzgwMTAxMCzsnYTqtazsoITshLjqtoxCLzg5MDkwOSwwLzAnLAogICAgICAgIC8vIF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYoIWVtcHR5KCRkYl9hc2VjdSkmJiRkYl9hc2VjdSE9JycpIHsKICAgICAgICAgICAgLy8gICAgICRob3VzZVJlcG9ydFsn6rCR6rWsIOq3vOyggOuLueq2jCddID0gJGRiX2FzZWN1IC4gJywwLzAnOwogICAgICAgICAgICAvLyB9ZWxzZSB7CiAgICAgICAgICAgIC8vICAgICAkaG91c2VSZXBvcnRbJ+qwkeq1rCDqt7zsoIDri7nqtownXSA9ICfsl4bsnYwvMCwwLzAnOwogICAgICAgICAgICAvLyB9CiAgICAgICAgICAgIC8vIGlmKCFlbXB0eSgkZGJfYWxlYXNlKSYmJGRiX2FsZWFzZSE9JycpewogICAgICAgICAgICAvLyAgICAgJGhvdXNlUmVwb3J0WyfqsJHqtawg7J6E7LCo6raMJ10gPSAkZGJfYWxlYXNlLicsMC8wJzsKICAgICAgICAgICAgLy8gfSBlbHNlewogICAgICAgICAgICAvLyAgICAgJGhvdXNlUmVwb3J0WyfqsJHqtawg7J6E7LCo6raMJ10gPSAn7JeG7J2MLzAsMC8wJzsKICAgICAgICAgICAgLy8gfQogICAgICAgICAgICAvLyBpZighZW1wdHkoJGRiX2FjaGVvbikmJiRkYl9hY2hlb24hPScnKXsKICAgICAgICAgICAgLy8gICAgICRob3VzZVJlcG9ydFsn6rCR6rWsIOyghOyEuOq2jCddID0gJGRiX2FjaGVvbi4nLDAvMCc7CiAgICAgICAgICAgIC8vIH0gZWxzZSB7CiAgICAgICAgICAgIC8vICAgICAkaG91c2VSZXBvcnRbJ+qwkeq1rCDsoITshLjqtownXSA9ICfsl4bsnYwvMCwwLzAnOwogICAgICAgICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBGQSDsoJXrs7Qg6rCA7KC47Jik6riwCiAgICAgICAgLy8g7J6E7Iuc6rCSCiAgICAgICAgLy8gJGhvdXNlUmVwb3J0ID0gWwogICAgICAgIC8vICAgICAvLydhb3duZXInID0+ICfqsJHqtaxBLzgwMTAxMCzqsJHqtaxCLzg5MDkwOScsCiAgICAgICAgLy8gICAgICdhc2VjdScgID0+ICfqsJHqtazqta3rr7zsnYDtlokvMTAwMDAwLOqwkeq1rOyasOumrOydgO2WiS8yMDAwMCzqsJHqtaxzYmkvMjAwMDAsMC8wJywKICAgICAgICAvLyAgICAgJ2FsZWFzZScgPT4gJ+yehOywqOq2jEEvODAxMDEwLOyehOywqOq2jEIvODkwOTA5LDAvMCcsCiAgICAgICAgLy8gICAgICdhY2hlb24nID0+ICfsoITshLjqtoxBLzgwMTAxMCzsoITshLjqtoxCLzg5MDkwOSwwLzAnLAogICAgICAgIC8vICAgICAvLydib3duZXInID0+ICfsnYTqtaxBLzgwMTAxMCzsnYTqtaxCLzg5MDkwOScsCiAgICAgICAgLy8gICAgICdic2VjdScgID0+ICfsnYTqtazqta3rr7zsnYDtlokvMTAwMDAwLOydhOq1rOyasOumrOydgO2WiS8yMDAwMCzsnYTqtaxzYmkvMjAwMDAsMC8wJywKICAgICAgICAvLyAgICAgJ2JsZWFzZScgPT4gJ+q1rOyehOywqOq2jEEvODAxMDEwLOydhOq1rOyehOywqOq2jEIvODkwOTA5LDAvMCcsCiAgICAgICAgLy8gICAgICdiY2hlb24nID0+ICfsnYTqtazsoITshLjqtoxBLzgwMTAxMCzsnYTqtazsoITshLjqtoxCLzg5MDkwOSwwLzAnLAogICAgICAgIC8vIF07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYoIWVtcHR5KCRkYl9hc2VjdSkmJiRkYl9hc2VjdSE9JycpIHsKICAgICAgICAgICAgLy8gICAgICRob3VzZVJlcG9ydFsn6rCR6rWsIOq3vOyggOuLueq2jCddID0gJGRiX2FzZWN1IC4gJywwLzAnOwogICAgICAgICAgICAvLyB9ZWxzZSB7CiAgICAgICAgICAgIC8vICAgICAkaG91c2VSZXBvcnRbJ+qwkeq1rCDqt7zsoIDri7nqtownXSA9ICfsl4bsnYwvMCwwLzAnOwogICAgICAgICAgICAvLyB9CiAgICAgICAgICAgIC8vIGlmKCFlbXB0eSgkZGJfYWxlYXNlKSYmJGRiX2FsZWFzZSE9JycpewogICAgICAgICAgICAvLyAgICAgJGhvdXNlUmVwb3J0WyfqsJHqtawg7J6E7LCo6raMJ10gPSAkZGJfYWxlYXNlLicsMC8wJzsKICAgICAgICAgICAgLy8gfSBlbHNlewogICAgICAgICAgICAvLyAgICAgJGhvdXNlUmVwb3J0WyfqsJHqtawg7J6E7LCo6raMJ10gPSAn7JeG7J2MLzAsMC8wJzsKICAgICAgICAgICAgLy8gfQogICAgICAgICAgICAvLyBpZighZW1wdHkoJGRiX2FjaGVvbikmJiRkYl9hY2hlb24hPScnKXsKICAgICAgICAgICAgLy8gICAgICRob3VzZVJlcG9ydFsn6rCR6rWsIOyghOyEuOq2jCddID0gJGRiX2FjaGVvbi4nLDAvMCc7CiAgICAgICAgICAgIC8vIH0gZWxzZSB7CiAgICAgICAgICAgIC8vICAgICAkaG91c2VSZXBvcnRbJ+qwkeq1rCDsoITshLjqtownXSA9ICfsl4bsnYwvMCwwLzAnOwogICAgICAgICAgICAvLyB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBtZWRpYSBtYXgtd2lkdGgoNDgwcHgK</text>
+        <text encoding="base64">ICAgICkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIEBtZWRpYSBtYXgtd2lkdGgoNDgwcHgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAuaG91c2UtZGV0YWlsIC5kZXRhaWwgLmRldGFpbC10YWJsZSAudmFsdWUgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAuaG91c2UtZGV0YWlsIC5kZXRhaWwgLmRldGFpbC10YWJsZSAudmFsdWUgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQGlmICgkcHApCiAgICAgICAgICAgICAgICDsp4HqsbDrnpgKICAgICAgICAgICAgQGVsc2UKICAgICAgICAgICAgICAgIOykkeqwnAogICAgICAgICAgICBAZW5kaWYK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>무료등기부</last-search>
+      <last-search>-contents</last-search>
       <last-offset />
-      <last-pattern>무료등기부</last-pattern>
+      <last-pattern>-contents</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2207,9 +2208,6 @@
     </search>
     <history>
       <history-search>
-        <entry>price</entry>
-        <entry>=''</entry>
-        <entry>= ''</entry>
         <entry encoding="base64">XDxsZWZ0Sm9pblw+</entry>
         <entry>connect</entry>
         <entry encoding="base64">XDxsb2NhbFByaWNlXD4=</entry>
@@ -2223,10 +2221,13 @@
         <entry>style</entry>
         <entry>safe-</entry>
         <entry>safe</entry>
-        <entry>content</entry>
         <entry>for app</entry>
         <entry>safety-service-apply</entry>
         <entry>무료등기부</entry>
+        <entry>connect-app</entry>
+        <entry>safety-service-contents-app</entry>
+        <entry>content</entry>
+        <entry>-contents</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
