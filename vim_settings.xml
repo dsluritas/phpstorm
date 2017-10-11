@@ -293,6 +293,12 @@
         <mark key="^" line="216" column="10" />
         <mark key="." line="216" column="18" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" timestamp="1507708984297">
+        <mark key="[" line="1340" column="48" />
+        <mark key="]" line="1340" column="53" />
+        <mark key="^" line="1340" column="53" />
+        <mark key="." line="1340" column="53" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/sideZero.blade.php" timestamp="1500536905967">
         <mark key="[" line="17" column="149" />
         <mark key="]" line="17" column="148" />
@@ -323,6 +329,12 @@
         <mark key="]" line="13" column="26" />
         <mark key="." line="13" column="26" />
         <mark key="^" line="13" column="26" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/agency.blade.php" timestamp="1507635090592">
+        <mark key="[" line="29" column="29" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1507635742535">
         <mark key="'" line="212" column="59" />
@@ -476,7 +488,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507706941977">
+      <file name="/Dummy.txt" timestamp="1507708809536">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -650,8 +662,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZChcR3V6emxlSHR0cFxqc29uX2RlY29kZSgkcmVzcG9uc2UtPmdldEJvZHkoKS0+Z2V0Q29udGVudHMoKSkpOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2193,7 +2205,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text encoding="base64">cmVzcG9uc2UtPmdldEJvZHkoKQ==</text>
       </register>
       <register name="/" type="4">
         <text>.m-house-badge, .how-sale</text>
@@ -2202,31 +2214,31 @@
         <text encoding="base64">REJfQ09OTkVDVElPTj1teXNxbApEQl9IT1NUPWxvY2FsaG9zdApEQl9QT1JUPTMzMDYKREJfREFUQUJBU0U9ZHVra3ViaV9yZWFsCkRCX1VTRVJOQU1FPXJvb3QKREJfUEFTU1dPUkQ9cGFzc3dvcmQKCiMgREJfSE9TVD0yMTguMzguMTIxLjExNwojIERCX1BPUlQ9MzMwNgojIERCX0RBVEFCQVNFPXBldGVycGFuegojIERCX1VTRVJOQU1FPWRldgojIERCX1BBU1NXT1JEPWVuUmpxbHRwdGtkfn4KCgojIE9MRF9EQl9IT1NUPTIxMS4yNDkuNDkuMTE2CiMgT0xEX0RCX0RBVEFCQVNFPWR1a2t1YmFkCiMgT0xEX0RCX1VTRVJOQU1FPWR1a2t1YmEKIyBPTERfREJfUEFTU1dPUkQ9MSFkdWtrdWJhCgpPTERfREJfSE9TVD1sb2NhbGhvc3QKT0xEX0RCX0RBVEFCQVNFPWFnZW5jeV9yZW5ld2FsCk9MRF9EQl9VU0VSTkFNRT1yb290Ck9MRF9EQl9QQVNTV09SRD1wYXNzd29yZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChcR3V6emxlSHR0cFxqc29uX2RlY29kZSgkcmVzcG9uc2UtPmdldEJvZHkoKS0+Z2V0Q29udGVudHMoKSkpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QklaTElOS19VUkw9aHR0cDovLzIxMC4xMDkuMTA4LjEzMjo4MDg3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VOVFJZX0RTTj1odHRwczovLzQxNzI5Nzc3OWMzZTQyODI4MDFlODQ5ODhjMDZjY2M4OmMxZDgyYTYwYmUzZTQyYzk4ZjU3ZmQyYjFkOGRmMjVlQHNlbnRyeS5kdWtrdWJpc2VzYW5nLmNvLmtyLzMK</text>
+        <text encoding="base64">QklaTElOS19VUkw9aHR0cDovLzIxMC4xMDkuMTA4LjEzMjo4MDg3Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VOVFJZX0RTTj1odHRwczovLzQxNzI5Nzc3OWMzZTQyODI4MDFlODQ5ODhjMDZjY2M4OmMxZDgyYTYwYmUzZTQyYzk4ZjU3ZmQyYjFkOGRmMjVlQHNlbnRyeS5kdWtrdWJpc2VzYW5nLmNvLmtyLzMK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHBwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHVpZHgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHBwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGhvdXNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHVpZHgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
