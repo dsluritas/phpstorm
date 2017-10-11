@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/normal_contact_modal.blade.php" timestamp="1507712370954">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/naverApt.blade.php" timestamp="1503902934123">
         <mark key="[" line="39" column="65" />
         <mark key="]" line="39" column="72" />
@@ -113,11 +116,12 @@
         <mark key="^" line="40" column="6" />
         <mark key="." line="40" column="6" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" timestamp="1505305953314">
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" timestamp="1507712020522">
         <mark key="'" line="720" column="0" />
-        <mark key="[" line="389" column="0" />
-        <mark key="]" line="389" column="24" />
-        <mark key="." line="389" column="24" />
+        <mark key="[" line="565" column="53" />
+        <mark key="]" line="565" column="56" />
+        <mark key="." line="565" column="56" />
+        <mark key="^" line="565" column="56" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-complete.php" timestamp="1506244806563">
         <mark key="[" line="14" column="0" />
@@ -363,6 +367,13 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="45" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/zero_membership.blade.php" timestamp="1507711470747">
+        <mark key="'" line="298" column="17" />
+        <mark key="[" line="235" column="54" />
+        <mark key="]" line="235" column="65" />
+        <mark key="." line="235" column="65" />
+        <mark key="^" line="235" column="65" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Helpers/Helper.php" timestamp="1505222668285">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="989" column="0" />
@@ -390,11 +401,9 @@
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" timestamp="1506337722677">
         <mark key="'" line="458" column="28" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/mContactInfo.blade.php" timestamp="1507707377151">
-        <mark key="'" line="302" column="24" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/mContactInfo.blade.php" timestamp="1507711831363">
         <mark key="[" line="211" column="24" />
         <mark key="]" line="211" column="25" />
-        <mark key="^" line="211" column="27" />
         <mark key="." line="211" column="25" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_home.blade.php" timestamp="1500013621778">
@@ -488,7 +497,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507708809536">
+      <file name="/Dummy.txt" timestamp="1507712365331">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -542,23 +551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1547" column="16" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/bundle.js" />
-      <jump line="558" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
-      <jump line="29" column="8" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Dong.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/MarketPrice.php" />
-      <jump line="593" column="12" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
-      <jump line="568" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
-      <jump line="752" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
-      <jump line="566" column="15" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
-      <jump line="726" column="18" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
-      <jump line="491" column="14" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
-      <jump line="559" column="16" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
-      <jump line="168" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="378" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="83" column="32" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="324" column="12" filename="$USER_HOME$/git/ptp/duseAPI/app/HouseSale.php" />
-      <jump line="52" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
-      <jump line="154" column="21" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
       <jump line="176" column="21" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
       <jump line="189" column="21" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
       <jump line="199" column="21" filename="$USER_HOME$/git/ptp/duseAPI/app/LocalPrice.php" />
@@ -642,6 +634,23 @@
       <jump line="72" column="6" filename="$USER_HOME$/git/ptp/peterWEB/public/css/mobile.css" />
       <jump line="100" column="8" filename="$USER_HOME$/git/ptp/peterWEB/public/css/mobile.css" />
       <jump line="301" column="24" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/mContactInfo.blade.php" />
+      <jump line="296" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/zero_membership.blade.php" />
+      <jump line="223" column="31" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/zero_membership.blade.php" />
+      <jump line="227" column="31" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/zero_membership.blade.php" />
+      <jump line="231" column="31" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/zero_membership.blade.php" />
+      <jump line="235" column="31" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/zero_membership.blade.php" />
+      <jump line="239" column="31" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/zero_membership.blade.php" />
+      <jump line="243" column="31" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/zero_membership.blade.php" />
+      <jump line="247" column="31" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/zero_membership.blade.php" />
+      <jump line="251" column="31" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/zero_membership.blade.php" />
+      <jump line="269" column="39" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/zero_membership.blade.php" />
+      <jump line="277" column="42" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/zero_membership.blade.php" />
+      <jump line="286" column="38" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/zero_membership.blade.php" />
+      <jump line="320" column="46" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/zero_membership.blade.php" />
+      <jump line="306" column="45" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/zero_membership.blade.php" />
+      <jump line="234" column="13" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/zero_membership.blade.php" />
+      <jump line="298" column="17" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/zero_membership.blade.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/normal_contact_modal.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -662,8 +671,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZChcR3V6emxlSHR0cFxqc29uX2RlY29kZSgkcmVzcG9uc2UtPmdldEJvZHkoKS0+Z2V0Q29udGVudHMoKSkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>number</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2205,49 +2214,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVzcG9uc2UtPmdldEJvZHkoKQ==</text>
+        <text>number</text>
       </register>
       <register name="/" type="4">
-        <text>.m-house-badge, .how-sale</text>
+        <text>mobile_phone</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">REJfQ09OTkVDVElPTj1teXNxbApEQl9IT1NUPWxvY2FsaG9zdApEQl9QT1JUPTMzMDYKREJfREFUQUJBU0U9ZHVra3ViaV9yZWFsCkRCX1VTRVJOQU1FPXJvb3QKREJfUEFTU1dPUkQ9cGFzc3dvcmQKCiMgREJfSE9TVD0yMTguMzguMTIxLjExNwojIERCX1BPUlQ9MzMwNgojIERCX0RBVEFCQVNFPXBldGVycGFuegojIERCX1VTRVJOQU1FPWRldgojIERCX1BBU1NXT1JEPWVuUmpxbHRwdGtkfn4KCgojIE9MRF9EQl9IT1NUPTIxMS4yNDkuNDkuMTE2CiMgT0xEX0RCX0RBVEFCQVNFPWR1a2t1YmFkCiMgT0xEX0RCX1VTRVJOQU1FPWR1a2t1YmEKIyBPTERfREJfUEFTU1dPUkQ9MSFkdWtrdWJhCgpPTERfREJfSE9TVD1sb2NhbGhvc3QKT0xEX0RCX0RBVEFCQVNFPWFnZW5jeV9yZW5ld2FsCk9MRF9EQl9VU0VSTkFNRT1yb290Ck9MRF9EQl9QQVNTV09SRD1wYXNzd29yZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZChcR3V6emxlSHR0cFxqc29uX2RlY29kZSgkcmVzcG9uc2UtPmdldEJvZHkoKS0+Z2V0Q29udGVudHMoKSkpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QklaTElOS19VUkw9aHR0cDovLzIxMC4xMDkuMTA4LjEzMjo4MDg3Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChcR3V6emxlSHR0cFxqc29uX2RlY29kZSgkcmVzcG9uc2UtPmdldEJvZHkoKS0+Z2V0Q29udGVudHMoKSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VOVFJZX0RTTj1odHRwczovLzQxNzI5Nzc3OWMzZTQyODI4MDFlODQ5ODhjMDZjY2M4OmMxZDgyYTYwYmUzZTQyYzk4ZjU3ZmQyYjFkOGRmMjVlQHNlbnRyeS5kdWtrdWJpc2VzYW5nLmNvLmtyLzMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QklaTElOS19VUkw9aHR0cDovLzIxMC4xMDkuMTA4LjEzMjo4MDg3Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHBwKTsK</text>
+        <text encoding="base64">U0VOVFJZX0RTTj1odHRwczovLzQxNzI5Nzc3OWMzZTQyODI4MDFlODQ5ODhjMDZjY2M4OmMxZDgyYTYwYmUzZTQyYzk4ZjU3ZmQyYjFkOGRmMjVlQHNlbnRyeS5kdWtrdWJpc2VzYW5nLmNvLmtyLzMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHVpZHgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>.m-house-badge, .how-sale</last-search>
+      <last-search>mobile_phone</last-search>
       <last-offset />
-      <last-pattern>.m-house-badge, .how-sale</last-pattern>
+      <last-pattern>mobile_phone</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2255,9 +2264,6 @@
     </search>
     <history>
       <history-search>
-        <entry>무료등기부</entry>
-        <entry>connect-app</entry>
-        <entry>safety-service-contents-app</entry>
         <entry>content</entry>
         <entry>-contents</entry>
         <entry>user_type == 'agent</entry>
@@ -2275,6 +2281,9 @@
         <entry>m-</entry>
         <entry>m-container</entry>
         <entry>.m-house-badge, .how-sale</entry>
+        <entry>images</entry>
+        <entry>howto-zero-img</entry>
+        <entry>mobile_phone</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
