@@ -80,9 +80,9 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/.env" timestamp="1505388053448">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="65" column="50" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/.env" timestamp="1507706086056">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="24" />
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
       </file>
@@ -157,12 +157,12 @@
         <mark key="." line="553" column="11" />
         <mark key="^" line="553" column="11" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1506674124278">
+      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1507706090689">
         <mark key="'" line="52" column="0" />
-        <mark key="[" line="67" column="15" />
-        <mark key="]" line="67" column="13" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
         <mark key="^" line="67" column="13" />
-        <mark key="." line="67" column="13" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/House/HouseAdvertiseController.php" timestamp="1507641069039">
         <mark key="[" line="317" column="0" />
@@ -665,7 +665,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHRoaXMtPmZpbmFsTW9kZWwtPnRvU3FsKCkpOwo=</text>
+        <text encoding="base64">REJfREFUQUJBU0U9ZHVra3ViaV9yZWFsCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2213,31 +2213,31 @@
         <text encoding="base64">XDxmaW5hbE1vZGVsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgkdmFsdWVbJ2tleSddID09PSAnaXNfaGFsZl91bmRlcmdyb3VuZCcgJiYgJHZhbHVlWyd2YWx1ZSddID09PSAnMScpIHsK</text>
+        <text encoding="base64">REJfREFUQUJBU0U9ZHVra3ViaV9yZWFsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHRoaXMtPmZpbmFsTW9kZWwtPnRvU3FsKCkpOwo=</text>
+        <text encoding="base64">REJfREFUQUJBU0U9ZHVra3ViaV9yZWFsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHRoaXMtPmZpbmFsTW9kZWwtPnRvU3FsKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g67CY7KeA7ZWYLCDsmKXtg5Eg64+Z7IucIOyEoO2DnSDrrLjsoJwg65WM66y47JeQIO2VmOuTnOy9lOuUqeycvOuhnCDrsJXsnYwKICAgICAgICAgICAgaWYgKCRvckNudCA9PT0gMikgewogICAgICAgICAgICAgICAgJHRoaXMtPmZpbmFsTW9kZWwgPSAkdGhpcy0+ZmluYWxNb2RlbC0+d2hlcmUoZnVuY3Rpb24gKCRxdWVyeSkgdXNlICgkdmFsdWUpIHsKICAgICAgICAgICAgICAgICAgICAkcXVlcnktPm9yV2hlcmUoJ2lzX2hhbGZfdW5kZXJncm91bmQnLCAnPScsIDEpOwogICAgICAgICAgICAgICAgICAgICRxdWVyeS0+b3JXaGVyZSgnaXNfb2N0b3AnLCAnPScsIDEpOwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZGQoJHRoaXMtPmZpbmFsTW9kZWwtPnRvU3FsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g67CY7KeA7ZWYLCDsmKXtg5Eg64+Z7IucIOyEoO2DnSDrrLjsoJwg65WM66y47JeQIO2VmOuTnOy9lOuUqeycvOuhnCDrsJXsnYwKICAgICAgICAgICAgaWYgKCRvckNudCA9PT0gMikgewogICAgICAgICAgICAgICAgJHRoaXMtPmZpbmFsTW9kZWwgPSAkdGhpcy0+ZmluYWxNb2RlbC0+d2hlcmUoZnVuY3Rpb24gKCRxdWVyeSkgdXNlICgkdmFsdWUpIHsKICAgICAgICAgICAgICAgICAgICAkcXVlcnktPm9yV2hlcmUoJ2lzX2hhbGZfdW5kZXJncm91bmQnLCAnPScsIDEpOwogICAgICAgICAgICAgICAgICAgICRxdWVyeS0+b3JXaGVyZSgnaXNfb2N0b3AnLCAnPScsIDEpOwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZGQoJHRoaXMtPmZpbmFsTW9kZWwtPnRvU3FsKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoJG9yQ250ID09PSAyICYmICgkdmFsdWVbJ2tleSddID09PSAnaXNfb2N0b3AnIHx8ICR2YWx1ZVsna2V5J10gPT09ICdpc19oYWxmX3VuZGVyZ3JvdW5kJykpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGlzSGFsZiA9IDA7CiAgICAgICAgICAgIGZvcmVhY2ggKCR0aGlzLT5maWx0ZXJRdWVyeSBhcyAka2V5ID0+ICR2YWx1ZSkgewogICAgICAgICAgICAgICAgaWYgKCR2YWx1ZVsna2V5J10gPT09ICdpc19oYWxmX3VuZGVyZ3JvdW5kJyAmJiAkdmFsdWVbJ3ZhbHVlJ10gPT09ICcxJykge30gfHwgJHZhbHVlWydrZXknXSA9PT0gJ2lzX29jdG9wJykgewogICAgICAgICAgICAgICAgICAgIGlmICgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgJG9yQ250Kys7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoJG9yQ250ID09PSAyICYmICgkdmFsdWVbJ2tleSddID09PSAnaXNfb2N0b3AnIHx8ICR2YWx1ZVsna2V5J10gPT09ICdpc19oYWxmX3VuZGVyZ3JvdW5kJykpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZmluYWxNb2RlbC0+dG9TcWwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGlzSGFsZiA9IDA7CiAgICAgICAgICAgIGZvcmVhY2ggKCR0aGlzLT5maWx0ZXJRdWVyeSBhcyAka2V5ID0+ICR2YWx1ZSkgewogICAgICAgICAgICAgICAgaWYgKCR2YWx1ZVsna2V5J10gPT09ICdpc19oYWxmX3VuZGVyZ3JvdW5kJyAmJiAkdmFsdWVbJ3ZhbHVlJ10gPT09ICcxJykge30gfHwgJHZhbHVlWydrZXknXSA9PT0gJ2lzX29jdG9wJykgewogICAgICAgICAgICAgICAgICAgIGlmICgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgJG9yQ250Kys7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZmluYWxNb2RlbC0+dG9TcWwoKSk7Cg==</text>
