@@ -222,6 +222,12 @@
       <file name="$USER_HOME$/git/ptp/duseAPI/database/seeds/CodeBookTableSeeder.php" timestamp="1504851924558">
         <mark key="'" line="17" column="24" />
       </file>
+      <file name="$USER_HOME$/luritas/point/.env" timestamp="1507946400260">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="19" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/RealEstateFacility.php" timestamp="1505314347377">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="8" column="36" />
@@ -638,8 +644,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZWNobyAnPHByZT4nOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2181,7 +2187,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eyRob3VzZS0+bG9uZ2l0dWRlfQ==</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>inner</text>
