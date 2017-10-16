@@ -68,6 +68,13 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/.env" timestamp="1508154087479">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="87" column="43" />
+        <mark key="." line="85" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/header.blade.php" timestamp="1500009932917">
         <mark key="[" line="36" column="73" />
         <mark key="]" line="36" column="76" />
@@ -478,11 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="80" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
-      <jump line="133" column="40" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
-      <jump line="268" column="7" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
-      <jump line="14" column="26" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
-      <jump line="153" column="16" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
       <jump line="15" column="8" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
       <jump line="138" column="16" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
       <jump line="241" column="51" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
@@ -578,6 +580,11 @@
       <jump line="227" column="19" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
       <jump line="301" column="25" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
       <jump line="869" column="55" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="82" column="27" filename="$USER_HOME$/git/ptp/duseAPI/.env" />
+      <jump line="40" column="0" filename="$USER_HOME$/git/ptp/duseAPI/.env" />
+      <jump line="41" column="0" filename="$USER_HOME$/git/ptp/duseAPI/.env" />
+      <jump line="42" column="0" filename="$USER_HOME$/git/ptp/duseAPI/.env" />
+      <jump line="43" column="0" filename="$USER_HOME$/git/ptp/duseAPI/.env" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2143,7 +2150,7 @@
         <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>upload</text>
+        <text>MAIL</text>
       </register>
       <register name="0" type="4">
         <text>this_front more_document left_plus_obj</text>
@@ -2180,9 +2187,9 @@
       </register>
     </registers>
     <search>
-      <last-search>upload</last-search>
+      <last-search>MAIL</last-search>
       <last-offset />
-      <last-pattern>upload</last-pattern>
+      <last-pattern>MAIL</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2190,7 +2197,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRyZXNzXD4=</entry>
         <entry>남</entry>
         <entry>비밀번호</entry>
         <entry>middl</entry>
@@ -2210,6 +2216,7 @@
         <entry encoding="base64">XDxsZWZ0X3BsdXNfb2JqXD4=</entry>
         <entry>this_front more_document left_plus_obj</entry>
         <entry>upload</entry>
+        <entry>MAIL</entry>
       </history-search>
       <history-cmd>
         <entry>226</entry>
