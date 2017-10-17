@@ -71,6 +71,12 @@
         <mark key="." line="17" column="75" />
         <mark key="^" line="17" column="75" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" timestamp="1508208170161">
+        <mark key="[" line="66" column="89" />
+        <mark key="]" line="66" column="122" />
+        <mark key="^" line="66" column="122" />
+        <mark key="." line="66" column="122" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Dong.php" timestamp="1506394006253">
         <mark key="'" line="29" column="8" />
         <mark key="[" line="9" column="0" />
@@ -158,6 +164,7 @@
         <mark key="[" line="1209" column="0" />
         <mark key="]" line="1209" column="49" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/use_of_terms.blade.php" timestamp="1508205355162" />
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/RealEstateImg.php" timestamp="1505311226095">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="12" column="65" />
@@ -227,8 +234,8 @@
         <mark key="." line="35" column="31" />
         <mark key="^" line="35" column="31" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1507702460122">
-        <mark key="'" line="81" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1508205487237">
+        <mark key="'" line="479" column="13" />
         <mark key="[" line="714" column="32" />
         <mark key="]" line="714" column="32" />
         <mark key="." line="714" column="32" />
@@ -281,11 +288,6 @@
         <mark key="]" line="8" column="36" />
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
-      </file>
-      <file name="$USER_HOME$/luritas/point/resources/views/layouts/app-example.blade.php" timestamp="1508055093108">
-        <mark key="]" line="271" column="7" />
-        <mark key="^" line="271" column="7" />
-        <mark key="." line="271" column="7" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/Map/MarkerCluster.vue" timestamp="1503480813210">
         <mark key="[" line="117" column="51" />
@@ -386,10 +388,12 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1508136950316">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1508207087703">
+        <mark key="'" line="654" column="44" />
+        <mark key="[" line="659" column="2" />
+        <mark key="]" line="660" column="32" />
+        <mark key="." line="660" column="32" />
+        <mark key="^" line="660" column="32" />
       </file>
       <file name="$USER_HOME$/luritas/point/config/app.php" timestamp="1507981938511">
         <mark key="'" line="23" column="22" />
@@ -463,6 +467,9 @@
         <mark key="]" line="228" column="11" />
         <mark key="^" line="228" column="11" />
         <mark key="." line="228" column="11" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/public/js/plugins/bootstrap-table/docs/_includes/header.html" timestamp="1508205866767">
+        <mark key="'" line="15" column="21" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/naverOfficetel.blade.php" timestamp="1503903011056">
         <mark key="[" line="43" column="65" />
@@ -562,7 +569,7 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/vendor/nesbot/carbon/src/Carbon/Carbon.php" timestamp="1505218750954">
         <mark key="'" line="2951" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508137070189">
+      <file name="/Dummy.txt" timestamp="1508205895616">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -641,28 +648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="38" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
-      <jump line="25" column="21" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
-      <jump line="179" column="0" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
-      <jump line="20" column="0" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
-      <jump line="141" column="51" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
-      <jump line="13" column="31" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
-      <jump line="231" column="89" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
-      <jump line="237" column="70" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
-      <jump line="5" column="54" filename="$USER_HOME$/luritas/point/resources/views/partials/footer/daum-address.blade.php" />
-      <jump line="82" column="0" filename="$USER_HOME$/luritas/point/resources/views/partials/footer/daum-address.blade.php" />
-      <jump line="8" column="12" filename="$USER_HOME$/luritas/point/resources/views/partials/footer/daum-address.blade.php" />
-      <jump line="9" column="8" filename="$USER_HOME$/luritas/point/resources/views/partials/footer/daum-address.blade.php" />
-      <jump line="15" column="12" filename="$USER_HOME$/luritas/point/resources/views/partials/footer/daum-address.blade.php" />
-      <jump line="46" column="16" filename="$USER_HOME$/luritas/point/resources/views/partials/footer/daum-address.blade.php" />
-      <jump line="57" column="16" filename="$USER_HOME$/luritas/point/resources/views/partials/footer/daum-address.blade.php" />
-      <jump line="61" column="17" filename="$USER_HOME$/luritas/point/resources/views/partials/footer/daum-address.blade.php" />
-      <jump line="70" column="9" filename="$USER_HOME$/luritas/point/resources/views/partials/footer/daum-address.blade.php" />
-      <jump line="33" column="36" filename="$USER_HOME$/luritas/point/resources/views/partials/footer/daum-address.blade.php" />
-      <jump line="19" column="52" filename="$USER_HOME$/luritas/point/resources/views/partials/footer/daum-address.blade.php" />
-      <jump line="6" column="21" filename="$USER_HOME$/luritas/point/resources/views/partials/footer/daum-address.blade.php" />
-      <jump line="80" column="47" filename="$USER_HOME$/luritas/point/resources/views/partials/footer/daum-address.blade.php" />
-      <jump line="84" column="0" filename="$USER_HOME$/luritas/point/resources/views/partials/footer/daum-address.blade.php" />
       <jump line="232" column="86" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
       <jump line="52" column="53" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
       <jump line="23" column="22" filename="$USER_HOME$/luritas/point/config/app.php" />
@@ -741,6 +726,28 @@
       <jump line="22" column="15" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/updateSelf.php" />
       <jump line="136" column="8" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
       <jump line="156" column="2" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
+      <jump line="722" column="19" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="35" column="19" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="76" column="50" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="122" column="22" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="139" column="22" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="158" column="38" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="162" column="38" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="166" column="38" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="170" column="38" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="174" column="38" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="175" column="47" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="616" column="60" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="670" column="13" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="704" column="23" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="701" column="23" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="700" column="23" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="696" column="46" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="684" column="36" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="479" column="13" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="15" column="21" filename="$USER_HOME$/git/ptp/peterWEB/public/js/plugins/bootstrap-table/docs/_includes/header.html" />
+      <jump line="469" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="654" column="44" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -761,7 +768,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>이용약관</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2303,57 +2310,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>이용약관</text>
       </register>
       <register name="/" type="4">
-        <text>price</text>
+        <text>og</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkbGFzdE1vbnRoID0gQ2FyYm9uOjpub3coKS0+c3RhcnRPZk1vbnRoKCktPnN1Yk1vbnRoKDIpLT5mb3JtYXQoJ1ktbS1kJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICDtlLzthLDtjKzsnZgg7KKL7J2A67CpIOq1rO2VmOq4sCDsnbTsmqnslb3qtIAg7KCE66y4IDxhIGhyZWY9IiI+PHNtYWxsPuyghOusuOuztOq4sDwvc21hbGw+PC9hPgogICAgICAgICAgICAgICAgPC9saT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJpY2VzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGg0PjxzdHJvbmc+7KO87JqUIOuzgOqyveyCrO2VrTwvc3Ryb25nPjwvaDQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGg0PjxzdHJvbmc+7KO87JqUIOuzgOqyveyCrO2VrTwvc3Ryb25nPjwvaDQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJpY2VzKTsK</text>
+        <text encoding="base64">ICAgIDxuYXYgY2xhc3M9Im5hdmJhciBuYXZiYXItZGVmYXVsdCI+CiAgICAgICAgPGRpdiBjbGFzcz0iY29udGFpbmVyLWZsdWlkIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0ibmF2YmFyLWhlYWRlciI+CiAgICAgICAgICAgICAgICA8YSBjbGFzcz0ibmF2YmFyLWJyYW5kIiBocmVmPSJ7eyB1cmwoJy8nKSB9fSIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICAgICAgICAgIDxpbWcgYWx0PSJCcmFuZCIgc3JjPSJ7eyBhc3NldCgnL2ltYWdlcy9oZWFkZXIvYnJhbmRfbG9nby5wbmcnKSB9fSI+CiAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgPC9uYXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdHlwZSk7Cg==</text>
+        <text encoding="base64">PG5hdiBjbGFzcz0ibmF2YmFyIG5hdmJhci1kZWZhdWx0Ij4KICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lci1mbHVpZCI+CiAgICAgICAgPGRpdiBjbGFzcz0ibmF2YmFyLWhlYWRlciI+CiAgICAgICAgICAgIDxhIGNsYXNzPSJuYXZiYXItYnJhbmQiIGhyZWY9Int7IHVybCgnLycpIH19IiB0YXJnZXQ9Il9ibGFuayI+CiAgICAgICAgICAgICAgICA8aW1nIGFsdD0iQnJhbmQiIHNyYz0ie3sgYXNzZXQoJy9pbWFnZXMvaGVhZGVyL2JyYW5kX2xvZ28ucG5nJykgfX0iPgogICAgICAgICAgICA8L2E+CiAgICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KPC9uYXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLWxlZnQ6IC0xNTBweDsK</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyLWZsdWlkIj4KCjwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9wOiAgMTVweDsK</text>
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IgogICAgICAgICAgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCB1c2VyLXNjYWxhYmxlPW5vLCBpbml0aWFsLXNjYWxlPTEuMCwgbWF4aW11bS1zY2FsZT0xLjAsIG1pbmltdW0tc2NhbGU9MS4wIj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVmdDogNTAlOwo=</text>
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MSI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDgwJTsK</text>
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MSI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>24</text>
       </register>
     </registers>
     <search>
-      <last-search>price</last-search>
+      <last-search>og</last-search>
       <last-offset />
-      <last-pattern>price</last-pattern>
+      <last-pattern>og</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDx0aW1lc3RhbXBcPg==</last-substitute>
+      <last-substitute>og</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>비밀번호</entry>
         <entry>middl</entry>
         <entry>middle</entry>
         <entry>guest</entry>
@@ -2373,6 +2379,7 @@
         <entry>upload</entry>
         <entry>MAIL</entry>
         <entry>price</entry>
+        <entry>og</entry>
       </history-search>
       <history-cmd>
         <entry>226</entry>
