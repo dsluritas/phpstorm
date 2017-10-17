@@ -71,11 +71,12 @@
         <mark key="." line="17" column="75" />
         <mark key="^" line="17" column="75" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" timestamp="1508211328977">
-        <mark key="[" line="28" column="108" />
-        <mark key="]" line="28" column="108" />
-        <mark key="." line="28" column="108" />
-        <mark key="^" line="28" column="113" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" timestamp="1508217752061">
+        <mark key="'" line="72" column="46" />
+        <mark key="[" line="38" column="34" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="73" column="46" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Dong.php" timestamp="1506394006253">
         <mark key="'" line="29" column="8" />
@@ -266,6 +267,13 @@
         <mark key="]" line="9" column="12" />
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="12" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/public/contents/20171017_notice.html" timestamp="1508215300278">
+        <mark key="'" line="0" column="89188" />
+        <mark key="[" line="0" column="102" />
+        <mark key="]" line="0" column="116" />
+        <mark key="^" line="0" column="116" />
+        <mark key="." line="0" column="116" />
       </file>
       <file name="$USER_HOME$/luritas/point/resources/views/partials/footer/daum-address.blade.php" timestamp="1508054523881">
         <mark key="'" line="52" column="48" />
@@ -648,16 +656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="86" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
-      <jump line="52" column="53" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
-      <jump line="23" column="22" filename="$USER_HOME$/luritas/point/config/app.php" />
-      <jump line="10" column="0" filename="$USER_HOME$/luritas/point/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php" />
-      <jump line="72" column="10" filename="$USER_HOME$/luritas/point/app/Http/Controllers/Auth/RegisterController.php" />
-      <jump line="166" column="80" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
-      <jump line="178" column="40" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
-      <jump line="182" column="64" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
-      <jump line="198" column="40" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
-      <jump line="203" column="82" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
       <jump line="212" column="40" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
       <jump line="31" column="24" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
       <jump line="33" column="24" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
@@ -748,6 +746,16 @@
       <jump line="15" column="21" filename="$USER_HOME$/git/ptp/peterWEB/public/js/plugins/bootstrap-table/docs/_includes/header.html" />
       <jump line="469" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="654" column="44" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="0" column="89188" filename="$USER_HOME$/git/ptp/peterWEB/public/contents/20171017_notice.html" />
+      <jump line="33" column="6" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" />
+      <jump line="31" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" />
+      <jump line="54" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" />
+      <jump line="56" column="37" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" />
+      <jump line="24" column="12" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" />
+      <jump line="84" column="45" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" />
+      <jump line="59" column="24" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" />
+      <jump line="20" column="28" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" />
+      <jump line="73" column="46" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -767,8 +775,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2310,49 +2318,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">PGEgaHJlZj0iIyI+</text>
       </register>
       <register name="/" type="4">
-        <text>og</text>
+        <text>facebook</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICDtlLzthLDtjKzsnZgg7KKL7J2A67CpIOq1rO2VmOq4sCDsnbTsmqnslb3qtIAg7KCE66y4IDxhIGhyZWY9IiI+PHNtYWxsPuyghOusuOuztOq4sDwvc21hbGw+PC9hPgogICAgICAgICAgICAgICAgPC9saT4K</text>
+      <register name="0" type="4">
+        <text>1px solid #eee;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGgxPu2UvO2EsO2MrOydmCDsoovsnYDrsKkg6rWs7ZWY6riwIOqwnOyduOygleuztOy3qOq4ieuwqey5qCDrs4Dqsr0g7JWI64K0PC9oMT4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMTIiPgogICAgICAgICAgICA8cD48c3Ryb25nPiZsdO2UvO2EsO2MrOydmCDsoovsnYDrsKkg6rWs7ZWY6riwJmd0PC9zdHJvbmc+66W8IOyVhOq7tOyjvOyLnOuKlCDtmozsm5Dri5jqu5gg6rCQ7IKs7J2YIOunkOyUgOydhCDrk5zrpr3ri4jri6QuPC9wPgogICAgICAgICAgICA8cD7tmozsm5Dri5jrk6TsnZgg7KKAIOuNlCDslYjsoITtlZjqs6Ag7Y6466as7ZWcIOyEnOu5hOyKpCDsnbTsmqnsnYQg7JyE7ZW0PC9wPgogICAgICAgICAgICA8cD4yMDE364WEIDEw7JuUIDEw7J287J6Q66GcIO2UvO2EsO2MrOydmCDsoovsnYDrsKkg6rWs7ZWY6riwIOqwnOyduOygleuztOy3qOq4ieuwqey5qOqzvCDsnbTsmqnslb3qtIDsl5Ag7JWE656Y7JmAIOqwmeydtCDrs4Dqsr3rkKjsnYQg7JWM66Ck65Oc66a964uI64ukLjwvcD4KICAgICAgICA8L2Rpdj4KICAgICAgICA8aHI+CiAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTEyIj4KICAgICAgICAgICAgPGg0PjxzdHJvbmc+7KO87JqUIOuzgOqyveyCrO2VrTwvc3Ryb25nPjwvaDQ+CiAgICAgICAgICAgIDx1bD4KICAgICAgICAgICAgICAgIDxsaT7snbTsmqnslb3qtIA8L2xpPgogICAgICAgICAgICAgICAgPGxpPuqwnOyduOygleuztCDst6jquInrsKnsuagKICAgICAgICAgICAgICAgICAgICA8dWw+PGxpPuqwnOyduOygleuztCDsiJjsp5HrsKnrspUg67CPIO2VreuqqSDstpTqsIAgLyDqsJzsnbjsoJXrs7Qg7JyE7YOB7JeF7LK07J2YIOuzgOqyvSDrsI8g7LaU6rCAPC9saT48L3VsPgogICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgPC91bD4KICAgICAgICA8L2Rpdj4KICAgICAgICA8aHI+CiAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTEyIj4KCiAgICAgICAgICAgIOuzgOqyvSDrgrTsmqkKICAgICAgICA8L2Rpdj4KICAgICAgICA8aHI+CiAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTEyIj4KICAgICAgICAgICAgPHA+KuuzuCDslb3qtIAg67OA6rK9IOyViOuCtO2bhCDsi5ztlonsnbwoMjAxN+uFhCAxMOyblCAxN+ydvOq5jOyngCDrs4Trj4TsnZgg7J207J2Y7KCc6riw6rCAIOyXhuycvOuptCDrs7gg7JW96rSAIOuzgOqyveydhCDsirnsnbjtlZwg6rKD7Jy866GcIOqwhOyjvO2VmOyXrCDsoIHsmqntlaAg7JiI7KCV7J207Jik64uIIOyWkeyngO2VmOyXrCDso7zsi5zquLAg67CU656N64uI64ukLjwvcD4KICAgICAgICAgICAgPHVsPgogICAgICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgICAgIO2UvO2EsO2MrOydmCDsoovsnYDrsKkg6rWs7ZWY6riwIOydtOyaqeyVveq0gCDsoITrrLggPGEgaHJlZj0iIj48c21hbGw+7KCE66y467O06riwPC9zbWFsbD48L2E+CiAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgICAgIO2UvO2EsO2MrOydmCDsoovsnYDrsKkg6rWs7ZWY6riwIOqwnOyduOygleuztOy3qOq4ieuwqey5qCDsoITrrLggPGEgaHJlZj0iIj48c21hbGw+7KCE66y467O06riwPC9zbWFsbD48L2E+CiAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICA8L3VsPgogICAgICAgICAgICA8YnI+CiAgICAgICAgICAgIDxicj4KICAgICAgICAgICAgPHVsPgogICAgICAgICAgICAgICAgPGxpPuqwnOygleuQnCDslb3qtIDsl5Ag64+Z7J2Y7ZWY7KeAIOyViuycvOyLnOuptCwg7ZqM7JuQ7YOI7Ye066W8IOyalOyyre2VoCDsiJgg7J6I7Iq164uI64ukLjwvbGk+CiAgICAgICAgICAgICAgICA8bGk+67O4IOuplOydvOydgCDslb3qtIAg67OA6rK9IOqzoOyngOuplOydvOuhnCDsnbTrqZTsnbwg7IiY7IugIOuPmeydmCDsl6zrtoDsl5Ag6rSA6rOE7JeG7J20IOuwnOyGoeuQmOuKlCDrqZTsnbzsnoXri4jri6QuPC9saT4KICAgICAgICAgICAgICAgIDxsaT7rrLjsnZjsgqztla3snYAgc3Ryb25ne+qzoOqwneyEvO2EsCAxNjQ0LTM2NzAg65iQ64qUIHBldGVycGFuX2NzQGR1c2UuY28ua3J97J2EIOydtOyaqe2VtCDso7zsi5zquLAg67CU656N64uI64ukLjxicj4gKOqzoOqwneyEvO2EsCDsmrTsmIHsi5zqsIQ6IO2PieydvCAwOTozMCB+IDE4OjMwKTwvbGk+CiAgICAgICAgICAgIDwvdWw+CiAgICAgICAgPC9kaXY+Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPSJmbG9hdDpyaWdodDsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBjbGFzcz0ic25zX3NpZ24iIHNyYz0iL2ltYWdlcy9mYl9zaWduLnBuZyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJzbnNfc2lnbiIgc3JjPSIvaW1hZ2VzL2Jsb2dfc2lnbi5wbmciPgogICAgICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vc3Rvcnkua2FrYW8uY29tL19qRldqdzciIHRhcmdldD0iX2JsYW5rIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgY2xhc3M9InNuc19zaWduIiBzcmM9Ii9pbWFnZXMva2FrYW9fc2lnbi5wbmciPgogICAgICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGg0PjxzdHJvbmc+7KO87JqUIOuzgOqyveyCrO2VrTwvc3Ryb25nPjwvaDQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3BldGVycGFuc25zLyIgdGFyZ2V0PSJfYmxhbmsiPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGg0PjxzdHJvbmc+7KO87JqUIOuzgOqyveyCrO2VrTwvc3Ryb25nPjwvaDQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ6IG5vbmU7CiAgICAgICAgICAgIGJvcmRlcjogMXB4IHNvbGlkICNlZWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxuYXYgY2xhc3M9Im5hdmJhciBuYXZiYXItZGVmYXVsdCI+CiAgICAgICAgPGRpdiBjbGFzcz0iY29udGFpbmVyLWZsdWlkIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0ibmF2YmFyLWhlYWRlciI+CiAgICAgICAgICAgICAgICA8YSBjbGFzcz0ibmF2YmFyLWJyYW5kIiBocmVmPSJ7eyB1cmwoJy8nKSB9fSIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICAgICAgICAgIDxpbWcgYWx0PSJCcmFuZCIgc3JjPSJ7eyBhc3NldCgnL2ltYWdlcy9oZWFkZXIvYnJhbmRfbG9nby5wbmcnKSB9fSI+CiAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgPC9uYXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PG5hdiBjbGFzcz0ibmF2YmFyIG5hdmJhci1kZWZhdWx0Ij4KICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lci1mbHVpZCI+CiAgICAgICAgPGRpdiBjbGFzcz0ibmF2YmFyLWhlYWRlciI+CiAgICAgICAgICAgIDxhIGNsYXNzPSJuYXZiYXItYnJhbmQiIGhyZWY9Int7IHVybCgnLycpIH19IiB0YXJnZXQ9Il9ibGFuayI+CiAgICAgICAgICAgICAgICA8aW1nIGFsdD0iQnJhbmQiIHNyYz0ie3sgYXNzZXQoJy9pbWFnZXMvaGVhZGVyL2JyYW5kX2xvZ28ucG5nJykgfX0iPgogICAgICAgICAgICA8L2E+CiAgICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KPC9uYXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyLWZsdWlkIj4KCjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY291bnRlci1pbmNyZW1lbnQ6IGxpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IgogICAgICAgICAgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCB1c2VyLXNjYWxhYmxlPW5vLCBpbml0aWFsLXNjYWxlPTEuMCwgbWF4aW11bS1zY2FsZT0xLjAsIG1pbmltdW0tc2NhbGU9MS4wIj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>24</text>
       </register>
     </registers>
     <search>
-      <last-search>og</last-search>
+      <last-search>facebook</last-search>
       <last-offset />
-      <last-pattern>og</last-pattern>
+      <last-pattern>facebook</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>og</last-substitute>
       <last-dir>1</last-dir>
@@ -2360,12 +2368,6 @@
     </search>
     <history>
       <history-search>
-        <entry>middl</entry>
-        <entry>middle</entry>
-        <entry>guest</entry>
-        <entry>route</entry>
-        <entry>form</entry>
-        <entry encoding="base64">PGZvcm0=</entry>
         <entry encoding="base64">PA==</entry>
         <entry>email</entry>
         <entry encoding="base64">XDx0b2tlbjFcPg==</entry>
@@ -2380,6 +2382,12 @@
         <entry>MAIL</entry>
         <entry>price</entry>
         <entry>og</entry>
+        <entry encoding="base64">PGJvZHk=</entry>
+        <entry>body</entry>
+        <entry>c3</entry>
+        <entry>class=&quot;c3&quot;</entry>
+        <entry>t.dfa97a4863f7d70dcdee5dec408feb1bf10dabe5</entry>
+        <entry>facebook</entry>
       </history-search>
       <history-cmd>
         <entry>226</entry>
