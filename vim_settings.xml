@@ -66,12 +66,12 @@
         <mark key="." line="17" column="75" />
         <mark key="^" line="17" column="75" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" timestamp="1508302007827">
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" timestamp="1508303969410">
         <mark key="'" line="70" column="22" />
-        <mark key="[" line="90" column="111" />
-        <mark key="]" line="90" column="111" />
-        <mark key="^" line="54" column="34" />
-        <mark key="." line="90" column="111" />
+        <mark key="[" line="76" column="32" />
+        <mark key="]" line="76" column="38" />
+        <mark key="^" line="76" column="38" />
+        <mark key="." line="76" column="38" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Dong.php" timestamp="1506394006253">
         <mark key="'" line="29" column="8" />
@@ -164,12 +164,12 @@
         <mark key="." line="603" column="45" />
         <mark key="^" line="604" column="11" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1507706126536">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="65" column="13" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1508303800749">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="32" column="18" />
+        <mark key="]" line="32" column="35" />
+        <mark key="^" line="32" column="35" />
+        <mark key="." line="32" column="35" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/return.blade.php" timestamp="1505265705576">
         <mark key="[" line="57" column="7" />
@@ -380,12 +380,12 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1508303103944">
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1508304160861">
         <mark key="'" line="397" column="22" />
-        <mark key="[" line="668" column="9" />
-        <mark key="]" line="668" column="17" />
-        <mark key="." line="668" column="17" />
-        <mark key="^" line="668" column="17" />
+        <mark key="[" line="665" column="37" />
+        <mark key="]" line="665" column="37" />
+        <mark key="." line="665" column="37" />
+        <mark key="^" line="665" column="35" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/FaAPIController.php" timestamp="1508153251467">
         <mark key="[" line="365" column="40" />
@@ -420,6 +420,12 @@
         <mark key="]" line="22" column="58" />
         <mark key="." line="22" column="58" />
         <mark key="^" line="22" column="58" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/notice/terms.blade.php" timestamp="1508304487775">
+        <mark key="[" line="2" column="72" />
+        <mark key="]" line="2" column="70" />
+        <mark key="." line="2" column="65" />
+        <mark key="^" line="2" column="66" />
       </file>
       <file name="$USER_HOME$/luritas/point/resources/views/partials/head/datepicker.blade.php" timestamp="1507977813466">
         <mark key="[" line="3" column="0" />
@@ -611,9 +617,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="469" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="654" column="44" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
-      <jump line="33" column="6" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" />
       <jump line="31" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" />
       <jump line="54" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" />
       <jump line="56" column="37" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" />
@@ -711,6 +714,9 @@
       <jump line="69" column="30" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" />
       <jump line="63" column="22" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" />
       <jump line="397" column="22" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="11" column="23" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
+      <jump line="29" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
+      <jump line="30" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -734,7 +740,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ISF9eyA=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2276,49 +2282,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ISF9eyA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXRoQXJyYXlcPg==</text>
+        <text>MAIL</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHRhcmdldD0iX2JsYW5rIg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA1Cg==</text>
+        <text encoding="base64">ICAgIHt7IEZpbGU6OmdldChhc3NldCgnY29udGVudHMvMjAxNzEwMThfbm90aWNlLmh0bWwnKSkgfX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBpbmNsdWRlKGFzc2V0KCdjb250ZW50cy8yMDE3MTAxOF9ub3RpY2UuaHRtbCcpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib290c3RyYXAubWluLmNzczoK</text>
+        <text encoding="base64">ICAgICAgICAnc291cmNlJyA9PiAnMjAxNzEwMThfbm90aWNlLmh0bWwnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgiIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlmcmFtZSBzcmM9Int7IGFzc2V0KCdjb250ZW50cy8nIC4gJHNvdXJjZSkgfX0iIGZyYW1lYm9yZGVyPSIwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI3MjAwcHgiPjwvaWZyYW1lPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAbWVkaWEgKG1heC13aWR0aDogNzY4cHgpIHsKICAgICAgICAgICAgLmNvbnRhaW5lciB7CiAgICAgICAgICAgICAgICB3aWR0aDogMTAwJTsKICAgICAgICAgICAgICAgIHBhZGRpbmc6IDA7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWZyYW1lIHsKICAgICAgICAgICAgICAgIGhlaWdodDogODAwMHB4OwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICA8L3N0eWxlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlmcmFtZSBzcmM9Int7IGFzc2V0KCdjb250ZW50cy8nIC4gJHNvdXJjZSkgfX0iIGZyYW1lYm9yZGVyPSIwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI3MjAwcHgiPjwvaWZyYW1lPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA1Cg==</text>
       </register>
       <register name=":" type="4">
         <text>24</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXRoQXJyYXlcPg==</last-search>
+      <last-search>MAIL</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXRoQXJyYXlcPg==</last-pattern>
+      <last-pattern>MAIL</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>og</last-substitute>
       <last-dir>1</last-dir>
@@ -2326,7 +2332,6 @@
     </search>
     <history>
       <history-search>
-        <entry>c3</entry>
         <entry>class=&quot;c3&quot;</entry>
         <entry>t.dfa97a4863f7d70dcdee5dec408feb1bf10dabe5</entry>
         <entry>facebook</entry>
@@ -2346,6 +2351,7 @@
         <entry>connectApp</entry>
         <entry>connectAp</entry>
         <entry encoding="base64">XDxwYXRoQXJyYXlcPg==</entry>
+        <entry>MAIL</entry>
       </history-search>
       <history-cmd>
         <entry>226</entry>
