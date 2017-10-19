@@ -244,7 +244,7 @@
         <mark key="." line="714" column="32" />
         <mark key="^" line="714" column="32" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/style.css" timestamp="1508316293173">
+      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/style.css" timestamp="1508376344340">
         <mark key="'" line="83" column="0" />
         <mark key="[" line="41" column="46" />
         <mark key="]" line="41" column="44" />
@@ -352,8 +352,8 @@
         <mark key="^" line="17" column="148" />
         <mark key="." line="17" column="148" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Middleware/AgentChecker.php" timestamp="1508297142390">
-        <mark key="'" line="90" column="22" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Middleware/AgentChecker.php" timestamp="1508376545279">
+        <mark key="'" line="5" column="4" />
         <mark key="[" line="58" column="27" />
         <mark key="]" line="58" column="27" />
         <mark key="^" line="58" column="27" />
@@ -612,7 +612,7 @@
         <mark key="]" line="30" column="10" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508315510482">
+      <file name="/Dummy.txt" timestamp="1508376637647">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -681,8 +681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="12" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" />
-      <jump line="59" column="24" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" />
       <jump line="20" column="28" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" />
       <jump line="73" column="46" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" />
       <jump line="80" column="30" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" />
@@ -781,6 +779,8 @@
       <jump line="661" column="54" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
       <jump line="3" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/style.css" />
       <jump line="81" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/style.css" />
+      <jump line="4" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Middleware/AgentChecker.php" />
+      <jump line="5" column="4" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Middleware/AgentChecker.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2349,7 +2349,7 @@
         <text>지</text>
       </register>
       <register name="/" type="4">
-        <text>div.housesContent div.socialHousing li.title, div.housesContent div.socialHousing li.supply</text>
+        <text encoding="base64">XDxEZXZpY2VEZXRlY3Rvclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGl2LmhvdXNlc0NvbnRlbnQgZGl2LnNvY2lhbEhvdXNpbmcgbGkuc3VwcGx5LAo=</text>
@@ -2386,9 +2386,9 @@
       </register>
     </registers>
     <search>
-      <last-search>div.housesContent div.socialHousing li.title, div.housesContent div.socialHousing li.supply</last-search>
+      <last-search encoding="base64">XDxEZXZpY2VEZXRlY3Rvclw+</last-search>
       <last-offset />
-      <last-pattern>div.housesContent div.socialHousing li.title, div.housesContent div.socialHousing li.supply</last-pattern>
+      <last-pattern encoding="base64">XDxEZXZpY2VEZXRlY3Rvclw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>og</last-substitute>
       <last-dir>1</last-dir>
@@ -2396,7 +2396,6 @@
     </search>
     <history>
       <history-search>
-        <entry>t.dfa97a4863f7d70dcdee5dec408feb1bf10dabe5</entry>
         <entry>facebook</entry>
         <entry encoding="base64">XDxub3RpY2VcPg==</entry>
         <entry>궁금하진</entry>
@@ -2416,6 +2415,7 @@
         <entry encoding="base64">XDxwYXRoQXJyYXlcPg==</entry>
         <entry>MAIL</entry>
         <entry>div.housesContent div.socialHousing li.title, div.housesContent div.socialHousing li.supply</entry>
+        <entry encoding="base64">XDxEZXZpY2VEZXRlY3Rvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>226</entry>
