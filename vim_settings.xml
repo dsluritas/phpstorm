@@ -158,6 +158,12 @@
         <mark key="^" line="28" column="18" />
         <mark key="." line="28" column="18" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-config.php" timestamp="1508572517528">
+        <mark key="[" line="20" column="57" />
+        <mark key="]" line="20" column="57" />
+        <mark key="^" line="29" column="22" />
+        <mark key="." line="20" column="57" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/common/footer.blade.php" timestamp="1507635671411">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="108" column="88" />
@@ -892,7 +898,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>yoursite.com</text>
+        <text>www.snsl.kr/</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2434,37 +2440,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>yoursite.com</text>
+        <text>www.snsl.kr/</text>
       </register>
       <register name="/" type="4">
-        <text>Create</text>
+        <text>SSL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRjID0gQXBwXENoaW5hOjp3aGVyZSgnaGlkeCcsICRjaGluYS0+aGlkeCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxMb2NhdGlvbk1hdGNoICIvLndlbGwta25vd24iPgogICAgT3JkZXIgYWxsb3csZGVueQogICAgQWxsb3cgZnJvbSBhbGwKICAgIDwvTG9jYXRpb25NYXRjaD4K</text>
+        <text encoding="base64">ZGVmaW5lKCdGT1JDRV9TU0xfQURNSU4nLCB0cnVlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SGVhZGVyIHNldCBDb250ZW50LVR5cGUgImFwcGxpY2F0aW9uL2pvc2UranNvbiIK</text>
+        <text encoding="base64">ICAgIDxMb2NhdGlvbk1hdGNoICIvLndlbGwta25vd24iPgogICAgT3JkZXIgYWxsb3csZGVueQogICAgQWxsb3cgZnJvbSBhbGwKICAgIDwvTG9jYXRpb25NYXRjaD4K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">SGVhZGVyIHNldCBDb250ZW50LVR5cGUgImFwcGxpY2F0aW9uL2pvc2UranNvbiIK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgJGMgPSBuZXcgc3RkQ2xhc3MoKTsKICAgICAgICAgICAgICAgICAgICAkYy0+c3ViamVjdCA9ICfrsojsl63slYjrkKgnOwogICAgICAgICAgICAgICAgICAgICRjLT5hZGRyZXNzID0gJyc7CiAgICAgICAgICAgICAgICB9</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGMpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGQoJGMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRjID0gQXBwXENoaW5hOjp3aGVyZSgnaGlkeCcsIDMyNTAwNSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7eyBkZCgkY1swXSkgfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRjID0gQXBwXENoaW5hOjp3aGVyZSgnaGlkeCcsIDMyNTAwNSk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7eyBkZCgkY1swXSkgfX0K</text>
@@ -2474,9 +2480,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Create</last-search>
+      <last-search>SSL</last-search>
       <last-offset />
-      <last-pattern>Create</last-pattern>
+      <last-pattern>SSL</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>og</last-substitute>
       <last-dir>1</last-dir>
@@ -2484,8 +2490,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rent_type</entry>
-        <entry>type</entry>
         <entry>http</entry>
         <entry>socialHousing bg-blue</entry>
         <entry>socialHousing</entry>
@@ -2504,6 +2508,8 @@
         <entry>show</entry>
         <entry>delete</entry>
         <entry>Create</entry>
+        <entry>ssl</entry>
+        <entry>SSL</entry>
       </history-search>
       <history-cmd>
         <entry>75</entry>
