@@ -430,11 +430,12 @@
         <mark key="^" line="58" column="27" />
         <mark key="." line="58" column="27" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1508595698191">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1508596937822">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="5" />
+        <mark key="." line="13" column="5" />
+        <mark key="^" line="13" column="5" />
       </file>
       <file name="$USER_HOME$/git/ptp/china-duse/database/migrations/2017_10_20_153156_create_chinas_table.php" timestamp="1508481429456">
         <mark key="[" line="18" column="36" />
@@ -644,10 +645,10 @@
         <mark key="." line="485" column="119" />
         <mark key="^" line="485" column="119" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/.htaccess" timestamp="1508595237108">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="1" />
-        <mark key="." line="9" column="1" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/.htaccess" timestamp="1508596946883">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
         <mark key="^" line="9" column="1" />
       </file>
       <file name="$USER_HOME$/luritas/point/database/migrations/2017_10_14_034355_add_columns_to_users_table.php" timestamp="1508054179670">
@@ -893,8 +894,15 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGllKCk7Cg==</text>
+      <register name="&quot;" type="8">
+        <text>#
+#
+#
+#
+#
+#
+#
+#</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2444,32 +2452,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRjID0gQXBwXENoaW5hOjp3aGVyZSgnaGlkeCcsICRjaGluYS0+aGlkeCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZGllKCk7Cg==</text>
+      <register name="1" type="8">
+        <text>#
+#
+#
+#
+#
+#
+#
+#</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGllKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmaW5lKCdXUF9FTkNSWVBUX1NTTF9DRVJUSUZJQ0FURVNfRElSX1BBVEgnLCAnL3Zhci93d3cvbGV0c2VuY3J5cHQvbGl2ZScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmaW5lKCdXUF9FTkNSWVBUX1NTTF9DRVJUSUZJQ0FURVNfRElSX1BBVEgnLCAnL3Zhci93d3cvbGV0c2VuY3J5cHQvbGl2ZScpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UmV3cml0ZUNvbmQgJXtTRVJWRVJfUE9SVH0gODAKUmV3cml0ZVJ1bGUgXiguKikkIGh0dHBzOi8vd3d3LnNuc2wua3IvJDEgW1IsTF0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dW5zZXQoJF9TRVNTSU9OKTsKZGllKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">c2Vzc2lvbl8K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">UmV3cml0ZUNvbmQgJXtTRVJWRVJfUE9SVH0gODAKUmV3cml0ZVJ1bGUgXiguKikkIGh0dHBzOi8vd3d3LnNuc2wua3IvJDEgW1IsTF0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dW5zZXQoJF9TRVNTSU9OKTsKZGllKCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">c2Vzc2lvbl8K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRpZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
