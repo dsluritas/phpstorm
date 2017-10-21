@@ -57,7 +57,11 @@
         <mark key="." line="15" column="42" />
         <mark key="^" line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/luritas/point/app/Http/Middleware/CheckTeacher.php" timestamp="1508601815894" />
+      <file name="$USER_HOME$/luritas/point/app/Http/Middleware/CheckTeacher.php" timestamp="1508613727778">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/free_house.blade.php" timestamp="1502964652876">
         <mark key="[" line="70" column="79" />
         <mark key="]" line="70" column="79" />
@@ -137,10 +141,11 @@
         <mark key="^" line="56" column="98" />
         <mark key="." line="56" column="98" />
       </file>
-      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/PointController.php" timestamp="1508601714956">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/PointController.php" timestamp="1508616543081">
+        <mark key="[" line="64" column="9" />
+        <mark key="]" line="65" column="7" />
+        <mark key="." line="65" column="7" />
+        <mark key="^" line="65" column="7" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/header.blade.php" timestamp="1500009932917">
         <mark key="[" line="36" column="73" />
@@ -154,12 +159,12 @@
         <mark key="^" line="40" column="6" />
         <mark key="." line="40" column="6" />
       </file>
-      <file name="$USER_HOME$/luritas/point/resources/views/point.blade.php" timestamp="1508608595628">
-        <mark key="'" line="63" column="48" />
-        <mark key="[" line="63" column="47" />
-        <mark key="]" line="63" column="47" />
-        <mark key="." line="63" column="47" />
-        <mark key="^" line="63" column="61" />
+      <file name="$USER_HOME$/luritas/point/resources/views/point.blade.php" timestamp="1508616894414">
+        <mark key="'" line="51" column="28" />
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="26" column="34" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/register_house.blade.php" timestamp="1507714350057">
         <mark key="'" line="507" column="57" />
@@ -268,6 +273,11 @@
         <mark key="." line="1156" column="34" />
         <mark key="^" line="1156" column="35" />
       </file>
+      <file name="$USER_HOME$/luritas/point/routes/api.php" timestamp="1508613747058">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="37" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/footer.blade.php" timestamp="1503017039778">
         <mark key="[" line="34" column="43" />
         <mark key="]" line="34" column="47" />
@@ -356,11 +366,12 @@
         <mark key="^" line="76" column="47" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/luritas/point/.env" timestamp="1508599590606">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+      <file name="$USER_HOME$/luritas/point/.env" timestamp="1508616849769">
+        <mark key="'" line="5" column="15" />
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="5" column="23" />
       </file>
       <file name="$USER_HOME$/git/ptp/china-duse/composer.json" timestamp="1508484110095">
         <mark key="[" line="14" column="37" />
@@ -525,6 +536,13 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/luritas/point/config/app.php" timestamp="1508617027350">
+        <mark key="'" line="61" column="39" />
+        <mark key="[" line="67" column="19" />
+        <mark key="]" line="67" column="28" />
+        <mark key="." line="67" column="28" />
+        <mark key="^" line="67" column="28" />
+      </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/FaAPIController.php" timestamp="1508153251467">
         <mark key="[" line="365" column="40" />
         <mark key="]" line="365" column="38" />
@@ -570,6 +588,11 @@
         <mark key="]" line="2" column="55" />
         <mark key="." line="2" column="55" />
         <mark key="^" line="2" column="55" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/routes/web.php" timestamp="1508613755129">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/luritas/point/resources/views/partials/head/datepicker.blade.php" timestamp="1507977813466">
         <mark key="[" line="3" column="0" />
@@ -696,12 +719,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/app/Classes/User.php" timestamp="1508598801156">
-        <mark key="'" line="36" column="49" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-      </file>
       <file name="$USER_HOME$/luritas/point/database/migrations/2017_10_14_034355_add_columns_to_users_table.php" timestamp="1508054179670">
         <mark key="[" line="16" column="50" />
         <mark key="]" line="16" column="50" />
@@ -758,11 +775,14 @@
         <mark key="^" line="44" column="49" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508608414739">
+      <file name="/Dummy.txt" timestamp="1508615359869">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/app/Http/Kernel.php" timestamp="1508613019717">
+        <mark key="'" line="54" column="37" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/safetyServiceNew.blade.php" timestamp="1504760827937">
         <mark key="[" line="51" column="99" />
@@ -836,55 +856,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="31" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
-      <jump line="82" column="9" filename="$USER_HOME$/git/ptp/jobs/naver/status.php" />
-      <jump line="16" column="0" filename="$USER_HOME$/git/ptp/china-duse/config/database.php" />
-      <jump line="28" column="39" filename="$USER_HOME$/git/ptp/china-duse/config/database.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/git/ptp/china-duse/app/Http/routes.php" />
-      <jump line="11" column="15" filename="$USER_HOME$/git/ptp/china-duse/app/Http/Controllers/ChinaController.php" />
-      <jump line="80" column="10" filename="$USER_HOME$/git/ptp/china-duse/app/Http/Controllers/ChinaController.php" />
-      <jump line="87" column="4" filename="$USER_HOME$/git/ptp/china-duse/app/Http/Controllers/ChinaController.php" />
-      <jump line="26" column="9" filename="$USER_HOME$/git/ptp/china-duse/resources/views/China/show.blade.php" />
-      <jump line="2" column="20" filename="$USER_HOME$/git/ptp/china-duse/resources/views/ChinaCRUD/index.blade.php" />
-      <jump line="31" column="9" filename="$USER_HOME$/git/ptp/china-duse/app/Http/Controllers/ChinaController.php" />
-      <jump line="55" column="46" filename="$USER_HOME$/git/ptp/china-duse/app/Http/Controllers/ChinaController.php" />
-      <jump line="6" column="0" filename="$USER_HOME$/git/ptp/china-duse/config/app.php" />
-      <jump line="63" column="33" filename="$USER_HOME$/git/ptp/china-duse/config/app.php" />
-      <jump line="77" column="36" filename="$USER_HOME$/git/ptp/china-duse/config/app.php" />
-      <jump line="161" column="18" filename="$USER_HOME$/git/ptp/china-duse/config/app.php" />
-      <jump line="29" column="28" filename="$USER_HOME$/git/ptp/china-duse/app/Http/Controllers/ChinaController.php" />
-      <jump line="22" column="19" filename="$USER_HOME$/git/ptp/china-duse/resources/views/ChinaCRUD/index.blade.php" />
-      <jump line="108" column="28" filename="$USER_HOME$/git/ptp/china-duse/app/Http/Controllers/ChinaController.php" />
-      <jump line="20" column="9" filename="$USER_HOME$/git/ptp/china-duse/resources/views/ChinaCRUD/index.blade.php" />
-      <jump line="21" column="29" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="16" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/template-loader.php" />
-      <jump line="55" column="42" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="37" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="39" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/app/Classes/User.php" />
-      <jump line="36" column="49" filename="$USER_HOME$/PhpstormProjects/snsl/app/Classes/User.php" />
-      <jump line="77" column="18" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
-      <jump line="52" column="34" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
-      <jump line="13" column="19" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/updateUser.php" />
-      <jump line="38" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/updateUser.php" />
-      <jump line="53" column="8" filename="$USER_HOME$/luritas/point/composer.json" />
-      <jump line="54" column="13" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
-      <jump line="53" column="17" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
-      <jump line="65" column="0" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
-      <jump line="58" column="0" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
-      <jump line="5" column="36" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
-      <jump line="57" column="0" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
-      <jump line="75" column="14" filename="$USER_HOME$/luritas/point/resources/views/layouts/app.blade.php" />
-      <jump line="3" column="0" filename="$USER_HOME$/luritas/point/resources/views/layouts/app.blade.php" />
-      <jump line="2" column="12" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
-      <jump line="73" column="0" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
-      <jump line="1" column="13" filename="$USER_HOME$/luritas/point/resources/views/layouts/app.blade.php" />
-      <jump line="77" column="1" filename="$USER_HOME$/luritas/point/resources/views/layouts/app.blade.php" />
-      <jump line="11" column="0" filename="$USER_HOME$/luritas/point/resources/views/layouts/app.blade.php" />
-      <jump line="0" column="21" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
-      <jump line="78" column="4" filename="$USER_HOME$/luritas/point/resources/views/layouts/app.blade.php" />
-      <jump line="70" column="7" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
-      <jump line="36" column="5" filename="$USER_HOME$/luritas/point/vendor/laravel/framework/src/Illuminate/Routing/Controller.php" />
       <jump line="267" column="20" filename="$USER_HOME$/luritas/point/vendor/laravelcollective/html/src/FormBuilder.php" />
       <jump line="276" column="57" filename="$USER_HOME$/luritas/point/vendor/laravelcollective/html/src/FormBuilder.php" />
       <jump line="286" column="75" filename="$USER_HOME$/luritas/point/vendor/laravelcollective/html/src/FormBuilder.php" />
@@ -924,18 +895,67 @@
       <jump line="23" column="31" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
       <jump line="40" column="40" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
       <jump line="55" column="51" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
-      <jump line="56" column="43" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
       <jump line="28" column="0" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
       <jump line="85" column="30" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
       <jump line="89" column="25" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
       <jump line="45" column="171" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
-      <jump line="27" column="48" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
       <jump line="52" column="20" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
       <jump line="74" column="17" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
-      <jump line="59" column="39" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
       <jump line="78" column="9" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
       <jump line="99" column="16" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
       <jump line="63" column="48" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
+      <jump line="22" column="6" filename="$USER_HOME$/luritas/point/app/Http/Controllers/PointController.php" />
+      <jump line="76" column="25" filename="$USER_HOME$/luritas/point/app/Http/Controllers/PointController.php" />
+      <jump line="59" column="84" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
+      <jump line="101" column="24" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
+      <jump line="54" column="37" filename="$USER_HOME$/luritas/point/app/Http/Kernel.php" />
+      <jump line="53" column="24" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
+      <jump line="56" column="31" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
+      <jump line="70" column="47" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
+      <jump line="60" column="6" filename="$USER_HOME$/luritas/point/app/Http/Controllers/PointController.php" />
+      <jump line="96" column="12" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
+      <jump line="73" column="89" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
+      <jump line="30" column="41" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
+      <jump line="127" column="28" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
+      <jump line="26" column="43" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
+      <jump line="27" column="7" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
+      <jump line="50" column="28" filename="$USER_HOME$/luritas/point/resources/views/point.blade.php" />
+      <jump line="0" column="13" filename="$USER_HOME$/luritas/point/.env" />
+      <jump line="2" column="8" filename="$USER_HOME$/luritas/point/.env" />
+      <jump line="1" column="8" filename="$USER_HOME$/luritas/point/.env" />
+      <jump line="5" column="15" filename="$USER_HOME$/luritas/point/.env" />
+      <jump line="225" column="0" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="23" column="7" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="74" column="52" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="76" column="20" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="80" column="5" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="150" column="18" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="15" column="14" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="19" column="26" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="22" column="70" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="24" column="61" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="28" column="13" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="35" column="8" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="37" column="42" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="41" column="15" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="48" column="66" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="50" column="44" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="54" column="13" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="63" column="31" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="87" column="68" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="100" column="41" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="101" column="56" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="106" column="13" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="123" column="13" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="125" column="19" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="176" column="24" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="186" column="55" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="205" column="47" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="206" column="48" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="9" column="71" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="25" column="4" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="230" column="0" filename="$USER_HOME$/luritas/point/config/app.php" />
+      <jump line="61" column="39" filename="$USER_HOME$/luritas/point/config/app.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -959,7 +979,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>UTC</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2501,49 +2521,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>UTC</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVQb2ludFw+</text>
+        <text>timezone</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">LCAnZm9ybScgPT4gInBvaW50eyRwb2ludC0+aWR9Ig==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXJlY3QoKS0+YmFjaygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHt7IHBocGluZm8odCkgfX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldEF1dG9TaXplOiBmdW5jdGlvbiAoZSkgewogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGUpOwogICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwogICAgICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIHt7IHBocGluZm8oKSB9fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7IEZvcm06OmJ1dHRvbign7IiY7KCVJywgWycnXSkgfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAge3sgXENhcmJvblxDYXJib246Om5vdygpLT5mb3JtYXQoJ1ktbS1kJykgfX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgRm9ybTo6b3BlbihbJ2lkJyA9PiAncG9pbnQnIC4gJHBvaW50LT5pZF0pIH19CiAgICAgICAgICAgICAgICAgICAgICAgIHt7IEZvcm06OmNsb3NlKCkgfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRba2V5XS5zaXplID0gaW5wdXRba2V5XS52YWx1ZS5sZW5ndGggKyAzOwo=</text>
+        <text encoding="base64">ICAgICAgICBQb2ludDo6Y3JlYXRlKFsKICAgICAgICAgICAgJ25hbWUnICAgICAgID0+ICRyZXF1ZXN0LT5pbnB1dCgnbmFtZScpLAogICAgICAgICAgICAncG9pbnQnICAgICAgPT4gJHJlcXVlc3QtPmlucHV0KCdwb2ludCcpLAogICAgICAgICAgICAncGVyaW9kJyAgICAgPT4gJHJlcXVlc3QtPmlucHV0KCdwZXJpb2QnKSwKICAgICAgICAgICAgJ2FjYWRlbXlfaWQnID0+IEF1dGg6OnVzZXIoKS0+YWNhZGVteV9pZCwKICAgICAgICBdKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7eyBGb3JtOjpvcGVuKCcnKSB9fQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dFt0eXBlPSJlbWFpbCJdLmJpZy1kb2c6Oi13ZWJraXQtaW5wdXQtcGxhY2Vob2xkZXIgewogICAgICAgICAgICBjb2xvcjogI2VlZWVlZTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zbC5lbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiB2LW9uOmNsaWNrPSJ0b2dnbGVEZWxldGUiPuyImOyglTwvYnV0dG9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVQb2ludFw+</last-search>
+      <last-search>timezone</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVQb2ludFw+</last-pattern>
+      <last-pattern>timezone</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>og</last-substitute>
       <last-dir>1</last-dir>
@@ -2551,19 +2571,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Create</entry>
-        <entry>ssl</entry>
-        <entry>SSL</entry>
-        <entry>beck</entry>
-        <entry>back</entry>
-        <entry>baek</entry>
-        <entry>name</entry>
-        <entry>collet</entry>
-        <entry>app.js</entry>
-        <entry encoding="base64">XDxpbnB1dFw+</entry>
-        <entry>getId</entry>
-        <entry encoding="base64">JHRoaXMtPmh0bWw=</entry>
-        <entry>token</entry>
         <entry>dd</entry>
         <entry>dd(</entry>
         <entry>on</entry>
@@ -2571,6 +2578,19 @@
         <entry>is_del</entry>
         <entry>is_delete</entry>
         <entry encoding="base64">XDx1cGRhdGVQb2ludFw+</entry>
+        <entry>edit</entry>
+        <entry>form</entry>
+        <entry>updat</entry>
+        <entry>api</entry>
+        <entry>update</entry>
+        <entry>생성일</entry>
+        <entry>loc</entry>
+        <entry>un</entry>
+        <entry>local</entry>
+        <entry>loca</entry>
+        <entry>en</entry>
+        <entry>TIME</entry>
+        <entry>timezone</entry>
       </history-search>
       <history-cmd>
         <entry>518</entry>
