@@ -276,10 +276,10 @@
         <mark key="." line="35" column="31" />
         <mark key="^" line="35" column="31" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-blog-header.php" timestamp="1508574911249">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-blog-header.php" timestamp="1508575938943">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1508205487237">
         <mark key="'" line="479" column="13" />
@@ -895,7 +895,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdldF9sZXRzZW5jcnlwdF9jaGFsbGVuZ2VzX2Rpcl91cmwoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2446,32 +2446,32 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRjID0gQXBwXENoaW5hOjp3aGVyZSgnaGlkeCcsICRjaGluYS0+aGlkeCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdldF9sZXRzZW5jcnlwdF9jaGFsbGVuZ2VzX2Rpcl91cmwoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGRpZSgpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIFV0aWw6OmdldF9sZXRzZW5jcnlwdF9jaGFsbGVuZ2VzX2Rpcl91cmwoKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGdldF9sZXRzZW5jcnlwdF9jaGFsbGVuZ2VzX2Rpcl91cmwoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRpZSgpOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGdldF9sZXRzZW5jcnlwdF9jaGFsbGVuZ2VzX2Rpcl91cmwoKTsKICAgIGRpZSgpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>get_letsencrypt_challenges_dir_url();
     d</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Z2V0X2xldHNlbmNyeXB0X2NoYWxsZW5nZXNfZGlyX3VybCgpOwoKZGllKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGllKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z2V0X2xldHNlbmNyeXB0X2NoYWxsZW5nZXNfZGlyX3VybCgpOwo=</text>
+        <text encoding="base64">Z2V0X2xldHNlbmNyeXB0X2NoYWxsZW5nZXNfZGlyX3VybCgpOwoKZGllKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>44</text>
