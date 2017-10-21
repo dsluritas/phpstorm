@@ -158,11 +158,11 @@
         <mark key="^" line="28" column="18" />
         <mark key="." line="28" column="18" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-config.php" timestamp="1508580175651">
-        <mark key="[" line="20" column="57" />
-        <mark key="]" line="20" column="57" />
-        <mark key="^" line="29" column="22" />
-        <mark key="." line="20" column="57" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-config.php" timestamp="1508595571670">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="27" column="22" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/common/footer.blade.php" timestamp="1507635671411">
         <mark key="'" line="0" column="0" />
@@ -430,8 +430,8 @@
         <mark key="^" line="58" column="27" />
         <mark key="." line="58" column="27" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1508577042048">
-        <mark key="'" line="55" column="42" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1508595698191">
+        <mark key="'" line="37" column="0" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -644,11 +644,11 @@
         <mark key="." line="485" column="119" />
         <mark key="^" line="485" column="119" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/.htaccess" timestamp="1508570133012">
-        <mark key="[" line="11" column="31" />
-        <mark key="]" line="11" column="31" />
-        <mark key="^" line="11" column="51" />
-        <mark key="." line="11" column="31" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/.htaccess" timestamp="1508595237108">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+        <mark key="^" line="9" column="1" />
       </file>
       <file name="$USER_HOME$/luritas/point/database/migrations/2017_10_14_034355_add_columns_to_users_table.php" timestamp="1508054179670">
         <mark key="[" line="16" column="50" />
@@ -693,7 +693,7 @@
         <mark key="^" line="44" column="49" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508580760357">
+      <file name="/Dummy.txt" timestamp="1508595534572">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -771,7 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="575" column="80" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
       <jump line="574" column="94" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
       <jump line="85" column="29" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
       <jump line="89" column="62" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
@@ -871,6 +870,7 @@
       <jump line="16" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/template-loader.php" />
       <jump line="55" column="42" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
+      <jump line="37" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -894,7 +894,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dW5zZXQoJF9TRVNTSU9OKTsKZGllKCk7Cg==</text>
+        <text encoding="base64">ZGllKCk7Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2445,35 +2445,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRjID0gQXBwXENoaW5hOjp3aGVyZSgnaGlkeCcsICRjaGluYS0+aGlkeCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dW5zZXQoJF9TRVNTSU9OKTsKZGllKCk7Cg==</text>
+        <text encoding="base64">ZGllKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2Vzc2lvbl8K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmaW5lKCdXUF9FTkNSWVBUX1NTTF9DRVJUSUZJQ0FURVNfRElSX1BBVEgnLCAnL3Zhci93d3cvbGV0c2VuY3J5cHQvbGl2ZScpOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRpZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFV0aWw6OmdldF9sZXRzZW5jcnlwdF9jaGFsbGVuZ2VzX2Rpcl91cmwoKTsK</text>
+        <text encoding="base64">UmV3cml0ZUNvbmQgJXtTRVJWRVJfUE9SVH0gODAKUmV3cml0ZVJ1bGUgXiguKikkIGh0dHBzOi8vd3d3LnNuc2wua3IvJDEgW1IsTF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdldF9sZXRzZW5jcnlwdF9jaGFsbGVuZ2VzX2Rpcl91cmwoKTsK</text>
+        <text encoding="base64">dW5zZXQoJF9TRVNTSU9OKTsKZGllKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRpZSgpOwo=</text>
+        <text encoding="base64">c2Vzc2lvbl8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdldF9sZXRzZW5jcnlwdF9jaGFsbGVuZ2VzX2Rpcl91cmwoKTsKICAgIGRpZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>get_letsencrypt_challenges_dir_url();
-    d</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRpZSgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>44</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2509,7 +2508,6 @@
         <entry>SSL</entry>
       </history-search>
       <history-cmd>
-        <entry>75</entry>
         <entry>518</entry>
         <entry>590</entry>
         <entry>141</entry>
@@ -2526,9 +2524,10 @@
         <entry>583</entry>
         <entry encoding="base64">JzwsJz43OQ==</entry>
         <entry>144</entry>
-        <entry>w</entry>
         <entry>24</entry>
         <entry>44</entry>
+        <entry encoding="base64">JzwsJz5ub3JtIGkj</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
