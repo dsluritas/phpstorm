@@ -633,11 +633,11 @@
         <mark key="." line="485" column="119" />
         <mark key="^" line="485" column="119" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/.htaccess" timestamp="1508569351085">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="11" column="10" />
-        <mark key="^" line="11" column="10" />
-        <mark key="." line="11" column="10" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/.htaccess" timestamp="1508570133012">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="31" />
+        <mark key="^" line="11" column="51" />
+        <mark key="." line="11" column="31" />
       </file>
       <file name="$USER_HOME$/luritas/point/database/migrations/2017_10_14_034355_add_columns_to_users_table.php" timestamp="1508054179670">
         <mark key="[" line="16" column="50" />
@@ -891,8 +891,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxMb2NhdGlvbk1hdGNoICIvLndlbGwta25vd24iPgogICAgT3JkZXIgYWxsb3csZGVueQogICAgQWxsb3cgZnJvbSBhbGwKICAgIDwvTG9jYXRpb25NYXRjaD4K</text>
+      <register name="&quot;" type="4">
+        <text>yoursite.com</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2434,7 +2434,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/acme-challenge/*</text>
+        <text>yoursite.com</text>
       </register>
       <register name="/" type="4">
         <text>Create</text>
