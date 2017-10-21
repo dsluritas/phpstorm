@@ -633,6 +633,12 @@
         <mark key="." line="485" column="119" />
         <mark key="^" line="485" column="119" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/.htaccess" timestamp="1508569351085">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="11" column="10" />
+        <mark key="^" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+      </file>
       <file name="$USER_HOME$/luritas/point/database/migrations/2017_10_14_034355_add_columns_to_users_table.php" timestamp="1508054179670">
         <mark key="[" line="16" column="50" />
         <mark key="]" line="16" column="50" />
@@ -885,8 +891,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxMb2NhdGlvbk1hdGNoICIvLndlbGwta25vd24iPgogICAgT3JkZXIgYWxsb3csZGVueQogICAgQWxsb3cgZnJvbSBhbGwKICAgIDwvTG9jYXRpb25NYXRjaD4K</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2428,7 +2434,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>/acme-challenge/*</text>
       </register>
       <register name="/" type="4">
         <text>Create</text>
@@ -2436,32 +2442,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRjID0gQXBwXENoaW5hOjp3aGVyZSgnaGlkeCcsICRjaGluYS0+aGlkeCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgJGMgPSBuZXcgc3RkQ2xhc3MoKTsKICAgICAgICAgICAgICAgICAgICAkYy0+c3ViamVjdCA9ICfrsojsl63slYjrkKgnOwogICAgICAgICAgICAgICAgICAgICRjLT5hZGRyZXNzID0gJyc7CiAgICAgICAgICAgICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDxMb2NhdGlvbk1hdGNoICIvLndlbGwta25vd24iPgogICAgT3JkZXIgYWxsb3csZGVueQogICAgQWxsb3cgZnJvbSBhbGwKICAgIDwvTG9jYXRpb25NYXRjaD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGMpOwo=</text>
+        <text encoding="base64">SGVhZGVyIHNldCBDb250ZW50LVR5cGUgImFwcGxpY2F0aW9uL2pvc2UranNvbiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRjID0gQXBwXENoaW5hOjp3aGVyZSgnaGlkeCcsIDMyNTAwNSk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgJGMgPSBuZXcgc3RkQ2xhc3MoKTsKICAgICAgICAgICAgICAgICAgICAkYy0+c3ViamVjdCA9ICfrsojsl63slYjrkKgnOwogICAgICAgICAgICAgICAgICAgICRjLT5hZGRyZXNzID0gJyc7CiAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7eyBkZCgkY1swXSkgfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7eyBkZCgkY1swXSkgfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7eyBkZCgkY1swXSkgfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRjID0gQXBwXENoaW5hOjp3aGVyZSgnaGlkeCcsIDMyNTAwNSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7eyBkZCgkY1swXSkgfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7eyBkZCgkY1swXSkgfX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNbMF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7eyBkZCgkY1swXSkgfX0K</text>
       </register>
       <register name=":" type="4">
         <text>44</text>
