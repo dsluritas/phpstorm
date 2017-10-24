@@ -464,11 +464,11 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/composer.json" timestamp="1508834983324">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="48" column="39" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/git/ptp/china-duse/composer.json" timestamp="1508836607009">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="51" column="40" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/RealEstateFacility.php" timestamp="1505314347377">
         <mark key="[" line="8" column="29" />
@@ -972,14 +972,14 @@
         <mark key="^" line="44" column="49" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508834102654">
+      <file name="/Dummy.txt" timestamp="1508836794429">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/composer.json" timestamp="1508813126699">
-        <mark key="'" line="12" column="0" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/composer.json" timestamp="1508836211618">
+        <mark key="'" line="37" column="26" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/safetyServiceNew.blade.php" timestamp="1504760827937">
         <mark key="[" line="51" column="99" />
@@ -1068,7 +1068,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/luritas/point/app/Academy.php" />
       <jump line="13" column="0" filename="$USER_HOME$/luritas/point/app/User.php" />
       <jump line="18" column="0" filename="$USER_HOME$/luritas/point/app/Academy.php" />
       <jump line="8" column="0" filename="$USER_HOME$/luritas/point/app/Academy.php" />
@@ -1168,6 +1167,7 @@
       <jump line="64" column="29" filename="$USER_HOME$/git/ptp/duseAPI/.gitignore" />
       <jump line="65" column="1" filename="$USER_HOME$/git/ptp/duseAPI/.gitignore" />
       <jump line="69" column="10" filename="$USER_HOME$/git/ptp/duseAPI/.gitignore" />
+      <jump line="37" column="26" filename="$USER_HOME$/git/ptp/duseAPI/composer.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1191,7 +1191,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6Z2VuZXJhdGUiLAogICAgICAgICAgICAicGhwIGFydGlzYW4gaWRlLWhlbHBlcjptZXRhIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6bW9kZWxzIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIGNsZWFyLWNvbXBpbGVkIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6Z2VuZXJhdGUiLAogICAgICAgICAgICAicGhwIGFydGlzYW4gaWRlLWhlbHBlcjptZXRhIiwK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2733,40 +2733,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.php</text>
+        <text>ide</text>
       </register>
       <register name="/" type="4">
         <text>ide</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">X2lkZV9oZWxwZXIucGhwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6bW9kZWxzIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6Z2VuZXJhdGUiLAogICAgICAgICAgICAicGhwIGFydGlzYW4gaWRlLWhlbHBlcjptZXRhIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6bW9kZWxzIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIGNsZWFyLWNvbXBpbGVkIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6Z2VuZXJhdGUiLAogICAgICAgICAgICAicGhwIGFydGlzYW4gaWRlLWhlbHBlcjptZXRhIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIGNsZWFyLWNvbXBpbGVkIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIGNsZWFyLWNvbXBpbGVkIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6Z2VuZXJhdGUiLAogICAgICAgICAgICAicGhwIGFydGlzYW4gaWRlLWhlbHBlcjptZXRhIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6Z2VuZXJhdGUiLAogICAgICAgICAgICAicGhwIGFydGlzYW4gaWRlLWhlbHBlcjptZXRhIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6bW9kZWxzIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIG9wdGltaXplIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHVibGljL3B1YmxpYy9waG90by8yMDE3MDMyOC8xNjk2NTcvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIG9wdGltaXplIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6Z2VuZXJhdGUiLAogICAgICAgICAgICAicGhwIGFydGlzYW4gaWRlLWhlbHBlcjptZXRhIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgPGxpIGlkPSJtZW51LWZhdiIgY2xhc3M9IiIgc3R5bGU9ImRpc3BsYXk6bm9uZTsgIj4KICAgICAgICAgICAgICAgICAgICBAaWYoIHN0cnBvcyhSZXF1ZXN0OjpzZXJ2ZXIoJ0hUVFBfSE9TVCcpLCAiY2hpbmEiKSA9PT0gZmFsc2UgKQogICAgICAgICAgICAgICAgICAgICAgICA8YSBpZD0idmlld19mYXYiIHJvbGU9ImJ1dHRvbiIgaHJlZj0iL21hcF92aWV3I2ZhdiI+7KKL7JWE7ZWY64qUIOuwqTwvYT4KPj4+Pj4+PiBkZXYK</text>
+        <text encoding="base64">ICAgICAgICAgICIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNkZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIGNsZWFyLWNvbXBpbGVkIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDspJHqta3slrQg67KE7KCE7J28IOqyveyasCDsnqzsmIHri5jsnbQg7J6F66Cl7ZWcIOygnOuqqSDrs7Tsl6zso7zquLAKICAgICAgICBmb3JlYWNoICgkcmVzdWx0cyBhcyAka2V5ID0+ICRyZXN1bHQpIHsKICAgICAgICAgICAgJGNoaW5hID0gREI6OmNvbm5lY3Rpb24oJ215c3FsMicpCiAgICAgICAgICAgICAgICAtPnRhYmxlKCdjaGluYXMnKQogICAgICAgICAgICAgICAgLT53aGVyZSgnaGlkeCcsICRyZXN1bHQtPmhpZHgpCiAgICAgICAgICAgICAgICAtPmZpcnN0KCk7CiAgICAgICAgICAgIGlmICghZW1wdHkoJGNoaW5hKSkgewogICAgICAgICAgICAgICAgJHJlc3VsdHNbJGtleV0tPnN1YmplY3QgPSAkY2hpbmEtPnN1YmplY3QgPzogJy0nOwogICAgICAgICAgICAgICAgJHJlc3VsdHNbJGtleV0tPnNpZG8gPSAkY2hpbmEtPnNpZG8gPzogJy0nOwogICAgICAgICAgICAgICAgJHJlc3VsdHNbJGtleV0tPnNpZ3VuZ3UgPSAkY2hpbmEtPnNpZ3VuZ3UgPzogJy0nOwogICAgICAgICAgICAgICAgJHJlc3VsdHNbJGtleV0tPmRvbmcgPSAkY2hpbmEtPmRvbmcgPzogJy0nOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIG9wdGltaXplIC1vIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gdHJhbnNsYXRlQ2hpbmVzZSgpe30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIklsbHVtaW5hdGVcXEZvdW5kYXRpb25cXENvbXBvc2VyU2NyaXB0czo6cG9zdFVwZGF0ZSIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
