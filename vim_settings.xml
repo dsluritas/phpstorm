@@ -409,11 +409,11 @@
         <mark key="^" line="26" column="54" />
         <mark key="." line="26" column="54" />
       </file>
-      <file name="$USER_HOME$/luritas/point/resources/assets/sass/app.scss" timestamp="1508691999225">
-        <mark key="[" line="26" column="9" />
-        <mark key="]" line="26" column="12" />
-        <mark key="." line="26" column="12" />
-        <mark key="^" line="26" column="12" />
+      <file name="$USER_HOME$/luritas/point/resources/assets/sass/app.scss" timestamp="1508821779020">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="19" column="15" />
+        <mark key="." line="19" column="15" />
+        <mark key="^" line="19" column="15" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/contents/20171017_notice.html" timestamp="1508220899314">
         <mark key="'" line="0" column="102" />
@@ -609,6 +609,9 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/public/css/app.css" timestamp="1508821763505">
+        <mark key="'" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/wordpress/wp-content/themes/Avada-Child-Theme/map.php" timestamp="1500969460713">
         <mark key="[" line="12" column="8" />
@@ -1030,7 +1033,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="22" filename="$USER_HOME$/luritas/point/app/Http/Controllers/ClassRoomController.php" />
       <jump line="71" column="0" filename="$USER_HOME$/luritas/point/resources/views/class.blade.php" />
       <jump line="47" column="30" filename="$USER_HOME$/luritas/point/resources/views/class.blade.php" />
       <jump line="46" column="39" filename="$USER_HOME$/luritas/point/resources/views/class.blade.php" />
@@ -1130,6 +1132,7 @@
       <jump line="272" column="37" filename="$USER_HOME$/git/ptp/china-duse/app/Http/routes.php" />
       <jump line="32" column="0" filename="$USER_HOME$/git/ptp/china-duse/app/Http/routes.php" />
       <jump line="187" column="0" filename="$USER_HOME$/git/ptp/china-duse/resources/views/map_view2.blade.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/luritas/point/public/css/app.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
