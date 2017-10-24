@@ -755,13 +755,13 @@
         <mark key="." line="203" column="50" />
         <mark key="^" line="203" column="50" />
       </file>
-      <file name="$USER_HOME$/luritas/point/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1508760224972">
+      <file name="$USER_HOME$/luritas/point/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1508810461220">
         <mark key="'" line="29" column="6" />
-        <mark key="[" line="1479" column="27" />
-        <mark key="]" line="1479" column="26" />
+        <mark key="[" line="1481" column="28" />
         <mark key="m" line="1479" column="27" />
-        <mark key="^" line="1479" column="26" />
-        <mark key="." line="1479" column="26" />
+        <mark key="]" line="1482" column="24" />
+        <mark key="." line="1482" column="24" />
+        <mark key="^" line="1482" column="24" />
       </file>
       <file name="$USER_HOME$/git/ptp/china-duse/app/Http/Middleware/CheckIP.php" timestamp="1508482730108">
         <mark key="[" line="22" column="35" />
@@ -1140,7 +1140,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoVGVhY2hlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxIdHRwRXhjZXB0aW9uKCcnKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2682,7 +2682,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$this</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aXRoVGVhY2hlclw+</text>
@@ -2691,28 +2691,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRoPu2VreuqqTwvdGg+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoVGVhY2hlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxIdHRwRXhjZXB0aW9uKCcnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEV4Y2VwdGlvbignJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgndGVhY2hlcl9pZCcsIEF1dGg6OnVzZXIoKS0+aWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGY6OndoZXJlKCdhY2FkZW15X2lkJywgQXV0aDo6dXNlcigpLT5hY2FkZW15X2lkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoVGVhY2hlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZjo6Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgndGVhY2hlcl9pZCcsIEF1dGg6OnVzZXIoKS0+aWQpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZjo6d2hlcmUoJ2FjYWRlbXlfaWQnLCBBdXRoOjp1c2VyKCktPmFjYWRlbXlfaWQpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT53aXRoVGVhY2hlcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcyk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgndGVhY2hlcl9pZCcsIEF1dGg6OnVzZXIoKS0+aWQpCg==</text>
