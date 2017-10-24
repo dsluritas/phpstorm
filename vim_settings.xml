@@ -97,6 +97,9 @@
         <mark key="." line="33" column="38" />
         <mark key="^" line="33" column="38" />
       </file>
+      <file name="$USER_HOME$/luritas/point/database/seeds/UsersTableSeeder.php" timestamp="1508761036327">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/luritas/point/app/User.php" timestamp="1508771791303">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="77" column="0" />
@@ -225,6 +228,9 @@
         <mark key="]" line="108" column="98" />
         <mark key="." line="108" column="98" />
         <mark key="^" line="108" column="98" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/china-duse/app/User.php" timestamp="1508812732754">
+        <mark key="'" line="78" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/china-duse/app/Providers/AppServiceProvider.php" timestamp="1508811917621">
         <mark key="'" line="27" column="16" />
@@ -439,11 +445,11 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/composer.json" timestamp="1508812146148">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="60" column="9" />
-        <mark key="^" line="58" column="43" />
-        <mark key="." line="58" column="43" />
+      <file name="$USER_HOME$/git/ptp/china-duse/composer.json" timestamp="1508813219615">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="48" column="39" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/RealEstateFacility.php" timestamp="1505314347377">
         <mark key="[" line="8" column="29" />
@@ -494,11 +500,12 @@
         <mark key="^" line="55" column="59" />
         <mark key="." line="55" column="59" />
       </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/app/HouseSale.php" timestamp="1508485677972">
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="8" column="34" />
-        <mark key="." line="8" column="34" />
-        <mark key="^" line="8" column="34" />
+      <file name="$USER_HOME$/git/ptp/china-duse/app/HouseSale.php" timestamp="1508812897994">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="283" column="9" />
+        <mark key="]" line="283" column="9" />
+        <mark key="." line="283" column="9" />
+        <mark key="^" line="277" column="3" />
       </file>
       <file name="$USER_HOME$/git/ptp/jobs/cs/index.php" timestamp="1503902054887">
         <mark key="[" line="19" column="51" />
@@ -559,12 +566,10 @@
         <mark key="." line="18" column="40" />
         <mark key="^" line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/luritas/point/composer.json" timestamp="1508812148416">
-        <mark key="'" line="54" column="8" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="65" column="10" />
-        <mark key="^" line="55" column="43" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/luritas/point/composer.json" timestamp="1508813411125">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/china-duse/resources/views/layouts/default.blade.php" timestamp="1508483009342">
         <mark key="[" line="0" column="0" />
@@ -868,6 +873,10 @@
         <mark key="." line="46" column="63" />
         <mark key="^" line="46" column="63" />
       </file>
+      <file name="$USER_HOME$/git/ptp/china-duse/app/BlockKeyword.php" timestamp="1508812895268">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="27" column="5" />
+      </file>
       <file name="$USER_HOME$/luritas/point/app/Http/Controllers/HomeController.php" timestamp="1508775723514">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -934,6 +943,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/composer.json" timestamp="1508813126699">
+        <mark key="'" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/safetyServiceNew.blade.php" timestamp="1504760827937">
         <mark key="[" line="51" column="99" />
@@ -1022,10 +1034,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="25" filename="$USER_HOME$/luritas/point/app/Http/Controllers/PointController.php" />
-      <jump line="72" column="0" filename="$USER_HOME$/luritas/point/resources/views/model.blade.php" />
-      <jump line="74" column="83" filename="$USER_HOME$/luritas/point/resources/views/model.blade.php" />
-      <jump line="45" column="46" filename="$USER_HOME$/luritas/point/resources/views/model.blade.php" />
       <jump line="55" column="56" filename="$USER_HOME$/luritas/point/resources/views/model.blade.php" />
       <jump line="50" column="10" filename="$USER_HOME$/luritas/point/app/Http/Controllers/StudentController.php" />
       <jump line="62" column="42" filename="$USER_HOME$/luritas/point/resources/views/model.blade.php" />
@@ -1122,6 +1130,10 @@
       <jump line="21" column="16" filename="$USER_HOME$/git/ptp/china-duse/.env" />
       <jump line="193" column="39" filename="$USER_HOME$/git/ptp/china-duse/config/app.php" />
       <jump line="27" column="16" filename="$USER_HOME$/git/ptp/china-duse/app/Providers/AppServiceProvider.php" />
+      <jump line="50" column="38" filename="$USER_HOME$/git/ptp/china-duse/composer.json" />
+      <jump line="78" column="0" filename="$USER_HOME$/git/ptp/china-duse/app/User.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/git/ptp/china-duse/app/HouseSale.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/git/ptp/duseAPI/composer.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1145,7 +1157,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAicG9zdC1pbnN0YWxsLWNtZCI6IFsKICAgICAgICAgICAgIklsbHVtaW5hdGVcXEZvdW5kYXRpb25cXENvbXBvc2VyU2NyaXB0czo6cG9zdEluc3RhbGwiLAogICAgICAgICAgICAicGhwIGFydGlzYW4gY2xlYXItY29tcGlsZWQiLAogICAgICAgICAgICAicGhwIGFydGlzYW4gaWRlLWhlbHBlcjpnZW5lcmF0ZSIsCiAgICAgICAgICAgICJwaHAgYXJ0aXNhbiBpZGUtaGVscGVyOm1ldGEiLAogICAgICAgICAgICAicGhwIGFydGlzYW4gaWRlLWhlbHBlcjptb2RlbHMiLAogICAgICAgICAgICAicGhwIGFydGlzYW4gb3B0aW1pemUiCiAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIGNsZWFyLWNvbXBpbGVkIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6Z2VuZXJhdGUiLAogICAgICAgICAgICAicGhwIGFydGlzYW4gaWRlLWhlbHBlcjptZXRhIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6bW9kZWxzIiwK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2687,49 +2699,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>word</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3aXRoVGVhY2hlclw+</text>
+        <text>doctrine</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAicG9zdC1pbnN0YWxsLWNtZCI6IFsKICAgICAgICAgICAgIklsbHVtaW5hdGVcXEZvdW5kYXRpb25cXENvbXBvc2VyU2NyaXB0czo6cG9zdEluc3RhbGwiLAogICAgICAgICAgICAicGhwIGFydGlzYW4gY2xlYXItY29tcGlsZWQiLAogICAgICAgICAgICAicGhwIGFydGlzYW4gaWRlLWhlbHBlcjpnZW5lcmF0ZSIsCiAgICAgICAgICAgICJwaHAgYXJ0aXNhbiBpZGUtaGVscGVyOm1ldGEiLAogICAgICAgICAgICAicGhwIGFydGlzYW4gaWRlLWhlbHBlcjptb2RlbHMiLAogICAgICAgICAgICAicGhwIGFydGlzYW4gb3B0aW1pemUiCiAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgIC8vIFRoZSBhdHRyaWJ1dGVzIHRoYXQgYXJlIG1hc3MgYXNzaWduYWJsZS4KICAgIHByb3RlY3RlZCAkZmlsbGFibGUgPSBbCiAgICAgICAgJ3dvcmQnCiAgICBdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAicG9zdC1hdXRvbG9hZC1kdW1wIjogWwogICAgICAgICAgICAiSWxsdW1pbmF0ZVxcRm91bmRhdGlvblxcQ29tcG9zZXJTY3JpcHRzOjpwb3N0QXV0b2xvYWREdW1wIiwKICAgICAgICAgICAgIkBwaHAgYXJ0aXNhbiBwYWNrYWdlOmRpc2NvdmVyIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGNsZWFyLWNvbXBpbGVkIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6Z2VuZXJhdGUiLAogICAgICAgICAgICAicGhwIGFydGlzYW4gaWRlLWhlbHBlcjptZXRhIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6bW9kZWxzIgogICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIGNsZWFyLWNvbXBpbGVkIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6Z2VuZXJhdGUiLAogICAgICAgICAgICAicGhwIGFydGlzYW4gaWRlLWhlbHBlcjptZXRhIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6bW9kZWxzIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6Z2VuZXJhdGUiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIG9wdGltaXplIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIGNsZWFyLWNvbXBpbGVkIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6Z2VuZXJhdGUiLAogICAgICAgICAgICAicGhwIGFydGlzYW4gaWRlLWhlbHBlcjptZXRhIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6bW9kZWxzIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgXEh0dHBFeGNlcHRpb24oJycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6Z2VuZXJhdGUiLAogICAgICAgICAgICAicGhwIGFydGlzYW4gaWRlLWhlbHBlcjptZXRhIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6bW9kZWxzIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxIdHRwRXhjZXB0aW9uKCcnKQo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkdGFibGUgPSAnVEJfSE9VU0VfU0FMRSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEV4Y2VwdGlvbignJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIkBwaHAgYXJ0aXNhbiBwYWNrYWdlOmRpc2NvdmVyIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGY6OndoZXJlKCdhY2FkZW15X2lkJywgQXV0aDo6dXNlcigpLT5hY2FkZW15X2lkKTsK</text>
+        <text encoding="base64">ICAgICAgICAicG9zdC1hdXRvbG9hZC1kdW1wIjogWwogICAgICAgICAgICAiSWxsdW1pbmF0ZVxcRm91bmRhdGlvblxcQ29tcG9zZXJTY3JpcHRzOjpwb3N0QXV0b2xvYWREdW1wIiwKICAgICAgICAgICAgIkBwaHAgYXJ0aXNhbiBwYWNrYWdlOmRpc2NvdmVyIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGNsZWFyLWNvbXBpbGVkIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6Z2VuZXJhdGUiLAogICAgICAgICAgICAicGhwIGFydGlzYW4gaWRlLWhlbHBlcjptZXRhIiwKICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6bW9kZWxzIgogICAgICAgIF0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZjo6Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6Z2VuZXJhdGUiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIG9wdGltaXplIiwK</text>
       </register>
       <register name=":" type="4">
         <text>123</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3aXRoVGVhY2hlclw+</last-search>
+      <last-search>doctrine</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3aXRoVGVhY2hlclw+</last-pattern>
+      <last-pattern>doctrine</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0ZWFjaGVyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2737,8 +2749,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YWNoZXJcPg==</entry>
-        <entry encoding="base64">XDxpdGVtc1w+</entry>
         <entry encoding="base64">XDx0ZWFjaGVyXD4=</entry>
         <entry>autocom</entry>
         <entry encoding="base64">XDxhdXRvQ29tcGxldGVcPg==</entry>
@@ -2757,6 +2767,8 @@
         <entry>select</entry>
         <entry>students</entry>
         <entry encoding="base64">XDx3aXRoVGVhY2hlclw+</entry>
+        <entry>doc</entry>
+        <entry>doctrine</entry>
       </history-search>
       <history-cmd>
         <entry>590</entry>
