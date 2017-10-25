@@ -84,9 +84,6 @@
         <mark key="^" line="20" column="84" />
         <mark key="." line="20" column="84" />
       </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/resources/views/map_view2.blade.php" timestamp="1508815277030">
-        <mark key="'" line="187" column="0" />
-      </file>
       <file name="$USER_HOME$/git/ptp/china-duse/app/Http/routes.php" timestamp="1508922148109">
         <mark key="'" line="25" column="27" />
         <mark key="[" line="404" column="21" />
@@ -99,9 +96,6 @@
         <mark key="]" line="33" column="38" />
         <mark key="." line="33" column="38" />
         <mark key="^" line="33" column="38" />
-      </file>
-      <file name="$USER_HOME$/luritas/point/database/seeds/UsersTableSeeder.php" timestamp="1508761036327">
-        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/luritas/point/app/User.php" timestamp="1508771791303">
         <mark key="'" line="58" column="0" />
@@ -226,9 +220,6 @@
         <mark key="." line="108" column="98" />
         <mark key="^" line="108" column="98" />
       </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/app/User.php" timestamp="1508812732754">
-        <mark key="'" line="78" column="0" />
-      </file>
       <file name="$USER_HOME$/git/ptp/china-duse/app/Providers/AppServiceProvider.php" timestamp="1508834110006">
         <mark key="'" line="27" column="16" />
         <mark key="[" line="26" column="38" />
@@ -253,9 +244,6 @@
         <mark key="]" line="19" column="62" />
         <mark key="^" line="19" column="62" />
         <mark key="." line="19" column="62" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/public/js/map2.js" timestamp="1508831135992">
-        <mark key="'" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/FaAppnoPivot.php" timestamp="1504862593650">
         <mark key="[" line="12" column="71" />
@@ -295,6 +283,7 @@
         <mark key="^" line="32" column="35" />
         <mark key="." line="32" column="35" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/User.php" timestamp="1508932389475" />
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/payment/inicis/return.blade.php" timestamp="1505265705576">
         <mark key="[" line="57" column="7" />
         <mark key="]" line="57" column="6" />
@@ -500,6 +489,7 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
       </file>
+      <file name="$USER_HOME$/git/ptp/china-duse/app/Http/Controllers/MapViewController.php" timestamp="1508827630139" />
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/commonTable.blade.php" timestamp="1503902951874">
         <mark key="[" line="55" column="49" />
         <mark key="]" line="55" column="59" />
@@ -602,9 +592,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/luritas/point/public/css/app.css" timestamp="1508821763505">
-        <mark key="'" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/wordpress/wp-content/themes/Avada-Child-Theme/map.php" timestamp="1500969460713">
         <mark key="[" line="12" column="8" />
@@ -915,11 +902,6 @@
         <mark key="." line="21" column="20" />
         <mark key="^" line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/.gitignore" timestamp="1508834464864">
-        <mark key="'" line="69" column="10" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="79" column="14" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/map.php" timestamp="1508315150755">
         <mark key="'" line="66" column="14" />
         <mark key="[" line="468" column="0" />
@@ -964,7 +946,7 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/composer.json" timestamp="1508836211618">
+      <file name="$USER_HOME$/git/ptp/duseAPI/composer.json" timestamp="1508932466877">
         <mark key="'" line="37" column="26" />
       </file>
       <file name="$USER_HOME$/luritas/point/resources/views/partials/head/class/students.blade.php" timestamp="1508849044841">
