@@ -73,12 +73,12 @@
         <mark key="^" line="17" column="69" />
         <mark key="." line="17" column="69" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" timestamp="1508993744501">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="64" column="9" />
-        <mark key="]" line="69" column="122374" />
-        <mark key="." line="69" column="122374" />
-        <mark key="^" line="69" column="122374" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/layout.blade.php" timestamp="1509005940736">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="68" column="122374" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Dong.php" timestamp="1506394006253">
         <mark key="'" line="29" column="8" />
@@ -210,12 +210,6 @@
         <mark key="]" line="38" column="20" />
         <mark key="^" line="63" column="58" />
         <mark key="." line="38" column="20" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/public/contents/20171018_notice.html" timestamp="1508301770642">
-        <mark key="[" line="0" column="88975" />
-        <mark key="]" line="0" column="88969" />
-        <mark key="." line="0" column="88969" />
-        <mark key="^" line="0" column="88969" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-config.php" timestamp="1502445542850">
         <mark key="[" line="35" column="29" />
@@ -411,11 +405,11 @@
         <mark key="." line="22" column="58" />
         <mark key="^" line="22" column="58" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/notice/terms.blade.php" timestamp="1508305447584">
-        <mark key="[" line="2" column="51" />
-        <mark key="]" line="2" column="55" />
-        <mark key="." line="2" column="55" />
-        <mark key="^" line="2" column="55" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/emails/notice/terms.blade.php" timestamp="1509005976424">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="54" />
       </file>
       <file name="$USER_HOME$/luritas/point/routes/web.php" timestamp="1508950704811">
         <mark key="'" line="43" column="21" />
@@ -1268,7 +1262,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkZCgkcHJpY2VzLT50b1NxbCgpKTsK</text>
+        <text encoding="base64">ICAgIHt7IGZpbGVfZ2V0X2NvbnRlbnQoKSB9fQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2819,31 +2813,31 @@
         <text>DB::raw(' `market_prices`.`idx`, `market_prices`.`house_type`, `market_prices`.`rent_type`, `market_prices`.`room_type`, `market_prices`.`area`, `market_prices`.`gugun`, `market_prices`.`dong`, `market_prices`.`deposit`, `market_prices`.`monthly_fee`, `market_prices`.`date`, `TB_DONG_LIST_B`.`latitude`, `TB_DONG_LIST_B`.`longitude`')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkZCgkcHJpY2VzLT50b1NxbCgpKTsK</text>
+        <text encoding="base64">ICAgIHt7IGZpbGVfZ2V0X2NvbnRlbnQoKSB9fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHByaWNlcy0+dG9TcWwoKSk7Cg==</text>
+        <text encoding="base64">ICAgIDxpZnJhbWUgc3JjPSJ7eyBhc3NldCgnY29udGVudHMvMjAxNzEwMThfbm90aWNlLmh0bWwnKSB9fSIgZnJhbWVib3JkZXI9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjcyMDBweCI+PC9pZnJhbWU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHByaWNlcyk7Cg==</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9Int7IGFzc2V0KCcvY3NzL2Jvb3RzdHJhcC5taW4uY3NzJykgfX0iPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBkZCgkcHJpY2VzLT50b1NxbCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJpY2VzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHByaWNlcy0+dG9TcWwoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJpY2VzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHByaWNlcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Ly8tPmdldCgpLT50b0FycmF5KCk7Cg==</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5ncm91cEJ5KGZ1bmN0aW9uICgkcXVlcnkpIHVzZSAoJGZpbHRlcikgewo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcHJpY2VzKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LT5ncm91cEJ5KGZ1bmN0aW9uICgkcXVlcnkpIHVzZSAoJGZpbHRlcikgewogICAgICAgICAgICAgICAgaWYgKCRmaWx0ZXJbJ3pvb21MZXZlbCddID49IDYpIHsgLy8g6rWs64uo7JyECiAgICAgICAgICAgICAgICAgICAgJHF1ZXJ5LT5ncm91cEJ5KFsnc2lkbycsICdkb25nJ10pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcHJpY2VzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>663</text>
