@@ -27,12 +27,12 @@
         <mark key="." line="16" column="43" />
         <mark key="^" line="17" column="43" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" timestamp="1508997268789">
-        <mark key="'" line="159" column="4" />
-        <mark key="[" line="158" column="54" />
-        <mark key="]" line="158" column="54" />
-        <mark key="." line="158" column="54" />
-        <mark key="^" line="154" column="41" />
+      <file name="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" timestamp="1509002546155">
+        <mark key="'" line="156" column="19" />
+        <mark key="[" line="88" column="42" />
+        <mark key="]" line="88" column="42" />
+        <mark key="." line="88" column="42" />
+        <mark key="^" line="90" column="26" />
       </file>
       <file name="$USER_HOME$/luritas/point/app/Http/Middleware/CheckTeacher.php" timestamp="1508944788375">
         <mark key="[" line="19" column="12" />
@@ -711,12 +711,12 @@
         <mark key="^" line="12" column="65" />
         <mark key="." line="12" column="65" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" timestamp="1509001273853">
-        <mark key="'" line="863" column="9" />
-        <mark key="[" line="857" column="60" />
-        <mark key="]" line="857" column="60" />
-        <mark key="^" line="857" column="60" />
-        <mark key="." line="857" column="60" />
+      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" timestamp="1509004734201">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="611" column="0" />
+        <mark key="]" line="611" column="0" />
+        <mark key="." line="611" column="0" />
+        <mark key="^" line="607" column="28" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1508303800749">
         <mark key="'" line="30" column="0" />
@@ -1145,10 +1145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="415" column="0" filename="$USER_HOME$/git/ptp/china-duse/app/Http/routes.php" />
-      <jump line="25" column="27" filename="$USER_HOME$/git/ptp/china-duse/app/Http/routes.php" />
-      <jump line="85" column="27" filename="$USER_HOME$/luritas/point/resources/views/student.blade.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/luritas/point/.env" />
       <jump line="0" column="0" filename="$USER_HOME$/luritas/point/.env" />
       <jump line="37" column="0" filename="$USER_HOME$/luritas/point/.env" />
       <jump line="64" column="10" filename="$USER_HOME$/luritas/point/composer.json" />
@@ -1216,7 +1212,6 @@
       <jump line="94" column="9" filename="$USER_HOME$/luritas/point/vendor/laravel/framework/composer.json" />
       <jump line="208" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/vendor/illuminate/http/Request.php" />
       <jump line="61" column="25" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/vendor/illuminate/http/Request.php" />
-      <jump line="151" column="2" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
       <jump line="64" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/vendor/symfony/http-foundation/Request.php" />
       <jump line="253" column="22" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/vendor/symfony/http-foundation/Request.php" />
       <jump line="13" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
@@ -1245,6 +1240,11 @@
       <jump line="8" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
       <jump line="863" column="62" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
       <jump line="860" column="9" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="148" column="6" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
+      <jump line="151" column="19" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
+      <jump line="603" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="613" column="43" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
+      <jump line="23" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1267,8 +1267,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBkZCgkcHJpY2VzLT50b1NxbCgpKTsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2810,49 +2810,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>dong</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGxvYWRmaWxlXD4=</text>
+        <text>getType</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcmtldFByaWNlOjpjcmVhdGUoWwogICAgICAgICAgICAgICAgICAgICdob3VzZV90eXBlJyA9PiAkaG91c2VUeXBlLAogICAgICAgICAgICAgICAgICAgICdyb29tX3R5cGUnID0+ICRyb29tVHlwZSwKICAgICAgICAgICAgICAgICAgICAncmVudF90eXBlJyA9PiAn7JuU7IS4JywKICAgICAgICAgICAgICAgICAgICAnc2lkbycgPT4gJ+yEnOyauO2KueuzhOyLnCcsCiAgICAgICAgICAgICAgICAgICAgJ2d1Z3VuJyA9PiAkZGF0YVswXSwKICAgICAgICAgICAgICAgICAgICAnZG9uZycgPT4gJGRhdGFbMV0sCiAgICAgICAgICAgICAgICAgICAgJ2RlcG9zaXQnID0+ICRkYXRhWzJdLAogICAgICAgICAgICAgICAgICAgICdtb250aGx5X2ZlZScgPT4gJGRhdGFbM10sCiAgICAgICAgICAgICAgICAgICAgJ2RhdGUnID0+ICRkYXRlLAogICAgICAgICAgICAgICAgXSk7Cg==</text>
+      <register name="0" type="4">
+        <text>DB::raw(' `market_prices`.`idx`, `market_prices`.`house_type`, `market_prices`.`rent_type`, `market_prices`.`room_type`, `market_prices`.`area`, `market_prices`.`gugun`, `market_prices`.`dong`, `market_prices`.`deposit`, `market_prices`.`monthly_fee`, `market_prices`.`date`, `TB_DONG_LIST_B`.`latitude`, `TB_DONG_LIST_B`.`longitude`')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBkZCgkcHJpY2VzLT50b1NxbCgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHByaWNlcy0+dG9TcWwoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICfsnpDshLjtlZwg65SU67KE6rmFIOygleuztOyeheuLiOuLpDonOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHByaWNlcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbW9udGhseV9mZWUnID0+ICRkYXRhWzNdLAo=</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcHJpY2VzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkbXA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcHJpY2VzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gJGRhdGFbMF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Ly8tPmdldCgpLT50b0FycmF5KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5ncm91cEJ5KGZ1bmN0aW9uICgkcXVlcnkpIHVzZSAoJGZpbHRlcikgewo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCkK</text>
+      <register name="9" type="4">
+        <text encoding="base64">LT5ncm91cEJ5KGZ1bmN0aW9uICgkcXVlcnkpIHVzZSAoJGZpbHRlcikgewogICAgICAgICAgICAgICAgaWYgKCRmaWx0ZXJbJ3pvb21MZXZlbCddID49IDYpIHsgLy8g6rWs64uo7JyECiAgICAgICAgICAgICAgICAgICAgJHF1ZXJ5LT5ncm91cEJ5KFsnc2lkbycsICdkb25nJ10pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KQ==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>663</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGxvYWRmaWxlXD4=</last-search>
+      <last-search>getType</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGxvYWRmaWxlXD4=</last-pattern>
+      <last-pattern>getType</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx0ZWFjaGVyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2860,8 +2860,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxIT1VTRV9ERVNDXD4=</entry>
-        <entry>script</entry>
         <entry>app.js</entry>
         <entry encoding="base64">XDxob3VzZVR5cGVcPg==</entry>
         <entry encoding="base64">XDx0ZW1wbGF0ZVw+</entry>
@@ -2880,11 +2878,10 @@
         <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
         <entry>FILES</entry>
         <entry encoding="base64">XDx1cGxvYWRmaWxlXD4=</entry>
+        <entry>price</entry>
+        <entry>getType</entry>
       </history-search>
       <history-cmd>
-        <entry>590</entry>
-        <entry>141</entry>
-        <entry>19</entry>
         <entry>284</entry>
         <entry>650</entry>
         <entry>605</entry>
@@ -2902,6 +2899,9 @@
         <entry encoding="base64">JzwsJz5ub3JtIGkj</entry>
         <entry>123</entry>
         <entry>w</entry>
+        <entry>330</entry>
+        <entry>664</entry>
+        <entry>663</entry>
       </history-cmd>
       <history-expr />
       <history-input />
