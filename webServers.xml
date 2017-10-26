@@ -7,7 +7,7 @@
     </sftpAdvancedGlobalOptions>
     <option name="servers">
       <webServer id="3fa72271-f766-44a8-82a6-6bd99b48fea9" name="snsl" url="http://snsl.kr">
-        <fileTransfer host="snsl.kr" port="6424" accessType="SFTP">
+        <fileTransfer host="snsl.kr" port="6424" rootFolder="/var/www/www.snsl.kr" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
