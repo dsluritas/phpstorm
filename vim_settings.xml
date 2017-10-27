@@ -56,8 +56,8 @@
       <file name="$USER_HOME$/git/ptp/china-duse/resources/views/map_view2.blade.php" timestamp="1508815277030">
         <mark key="'" line="187" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/app/Http/routes.php" timestamp="1508922148109">
-        <mark key="'" line="25" column="27" />
+      <file name="$USER_HOME$/git/ptp/china-duse/app/Http/routes.php" timestamp="1509069807692">
+        <mark key="'" line="189" column="48" />
         <mark key="[" line="404" column="21" />
         <mark key="]" line="404" column="21" />
         <mark key="." line="404" column="21" />
@@ -1150,7 +1150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/vendor/symfony/http-foundation/Request.php" />
       <jump line="253" column="22" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/vendor/symfony/http-foundation/Request.php" />
       <jump line="13" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
       <jump line="156" column="4" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
@@ -1250,6 +1249,7 @@
       <jump line="16" column="35" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
       <jump line="189" column="22" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
       <jump line="53" column="37" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="189" column="48" filename="$USER_HOME$/git/ptp/china-duse/app/Http/routes.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
