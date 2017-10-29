@@ -78,11 +78,10 @@
         <mark key="." line="404" column="21" />
         <mark key="^" line="404" column="29" />
       </file>
-      <file name="$USER_HOME$/luritas/point/app/User.php" timestamp="1509208202137">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
+      <file name="$USER_HOME$/luritas/point/app/User.php" timestamp="1509233856391">
+        <mark key="[" line="105" column="20" />
+        <mark key="]" line="105" column="21" />
+        <mark key="." line="105" column="21" />
       </file>
       <file name="$USER_HOME$/luritas/point/database/migrations/2017_10_22_164037_add_column_class_to_users.php" timestamp="1508658177435">
         <mark key="[" line="16" column="0" />
@@ -130,6 +129,11 @@
         <mark key="]" line="26" column="26" />
         <mark key="." line="26" column="26" />
         <mark key="^" line="26" column="26" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1509019329403">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_regist_done.blade.php" timestamp="1501553025580">
         <mark key="[" line="40" column="6" />
@@ -208,6 +212,11 @@
         <mark key="^" line="63" column="58" />
         <mark key="." line="38" column="20" />
       </file>
+      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/Auth/RegisterController.php" timestamp="1508657428698">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-config.php" timestamp="1502445542850">
         <mark key="[" line="35" column="29" />
         <mark key="]" line="35" column="31" />
@@ -225,6 +234,11 @@
         <mark key="]" line="2" column="25" />
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php" timestamp="1508601852271">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1508205487237">
         <mark key="'" line="479" column="13" />
@@ -271,6 +285,16 @@
         <mark key="^" line="12" column="107" />
         <mark key="." line="12" column="107" />
       </file>
+      <file name="$USER_HOME$/luritas/point/database/seeds/TestUsersTableSeeder.php" timestamp="1509107083857">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/storage/framework/views/e257835b905ccfe19f452212068f3afab99ba693.php" timestamp="1508690314477">
+        <mark key="[" line="126" column="62" />
+        <mark key="]" line="126" column="62" />
+        <mark key="." line="126" column="62" />
+      </file>
       <file name="$USER_HOME$/luritas/point/resources/views/dashboard-student.blade.php" timestamp="1508951658908">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="22" />
@@ -297,17 +321,22 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/DashboardStudentController.php" timestamp="1509208498275">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="30" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="21" column="48" />
+      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/DashboardStudentController.php" timestamp="1509235825845">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="18" column="38" />
       </file>
       <file name="$USER_HOME$/git/ptp/china-duse/resources/views/layouts/default.blade.php" timestamp="1508483009342">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="16" column="6" />
         <mark key="^" line="16" column="6" />
         <mark key="." line="16" column="6" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/app/Point.php" timestamp="1509234204051">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/profile-menu.blade.php" timestamp="1504593397699">
         <mark key="[" line="5" column="20" />
@@ -327,6 +356,11 @@
         <mark key="]" line="80" column="9" />
         <mark key="." line="72" column="45" />
         <mark key="^" line="72" column="45" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" timestamp="1508830483258">
+        <mark key="[" line="567" column="0" />
+        <mark key="]" line="567" column="0" />
+        <mark key="." line="567" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/china-duse/public/js/map_filter.js" timestamp="1508831970622">
         <mark key="[" line="1146" column="45" />
@@ -440,12 +474,12 @@
         <mark key="." line="13" column="34" />
         <mark key="^" line="13" column="34" />
       </file>
-      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/InvitationController.php" timestamp="1509206366851">
+      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/InvitationController.php" timestamp="1509234111962">
         <mark key="'" line="26" column="33" />
-        <mark key="[" line="27" column="41" />
-        <mark key="]" line="27" column="41" />
-        <mark key="." line="27" column="41" />
-        <mark key="^" line="27" column="41" />
+        <mark key="[" line="19" column="47" />
+        <mark key="]" line="19" column="47" />
+        <mark key="." line="19" column="47" />
+        <mark key="^" line="19" column="46" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_home.blade.php" timestamp="1500013621778">
         <mark key="[" line="210" column="0" />
@@ -557,7 +591,14 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="35" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509208591283">
+      <file name="$USER_HOME$/luritas/point/app/PointTransaction.php" timestamp="1509235746248">
+        <mark key="'" line="9" column="6" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="74" column="42" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1509234213159">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
@@ -769,6 +810,11 @@
         <mark key="." line="34" column="47" />
         <mark key="^" line="34" column="47" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-blog-header.php" timestamp="1508575938943">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/luritas/point/app/Http/Controllers/ClassRoomController.php" timestamp="1509206853157">
         <mark key="'" line="53" column="6" />
         <mark key="[" line="22" column="53" />
@@ -860,6 +906,11 @@
         <mark key="^" line="22" column="81" />
         <mark key="." line="22" column="81" />
       </file>
+      <file name="$USER_HOME$/luritas/point/database/seeds/AcademiesTableSeeder.php" timestamp="1509161782687">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/commonTable.blade.php" timestamp="1503902951874">
         <mark key="[" line="55" column="49" />
         <mark key="]" line="55" column="59" />
@@ -943,12 +994,17 @@
         <mark key="." line="13" column="33" />
         <mark key="^" line="13" column="33" />
       </file>
-      <file name="$USER_HOME$/luritas/point/app/Invitation.php" timestamp="1509206790566">
-        <mark key="'" line="60" column="4" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="72" column="49" />
+      <file name="$USER_HOME$/git/ptp/china-duse/resources/views/common/header.blade.php" timestamp="1508834432474">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/app/Invitation.php" timestamp="1509234125732">
+        <mark key="'" line="38" column="6" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="81" column="17" />
+        <mark key="." line="81" column="17" />
+        <mark key="^" line="81" column="17" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/layouts/agency.blade.php" timestamp="1507635090592">
         <mark key="[" line="29" column="29" />
@@ -1212,12 +1268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1317" column="16" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/bundle.js" />
-      <jump line="1295" column="16" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/bundle.js" />
-      <jump line="1637" column="30" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/bundle.js" />
-      <jump line="1647" column="17" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/bundle.js" />
-      <jump line="1893" column="11" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/bundle.js" />
-      <jump line="1633" column="4" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/bundle.js" />
       <jump line="1634" column="13" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/bundle.js" />
       <jump line="167" column="21" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
       <jump line="28" column="0" filename="$USER_HOME$/PhpstormProjects/seoul/api/routes.php" />
@@ -1312,6 +1362,12 @@
       <jump line="34" column="3" filename="$USER_HOME$/luritas/point/app/User.php" />
       <jump line="56" column="0" filename="$USER_HOME$/luritas/point/app/User.php" />
       <jump line="105" column="0" filename="$USER_HOME$/luritas/point/resources/views/student/student.blade.php" />
+      <jump line="55" column="6" filename="$USER_HOME$/luritas/point/app/User.php" />
+      <jump line="47" column="5" filename="$USER_HOME$/luritas/point/app/PointTransaction.php" />
+      <jump line="74" column="33" filename="$USER_HOME$/luritas/point/app/PointTransaction.php" />
+      <jump line="108" column="7" filename="$USER_HOME$/luritas/point/app/User.php" />
+      <jump line="38" column="6" filename="$USER_HOME$/luritas/point/app/Invitation.php" />
+      <jump line="9" column="6" filename="$USER_HOME$/luritas/point/app/PointTransaction.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1334,8 +1390,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIOy5nOq1rCDrpqzsiqTtirggKOy2lOqwgCDquLDriqUpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LT50b1NxbCgp</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2877,40 +2933,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dashboard-</text>
+        <text encoding="base64">LT50b1NxbCgp</text>
       </register>
       <register name="/" type="4">
         <text>with</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFjYWRlbXktPnVzZXJzKCktPnNhdmUoJHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzY29wZVdpdGhBY2FkZW15KCRxdWVyeSkKICAgIHsKICAgICAgICByZXR1cm4gJHF1ZXJ5LT53aGVyZSgnYWNhZGVteV9pZCcsIEF1dGg6OnVzZXIoKS0+YWNhZGVteV9pZCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIOy5nOq1rCDrpqzsiqTtirggKOy2lOqwgCDquLDriqUpCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">d2l0aChbJ3BvaW50cycgPT4gZnVuY3Rpb24gKCRxdWVyeSkgewogICAgICAgICAgICAkcXVlcnktPndoZXJlKCdwb2ludHMuYWNhZGVteV9pZCcsIEF1dGg6OnVzZXIoKS0+YWNhZGVteV9pZCk7CiAgICAgICAgfV0pOwogICAgICAgIGZvcmVhY2ggKCRwb2luKQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NsYXNzUm9vbUxpc3QnICAgICA9PiAkY2xhc3NSb29tTGlzdCwKICAgICAgICAgICAgJ2NsYXNzUm9vbXMnICAgICAgICA9PiAkY2xhc3NSb29tcywKICAgICAgICAgICAgJ3BvaW50VHJhbnNhY3Rpb25zJyA9PiAkcG9pbnRUcmFuc2FjdGlvbnMsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xhc3NSb29tcyA9IFtdOwogICAgICAgICRjbGFzc1Jvb21MaXN0ID0gQXV0aDo6dXNlcigpLT5jbGFzc1Jvb21zOyAgICAgLy8g7ISg7IOd64uY7J20IOqwgOyngOqzoCDsnojripQg7YG0656Y7IqkIGxpc3QKICAgICAgICBmb3JlYWNoICgkY2xhc3NSb29tTGlzdCBhcyAkY2xhc3NSb29tKSB7CiAgICAgICAgICAgICRjbGFzc1Jvb21zWyRjbGFzc1Jvb20tPmlkXSA9ICRjbGFzc1Jvb20tPmdldFN0dWRlbnRzKCk7ICAgICAgIC8v6rCBIO2BtOuemOyKpOuLuSDtlZnsg50g66as7Iqk7Yq4CiAgICAgICAgfQoKICAgICAgICAkcG9pbnRUcmFuc2FjdGlvbnMgPSBQb2ludFRyYW5zYWN0aW9uOjpsYXRlc3QoKQogICAgICAgICAgICAtPndoZXJlKCd1c2VyX0lkJywgQXV0aDo6dXNlcigpLT5pZCkKICAgICAgICAgICAgLT5nZXQoKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gc2NvcGVXaXRoTWluZSgkcXVlcnkpCiAgICB7CiAgICAgICAgcmV0dXJuICRxdWVyeS0+d2hlcmUoJ3VzZXJfaWQnLCBBdXRoOjp1c2VyKCktPmlkKTsKICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcG9pbnRUcmFuc2FjdGlvbkJ1aWxkZXIpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImUiCg==</text>
+        <text encoding="base64">ICAgICAgICBkZChQb2ludDo6d2l0aEFjYWRlbXkoKS0+c3VtKCdwJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBmb3JlYWNoKCRjbGFzc1Jvb21zIGFzICRjbGFzc1Jvb20pCiAgICAgICAgQGZvcmVhY2goJGNsYXNzUm9vbS0+dXNlcnMgYXMgJHN0dWRlbnQpCiAgICAgICAgICAgIDx0ciBjbGFzcz0iY2xhc3Nfe3sgJHN0dWRlbnQtPnBpdm90LT5jbGFzc19yb29tX2lkIH19Ij4KICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0ibW9iaWxlLW5vbmUiPnt7ICRsb29wLT5pdGVyYXRpb24gfX08L3RkPgogICAgICAgICAgICAgICAgPHRkPnt7ICRzdHVkZW50LT5uYW1lIH19PC90ZD4KICAgICAgICAgICAgICAgIDx0ZD57eyAkc3R1ZGVudC0+bW9iaWxlX3Bob25lIH19PC90ZD4KICAgICAgICAgICAgICAgIDx0ZD57eyAkc3R1ZGVudC0+cG9pbnQgfX08L3RkPgogICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJtb2JpbGUtbm9uZSI+e3sgJHN0dWRlbnQtPmRhdGVfb2ZfYmlydGggfX08L3RkPgogICAgICAgICAgICAgICAge3stLTx0ZCBjbGFzcz0ibW9iaWxlLW5vbmUiPi08L3RkPi0tfX0KICAgICAgICAgICAgICAgIHt7LS08dGQgY2xhc3M9Im1vYmlsZS1ub25lIj4tPC90ZD4tLX19CiAgICAgICAgICAgIDwvdHI+CiAgICAgICAgQGVuZGZvcmVhY2gKICAgICAgICBAaWYgKGVtcHR5KCRjbGFzc1Jvb20pKQogICAgICAgICAgICA8dHIgY2xhc3M9ImNsYXNzX3t7ICRzdHVkZW50LT5waXZvdC0+Y2xhc3Nfcm9vbV9pZCB9fSI+CiAgICAgICAgICAgICAgICA8dGQgY29sc3Bhbj0iNyI+7ZWZ7IOd7J20IOyXhuyKteuLiOuLpDwvdGQ+CiAgICAgICAgICAgIDwvdHI+CiAgICAgICAgQGVuZGlmCiAgICBAZW5kZm9yZWFjaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgRm9ybTo6dGV4dChbJyddKSB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAkcCA9IEF1dGg6OnVzZXIoKS0+cG9pbnRUcmFuc2FjdGlvbnM7CiAgICAgICAgZHVtcCgkcCk7CiAgICAgICAgcmV0dXJuICdoZWxsbyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
