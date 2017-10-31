@@ -395,11 +395,11 @@
         <mark key="^" line="1263" column="11" />
         <mark key="." line="1263" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/friday/boostrap-select/app.js" timestamp="1509411701818">
+      <file name="$USER_HOME$/git/ptp/friday/boostrap-select/app.js" timestamp="1509413066627">
         <mark key="[" line="0" column="32" />
-        <mark key="]" line="0" column="33" />
+        <mark key="]" line="0" column="32" />
         <mark key="^" line="0" column="33" />
-        <mark key="." line="0" column="33" />
+        <mark key="." line="0" column="32" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/FaAPIController.php" timestamp="1508153251467">
         <mark key="[" line="365" column="40" />
@@ -1409,8 +1409,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>./bootstrap-select</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2952,7 +2952,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>./bootstrap-select</text>
       </register>
       <register name="/" type="4">
         <text>with</text>
