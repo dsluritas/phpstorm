@@ -78,11 +78,6 @@
         <mark key="." line="404" column="21" />
         <mark key="^" line="404" column="29" />
       </file>
-      <file name="$USER_HOME$/luritas/point/app/User.php" timestamp="1509233856391">
-        <mark key="[" line="105" column="20" />
-        <mark key="]" line="105" column="21" />
-        <mark key="." line="105" column="21" />
-      </file>
       <file name="$USER_HOME$/luritas/point/database/migrations/2017_10_22_164037_add_column_class_to_users.php" timestamp="1508658177435">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="72" />
@@ -129,11 +124,6 @@
         <mark key="]" line="26" column="26" />
         <mark key="." line="26" column="26" />
         <mark key="^" line="26" column="26" />
-      </file>
-      <file name="$USER_HOME$/luritas/point/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1509019329403">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_regist_done.blade.php" timestamp="1501553025580">
         <mark key="[" line="40" column="6" />
@@ -199,11 +189,10 @@
         <mark key="." line="22" column="50" />
         <mark key="^" line="22" column="48" />
       </file>
-      <file name="$USER_HOME$/git/ptp/friday/boostrap-select/webpack.config.js" timestamp="1509421166051">
-        <mark key="[" line="9" column="57" />
-        <mark key="]" line="17" column="12" />
-        <mark key="." line="17" column="12" />
-        <mark key="^" line="17" column="12" />
+      <file name="$USER_HOME$/git/ptp/friday/boostrap-select/webpack.config.js" timestamp="1509425721421">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/sub_header.blade.php" timestamp="1504593737277">
         <mark key="[" line="6" column="78" />
@@ -217,11 +206,6 @@
         <mark key="]" line="38" column="20" />
         <mark key="^" line="63" column="58" />
         <mark key="." line="38" column="20" />
-      </file>
-      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/Auth/RegisterController.php" timestamp="1508657428698">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-config.php" timestamp="1502445542850">
         <mark key="[" line="35" column="29" />
@@ -240,11 +224,6 @@
         <mark key="]" line="2" column="25" />
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
-      </file>
-      <file name="$USER_HOME$/luritas/point/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php" timestamp="1508601852271">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1508205487237">
         <mark key="'" line="479" column="13" />
@@ -291,16 +270,6 @@
         <mark key="^" line="12" column="107" />
         <mark key="." line="12" column="107" />
       </file>
-      <file name="$USER_HOME$/luritas/point/database/seeds/TestUsersTableSeeder.php" timestamp="1509107083857">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/luritas/point/storage/framework/views/e257835b905ccfe19f452212068f3afab99ba693.php" timestamp="1508690314477">
-        <mark key="[" line="126" column="62" />
-        <mark key="]" line="126" column="62" />
-        <mark key="." line="126" column="62" />
-      </file>
       <file name="$USER_HOME$/luritas/point/resources/views/dashboard-student.blade.php" timestamp="1508951658908">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="22" />
@@ -339,11 +308,6 @@
         <mark key="^" line="16" column="6" />
         <mark key="." line="16" column="6" />
       </file>
-      <file name="$USER_HOME$/luritas/point/app/Point.php" timestamp="1509234204051">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/profile-menu.blade.php" timestamp="1504593397699">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="19" />
@@ -362,11 +326,6 @@
         <mark key="]" line="80" column="9" />
         <mark key="." line="72" column="45" />
         <mark key="^" line="72" column="45" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Dao/MapviewDao.php" timestamp="1508830483258">
-        <mark key="[" line="567" column="0" />
-        <mark key="]" line="567" column="0" />
-        <mark key="." line="567" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/china-duse/public/js/map_filter.js" timestamp="1508831970622">
         <mark key="[" line="1146" column="45" />
@@ -418,6 +377,9 @@
         <mark key="]" line="81" column="13" />
         <mark key="^" line="81" column="13" />
         <mark key="." line="81" column="13" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/vendor/symfony/http-foundation/Request.php" timestamp="1508997835632">
+        <mark key="'" line="267" column="46" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/bundle.js" timestamp="1509095530400">
         <mark key="'" line="1078" column="25" />
@@ -555,11 +517,14 @@
         <mark key="^" line="31" column="53" />
         <mark key="." line="31" column="53" />
       </file>
-      <file name="$USER_HOME$/git/ptp/friday/boostrap-select/package.json" timestamp="1509418528191">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="18" />
-        <mark key="^" line="9" column="18" />
-        <mark key="." line="9" column="18" />
+      <file name="$USER_HOME$/luritas/point/vendor/laravel/framework/composer.json" timestamp="1508996070867">
+        <mark key="'" line="94" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/friday/boostrap-select/package.json" timestamp="1509426116350">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="6" column="57" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/luritas/point/app/Http/Controllers/HomeController.php" timestamp="1509109763061">
         <mark key="[" line="31" column="48" />
@@ -618,11 +583,17 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/composer.json" timestamp="1508932466877">
+        <mark key="'" line="37" column="26" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/fa/safetyServiceNew.blade.php" timestamp="1504760827937">
         <mark key="[" line="51" column="99" />
         <mark key="]" line="52" column="23" />
         <mark key="^" line="52" column="23" />
         <mark key="." line="52" column="23" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/storage/logs/laravel.log" timestamp="1509161801119">
+        <mark key="'" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/app/RealEstate.php" timestamp="1503458561736">
         <mark key="[" line="9" column="29" />
@@ -643,9 +614,10 @@
         <mark key="^" line="55" column="22" />
         <mark key="." line="55" column="22" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/package.json" timestamp="1509419284434">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="86" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/package.json" timestamp="1509425538261">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/api/upload.html" timestamp="1508995562898">
         <mark key="[" line="10" column="23" />
@@ -822,11 +794,6 @@
         <mark key="." line="34" column="47" />
         <mark key="^" line="34" column="47" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-blog-header.php" timestamp="1508575938943">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/luritas/point/app/Http/Controllers/ClassRoomController.php" timestamp="1509206853157">
         <mark key="'" line="53" column="6" />
         <mark key="[" line="22" column="53" />
@@ -840,11 +807,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/friday/boostrap-select/entry.js" timestamp="1509421388116">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="4" column="24" />
-        <mark key="^" line="4" column="37" />
+      <file name="$USER_HOME$/git/ptp/friday/boostrap-select/entry.js" timestamp="1509426294417">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/luritas/point/resources/assets/sass/app.scss" timestamp="1508951773710">
         <mark key="'" line="29" column="0" />
@@ -929,11 +895,6 @@
         <mark key="]" line="22" column="81" />
         <mark key="^" line="22" column="81" />
         <mark key="." line="22" column="81" />
-      </file>
-      <file name="$USER_HOME$/luritas/point/database/seeds/AcademiesTableSeeder.php" timestamp="1509161782687">
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="16" />
-        <mark key="." line="13" column="16" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/commonTable.blade.php" timestamp="1503902951874">
         <mark key="[" line="55" column="49" />
@@ -1024,11 +985,6 @@
         <mark key="." line="13" column="33" />
         <mark key="^" line="13" column="33" />
       </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/resources/views/common/header.blade.php" timestamp="1508834432474">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/luritas/point/app/Invitation.php" timestamp="1509234125732">
         <mark key="'" line="38" column="6" />
         <mark key="[" line="79" column="0" />
@@ -1055,11 +1011,14 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/git/ptp/friday/boostrap-select/index.html" timestamp="1509421116085">
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="19" />
-        <mark key="." line="15" column="19" />
-        <mark key="^" line="15" column="14" />
+      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/PointTransactionController.php" timestamp="1509165614155">
+        <mark key="'" line="42" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/friday/boostrap-select/index.html" timestamp="1509425706301">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+        <mark key="^" line="15" column="21" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/public/css/css-circular-prog-bar.css" timestamp="1509022901054">
         <mark key="[" line="0" column="0" />
@@ -1079,6 +1038,9 @@
         <mark key="]" line="81" column="39" />
         <mark key="." line="81" column="39" />
         <mark key="^" line="81" column="39" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" timestamp="1509425597798">
+        <mark key="'" line="2548" column="38" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/zero_membership.blade.php" timestamp="1507711470747">
         <mark key="'" line="298" column="17" />
@@ -1149,6 +1111,9 @@
         <mark key="]" line="186" column="62" />
         <mark key="^" line="175" column="20" />
         <mark key="." line="175" column="20" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/resources/views/student/student.blade.php" timestamp="1509208303438">
+        <mark key="'" line="105" column="0" />
       </file>
       <file name="$USER_HOME$/luritas/point/database/factories/PointTransactionFactory.php" timestamp="1509208093182">
         <mark key="[" line="8" column="28" />
@@ -1305,53 +1270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/luritas/point/app/ClassRoom.php" />
-      <jump line="49" column="4" filename="$USER_HOME$/luritas/point/app/User.php" />
-      <jump line="9" column="0" filename="$USER_HOME$/luritas/point/storage/logs/laravel.log" />
-      <jump line="1" column="0" filename="$USER_HOME$/luritas/point/app/Http/Controllers/PointTransactionController.php" />
-      <jump line="1" column="10" filename="$USER_HOME$/luritas/point/.env" />
-      <jump line="8" column="6" filename="$USER_HOME$/luritas/point/app/ClassRoom.php" />
-      <jump line="41" column="4" filename="$USER_HOME$/luritas/point/app/ClassRoom.php" />
-      <jump line="8" column="6" filename="$USER_HOME$/luritas/point/app/Invitation.php" />
-      <jump line="20" column="5" filename="$USER_HOME$/luritas/point/app/Invitation.php" />
-      <jump line="70" column="0" filename="$USER_HOME$/luritas/point/app/Invitation.php" />
-      <jump line="42" column="20" filename="$USER_HOME$/luritas/point/app/Http/Controllers/PointTransactionController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
-      <jump line="52" column="47" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
-      <jump line="73" column="51" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
-      <jump line="70" column="14" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
-      <jump line="82" column="0" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
-      <jump line="61" column="53" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
-      <jump line="19" column="23" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
-      <jump line="23" column="8" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
-      <jump line="30" column="8" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
-      <jump line="62" column="25" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
-      <jump line="21" column="6" filename="$USER_HOME$/luritas/point/app/ClassRoom.php" />
-      <jump line="27" column="76" filename="$USER_HOME$/luritas/point/app/ClassRoom.php" />
-      <jump line="91" column="0" filename="$USER_HOME$/luritas/point/app/ClassRoom.php" />
-      <jump line="28" column="76" filename="$USER_HOME$/luritas/point/app/ClassRoom.php" />
-      <jump line="113" column="9" filename="$USER_HOME$/luritas/point/app/ClassRoom.php" />
-      <jump line="33" column="12" filename="$USER_HOME$/luritas/point/app/ClassRoom.php" />
-      <jump line="128" column="58" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
-      <jump line="45" column="16" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
-      <jump line="46" column="17" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
-      <jump line="58" column="24" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
-      <jump line="83" column="88" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
-      <jump line="60" column="20" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
-      <jump line="27" column="5" filename="$USER_HOME$/luritas/point/app/Http/Controllers/InvitationController.php" />
-      <jump line="64" column="0" filename="$USER_HOME$/luritas/point/app/Invitation.php" />
-      <jump line="36" column="14" filename="$USER_HOME$/luritas/point/app/Invitation.php" />
-      <jump line="57" column="23" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
-      <jump line="22" column="33" filename="$USER_HOME$/luritas/point/app/Http/Controllers/InvitationController.php" />
-      <jump line="91" column="40" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
-      <jump line="100" column="68" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
-      <jump line="138" column="0" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
-      <jump line="98" column="0" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
-      <jump line="141" column="66" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
-      <jump line="28" column="21" filename="$USER_HOME$/luritas/point/app/Invitation.php" />
-      <jump line="35" column="0" filename="$USER_HOME$/luritas/point/app/Invitation.php" />
-      <jump line="65" column="33" filename="$USER_HOME$/luritas/point/app/Invitation.php" />
-      <jump line="18" column="12" filename="$USER_HOME$/luritas/point/app/Invitation.php" />
       <jump line="107" column="6" filename="$USER_HOME$/luritas/point/app/User.php" />
       <jump line="174" column="64" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
       <jump line="99" column="68" filename="$USER_HOME$/luritas/point/resources/views/invitation.blade.php" />
@@ -1405,6 +1323,53 @@
       <jump line="1" column="0" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bunddle.js" />
       <jump line="85" column="12" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bunddle.js" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bunddle.js" />
+      <jump line="33" column="20" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="100" column="18" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="102" column="18" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="106" column="13" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="109" column="47" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="120" column="37" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="4405" column="11" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="4412" column="11" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="4427" column="38" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="4519" column="4" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="4947" column="10" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="5677" column="24" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="5688" column="28" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="6012" column="30" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="7433" column="44" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="7540" column="17" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="11847" column="88" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="12840" column="35" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="13312" column="62" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="14605" column="30" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="14646" column="48" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="2542" column="38" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="4428" column="0" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="71" column="11" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="78" column="11" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="93" column="38" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="185" column="4" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="613" column="10" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="1343" column="24" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="1354" column="28" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="1678" column="30" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="3099" column="44" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="3206" column="17" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="7513" column="88" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="8506" column="35" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="8978" column="62" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="10271" column="30" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="10312" column="48" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="10331" column="53" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="10332" column="122" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="12804" column="38" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="57" column="7" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="2547" column="16" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="2549" column="9" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
+      <jump line="2548" column="38" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1428,7 +1393,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, ${world}!</text>
+        <text>jQuery</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2970,40 +2935,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, ${world}!</text>
+        <text>jQuery</text>
       </register>
       <register name="/" type="4">
         <text>jquery</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJkZXZlbG9wbWVudCI6ICJjcm9zcy1lbnYgTk9ERV9FTlY9ZGV2ZWxvcG1lbnQgd2VicGFjayAtLXByb2dyZXNzIC0taGlkZS1tb2R1bGVzIiwK</text>
+        <text encoding="base64">aW1wb3J0IGJvb3RzdCBmcm9tICdib290c3RyYXAtc2VsZWN0JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Lwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICQoJ3NlbGVjdCcpLnNlbGVjdHBpY2tlcih7CiAgICAgICAgc3R5bGU6ICdidG4taW5mbycsCiAgICAgICAgc2l6ZTogNAogICAgfSk7Cg==</text>
+        <text encoding="base64">dmFyIGpRdWVyeSA9IHJlcXVpcmUoImpxdWVyeSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZXMyMDE1IjogIl42LjI0LjEiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2Jvb3QnKTsK</text>
+        <text encoding="base64">dmFyIGpRdWVyeSA9IHJlcXVpcmUoImpxdWVyeSIpOwp2YXIgYm9vdHN0cmFwID0gcmVxdWlyZSgnYm9vdHN0cmFwJyk7CnZhciBib290c3RyYXBfc2VsZWN0ID0gcmVxdWlyZSgnYm9vdHN0cmFwLXNlbGVjdCcpOwoKCiQoJ3NlbGVjdCcpLnNlbGVjdHBpY2tlcih7CiAgICBzdHlsZTogJ2J0bi1pbmZvJywKICAgIHNpemU6IDQKfSk7CgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGJvb3QgZnJvbSAnYm9vdHN0cmFwLXNlbGVjdCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGJvb3QgZnJvbSAnYm9vdHN0cmFwLXNlbGVjdCc7Cg==</text>
+      <register name="6" type="4">
+        <text>,
+    externals: {
+        jquery: 'jQuery'
+    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVxdWlyZSgnYm9vdHN0cmFwLXNlbGVjdCcpOwo=</text>
+        <text encoding="base64">PHNjcmlwdD4KPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGJvb3QgZnJvbSAnYm9vdHN0cmFwLXNlbGVjdCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGJvb3N0cmFwIGZyb20gJ2Jvb3RzdHJhcCc7CmltcG9ydCBzZWxlY3QgZnJvbSAnYm9vdHN0cmFwLXNlbGVjdCc7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICQgZnJvbSAnanF1ZXJ5JzsK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
@@ -3020,10 +2988,6 @@
     </search>
     <history>
       <history-search>
-        <entry>active</entry>
-        <entry>search</entry>
-        <entry>3</entry>
-        <entry>academyu</entry>
         <entry>aca</entry>
         <entry>acade</entry>
         <entry>index</entry>
@@ -3039,6 +3003,10 @@
         <entry>Form::text</entry>
         <entry>with</entry>
         <entry>boostrap</entry>
+        <entry>j</entry>
+        <entry>jQuery</entry>
+        <entry>bootstrap</entry>
+        <entry>jQeury</entry>
         <entry>jquery</entry>
       </history-search>
       <history-cmd>
