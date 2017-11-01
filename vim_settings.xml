@@ -445,6 +445,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="45" />
       </file>
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HomeController.php" timestamp="1509510828615">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/composer.json" timestamp="1508996975510">
         <mark key="[" line="13" column="36" />
         <mark key="]" line="13" column="34" />
@@ -593,7 +598,7 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="74" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509506772395">
+      <file name="/Dummy.txt" timestamp="1509511263460">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
@@ -620,12 +625,12 @@
         <mark key="." line="62" column="39" />
         <mark key="^" line="62" column="40" />
       </file>
-      <file name="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" timestamp="1509506567414">
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" timestamp="1509510738872">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="14" column="46" />
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+        <mark key="^" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/luritas/point/resources/views/welcome.blade.php" timestamp="1509440041579">
         <mark key="'" line="93" column="10" />
@@ -1451,7 +1456,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2993,7 +2998,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>\Input::get</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQl9QQVNTV09SRDJcPg==</text>
@@ -3002,31 +3007,31 @@
         <text encoding="base64">ICAgICAgICA8dHI+CiAgICAgICAgICAgIDx0ZD48L3RkPgogICAgICAgICAgICA8dGQ+PC90ZD4KICAgICAgICAgICAgPHRkPjwvdGQ+CiAgICAgICAgICAgIDx0ZD48L3RkPgogICAgICAgICAgICA8dGQ+PC90ZD4KICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFJlcXVlc3Q7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">dXNlIFJlcXVlc3Q7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFJlcXVlc3Q7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHt7ICRob3VzZXMtPmxpbmtzKCkgfX0K</text>
+        <text encoding="base64">dXNlIFJlcXVlc3Q7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkaG91c2VzQnVpbGRlciA9IEhvdXNlOjpMaXZlKCkKICAgICAgICAgICAgLT5sYXRlc3QoJ2NfZGF0ZScpCiAgICAgICAgICAgIC0+d2hlcmVCZXR3ZWVuKCdjX2RhdGUnLCBbJHN0YXJ0LCAkZW5kXSk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaG91c2VzKTsK</text>
+        <text encoding="base64">ICAgIHt7ICRob3VzZXMtPmxpbmtzKCkgfX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAkaG91c2VzQnVpbGRlciA9IEhvdXNlOjpMaXZlKCkKICAgICAgICAgICAgLT5sYXRlc3QoJ2NfZGF0ZScpCiAgICAgICAgICAgIC0+d2hlcmVCZXR3ZWVuKCdjX2RhdGUnLCBbJHN0YXJ0LCAkZW5kXSk7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaG91c2VzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
