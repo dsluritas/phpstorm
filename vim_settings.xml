@@ -57,9 +57,9 @@
         <mark key="." line="70" column="79" />
         <mark key="^" line="76" column="38" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/style.css" timestamp="1509026775224">
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/style.css" timestamp="1509621137916">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="502" column="17" />
+        <mark key="[" line="510" column="5" />
         <mark key="]" line="502" column="21" />
         <mark key="." line="502" column="21" />
         <mark key="^" line="502" column="21" />
@@ -607,7 +607,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509529534944">
+      <file name="/Dummy.txt" timestamp="1509621123961">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
@@ -643,6 +643,13 @@
         <mark key="]" line="12" column="5" />
         <mark key="." line="12" column="5" />
         <mark key="^" line="12" column="5" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" timestamp="1509621323566">
+        <mark key="'" line="19" column="49" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="43" column="51" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/resources/assets/js/app.js" timestamp="1509441249906">
         <mark key="[" line="8" column="31" />
@@ -1376,9 +1383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="20" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
-      <jump line="100" column="18" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
-      <jump line="102" column="18" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
       <jump line="106" column="13" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
       <jump line="109" column="47" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
       <jump line="120" column="37" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
@@ -1476,6 +1480,9 @@
       <jump line="101" column="4" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
       <jump line="17" column="0" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
       <jump line="79" column="27" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
+      <jump line="38" column="28" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="219" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="19" column="49" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1499,7 +1506,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdFskY250XSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5lLWhlaWdodDogMTk2cHg7Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -3041,49 +3048,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>display</text>
       </register>
       <register name="/" type="4">
-        <text>type_seoul</text>
+        <text>closed</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">U2FmZUhvdXNlOjp3aGVyZU51bGwoJ2Rpc2FwcHJvdmFsX2F0JyktPndoZXJlKCdoaWR4JywgJGhvdXNlLT5oaWR4KQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdFskY250XSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5lLWhlaWdodDogMTk2cHg7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZChTYWZlSG91c2U6OndoZXJlTnVsbCgnZGlzYXBwcm92YWxfYXQnKS0+d2hlcmUoJ2hpZHgnLCAkaG91c2UtPmhpZHgpLT5maXJzdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdFskY250XSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGhvdXNlLT50eXBlX3Nlb3VsKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZChTYWZlSG91c2U6OndoZXJlTnVsbCgnZGlzYXBwcm92YWxfYXQnKS0+d2hlcmUoJ2hpZHgnLCAkaG91c2UtPmhpZHgpLT5maXJzdCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGhvdXNlLT50eXBlX3Nlb3VsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGluZm8gPSBbCiAgICAgICAgICAgICAgICAn64yA7ZGc7J6QJyAgPT4gJHVzZXItPmFnZW5jeS0+Y2VvX25hbWUsCiAgICAgICAgICAgICAgICAn7KSR6rCc7IKsJyAgPT4gJHVzZXItPmFnZW5jeS0+YWdlbmN5X25hbWUsCiAgICAgICAgICAgICAgICAn64yA7ZGc67KI7Zi4JyA9PiAkdXNlci0+YWdlbmN5LT50ZWxlcGhvbmUsCiAgICAgICAgICAgIF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHVzZXItPmFnZW5jeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGluZm8gPSBbCiAgICAgICAgICAgICAgICAn64yA7ZGc7J6QJyAgPT4gJHVzZXItPmFnZW5jeS0+Y2VvX25hbWUsCiAgICAgICAgICAgICAgICAn7KSR6rCc7IKsJyAgPT4gJHVzZXItPmFnZW5jeS0+YWdlbmN5X25hbWUsCiAgICAgICAgICAgICAgICAn64yA7ZGc67KI7Zi4JyA9PiAkdXNlci0+YWdlbmN5LT50ZWxlcGhvbmUsCiAgICAgICAgICAgIF07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaW1ncyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHVzZXItPmFnZW5jeSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGltZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaW1ncyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>100</text>
       </register>
     </registers>
     <search>
-      <last-search>type_seoul</last-search>
+      <last-search>closed</last-search>
       <last-offset />
-      <last-pattern>type_seoul</last-pattern>
+      <last-pattern>closed</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpbnB1dFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -3091,7 +3098,6 @@
     </search>
     <history>
       <history-search>
-        <entry>j</entry>
         <entry>jQuery</entry>
         <entry>jQeury</entry>
         <entry>jquery</entry>
@@ -3111,6 +3117,7 @@
         <entry>createHouseImgByDate</entry>
         <entry>ctrtEnd</entry>
         <entry>type_seoul</entry>
+        <entry>closed</entry>
       </history-search>
       <history-cmd>
         <entry>358</entry>
