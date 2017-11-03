@@ -861,12 +861,12 @@
         <mark key="^" line="20" column="73" />
         <mark key="." line="20" column="73" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" timestamp="1509691818233">
-        <mark key="'" line="323" column="4" />
-        <mark key="[" line="235" column="0" />
-        <mark key="]" line="235" column="0" />
-        <mark key="." line="235" column="0" />
-        <mark key="^" line="232" column="20" />
+      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/Controller.php" timestamp="1509692564918">
+        <mark key="'" line="324" column="4" />
+        <mark key="[" line="231" column="23" />
+        <mark key="]" line="231" column="23" />
+        <mark key="." line="231" column="23" />
+        <mark key="^" line="231" column="29" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1508303800749">
         <mark key="'" line="30" column="0" />
@@ -1581,8 +1581,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7CiAgICAgICAgZGQoJHByb3BlcnRpZXMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -3124,7 +3124,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>['list']</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
