@@ -195,6 +195,13 @@
         <mark key="." line="22" column="50" />
         <mark key="^" line="22" column="48" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" timestamp="1509676484835">
+        <mark key="'" line="62" column="42" />
+        <mark key="[" line="407" column="34" />
+        <mark key="]" line="407" column="37" />
+        <mark key="^" line="407" column="37" />
+        <mark key="." line="407" column="37" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency/sub_header.blade.php" timestamp="1504593737277">
         <mark key="[" line="6" column="78" />
         <mark key="]" line="6" column="80" />
@@ -354,8 +361,8 @@
         <mark key="." line="1" column="6" />
         <mark key="^" line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1508993698245">
-        <mark key="'" line="382" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1509676657100">
+        <mark key="'" line="253" column="13" />
         <mark key="[" line="665" column="2" />
         <mark key="]" line="656" column="47" />
         <mark key="^" line="656" column="47" />
@@ -444,6 +451,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="45" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Helpers/Helper.php" timestamp="1509676345273">
+        <mark key="[" line="590" column="38" />
+        <mark key="]" line="590" column="44" />
+        <mark key="^" line="590" column="44" />
+        <mark key="." line="590" column="44" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HomeController.php" timestamp="1509525388450">
         <mark key="[" line="16" column="0" />
@@ -610,7 +623,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509626738597">
+      <file name="/Dummy.txt" timestamp="1509676590746">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
@@ -669,6 +682,17 @@
         <mark key="]" line="55" column="22" />
         <mark key="^" line="55" column="22" />
         <mark key="." line="55" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" timestamp="1509676727126">
+        <mark key="[" line="618" column="0" />
+        <mark key="]" line="618" column="0" />
+        <mark key="." line="618" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/package.json" timestamp="1509676252654">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="28" />
+        <mark key="^" line="21" column="28" />
+        <mark key="." line="21" column="28" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/api/upload.html" timestamp="1508995562898">
         <mark key="[" line="10" column="23" />
@@ -864,12 +888,6 @@
         <mark key="]" line="87" column="22" />
         <mark key="^" line="87" column="21" />
         <mark key="." line="87" column="22" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/seoul-git/data/resources/views/list.blade.php" timestamp="1509525158360">
-        <mark key="'" line="15" column="20" />
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/footer.blade.php" timestamp="1503017039778">
         <mark key="[" line="34" column="43" />
@@ -1345,6 +1363,9 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1509676632951">
+        <mark key="'" line="163" column="13" />
+      </file>
       <file name="$USER_HOME$/git/ptp/china-duse/resources/views/ChinaCRUD/edit.blade.php" timestamp="1508828570909">
         <mark key="[" line="22" column="27" />
         <mark key="]" line="20" column="16" />
@@ -1401,20 +1422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4427" column="38" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
-      <jump line="4519" column="4" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
-      <jump line="4947" column="10" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
-      <jump line="5677" column="24" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
-      <jump line="5688" column="28" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
-      <jump line="6012" column="30" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
-      <jump line="7433" column="44" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
-      <jump line="7540" column="17" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
-      <jump line="11847" column="88" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
-      <jump line="12840" column="35" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
-      <jump line="13312" column="62" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
-      <jump line="14605" column="30" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
-      <jump line="14646" column="48" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
-      <jump line="2542" column="38" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
       <jump line="4428" column="0" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
       <jump line="1" column="0" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
       <jump line="71" column="11" filename="$USER_HOME$/git/ptp/friday/boostrap-select/bundle.js" />
@@ -1501,6 +1508,20 @@
       <jump line="381" column="9" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/dompdf/dompdf/src/Dompdf.php" />
       <jump line="387" column="21" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/dompdf/dompdf/src/Dompdf.php" />
       <jump line="395" column="36" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/dompdf/dompdf/src/Dompdf.php" />
+      <jump line="659" column="14" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="405" column="9" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
+      <jump line="120" column="31" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
+      <jump line="118" column="36" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
+      <jump line="113" column="4" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
+      <jump line="110" column="14" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
+      <jump line="104" column="103" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
+      <jump line="10" column="23" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
+      <jump line="89" column="9" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
+      <jump line="62" column="42" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
+      <jump line="209" column="16" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="163" column="13" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="249" column="67" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="253" column="13" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1524,7 +1545,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICp7IGZvbnQtZmFtaWx5OiBEZWphVnUgZm9udHM7fQo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -3069,46 +3090,46 @@
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>encoding</text>
+        <text>get_house_list</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8aDI+7YyM7J28IOuzgO2ZmCDthYzsiqTtirg8L2gyPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICp7IGZvbnQtZmFtaWx5OiBEZWphVnUgZm9udHM7fQo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCd0ZXN0LnBkZicsICRkb21wZGYtPm91dHB1dCgpKTsK</text>
+        <text encoding="base64">ICAgICp7IGZvbnQtZmFtaWx5OiBEZWphVnUgZm9udHM7fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCd0ZXN0LnBkZicsICRkb21wZGYtPm91dHB1dCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8aDE+UERGIO2MjOydvCDrs4DtmZg8L2gxPgogICAgICAgIDxoMj7tjIzsnbwg67OA7ZmYIO2FjOyKpO2KuDwvaDI+CiAgICAgICAgPGgzPkhUTUwgdG8gUERGPC9oMz4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8aDE+UERGIO2MjOydvCDrs4DtmZg8L2gxPgogICAgICAgIDxoMj7tjIzsnbwg67OA7ZmYIO2FjOyKpO2KuDwvaDI+CiAgICAgICAgPGgzPkhUTUwgdG8gUERGPC9oMz4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZSBEb21wZGZcRG9tcGRmOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGJ1dHRvbj48L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgIHVzZSBEb21wZGZcRG9tcGRmOwo=</text>
       </register>
       <register name=":" type="4">
         <text>100</text>
       </register>
     </registers>
     <search>
-      <last-search>encoding</last-search>
+      <last-search>get_house_list</last-search>
       <last-offset />
-      <last-pattern>encoding</last-pattern>
+      <last-pattern>get_house_list</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpbnB1dFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -3116,12 +3137,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jQeury</entry>
-        <entry>jquery</entry>
-        <entry>bootstrap</entry>
-        <entry>boot</entry>
-        <entry>app</entry>
-        <entry>app.css</entry>
         <entry>style</entry>
         <entry>date</entry>
         <entry encoding="base64">XDxEQl9QQVNTV09SRDJcPg==</entry>
@@ -3136,6 +3151,12 @@
         <entry>type_seoul</entry>
         <entry>closed</entry>
         <entry>encoding</entry>
+        <entry>manage_house</entry>
+        <entry encoding="base64">XDxwcmljZUluZm9Gb3JtYXR0ZXJcPg==</entry>
+        <entry encoding="base64">XDxob3VzZUluZm9cPg==</entry>
+        <entry encoding="base64">XDxob3VzZUluZm9Gb3JtYXR0ZXJcPg==</entry>
+        <entry>get_house</entry>
+        <entry>get_house_list</entry>
       </history-search>
       <history-cmd>
         <entry>358</entry>
