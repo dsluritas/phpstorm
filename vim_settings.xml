@@ -3,11 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/luritas/point/database/migrations/2017_10_19_184321_create_points_table.php" timestamp="1509849836517">
+        <mark key="[" line="24" column="40" />
+        <mark key="]" line="24" column="40" />
+        <mark key="." line="24" column="40" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/houseSale/naverApt.blade.php" timestamp="1508895846216">
         <mark key="[" line="39" column="65" />
         <mark key="]" line="39" column="72" />
         <mark key="^" line="39" column="72" />
         <mark key="." line="39" column="72" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/resources/views/teacher/invitation.blade.php" timestamp="1509864552532">
+        <mark key="'" line="111" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="110" column="47" />
+        <mark key="^" line="110" column="47" />
       </file>
       <file name="$USER_HOME$/luritas/point/database/migrations/2017_10_27_210850_create_parents_table.php" timestamp="1509106215627">
         <mark key="[" line="16" column="37" />
@@ -15,20 +27,22 @@
         <mark key="^" line="17" column="19" />
         <mark key="." line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/luritas/point/database/factories/ClassRoomFactory.php" timestamp="1509208046968">
-        <mark key="[" line="12" column="27" />
-        <mark key="]" line="12" column="28" />
-        <mark key="." line="12" column="28" />
-        <mark key="^" line="12" column="30" />
-      </file>
-      <file name="/a.dummy" timestamp="1509812406474">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/luritas/point/database/factories/ClassRoomFactory.php" timestamp="1509851756427">
+        <mark key="[" line="14" column="66" />
+        <mark key="]" line="14" column="66" />
+        <mark key="." line="14" column="66" />
+        <mark key="^" line="21" column="34" />
       </file>
       <file name="$USER_HOME$/luritas/point/database/factories/classRoomUser.php" timestamp="1509108427125">
         <mark key="[" line="15" column="17" />
         <mark key="]" line="15" column="20" />
         <mark key="^" line="15" column="20" />
         <mark key="." line="15" column="20" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/resources/assets/js/app.js" timestamp="1509770612417">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/jobs/config.php" timestamp="1508395945991">
         <mark key="[" line="40" column="19" />
@@ -47,6 +61,11 @@
         <mark key="]" line="25" column="15" />
         <mark key="." line="25" column="15" />
         <mark key="^" line="25" column="15" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/app/Http/Middleware/CheckTeacher.php" timestamp="1509863874405">
+        <mark key="[" line="19" column="66" />
+        <mark key="]" line="19" column="66" />
+        <mark key="." line="19" column="66" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/free_house.blade.php" timestamp="1502964652876">
         <mark key="[" line="70" column="79" />
@@ -74,12 +93,19 @@
         <mark key="." line="404" column="21" />
         <mark key="^" line="404" column="29" />
       </file>
-      <file name="$USER_HOME$/luritas/point/app/User.php" timestamp="1509823423880">
-        <mark key="'" line="130" column="20" />
-        <mark key="[" line="131" column="39" />
-        <mark key="]" line="131" column="39" />
-        <mark key="." line="131" column="39" />
-        <mark key="^" line="134" column="11" />
+      <file name="$USER_HOME$/luritas/point/resources/views/teacher/point.blade.php" timestamp="1509864626754">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="94" column="9" />
+        <mark key="." line="56" column="101" />
+        <mark key="^" line="56" column="65" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/app/User.php" timestamp="1509863730392">
+        <mark key="'" line="142" column="8" />
+        <mark key="[" line="71" column="11" />
+        <mark key="]" line="72" column="27" />
+        <mark key="." line="72" column="27" />
+        <mark key="^" line="72" column="27" />
       </file>
       <file name="$USER_HOME$/luritas/point/database/migrations/2017_10_22_164037_add_column_class_to_users.php" timestamp="1508658177435">
         <mark key="[" line="16" column="0" />
@@ -121,12 +147,12 @@
         <mark key="." line="26" column="26" />
         <mark key="^" line="26" column="26" />
       </file>
-      <file name="$USER_HOME$/luritas/point/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1509782520872">
+      <file name="$USER_HOME$/luritas/point/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1509863761221">
         <mark key="'" line="23" column="44" />
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="19" column="52" />
-        <mark key="^" line="19" column="52" />
-        <mark key="." line="19" column="52" />
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="22" column="23" />
+        <mark key="^" line="22" column="23" />
+        <mark key="." line="22" column="23" />
       </file>
       <file name="$USER_HOME$/luritas/point/package.json" timestamp="1509770370190">
         <mark key="[" line="22" column="28" />
@@ -159,6 +185,13 @@
         <mark key="]" line="1157" column="12" />
         <mark key="." line="1157" column="12" />
         <mark key="^" line="1157" column="12" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/PointTeacherController.php" timestamp="1509864050488">
+        <mark key="'" line="98" column="6" />
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="26" />
+        <mark key="^" line="19" column="26" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/resources/views/form.blade.php" timestamp="1509525154817">
         <mark key="'" line="45" column="32" />
@@ -211,6 +244,13 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="25" column="35" />
       </file>
+      <file name="$USER_HOME$/luritas/point/resources/views/teacher/enrollment.blade.php" timestamp="1509864798679">
+        <mark key="'" line="36" column="19" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="29" />
+        <mark key="^" line="18" column="27" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" timestamp="1509676484835">
         <mark key="'" line="62" column="42" />
         <mark key="[" line="407" column="34" />
@@ -237,18 +277,11 @@
         <mark key="." line="35" column="31" />
         <mark key="^" line="35" column="31" />
       </file>
-      <file name="$USER_HOME$/luritas/point/app/ClassRoom.php" timestamp="1509817738363">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="114" column="43" />
-        <mark key="]" line="114" column="47" />
-        <mark key="^" line="114" column="47" />
-        <mark key="." line="114" column="47" />
-      </file>
-      <file name="$USER_HOME$/luritas/point/resources/views/point/transaction.blade.php" timestamp="1509822874437">
-        <mark key="[" line="17" column="58" />
-        <mark key="]" line="17" column="58" />
-        <mark key="." line="17" column="58" />
-        <mark key="^" line="17" column="58" />
+      <file name="$USER_HOME$/luritas/point/resources/views/point/transaction.blade.php" timestamp="1509861328494">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="18" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1509701971185">
         <mark key="'" line="605" column="11" />
@@ -257,12 +290,11 @@
         <mark key="." line="714" column="32" />
         <mark key="^" line="714" column="32" />
       </file>
-      <file name="/package.json" timestamp="1509816271084" />
-      <file name="$USER_HOME$/luritas/point/database/factories/UserFactory.php" timestamp="1509763716511">
-        <mark key="[" line="22" column="17" />
-        <mark key="]" line="22" column="22" />
-        <mark key="^" line="22" column="22" />
-        <mark key="." line="22" column="22" />
+      <file name="$USER_HOME$/luritas/point/database/factories/UserFactory.php" timestamp="1509863797549">
+        <mark key="[" line="34" column="35" />
+        <mark key="]" line="34" column="48" />
+        <mark key="^" line="34" column="48" />
+        <mark key="." line="34" column="48" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/contents/20171017_notice.html" timestamp="1508220899314">
         <mark key="'" line="0" column="102" />
@@ -297,17 +329,22 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/luritas/point/resources/views/student/dashboard.blade.php" timestamp="1509824899342">
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="^" line="29" column="23" />
-        <mark key="." line="134" column="0" />
+      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/EnrollmentTeacherController.php" timestamp="1509864714723">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="15" column="41" />
+        <mark key="." line="15" column="41" />
+        <mark key="^" line="15" column="41" />
       </file>
       <file name="$USER_HOME$/luritas/point/resources/views/dashboard-student.blade.php" timestamp="1508951658908">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="22" />
         <mark key="^" line="46" column="40" />
         <mark key="." line="99" column="0" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/DashBoardController.php" timestamp="1509812268967">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" timestamp="1509418874629">
         <mark key="'" line="87" column="21" />
@@ -329,18 +366,23 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/DashboardStudentController.php" timestamp="1509823207816">
+      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/DashboardStudentController.php" timestamp="1509870858772">
         <mark key="'" line="39" column="0" />
-        <mark key="[" line="36" column="23" />
-        <mark key="]" line="36" column="22" />
-        <mark key="." line="36" column="22" />
-        <mark key="^" line="36" column="22" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/china-duse/resources/views/layouts/default.blade.php" timestamp="1508483009342">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="16" column="6" />
         <mark key="^" line="16" column="6" />
         <mark key="." line="16" column="6" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/app/Point.php" timestamp="1509849230904">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="54" column="27" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/profile-menu.blade.php" timestamp="1504593397699">
         <mark key="[" line="5" column="20" />
@@ -372,6 +414,13 @@
         <mark key="]" line="552" column="25" />
         <mark key="^" line="552" column="24" />
         <mark key="." line="552" column="24" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/PointTransactionTeacherController.php" timestamp="1509862234618">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="40" column="4" />
       </file>
       <file name="$USER_HOME$/luritas/point/resources/views/partials/footer/class/students.blade.php" timestamp="1508848914732">
         <mark key="[" line="8" column="0" />
@@ -406,12 +455,12 @@
         <mark key="." line="365" column="38" />
         <mark key="^" line="365" column="38" />
       </file>
-      <file name="$USER_HOME$/luritas/point/resources/views/layouts/app.blade.php" timestamp="1509440101200">
-        <mark key="'" line="47" column="55" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="13" column="60" />
-        <mark key="^" line="81" column="13" />
-        <mark key="." line="81" column="13" />
+      <file name="$USER_HOME$/luritas/point/resources/views/layouts/app.blade.php" timestamp="1509864333011">
+        <mark key="'" line="28" column="11" />
+        <mark key="[" line="49" column="59" />
+        <mark key="]" line="49" column="68" />
+        <mark key="^" line="49" column="68" />
+        <mark key="." line="49" column="68" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/bundle.js" timestamp="1509095530400">
         <mark key="'" line="1078" column="25" />
@@ -433,12 +482,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="54" />
       </file>
-      <file name="$USER_HOME$/luritas/point/routes/web.php" timestamp="1509814925926">
-        <mark key="'" line="116" column="0" />
-        <mark key="[" line="44" column="7" />
-        <mark key="]" line="45" column="18" />
-        <mark key="^" line="45" column="18" />
-        <mark key="." line="45" column="18" />
+      <file name="$USER_HOME$/luritas/point/routes/web.php" timestamp="1509865219899">
+        <mark key="'" line="89" column="18" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="105" column="7" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/uploads/fusion-styles/fusion-1724.css" timestamp="1509091008223">
         <mark key="[" line="0" column="259349" />
@@ -457,6 +506,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/InvitationStudentController.php" timestamp="1509806900423">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/luritas/point/database/migrations/2017_10_22_164030_create_classes_tables.php" timestamp="1508658641968">
         <mark key="[" line="16" column="0" />
@@ -482,12 +536,12 @@
         <mark key="." line="13" column="34" />
         <mark key="^" line="13" column="34" />
       </file>
-      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/InvitationController.php" timestamp="1509823352562">
-        <mark key="'" line="59" column="33" />
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="29" column="11" />
-        <mark key="." line="29" column="11" />
-        <mark key="^" line="29" column="11" />
+      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/InvitationController.php" timestamp="1509870540146">
+        <mark key="'" line="62" column="33" />
+        <mark key="[" line="22" column="77" />
+        <mark key="]" line="23" column="11" />
+        <mark key="." line="23" column="11" />
+        <mark key="^" line="23" column="11" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/app/WithoutFee.php" timestamp="1509442144507">
         <mark key="[" line="12" column="4" />
@@ -550,6 +604,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="5" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/database/seeds/ClassRoomsTableSeeder.php" timestamp="1509862568974">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="40" />
+        <mark key="." line="13" column="40" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/.htaccess" timestamp="1508596946883">
         <mark key="[" line="2" column="0" />
@@ -633,7 +692,7 @@
         <mark key="." line="105" column="63" />
         <mark key="^" line="105" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509822879081">
+      <file name="/Dummy.txt" timestamp="1509870581889">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
@@ -650,6 +709,11 @@
         <mark key="]" line="52" column="23" />
         <mark key="^" line="52" column="23" />
         <mark key="." line="52" column="23" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/app/Http/Middleware/CheckAcademy.php" timestamp="1509870501930">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/app/RealEstate.php" timestamp="1503458561736">
         <mark key="[" line="9" column="29" />
@@ -683,12 +747,12 @@
         <mark key="^" line="13" column="45" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/luritas/point/resources/views/class.blade.php" timestamp="1509164198561">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="55" column="21" />
-        <mark key="]" line="55" column="22" />
-        <mark key="^" line="55" column="22" />
-        <mark key="." line="55" column="22" />
+      <file name="$USER_HOME$/luritas/point/resources/views/class.blade.php" timestamp="1509852363290">
+        <mark key="'" line="174" column="16" />
+        <mark key="[" line="126" column="63" />
+        <mark key="]" line="126" column="72" />
+        <mark key="." line="126" column="72" />
+        <mark key="^" line="126" column="72" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/package.json" timestamp="1509676252654">
         <mark key="[" line="21" column="28" />
@@ -758,19 +822,18 @@
         <mark key="." line="33" column="38" />
         <mark key="^" line="33" column="38" />
       </file>
-      <file name="$USER_HOME$/luritas/point/database/seeds/UsersTableSeeder.php" timestamp="1509774463168">
+      <file name="$USER_HOME$/luritas/point/database/seeds/UsersTableSeeder.php" timestamp="1509863777878">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="27" />
-        <mark key="." line="26" column="43" />
-        <mark key="^" line="26" column="43" />
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="21" column="40" />
+        <mark key="." line="21" column="40" />
+        <mark key="^" line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/index.php" timestamp="1509724366300" />
-      <file name="$USER_HOME$/luritas/point/database/factories/ClassRoomUserFactory.php" timestamp="1509109670134">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="9" column="22" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/luritas/point/database/factories/ClassRoomUserFactory.php" timestamp="1509853795905">
+        <mark key="[" line="5" column="39" />
+        <mark key="]" line="5" column="38" />
+        <mark key="." line="5" column="38" />
+        <mark key="^" line="6" column="39" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/app/WithOutFee.php" timestamp="1509438548510">
         <mark key="[" line="6" column="10" />
@@ -815,7 +878,6 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Config/FontVariables.php" timestamp="1509731685941" />
       <file name="$USER_HOME$/git/ptp/peterWEB/app/FaAppnoPivot.php" timestamp="1504862593650">
         <mark key="[" line="12" column="71" />
         <mark key="]" line="12" column="71" />
@@ -854,7 +916,6 @@
         <mark key="^" line="32" column="35" />
         <mark key="." line="32" column="35" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Ucdn.php" timestamp="1509731096035" />
       <file name="$USER_HOME$/luritas/point/database/migrations/2017_10_26_210458_create_students_table.php" timestamp="1509106102392">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="17" column="36" />
@@ -911,11 +972,11 @@
         <mark key="." line="22" column="53" />
         <mark key="^" line="22" column="52" />
       </file>
-      <file name="$USER_HOME$/luritas/point/resources/views/class/students.blade.php" timestamp="1509823502557">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="17" column="58" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/luritas/point/resources/views/class/students.blade.php" timestamp="1509870756975">
+        <mark key="[" line="20" column="68" />
+        <mark key="]" line="20" column="90" />
+        <mark key="." line="20" column="90" />
+        <mark key="^" line="20" column="90" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/app/House.php" timestamp="1509527096992">
         <mark key="[" line="8" column="0" />
@@ -962,12 +1023,12 @@
         <mark key="." line="81" column="7" />
         <mark key="^" line="81" column="7" />
       </file>
-      <file name="$USER_HOME$/luritas/point/.env" timestamp="1509825276767">
+      <file name="$USER_HOME$/luritas/point/.env" timestamp="1509846856749">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="0" column="9" />
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+        <mark key="^" line="17" column="19" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/app/RealEstateFacility.php" timestamp="1505314347377">
         <mark key="[" line="8" column="29" />
@@ -1019,6 +1080,13 @@
         <mark key="]" line="55" column="59" />
         <mark key="^" line="55" column="59" />
         <mark key="." line="55" column="59" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/ClassRoomTeacherController.php" timestamp="1509852567194">
+        <mark key="'" line="100" column="16" />
+        <mark key="[" line="100" column="12" />
+        <mark key="]" line="100" column="21" />
+        <mark key="." line="100" column="21" />
+        <mark key="^" line="100" column="21" />
       </file>
       <file name="$USER_HOME$/git/ptp/china-duse/app/HouseSale.php" timestamp="1508812897994">
         <mark key="'" line="8" column="0" />
@@ -1121,8 +1189,8 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/luritas/point/app/Invitation.php" timestamp="1509820316052">
-        <mark key="'" line="46" column="6" />
+      <file name="$USER_HOME$/luritas/point/app/Invitation.php" timestamp="1509852667456">
+        <mark key="'" line="82" column="33" />
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="64" />
         <mark key="." line="91" column="46" />
@@ -1139,6 +1207,11 @@
         <mark key="]" line="12" column="34" />
         <mark key="^" line="18" column="47" />
         <mark key="." line="18" column="47" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/functions.php" timestamp="1509698026356">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/jobs/app/House.php" timestamp="1508396330091">
         <mark key="[" line="9" column="29" />
@@ -1240,11 +1313,11 @@
         <mark key="^" line="43" column="72" />
         <mark key="." line="43" column="72" />
       </file>
-      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/DashBoardTeacherController.php" timestamp="1509825117062">
-        <mark key="[" line="40" column="67" />
-        <mark key="]" line="40" column="67" />
-        <mark key="." line="40" column="67" />
-        <mark key="^" line="40" column="66" />
+      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/DashBoardTeacherController.php" timestamp="1509863673725">
+        <mark key="[" line="40" column="23" />
+        <mark key="]" line="40" column="21" />
+        <mark key="." line="40" column="21" />
+        <mark key="^" line="40" column="21" />
       </file>
       <file name="$USER_HOME$/luritas/point/resources/views/student/invitation.blade.php" timestamp="1509812795729">
         <mark key="'" line="19" column="66" />
@@ -1266,6 +1339,11 @@
         <mark key="]" line="186" column="62" />
         <mark key="^" line="175" column="20" />
         <mark key="." line="175" column="20" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/database/migrations/2017_11_04_115033_create_social_logins_table.php" timestamp="1509764005410">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="34" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/luritas/point/database/factories/PointTransactionFactory.php" timestamp="1509820543268">
         <mark key="[" line="21" column="26" />
@@ -1305,6 +1383,11 @@
         <mark key="]" line="0" column="8633" />
         <mark key="^" line="0" column="8633" />
         <mark key="." line="0" column="8633" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/database/seeds/ClassRoomUserTableSeeder.php" timestamp="1509863428393">
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="45" />
+        <mark key="." line="13" column="45" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/app/HouseImg.php" timestamp="1509527381533">
         <mark key="[" line="10" column="0" />
@@ -1399,12 +1482,23 @@
         <mark key="." line="20" column="16" />
         <mark key="^" line="20" column="16" />
       </file>
-      <file name="$USER_HOME$/luritas/point/app/Academy.php" timestamp="1508685114966">
-        <mark key="'" line="8" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" timestamp="1509732036365">
+        <mark key="'" line="48" column="1" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/luritas/point/app/Academy.php" timestamp="1509851090999">
+        <mark key="'" line="21" column="40" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="^" line="42" column="3" />
         <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/composer.json" timestamp="1509732247493">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/luritas/point/resources/views/dashboard-student.blad.php" timestamp="1508933795344">
         <mark key="[" line="0" column="0" />
@@ -1425,11 +1519,11 @@
         <mark key="." line="13" column="5" />
         <mark key="^" line="13" column="5" />
       </file>
-      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/Auth/LoginController.php" timestamp="1509774465343">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="27" />
-        <mark key="^" line="77" column="11" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/luritas/point/app/Http/Controllers/Auth/LoginController.php" timestamp="1509865477681">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="^" line="84" column="11" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/map_view.blade.php" timestamp="1507636875425">
         <mark key="'" line="38" column="41" />
@@ -1453,55 +1547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="61" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
-      <jump line="7" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/functions.php" />
-      <jump line="267" column="9" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
-      <jump line="42" column="19" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
-      <jump line="20" column="10" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/investment.php" />
-      <jump line="1497" column="20" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/dompdf/dompdf/src/Dompdf.php" />
-      <jump line="14628" column="16" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="14804" column="20" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="14883" column="24" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="14931" column="36" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="27362" column="8" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="27364" column="31" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="27579" column="43" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="27980" column="55" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="27984" column="57" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="28000" column="50" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="29191" column="46" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="1094" column="43" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="1095" column="45" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="1359" column="24" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="1361" column="24" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="1363" column="18" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="1518" column="20" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="1519" column="18" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="1657" column="18" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="1661" column="24" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="4136" column="24" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="4141" column="24" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="4409" column="49" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="4415" column="30" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="4450" column="47" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="4456" column="30" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="5699" column="85" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="5706" column="34" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="10301" column="52" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/src/Mpdf.php" />
-      <jump line="38" column="32" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
-      <jump line="39" column="31" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
-      <jump line="43" column="31" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
-      <jump line="41" column="1" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
-      <jump line="43" column="0" filename="$USER_HOME$/luritas/point/.env" />
-      <jump line="0" column="0" filename="$USER_HOME$/luritas/point/.env" />
-      <jump line="108" column="4" filename="$USER_HOME$/luritas/point/app/User.php" />
-      <jump line="77" column="9" filename="$USER_HOME$/luritas/point/resources/views/auth/login.blade.php" />
-      <jump line="2" column="0" filename="$USER_HOME$/luritas/point/resources/views/auth/login.blade.php" />
-      <jump line="37" column="15" filename="$USER_HOME$/luritas/point/routes/web.php" />
-      <jump line="84" column="103" filename="$USER_HOME$/luritas/point/routes/web.php" />
-      <jump line="85" column="25" filename="$USER_HOME$/luritas/point/routes/web.php" />
-      <jump line="86" column="27" filename="$USER_HOME$/luritas/point/routes/web.php" />
-      <jump line="22" column="24" filename="$USER_HOME$/luritas/point/routes/web.php" />
       <jump line="69" column="71" filename="$USER_HOME$/luritas/point/app/Http/Controllers/Auth/LoginController.php" />
       <jump line="112" column="27" filename="$USER_HOME$/luritas/point/node_modules/bootstrap-social/assets/css/font-awesome.css" />
       <jump line="629" column="4" filename="$USER_HOME$/luritas/point/node_modules/bootstrap-social/assets/css/font-awesome.css" />
@@ -1553,6 +1598,55 @@
       <jump line="29" column="20" filename="$USER_HOME$/luritas/point/resources/views/student/dashboard.blade.php" />
       <jump line="125" column="46" filename="$USER_HOME$/luritas/point/resources/views/student/dashboard.blade.php" />
       <jump line="27" column="0" filename="$USER_HOME$/luritas/point/.env" />
+      <jump line="0" column="6" filename="$USER_HOME$/luritas/point/resources/views/teacher/point.blade.php" />
+      <jump line="2" column="15" filename="$USER_HOME$/luritas/point/resources/views/teacher/point.blade.php" />
+      <jump line="96" column="17" filename="$USER_HOME$/luritas/point/resources/views/teacher/point.blade.php" />
+      <jump line="32" column="21" filename="$USER_HOME$/luritas/point/resources/views/teacher/dashboard.blade.php" />
+      <jump line="28" column="1" filename="$USER_HOME$/luritas/point/routes/web.php" />
+      <jump line="53" column="1" filename="$USER_HOME$/luritas/point/routes/web.php" />
+      <jump line="28" column="1" filename="$USER_HOME$/luritas/point/app/Http/Controllers/PointTeacherController.php" />
+      <jump line="22" column="6" filename="$USER_HOME$/luritas/point/app/Http/Controllers/PointTeacherController.php" />
+      <jump line="114" column="51" filename="$USER_HOME$/luritas/point/app/Http/Controllers/PointTeacherController.php" />
+      <jump line="39" column="20" filename="$USER_HOME$/luritas/point/app/Http/Controllers/PointTeacherController.php" />
+      <jump line="60" column="46" filename="$USER_HOME$/luritas/point/app/Http/Controllers/PointTeacherController.php" />
+      <jump line="77" column="33" filename="$USER_HOME$/luritas/point/resources/views/class.blade.php" />
+      <jump line="46" column="6" filename="$USER_HOME$/luritas/point/app/Http/Controllers/ClassRoomTeacherController.php" />
+      <jump line="38" column="20" filename="$USER_HOME$/luritas/point/app/ClassRoom.php" />
+      <jump line="21" column="40" filename="$USER_HOME$/luritas/point/app/Academy.php" />
+      <jump line="33" column="0" filename="$USER_HOME$/luritas/point/app/Http/Controllers/ClassRoomTeacherController.php" />
+      <jump line="60" column="0" filename="$USER_HOME$/luritas/point/app/Http/Controllers/ClassRoomTeacherController.php" />
+      <jump line="145" column="0" filename="$USER_HOME$/luritas/point/resources/views/class.blade.php" />
+      <jump line="108" column="46" filename="$USER_HOME$/luritas/point/resources/views/class.blade.php" />
+      <jump line="42" column="31" filename="$USER_HOME$/luritas/point/resources/views/class.blade.php" />
+      <jump line="144" column="0" filename="$USER_HOME$/luritas/point/resources/views/class.blade.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/luritas/point/resources/views/class.blade.php" />
+      <jump line="38" column="11" filename="$USER_HOME$/luritas/point/resources/views/class.blade.php" />
+      <jump line="174" column="16" filename="$USER_HOME$/luritas/point/resources/views/class.blade.php" />
+      <jump line="100" column="16" filename="$USER_HOME$/luritas/point/app/Http/Controllers/ClassRoomTeacherController.php" />
+      <jump line="68" column="4" filename="$USER_HOME$/luritas/point/app/Http/Controllers/PointTeacherController.php" />
+      <jump line="82" column="33" filename="$USER_HOME$/luritas/point/app/Invitation.php" />
+      <jump line="23" column="31" filename="$USER_HOME$/luritas/point/resources/views/teacher/invitation.blade.php" />
+      <jump line="58" column="3" filename="$USER_HOME$/luritas/point/app/Http/Controllers/InvitationTeacherController.php" />
+      <jump line="132" column="32" filename="$USER_HOME$/luritas/point/resources/views/student/dashboard.blade.php" />
+      <jump line="11" column="0" filename="$USER_HOME$/luritas/point/app/Http/Controllers/PointTransactionTeacherController.php" />
+      <jump line="185" column="0" filename="$USER_HOME$/luritas/point/app/User.php" />
+      <jump line="118" column="20" filename="$USER_HOME$/luritas/point/app/User.php" />
+      <jump line="1" column="21" filename="$USER_HOME$/luritas/point/resources/views/teacher/dashboard.blade.php" />
+      <jump line="46" column="63" filename="$USER_HOME$/luritas/point/resources/views/layouts/app.blade.php" />
+      <jump line="190" column="0" filename="$USER_HOME$/luritas/point/app/User.php" />
+      <jump line="127" column="42" filename="$USER_HOME$/luritas/point/app/User.php" />
+      <jump line="125" column="20" filename="$USER_HOME$/luritas/point/app/User.php" />
+      <jump line="141" column="8" filename="$USER_HOME$/luritas/point/app/User.php" />
+      <jump line="98" column="6" filename="$USER_HOME$/luritas/point/app/Http/Controllers/PointTeacherController.php" />
+      <jump line="65" column="61" filename="$USER_HOME$/luritas/point/resources/views/teacher/point.blade.php" />
+      <jump line="28" column="11" filename="$USER_HOME$/luritas/point/resources/views/layouts/app.blade.php" />
+      <jump line="111" column="8" filename="$USER_HOME$/luritas/point/resources/views/teacher/invitation.blade.php" />
+      <jump line="135" column="8" filename="$USER_HOME$/luritas/point/resources/views/teacher/point.blade.php" />
+      <jump line="29" column="0" filename="$USER_HOME$/luritas/point/resources/views/teacher/point.blade.php" />
+      <jump line="37" column="0" filename="$USER_HOME$/luritas/point/resources/views/teacher/enrollment.blade.php" />
+      <jump line="17" column="30" filename="$USER_HOME$/luritas/point/resources/views/teacher/enrollment.blade.php" />
+      <jump line="38" column="19" filename="$USER_HOME$/luritas/point/resources/views/teacher/enrollment.blade.php" />
+      <jump line="89" column="18" filename="$USER_HOME$/luritas/point/routes/web.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1575,8 +1669,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkaXRlbXMpOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -3118,49 +3212,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>overflow</text>
+        <text>$point</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+PC90ZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoVGVhY2hlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaXRlbXMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaXRlbXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0aXRsZSIgc3R5bGU9Im1hcmdpbi1ib3R0b206IDExcHg7Ij4K</text>
+        <text encoding="base64">ICAgICAgICBkZChpc18pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaXNfaW52aXRhdGlvbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Imp1bWJvdHJvbiI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Imp1bWJvdHJvbiI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdlbWFpbCcgPT4gJHVzZXItPmdldEVtYWlsKCksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Imp1bWJvdHJvbiI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+PC90ZD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAudGFibGUgPiB0aGVhZCA+IHRyID4gdGgsIC50YWJsZSA+IHRoZWFkID4gdHIgPiB0ZCwgLnRhYmxlID4gdGJvZHkgPiB0ciA+IHRoLCAudGFibGUgPiB0Ym9keSA+IHRyID4gdGQsIC50YWJsZSA+IHRmb290ID4gdHIgPiB0aCwgLnRhYmxlID4gdGZvb3QgPiB0ciA+IHRkIHsKICAgICAgICAgICAgbGluZS1oZWlnaHQ6IDE7CiAgICAgICAgICAgIHBhZGRpbmc6IDhweCAwOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+eyEhIEZvcm06OnRleHQoJycsIFxDYXJib25cQ2FyYm9uOjpub3coKS0+Zm9ybWF0KCdZLW0tZCcpLCBbJ2NsYXNzJyA9PiAndGV4dC1jZW50ZXInLCAnc3R5bGUnID0+ICd3aWR0aDogMTAwJTsnLCAnZGlzYWJsZWQnID0+IHRydWVdKSAhIX08L3RkPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+eyEhIEZvcm06OnRleHQoJ3BvaW50JywgJycsIFsnY2xhc3MnID0+ICd0ZXh0LWNlbnRlcicsICdzdHlsZScgPT4gJ3dpZHRoOiAxMDAlOycsICdmb3JtJyA9PiAnc3RvcmVfZm9ybScsICdwbGFjZWhvbGRlcicgPT4gJ+ygkOyImCddKSAhIX08L3RkPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>132</text>
+        <text>128</text>
       </register>
     </registers>
     <search>
-      <last-search>overflow</last-search>
+      <last-search>$point</last-search>
       <last-offset />
-      <last-pattern>overflow</last-pattern>
+      <last-pattern>$point</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpbnB1dFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -3168,29 +3262,28 @@
     </search>
     <history>
       <history-search>
-        <entry>신고</entry>
-        <entry>whoo</entry>
-        <entry>login</entry>
-        <entry>encoding</entry>
-        <entry>ot_lan</entry>
-        <entry>github</entry>
-        <entry>home</entry>
-        <entry>name</entry>
-        <entry>hello</entry>
-        <entry encoding="base64">XDxudWxsYWxiZVw+</entry>
-        <entry>facebook</entry>
-        <entry encoding="base64">XDxudWxsYWJsZVw+</entry>
-        <entry encoding="base64">PGZvcm0=</entry>
-        <entry>classRooms</entry>
-        <entry>Auth</entry>
-        <entry>sumP</entry>
-        <entry>top</entry>
         <entry>50px</entry>
         <entry>47px</entry>
         <entry>overflow</entry>
+        <entry>include</entry>
+        <entry>create</entry>
+        <entry>point</entry>
+        <entry>debugg</entry>
+        <entry>userr_id</entry>
+        <entry>user_id</entry>
+        <entry>update</entry>
+        <entry>mobile_phone</entry>
+        <entry>Class</entry>
+        <entry>store</entry>
+        <entry>sumPoi</entry>
+        <entry>dd</entry>
+        <entry>sumPoin</entry>
+        <entry>refresh</entry>
+        <entry>index</entry>
+        <entry>학생</entry>
+        <entry>$point</entry>
       </history-search>
       <history-cmd>
-        <entry>654</entry>
         <entry>583</entry>
         <entry encoding="base64">JzwsJz43OQ==</entry>
         <entry>144</entry>
@@ -3210,6 +3303,7 @@
         <entry>100</entry>
         <entry>w</entry>
         <entry>132</entry>
+        <entry>128</entry>
       </history-cmd>
       <history-expr />
       <history-input />
