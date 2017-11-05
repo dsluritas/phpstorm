@@ -692,6 +692,10 @@
         <mark key="." line="105" column="63" />
         <mark key="^" line="105" column="63" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/data/mpdf.css" timestamp="1509876897277">
+        <mark key="'" line="9" column="0" />
+        <mark key="^" line="96" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/app.js" timestamp="1509871664217">
         <mark key="[" line="44" column="10" />
         <mark key="]" line="44" column="10" />
@@ -782,6 +786,11 @@
         <mark key="]" line="79" column="32" />
         <mark key="." line="79" column="32" />
         <mark key="^" line="79" column="32" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/public/css/mpdf.css" timestamp="1509878334997">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="33" column="4" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/database/migrations/2017_11_01_061034_create_house_logs_table.php" timestamp="1509518382711">
         <mark key="[" line="18" column="26" />
@@ -1493,12 +1502,11 @@
         <mark key="." line="20" column="16" />
         <mark key="^" line="20" column="16" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" timestamp="1509875198999">
-        <mark key="'" line="25" column="27" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="53" column="88" />
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" timestamp="1509878503446">
+        <mark key="'" line="107" column="3" />
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="0" />
+        <mark key="." line="188" column="0" />
       </file>
       <file name="$USER_HOME$/luritas/point/app/Academy.php" timestamp="1509851090999">
         <mark key="'" line="21" column="40" />
@@ -1559,33 +1567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="3" filename="$USER_HOME$/luritas/point/routes/web.php" />
-      <jump line="35" column="0" filename="$USER_HOME$/luritas/point/routes/web.php" />
-      <jump line="38" column="2" filename="$USER_HOME$/luritas/point/routes/web.php" />
-      <jump line="31" column="5" filename="$USER_HOME$/luritas/point/routes/web.php" />
-      <jump line="95" column="3" filename="$USER_HOME$/luritas/point/routes/web.php" />
-      <jump line="44" column="0" filename="$USER_HOME$/luritas/point/routes/web.php" />
-      <jump line="90" column="0" filename="$USER_HOME$/luritas/point/routes/web.php" />
-      <jump line="39" column="0" filename="$USER_HOME$/luritas/point/app/Invitation.php" />
-      <jump line="24" column="11" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
-      <jump line="3" column="0" filename="$USER_HOME$/luritas/point/resources/views/student/invitation.blade.php" />
-      <jump line="91" column="4" filename="$USER_HOME$/luritas/point/app/User.php" />
-      <jump line="19" column="66" filename="$USER_HOME$/luritas/point/resources/views/student/invitation.blade.php" />
-      <jump line="121" column="3" filename="$USER_HOME$/luritas/point/app/User.php" />
-      <jump line="29" column="77" filename="$USER_HOME$/luritas/point/app/User.php" />
-      <jump line="9" column="0" filename="$USER_HOME$/luritas/point/app/ClassRoom.php" />
-      <jump line="46" column="6" filename="$USER_HOME$/luritas/point/app/Invitation.php" />
-      <jump line="129" column="55" filename="$USER_HOME$/luritas/point/app/User.php" />
-      <jump line="172" column="47" filename="$USER_HOME$/luritas/point/app/User.php" />
-      <jump line="4" column="4" filename="$USER_HOME$/luritas/point/app/User.php" />
-      <jump line="6" column="39" filename="$USER_HOME$/luritas/point/app/User.php" />
-      <jump line="60" column="19" filename="$USER_HOME$/luritas/point/app/User.php" />
-      <jump line="24" column="14" filename="$USER_HOME$/luritas/point/app/User.php" />
-      <jump line="46" column="6" filename="$USER_HOME$/luritas/point/app/PointTransaction.php" />
-      <jump line="37" column="0" filename="$USER_HOME$/luritas/point/app/Http/Controllers/DashboardStudentController.php" />
-      <jump line="130" column="20" filename="$USER_HOME$/luritas/point/app/User.php" />
-      <jump line="49" column="11" filename="$USER_HOME$/luritas/point/resources/views/student/dashboard.blade.php" />
-      <jump line="98" column="21" filename="$USER_HOME$/luritas/point/resources/views/student/dashboard.blade.php" />
       <jump line="54" column="21" filename="$USER_HOME$/luritas/point/resources/views/student/dashboard.blade.php" />
       <jump line="47" column="23" filename="$USER_HOME$/luritas/point/resources/views/student/dashboard.blade.php" />
       <jump line="58" column="12" filename="$USER_HOME$/luritas/point/resources/views/student/dashboard.blade.php" />
@@ -1649,16 +1630,43 @@
       <jump line="267" column="4" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
       <jump line="23" column="80" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
       <jump line="22" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
-      <jump line="16" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
       <jump line="82" column="7" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
       <jump line="24" column="4" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
       <jump line="39" column="18" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
-      <jump line="100" column="46" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
       <jump line="41" column="27" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
       <jump line="66" column="23" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
       <jump line="21" column="8" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
-      <jump line="49" column="35" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
-      <jump line="25" column="27" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="126" column="23" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="37" column="7" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="100" column="30" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="25" column="31" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="77" column="8" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="84" column="19" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="51" column="10" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="9" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/vendor/mpdf/mpdf/data/mpdf.css" />
+      <jump line="167" column="12" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="176" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="70" column="9" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="43" column="7" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="9" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="149" column="5" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="49" column="4" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="136" column="6" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="48" column="17" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="72" column="23" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="14" column="7" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="30" column="12" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="16" column="31" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="18" column="7" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="47" column="5" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="157" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="15" column="7" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="109" column="3" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="162" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="33" column="7" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="141" column="7" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
+      <jump line="107" column="3" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1682,7 +1690,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vbWF4Y2RuLmJvb3RzdHJhcGNkbi5jb20vYm9vdHN0cmFwLzMuMy43L2Nzcy9ib290c3RyYXAubWluLmNzcyIgcmVsPSJzdHlsZXNoZWV0IiBpbnRlZ3JpdHk9InNoYTM4NC1CVllpaVNJRmVLMWRHbUpSQWt5Y3VIQUhSZzMyT21VY3d3N29uM1JZZGc0VmErUG1TVHN6L0s2OHZiZEVqaDR1IiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj4K</text>
+        <text encoding="base64">ICAgICRjc3MgPSBmaWxlX2dldF9jb250ZW50cygnaHR0cHM6Ly93d3cuc25zbC5rci93cC1jb250ZW50L3RoZW1lcy9BdmFkYS1DaGlsZC1UaGVtZS9wdWJsaWMvY3NzL21wZGYuY3NzJyk7CiAgICAkbXBkZi0+V3JpdGVIVE1MKCRjc3MsIDEpOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -3224,49 +3232,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>border: 2px solid #ddb400;</text>
+        <text>style=&quot;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>title</text>
+        <text>.title</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyLXRvcDogM3B4IHNvbGlkICNkZGI0MDA7Cg==</text>
+        <text encoding="base64">Ly8gICAgJG1wZGYtPldyaXRlSFRNTCgkY3NzLCAxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vbWF4Y2RuLmJvb3RzdHJhcGNkbi5jb20vYm9vdHN0cmFwLzMuMy43L2Nzcy9ib290c3RyYXAubWluLmNzcyIgcmVsPSJzdHlsZXNoZWV0IiBpbnRlZ3JpdHk9InNoYTM4NC1CVllpaVNJRmVLMWRHbUpSQWt5Y3VIQUhSZzMyT21VY3d3N29uM1JZZGc0VmErUG1TVHN6L0s2OHZiZEVqaDR1IiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj4K</text>
+        <text encoding="base64">ICAgICRjc3MgPSBmaWxlX2dldF9jb250ZW50cygnaHR0cHM6Ly93d3cuc25zbC5rci93cC1jb250ZW50L3RoZW1lcy9BdmFkYS1DaGlsZC1UaGVtZS9wdWJsaWMvY3NzL21wZGYuY3NzJyk7CiAgICAkbXBkZi0+V3JpdGVIVE1MKCRjc3MsIDEpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGRkKCRjc3MpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyOiAzcHggc29saWQgI2RkYjQwMDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgIGh0bWwgewogICAgICAgICAgICBmb250LWZhbWlseTogInNhbnMtc2VyaWYgIWltcG9ydGFudCI7CiAgICAgICB9CiAgICAgICBib2R5IHsKICAgICAgICAgICAgZm9udC1zaXplOiAxLjdyZW07CiAgICAgICB9CiAgICAgICAudGl0bGUgewogICAgICAgICAgICBtYXJnaW4tYm90dG9tOiA1MHB4OwogICAgICAgfQogICAgICAgLnRpdGxlID4gc3BhbiB7CiAgICAgICAgICAgIHBhZGRpbmc6IDEwcHggMDsKICAgICAgICAgICAgYm9yZGVyLXRvcDogMnB4IHNvbGlkICNkZGI0MDA7CiAgICAgICAgICAgIGJvcmRlci1ib3R0b206IDJweCBzb2xpZCAjZGRiNDAwOwogICAgICAgfQogICAgICAgLnRvcC1pbmZvIHsKICAgICAgICAgICAgb3ZlcmZsb3c6IGhpZGRlbjsKICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogMTBweDsKICAgICAgIH0KICAgICAgIC5ib3R0b20taW5mbyB7CiAgICAgICAgICAgIG1hcmdpbjogNTBweCAwOwogICAgICAgfQogICAgICAgdGFibGUudGFibGUgPiB0Ym9keSA+IHRyID4gdGQgewogICAgICAgICAgICBwYWRkaW5nOiAxNXB4IDA7CiAgICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgICAgIH0KICAgICAgIHRkLnRhYmxlLWFjdGl2ZSB7CiAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiA2MDA7CiAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNlZmVmZWY7CiAgICAgICB9CiAgICAgICBoMiA+IHNtYWxsIHsKICAgICAgICAgICAgZm9udC13ZWlnaHQ6IDYwMDsKICAgICAgICAgICAgY29sb3I6IHJnYig1MSw1MSw1MSk7IAogICAgICAgfQogICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMj4o7KO8KeyXkOyKpOyVpOyXkOyKpOugjOuUqSDquYAg64+ZIO2biDxzbWFsbD7rjIDtkZzsnbTsgqw8L3NtYWxsPjwvaDI+Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMj4o7KO8KeyXkOyKpOyVpOyXkOyKpOugjOuUqSDquYAg64+ZIO2biDxzbWFsbD7rjIDtkZzsnbTsgqw8L3NtYWxsPjwvaDI+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9udC1zaXplOiAxLjVyZW07Cg==</text>
+        <text encoding="base64">ICAgICAgIGh0bWwgewogICAgICAgICAgICBmb250LWZhbWlseTogInNhbnMtc2VyaWYgIWltcG9ydGFudCI7CiAgICAgICB9CiAgICAgICBib2R5IHsKICAgICAgICAgICAgZm9udC1zaXplOiAxLjdyZW07CiAgICAgICB9CiAgICAgICAudGl0bGUgewogICAgICAgICAgICBtYXJnaW4tYm90dG9tOiA1MHB4OwogICAgICAgfQogICAgICAgLnRpdGxlID4gc3BhbiB7CiAgICAgICAgICAgIHBhZGRpbmc6IDEwcHggMDsKICAgICAgICAgICAgYm9yZGVyLXRvcDogMnB4IHNvbGlkICNkZGI0MDA7CiAgICAgICAgICAgIGJvcmRlci1ib3R0b206IDJweCBzb2xpZCAjZGRiNDAwOwogICAgICAgfQogICAgICAgLnRvcC1pbmZvIHsKICAgICAgICAgICAgb3ZlcmZsb3c6IGhpZGRlbjsKICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogMTBweDsKICAgICAgIH0KICAgICAgIC5ib3R0b20taW5mbyB7CiAgICAgICAgICAgIG1hcmdpbjogNTBweCAwOwogICAgICAgfQogICAgICAgdGFibGUudGFibGUgPiB0Ym9keSA+IHRyID4gdGQgewogICAgICAgICAgICBwYWRkaW5nOiAxNXB4IDA7CiAgICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgICAgIH0KICAgICAgIHRkLnRhYmxlLWFjdGl2ZSB7CiAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiA2MDA7CiAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNlZmVmZWY7CiAgICAgICB9CiAgICAgICBoMiA+IHNtYWxsIHsKICAgICAgICAgICAgZm9udC13ZWlnaHQ6IDYwMDsKICAgICAgICAgICAgY29sb3I6IHJnYig1MSw1MSw1MSk7IAogICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9udC1zaXplOiAxLjVyZW07Cg==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyIiBzdHlsZT0iIj4KICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTggY29sLW1kLW9mZnNldC0yIiBzdHlsZT0icGFkZGluZzogNTBweCAwOyI+CiAgICAgICAgICAgIDxoMSBjbGFzcz0idGV4dC1jZW50ZXIgdGl0bGUiPgogICAgICAgICAgICAgICAgPHNwYW4+7JuQ66as6riIIOyImOy3qOq2jCDspp3shJw8L3NwYW4+CiAgICAgICAgICAgIDwvaDE+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9InRvcC1pbmZvIj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJwdWxsLWxlZnQiPu2ZjSDquLgg64+ZPC9zcGFuPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InB1bGwtcmlnaHQiPuymneyEnOuyiO2YuDog7KCcIDIwMTctQTAwMS0wMDAxPC9zcGFuPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1ib3JkZXJlZCB0YWJsZS1yZXNwb25zaXZlIj4KICAgICAgICAgICAgICAgIDx0Ym9keT4KICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGFibGUtYWN0aXZlIj7siJjsnbXquIjslaE8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQgY29sc3Bhbj0iMyI+6riI7J287Iut66eM7Jik7LKc7IKs67Cx7IK87Iuk7YyU7JuQ7KCVKFwgMTA1LDQzOCk8L3RkPgogICAgICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRhYmxlLWFjdGl2ZSIgcm93c3Bhbj0iNiI+64yA7Lac7LGE6raM7KCV67O0PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0YWJsZS1hY3RpdmUiPuyDge2SiOuyiO2YuDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGFibGUtYWN0aXZlIj7qtazrtoQ8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRhYmxlLWFjdGl2ZSI+7IOB7ZmY67Cp7IudPC90ZD4KICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkPkEwMDE8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQ+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkPuybkOq4iOunjOq4sOydvOyLnOyDge2ZmDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGFibGUtYWN0aXZlIj7rjIDstpzquIjslaE8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRhYmxlLWFjdGl2ZSI+64yA7Lac6riI66asPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0YWJsZS1hY3RpdmUiPuuMgOy2nOq4sOqwhDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4xMCwwMDAsMDAwIOybkDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4xOC4zMiAlPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkPjE46rCc7JuUPC90ZD4KICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0YWJsZS1hY3RpdmUiPuuMgOy2nOuwnOyDneydvDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGFibGUtYWN0aXZlIj7sg4HtmZjquLDsnbw8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRhYmxlLWFjdGl2ZSI+7J207J6Q7KeA6riJ7J28PC90ZD4KICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkPu2ZleyglSAyMDE3LTExLTExPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkPjIwMTctMTEtMTE8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQ+66ek7JuUIDEx7J28PC90ZD4KICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0YWJsZS1hY3RpdmUiPuyxhOq2jOyekDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjb2xzcGFuPSIzIj7tmY0g6ri4IOuPmTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGFibGUtYWN0aXZlIj7smKjrnbzsnbgg7JWE7J2065SUPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNvbHNwYW49IjMiPmhvaG9AbmF2ZXIuY29tPC90ZD4KICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0YWJsZS1hY3RpdmUiPu2IrOyekOq4iOyVoTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4xMDAsMDAwIOybkDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGFibGUtYWN0aXZlIj7tiKzsnpDquIjrpqw8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQ+MTguMiAlPC90ZD4KICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0YWJsZS1hY3RpdmUiPu2IrOyekOq4sOqwhDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4yMDE3LTExLTExIH4gMjAxOC0xMS0xMTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGFibGUtYWN0aXZlIj7tiKzsnpDtmZXsoJXsnbw8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQ+MjAxNy0xMS0xMTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGFibGUtYWN0aXZlIj7siJjsnbXqtowg67Cc7IOd7J6QPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNvbHNwYW49IjMiPijso7wp7JeQ7Iqk6riI7Jy164yA67aAPC90ZD4KICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0YWJsZS1hY3RpdmUiPuyImOydteq2jCDtjJDrp6TsnpA8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQgY29sc3Bhbj0iMyI+KOyjvCnsl5DsiqTslaTsl5DsiqTroIzrlKk8L3RkPgogICAgICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICA8L3Rib2R5PgogICAgICAgICAgICA8L3RhYmxlPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0ZXh0LWNlbnRlciBib3R0b20taW5mbyI+CiAgICAgICAgICAgICAgICA8aDQ+7JuQ66as6riIIOyImOy3qOq2jCDqs4Tslb3sl5Ag7J2Y7ZWY7JesIOuzuOymneyEnOulvCDrsJztlontlanri4jri6QuPC9oND4KICAgICAgICAgICAgICAgIDxwPjIwMTfrhYQgMTHsm5QgMTHsnbw8L3A+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0ZXh0LWNlbnRlciI+CiAgICAgICAgICAgICAgICA8aDI+KOyjvCnsl5DsiqTslaTsl5DsiqTroIzrlKkg6rmAIOuPmSDtm4ggPHNtYWxsPuuMgO2RnOydtOyCrDwvc21hbGw+PC9oMj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KPC9kaXY+Cgo8L2JvZHk+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIDxoZWFkPgogICAgICAgPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiLz4KICAgICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vbWF4Y2RuLmJvb3RzdHJhcGNkbi5jb20vYm9vdHN0cmFwLzMuMy43L2Nzcy9ib290c3RyYXAubWluLmNzcyIgcmVsPSJzdHlsZXNoZWV0IiBpbnRlZ3JpdHk9InNoYTM4NC1CVllpaVNJRmVLMWRHbUpSQWt5Y3VIQUhSZzMyT21VY3d3N29uM1JZZGc0VmErUG1TVHN6L0s2OHZiZEVqaDR1IiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj4KICAgICAgIDxzdHlsZT4KICAgICAgICRjc3MKICAgICAgICA8L3N0eWxlPgo8L2hlYWQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>128</text>
       </register>
     </registers>
     <search>
-      <last-search>title</last-search>
+      <last-search>.title</last-search>
       <last-offset />
-      <last-pattern>title</last-pattern>
+      <last-pattern>.title</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpbnB1dFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -3274,8 +3282,6 @@
     </search>
     <history>
       <history-search>
-        <entry>include</entry>
-        <entry>create</entry>
         <entry>point</entry>
         <entry>debugg</entry>
         <entry>userr_id</entry>
@@ -3294,6 +3300,8 @@
         <entry>thead</entry>
         <entry>top-info</entry>
         <entry>title</entry>
+        <entry>body</entry>
+        <entry>.title</entry>
       </history-search>
       <history-cmd>
         <entry>583</entry>
