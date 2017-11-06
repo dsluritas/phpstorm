@@ -374,11 +374,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/resources/views/layouts/default.blade.php" timestamp="1509938370806">
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="31" />
+      <file name="$USER_HOME$/git/ptp/china-duse/resources/views/layouts/default.blade.php" timestamp="1509954443371">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="28" />
         <mark key="^" line="16" column="25" />
-        <mark key="." line="16" column="31" />
+        <mark key="." line="16" column="28" />
       </file>
       <file name="$USER_HOME$/luritas/point/app/Point.php" timestamp="1509849230904">
         <mark key="[" line="54" column="0" />
@@ -1136,11 +1136,11 @@
         <mark key="." line="62" column="42" />
         <mark key="^" line="62" column="42" />
       </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/resources/assets/js/app.js" timestamp="1509937903948">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/git/ptp/china-duse/resources/assets/js/app.js" timestamp="1509954615545">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="20" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/js/plugins/bootstrap-table/dist/bootstrap-table.css" timestamp="1500364329979">
         <mark key="[" line="216" column="17" />
@@ -1573,18 +1573,15 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/resources/views/ChinaCRUD/index.blade.php" timestamp="1509939340159">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="22" column="32" />
-        <mark key="^" line="22" column="32" />
-        <mark key="." line="22" column="32" />
+      <file name="$USER_HOME$/git/ptp/china-duse/resources/views/ChinaCRUD/index.blade.php" timestamp="1509954439842">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="66" column="8" />
+        <mark key="]" line="66" column="16" />
+        <mark key="^" line="66" column="7" />
+        <mark key="." line="66" column="8" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="20" filename="$USER_HOME$/luritas/point/resources/views/student/dashboard.blade.php" />
-      <jump line="73" column="9" filename="$USER_HOME$/luritas/point/resources/views/student/dashboard.blade.php" />
-      <jump line="29" column="20" filename="$USER_HOME$/luritas/point/resources/views/student/dashboard.blade.php" />
       <jump line="125" column="46" filename="$USER_HOME$/luritas/point/resources/views/student/dashboard.blade.php" />
       <jump line="27" column="0" filename="$USER_HOME$/luritas/point/.env" />
       <jump line="0" column="6" filename="$USER_HOME$/luritas/point/resources/views/teacher/point.blade.php" />
@@ -1682,6 +1679,9 @@
       <jump line="42" column="0" filename="$USER_HOME$/git/ptp/china-duse/webpack.mix.js" />
       <jump line="1" column="18" filename="$USER_HOME$/git/ptp/china-duse/resources/views/ChinaCRUD/index.blade.php" />
       <jump line="65" column="0" filename="$USER_HOME$/git/ptp/china-duse/resources/views/ChinaCRUD/index.blade.php" />
+      <jump line="23" column="11" filename="$USER_HOME$/git/ptp/china-duse/resources/views/ChinaCRUD/index.blade.php" />
+      <jump line="62" column="28" filename="$USER_HOME$/git/ptp/china-duse/resources/views/ChinaCRUD/index.blade.php" />
+      <jump line="70" column="0" filename="$USER_HOME$/git/ptp/china-duse/resources/views/ChinaCRUD/index.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1704,8 +1704,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cmVxdWlyZSgnaicpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -3247,7 +3247,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">PC90Ym9keT4=</text>
       </register>
       <register name="/" type="4">
         <text>.title</text>
@@ -3256,31 +3256,31 @@
         <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3R3aXR0ZXItYm9vdHN0cmFwLzQuMC4wLWFscGhhL2Nzcy9ib290c3RyYXAuY3NzIiByZWw9InN0eWxlc2hlZXQiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQ+CiAgICAgICAgCiAgICA8L3NjcmlwdD4K</text>
+        <text encoding="base64">cmVxdWlyZSgnaicpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAic2NyaXB0cyI6IHsKICAgICJwcm9kIjogImd1bHAgLS1wcm9kdWN0aW9uIiwKICAgICJkZXYiOiAiZ3VscCB3YXRjaCIKICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1peC5qcygnYXBwLmpzJyk7Cg==</text>
+        <text encoding="base64">bwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Y29tcGFjdCgnY2hpbmFzJykpCiAgICAgICAgICAgIC0+d2l0aCgnaScsICk7</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQ+CiAgICAgICAgCiAgICA8L3NjcmlwdD4K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y29tcGFjdCgnY2hpbmFzJykpCiAgICAgICAgICAgIC0+</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGVjaG8gJzxwcmU+JzsKLy8gICAgICAgIHByaW50X3IoJGNoaW5hcy0+Z2V0QmluZGluZ3MoKSk7Ci8vICAgICAgICBkZCgkY2hpbmFzLT50b1NxbCgpKTsK</text>
+        <text encoding="base64">ICAic2NyaXB0cyI6IHsKICAgICJwcm9kIjogImd1bHAgLS1wcm9kdWN0aW9uIiwKICAgICJkZXYiOiAiZ3VscCB3YXRjaCIKICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1peC5qcygnYXBwLmpzJyk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">Y29tcGFjdCgnY2hpbmFzJykpCiAgICAgICAgICAgIC0+d2l0aCgnaScsICk7</text>
       </register>
       <register name=":" type="4">
         <text>128</text>
