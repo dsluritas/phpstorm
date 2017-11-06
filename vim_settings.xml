@@ -209,11 +209,12 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/app/Http/Controllers/ChinaController.php" timestamp="1509959329400">
+      <file name="$USER_HOME$/git/ptp/china-duse/app/Http/Controllers/ChinaController.php" timestamp="1509964837028">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
+        <mark key="^" line="146" column="36" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/common/footer.blade.php" timestamp="1507635671411">
         <mark key="'" line="0" column="0" />
@@ -1218,10 +1219,10 @@
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada/functions.php" timestamp="1509697765844">
         <mark key="'" line="13" column="18" />
       </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/resources/assets/js/app.js" timestamp="1509960922580">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="25" />
+      <file name="$USER_HOME$/git/ptp/china-duse/resources/assets/js/app.js" timestamp="1509963496900">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
         <mark key="^" line="6" column="25" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/public/js/plugins/bootstrap-table/dist/bootstrap-table.css" timestamp="1500364329979">
@@ -1439,12 +1440,11 @@
         <mark key="^" line="4" column="86" />
         <mark key="." line="4" column="86" />
       </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/config/app.php" timestamp="1508811864463">
-        <mark key="'" line="193" column="39" />
-        <mark key="[" line="204" column="44" />
-        <mark key="]" line="203" column="50" />
-        <mark key="." line="203" column="50" />
-        <mark key="^" line="203" column="50" />
+      <file name="$USER_HOME$/git/ptp/china-duse/config/app.php" timestamp="1509964718320">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/map.js" timestamp="1508986579802">
         <mark key="'" line="185" column="41" />
@@ -1679,16 +1679,14 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/resources/views/ChinaCRUD/index.blade.php" timestamp="1509961193867">
+      <file name="$USER_HOME$/git/ptp/china-duse/resources/views/ChinaCRUD/index.blade.php" timestamp="1509964531103">
         <mark key="'" line="47" column="77" />
-        <mark key="[" line="74" column="44" />
-        <mark key="]" line="74" column="44" />
-        <mark key="^" line="74" column="44" />
-        <mark key="." line="74" column="44" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="1" filename="$USER_HOME$/luritas/point/app/Http/Controllers/PointTeacherController.php" />
       <jump line="22" column="6" filename="$USER_HOME$/luritas/point/app/Http/Controllers/PointTeacherController.php" />
       <jump line="114" column="51" filename="$USER_HOME$/luritas/point/app/Http/Controllers/PointTeacherController.php" />
       <jump line="39" column="20" filename="$USER_HOME$/luritas/point/app/Http/Controllers/PointTeacherController.php" />
@@ -1788,6 +1786,7 @@
       <jump line="20" column="0" filename="$USER_HOME$/git/ptp/china-duse/app/Http/Controllers/ChinaController.php" />
       <jump line="62" column="48" filename="$USER_HOME$/git/ptp/china-duse/resources/views/ChinaCRUD/index.blade.php" />
       <jump line="47" column="77" filename="$USER_HOME$/git/ptp/china-duse/resources/views/ChinaCRUD/index.blade.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/git/ptp/china-duse/config/app.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1810,8 +1809,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>/admin/list/china</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGNoaW5hczsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -3353,42 +3352,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/admin/list/china</text>
+        <text>User::query()</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndXJsJzogJy9hZG1pbi9saXN0L2NoaW5hJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAganNvbi5yZWNvcmRzVG90YWwgPSBqc29uLnRvdGFsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJkYXRhdGFibGVzLm5ldC1kdCI6ICJeMS4xMC4xNiIsCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGNoaW5hczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY2hpbmFzID0gJGNoaW5hcy0+cGFnaW5hdGUoKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGltcG9ydCAifmRhdGF0YWJsZXMubmV0LWR0L2NzcyI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGltcG9ydCAiIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text>&quot;
-&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhOiBmdW5jdGlvbiAoZGF0YSkgewogICAgICAgICAgICAgICAgICAgICAgICAvLyBHcmFiIGZvcm0gdmFsdWVzIGNvbnRhaW5pbmcgdXNlciBvcHRpb25zCiAgICAgICAgICAgICAgICAgICAgICAgIHZhciBmb3JtID0ge307CiAgICAgICAgICAgICAgICAgICAgICAgICQuZWFjaCgkKCJmb3JtIikuc2VyaWFsaXplQXJyYXkoKSwgZnVuY3Rpb24gKGksIGZpZWxkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JtW2ZpZWxkLm5hbWVdID0gZmllbGQudmFsdWUgfHwgIiI7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgICAgICAvLyBBZGQgb3B0aW9ucyB1c2VkIGJ5IERhdGF0YWJsZXMKICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGluZm8gPSB7ICJzdGFydCI6IDAsICJsZW5ndGgiOiAxMCwgImRyYXciOiAxIH07CiAgICAgICAgICAgICAgICAgICAgICAgICQuZXh0ZW5kKGZvcm0sIGluZm8pOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gSlNPTi5zdHJpbmdpZnkoZm9ybSk7CiAgICAgICAgICAgICAgICAgICAgfSwK</text>
       </register>
-      <register name="7" type="8">
-        <text>&quot;
-&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAganNvbi5sZW5ndGggPSBqc29uWydwZXJfcGFnZSddOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjcm9sbFk6IDUwMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFqc29uLmRyYXcpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGpzb24uZHJhdyA9IGpzb24uY3VycmVudF9wYWdlOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY2hpbmFzLT50YWtlKDEwKS0+Z2V0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>16</text>
