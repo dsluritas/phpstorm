@@ -1681,12 +1681,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/resources/views/ChinaCRUD/index.blade.php" timestamp="1510015359838">
+      <file name="$USER_HOME$/git/ptp/china-duse/resources/views/ChinaCRUD/index.blade.php" timestamp="1510018333056">
         <mark key="'" line="47" column="77" />
-        <mark key="[" line="97" column="69" />
-        <mark key="]" line="98" column="24" />
-        <mark key="." line="98" column="24" />
-        <mark key="^" line="98" column="24" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1812,8 +1811,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>exampe</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -3364,31 +3363,31 @@
         <text encoding="base64">ICAgICAgICAkbWV0aG9kID0gJ0dFVCc7ICAgIC8vR0VU66eMIO2XiOyaqe2VmOuKlOuTry4uLgogICAgICAgICRwYXJhbSA9IFsKICAgICAgICAgICAgJ3VzZXJfbG9nb24nID0+ICR0aGlzLT51c2VySW5mby0+dXNlcl9lbWFpbCwKICAgICAgICBdOwoKICAgICAgICAkZGF0YSA9IGdldEFQSUNvbnRlbnQoJ3VzZXI6ICcgLiAkdGhpcy0+dXNlckluZm8tPnVzZXJfZW1haWwsICRtZXRob2QsICR1cmwsICRwYXJhbSlbJ3BzZm9ybSddWydib2R5J107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8kdmMgPSAkdXNlci0+Y3JlYXRlVmlydHVhbEFjY291bnQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZmxhZyk7Cg==</text>
+        <text encoding="base64">Ly8kdmMgPSAkdXNlci0+Y3JlYXRlVmlydHVhbEFjY291bnQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+aW52ZXN0bWVudEluZm8pOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZmxhZyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGFyYW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+aW52ZXN0bWVudEluZm8pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGFyYW0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGQoQVBJX0xJU1QpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JGNoZWNrVkMgPSAkdXNlci0+Y2hlY2tWaXJ0dWFsQWNjb3VudCgpOwo=</text>
+        <text encoding="base64">ZGQoQVBJX0xJU1QpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JGNoZWNrVkMgPSAkdXNlci0+Y2hlY2tWaXJ0dWFsQWNjb3VudCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>16</text>
