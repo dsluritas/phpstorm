@@ -1681,12 +1681,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/resources/views/ChinaCRUD/index.blade.php" timestamp="1509966680351">
+      <file name="$USER_HOME$/git/ptp/china-duse/resources/views/ChinaCRUD/index.blade.php" timestamp="1510015359838">
         <mark key="'" line="47" column="77" />
-        <mark key="[" line="74" column="33" />
-        <mark key="]" line="74" column="35" />
-        <mark key="." line="74" column="35" />
-        <mark key="^" line="74" column="35" />
+        <mark key="[" line="97" column="69" />
+        <mark key="]" line="98" column="24" />
+        <mark key="." line="98" column="24" />
+        <mark key="^" line="98" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -1813,7 +1813,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>exampe</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -3355,7 +3355,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>exampe</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
