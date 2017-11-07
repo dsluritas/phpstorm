@@ -635,12 +635,12 @@
         <mark key="." line="17" column="34" />
         <mark key="^" line="17" column="34" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/dashboard.php" timestamp="1509725868109">
-        <mark key="'" line="34" column="36" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="5" />
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/dashboard.php" timestamp="1509985593670">
+        <mark key="'" line="38" column="36" />
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="15" column="39" />
+        <mark key="^" line="15" column="39" />
       </file>
       <file name="$USER_HOME$/luritas/point/database/seeds/ClassRoomsTableSeeder.php" timestamp="1509862568974">
         <mark key="[" line="13" column="39" />
@@ -747,7 +747,7 @@
         <mark key="]" line="235" column="0" />
         <mark key="." line="235" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509980799922">
+      <file name="/Dummy.txt" timestamp="1509984879970">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
@@ -1488,12 +1488,12 @@
         <mark key="^" line="24" column="24" />
         <mark key="." line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" timestamp="1509726076987">
-        <mark key="'" line="42" column="19" />
-        <mark key="[" line="284" column="74" />
-        <mark key="]" line="285" column="42" />
-        <mark key="." line="285" column="42" />
-        <mark key="^" line="285" column="42" />
+      <file name="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" timestamp="1509985836387">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="309" column="34" />
+        <mark key="]" line="309" column="27" />
+        <mark key="." line="309" column="27" />
+        <mark key="^" line="309" column="27" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/css/map.css" timestamp="1509093368306">
         <mark key="'" line="0" column="4389" />
@@ -1690,10 +1690,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="0" filename="$USER_HOME$/luritas/point/resources/views/class.blade.php" />
-      <jump line="108" column="46" filename="$USER_HOME$/luritas/point/resources/views/class.blade.php" />
-      <jump line="42" column="31" filename="$USER_HOME$/luritas/point/resources/views/class.blade.php" />
-      <jump line="144" column="0" filename="$USER_HOME$/luritas/point/resources/views/class.blade.php" />
       <jump line="19" column="0" filename="$USER_HOME$/luritas/point/resources/views/class.blade.php" />
       <jump line="38" column="11" filename="$USER_HOME$/luritas/point/resources/views/class.blade.php" />
       <jump line="174" column="16" filename="$USER_HOME$/luritas/point/resources/views/class.blade.php" />
@@ -1790,6 +1786,10 @@
       <jump line="11" column="0" filename="$USER_HOME$/git/ptp/china-duse/app/Http/Controllers/ChinaController.php" />
       <jump line="137" column="6" filename="$USER_HOME$/git/ptp/china-duse/vendor/yajra/laravel-datatables-oracle/src/DatatablesServiceProvider.php" />
       <jump line="108" column="8" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="281" column="4" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
+      <jump line="27" column="20" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
+      <jump line="293" column="14" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
+      <jump line="18" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1812,8 +1812,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>data</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -3355,40 +3355,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNvbC1tZC0xMg==</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0icGVyY2VudGFnZSI+66qo7KeR66WgPC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAkbWV0aG9kID0gJ0dFVCc7ICAgIC8vR0VU66eMIO2XiOyaqe2VmOuKlOuTry4uLgogICAgICAgICRwYXJhbSA9IFsKICAgICAgICAgICAgJ3VzZXJfbG9nb24nID0+ICR0aGlzLT51c2VySW5mby0+dXNlcl9lbWFpbCwKICAgICAgICBdOwoKICAgICAgICAkZGF0YSA9IGdldEFQSUNvbnRlbnQoJ3VzZXI6ICcgLiAkdGhpcy0+dXNlckluZm8tPnVzZXJfZW1haWwsICRtZXRob2QsICR1cmwsICRwYXJhbSlbJ3BzZm9ybSddWydib2R5J107Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHVsIGNsYXNzPSJmdW5kaW5nLWxpc3QgaGVhZCI+CiAgICAgICAgICAgICAgICA8bGkgY2xhc3M9ImltYWdlIj48L2xpPgogICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJ0aXRsZSI+7IOB7ZKI66qFPC9saT4KICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iYW1vdW50Ij7rqqjsp5HquIjslaE8L2xpPgogICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJyYXRlIj7siJjsnbXrpaA8L2xpPgogICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJ0eXBlIj7sg4HtmZjrsKnsi508L2xpPgogICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJwZXJjZW50YWdlIj7sg4HtmZjquLDqsIQ8L2xpPgogICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJwZXJjZW50YWdlIj7rqqjsp5HrpaA8L2xpPgogICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJsaW5rIj48L2xpPgogICAgICAgICAgICA8L3VsPgo=</text>
+        <text encoding="base64">Ly8kdmMgPSAkdXNlci0+Y3JlYXRlVmlydHVhbEFjY291bnQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZmxhZyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+aW52ZXN0bWVudEluZm8pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy4kcGFyZW50LnN0YXR1cyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5kYXRhLkl0ZW1zKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGFyYW0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQoQVBJX0xJU1QpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5jYXJkcyA9IHJlc3VsdC5kYXRhLkl0ZW1zW3RoaXMuc3RhdHVzLmluZGV4T2YodGhpcy4kcGFyZW50LnN0YXR1cyldWydJdGVtJ107Cg==</text>
+        <text encoding="base64">JGNoZWNrVkMgPSAkdXNlci0+Y2hlY2tWaXJ0dWFsQWNjb3VudCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>16</text>
