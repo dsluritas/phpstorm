@@ -155,7 +155,6 @@
         <mark key="^" line="22" column="23" />
         <mark key="." line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/.env" timestamp="1510110545745" />
       <file name="$USER_HOME$/luritas/point/package.json" timestamp="1509770370190">
         <mark key="[" line="22" column="28" />
         <mark key="]" line="22" column="28" />
@@ -1620,8 +1619,8 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1510121037946">
-        <mark key="'" line="197" column="54" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1510123336496">
+        <mark key="'" line="96" column="0" />
         <mark key="[" line="139" column="0" />
         <mark key="]" line="212" column="78" />
         <mark key="^" line="150" column="60" />
@@ -1708,7 +1707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
       <jump line="149" column="5" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
       <jump line="49" column="4" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
       <jump line="136" column="6" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/pdf.php" />
@@ -1808,6 +1806,7 @@
       <jump line="90" column="5" filename="$USER_HOME$/git/ptp/china-duse/.gitignore" />
       <jump line="9" column="8" filename="$USER_HOME$/git/ptp/china-duse/.gitignore" />
       <jump line="88" column="0" filename="$USER_HOME$/git/ptp/china-duse/.gitignore" />
+      <jump line="96" column="0" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3376,7 +3375,7 @@
         <text>fonts</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfbWFwX2RhdGFcPg==</text>
+        <text>map</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">L3B1YmxpYy9mb250cwo=</text>
@@ -3413,9 +3412,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfbWFwX2RhdGFcPg==</last-search>
+      <last-search>map</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfbWFwX2RhdGFcPg==</last-pattern>
+      <last-pattern>map</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpbnB1dFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -3438,11 +3437,11 @@
         <entry>get_map</entry>
         <entry>get_detail</entry>
         <entry>amp</entry>
-        <entry>map</entry>
         <entry>#map</entry>
         <entry>global</entry>
         <entry encoding="base64">XDxtYXBfdmlld1w+</entry>
         <entry encoding="base64">XDxnZXRfbWFwX2RhdGFcPg==</entry>
+        <entry>map</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz43OQ==</entry>
