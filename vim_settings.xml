@@ -329,7 +329,6 @@
         <mark key="^" line="0" column="116" />
         <mark key="." line="0" column="89679" />
       </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/public/js/trans_china.js" timestamp="1510134047802" />
       <file name="$USER_HOME$/luritas/point/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php" timestamp="1509207907380">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -831,14 +830,13 @@
         <mark key="." line="16" column="75" />
         <mark key="^" line="16" column="64" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" timestamp="1509983556112">
-        <mark key="'" line="111" column="8" />
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" timestamp="1510140827636">
+        <mark key="'" line="29" column="25" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="4" column="15" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/database/seeds/SubwayTranslationData.php" timestamp="1510131828316" />
       <file name="$USER_HOME$/git/ptp/china-duse/gulpfile.js" timestamp="1509937377089">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -1009,7 +1007,6 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/public/js/map2.js" timestamp="1510130028471" />
       <file name="$USER_HOME$/git/ptp/peterWEB/app/FaAppnoPivot.php" timestamp="1504862593650">
         <mark key="[" line="12" column="71" />
         <mark key="]" line="12" column="71" />
@@ -1751,7 +1748,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="480" column="13" filename="$USER_HOME$/git/ptp/china-duse/app/Http/routes.php" />
       <jump line="204" column="14" filename="$USER_HOME$/git/ptp/china-duse/app/Http/routes.php" />
       <jump line="201" column="14" filename="$USER_HOME$/git/ptp/china-duse/app/Http/routes.php" />
       <jump line="483" column="13" filename="$USER_HOME$/git/ptp/china-duse/app/Http/routes.php" />
@@ -1851,6 +1847,7 @@
       <jump line="166" column="11" filename="$USER_HOME$/git/ptp/china-duse/app/Http/Controllers/MapViewController.php" />
       <jump line="106" column="0" filename="$USER_HOME$/git/ptp/china-duse/app/Http/Controllers/MapViewController.php" />
       <jump line="201" column="39" filename="$USER_HOME$/git/ptp/china-duse/app/Http/Controllers/Api/MapViewController.php" />
+      <jump line="29" column="25" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
