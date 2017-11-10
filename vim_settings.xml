@@ -2737,7 +2737,7 @@
         <text>원천징수 정보 변경에</text>
       </register>
       <register name="/" type="4">
-        <text>가상계좌존재여부</text>
+        <text>webpac</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JGRhdGFbJ+ydgO2WiSddICYmICRkYXRhWyfqs4TsoozrsojtmLgnXQ==</text>
@@ -2774,9 +2774,9 @@
       </register>
     </registers>
     <search>
-      <last-search>가상계좌존재여부</last-search>
+      <last-search>webpac</last-search>
       <last-offset />
-      <last-pattern>가상계좌존재여부</last-pattern>
+      <last-pattern>webpac</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpbnB1dFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2784,7 +2784,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getDe</entry>
         <entry>results</entry>
         <entry encoding="base64">XDxtYXJrZXJfbGlzdFw+</entry>
         <entry encoding="base64">XDxnZXRSZWNlbnREYXRhQW5vbnltb3VzZVw+</entry>
@@ -2804,6 +2803,7 @@
         <entry>item</entry>
         <entry>getMy</entry>
         <entry>가상계좌존재여부</entry>
+        <entry>webpac</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+430</entry>
