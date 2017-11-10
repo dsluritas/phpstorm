@@ -117,9 +117,9 @@
         <mark key="]" line="215" column="108" />
         <mark key="." line="215" column="108" />
       </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/app/Http/routes.php" timestamp="1510305968647">
+      <file name="$USER_HOME$/git/ptp/china-duse/app/Http/routes.php" timestamp="1510306443933">
         <mark key="'" line="407" column="33" />
-        <mark key="[" line="410" column="13" />
+        <mark key="[" line="410" column="8" />
         <mark key="]" line="410" column="17" />
         <mark key="." line="410" column="17" />
         <mark key="^" line="410" column="17" />
@@ -228,6 +228,12 @@
         <mark key="]" line="23" column="33" />
         <mark key="." line="23" column="33" />
         <mark key="^" line="23" column="33" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/china-duse/resources/views/form.blade.php" timestamp="1510306487484">
+        <mark key="[" line="7" column="59" />
+        <mark key="]" line="7" column="59" />
+        <mark key="." line="7" column="59" />
+        <mark key="^" line="7" column="46" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/PaymentLog.php" timestamp="1505263693152">
         <mark key="[" line="19" column="62" />
@@ -968,7 +974,7 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510304369871">
+      <file name="/Dummy.txt" timestamp="1510306295221">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
@@ -1197,7 +1203,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>form</text>
+        <text>.css</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2739,7 +2745,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>form</text>
+        <text>.css</text>
       </register>
       <register name="/" type="4">
         <text>elic</text>
@@ -2748,31 +2754,31 @@
         <text encoding="base64">ICAgICAgICAic29jaWFsaXRlcHJvdmlkZXJzL25hdmVyIjogIl4xLjAiLAogICAgICAgICJzb2NpYWxpdGVwcm92aWRlcnMva2FrYW8iOiAiXjEuMCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJodG1sbWluL2h0bWxtaW4iOiAiXjUuMCIsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQoJHVzZXIpOwo=</text>
+        <text encoding="base64">YnMzLQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGQoJHVzZXIpOwo=</text>
+        <text encoding="base64">Yi0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGQoJGRpc3BsYXlCYW5rQWNjb3VudCk7Cg==</text>
+        <text encoding="base64">ICAgICJodG1sbWluL2h0bWxtaW4iOiAiXjUuMCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGQoJGRhdGFbJ+ydgO2WiSddKTsK</text>
+        <text encoding="base64">ZGQoJHVzZXIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGQoJGRhdGEpOwo=</text>
+        <text encoding="base64">ZGQoJHVzZXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGQoJHVzZXItPmludmVzdG1lbnRJbmZvWyfsg4HtmZjqs4TsoozsnYDtlonsvZTrk5wnXSk7Cg==</text>
+        <text encoding="base64">ZGQoJGRpc3BsYXlCYW5rQWNjb3VudCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGQoJGJhbmtzKTsK</text>
+        <text encoding="base64">ZGQoJGRhdGFbJ+ydgO2WiSddKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGQoJGJhbmtzKTsK</text>
+        <text encoding="base64">ZGQoJGRhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
