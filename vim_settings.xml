@@ -264,8 +264,8 @@
         <mark key="." line="44" column="78" />
         <mark key="^" line="44" column="78" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" timestamp="1510474258002">
-        <mark key="'" line="151" column="20" />
+      <file name="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" timestamp="1510498420149">
+        <mark key="'" line="285" column="4" />
         <mark key="[" line="74" column="94" />
         <mark key="]" line="74" column="94" />
         <mark key="^" line="74" column="94" />
@@ -298,7 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="44" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
       <jump line="258" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
       <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
       <jump line="175" column="8" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
@@ -398,6 +397,7 @@
       <jump line="49" column="18" filename="$USER_HOME$/luritas/point/app/Http/Controllers/AcademyController.php" />
       <jump line="50" column="13" filename="$USER_HOME$/luritas/point/app/Http/Controllers/AcademyController.php" />
       <jump line="51" column="19" filename="$USER_HOME$/luritas/point/app/Http/Controllers/AcademyController.php" />
+      <jump line="285" column="4" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
