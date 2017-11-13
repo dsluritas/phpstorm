@@ -207,10 +207,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/china-duse/composer.json" timestamp="1510305847891">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="42" />
-      </file>
       <file name="$USER_HOME$/git/ptp/china-duse/app/Http/Controllers/SearchController.php" timestamp="1510195843549">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -587,6 +583,10 @@
       <file name="$USER_HOME$/luritas/example/node_modules/bootstrap-select/package.json" timestamp="1510502656916">
         <mark key="'" line="70" column="19" />
       </file>
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" timestamp="1510564939061">
+        <mark key="'" line="46" column="16" />
+        <mark key="^" line="214" column="66" />
+      </file>
       <file name="$USER_HOME$/git/ptp/china-duse/app/Subway.php" timestamp="1510134695342">
         <mark key="[" line="16" column="75" />
         <mark key="]" line="16" column="75" />
@@ -620,10 +620,6 @@
         <mark key="]" line="13" column="28" />
         <mark key="^" line="13" column="45" />
         <mark key="." line="13" column="28" />
-      </file>
-      <file name="$USER_HOME$/luritas/point/resources/views/class.blade.php" timestamp="1510489819723">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="46" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/package.json" timestamp="1509676252654">
         <mark key="[" line="21" column="28" />
@@ -691,6 +687,12 @@
         <mark key="." line="33" column="38" />
         <mark key="^" line="33" column="38" />
       </file>
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/app/Console/Kernel.php" timestamp="1510564972128">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="32" column="38" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/index.php" timestamp="1510533105321" />
       <file name="$USER_HOME$/luritas/point/database/factories/ClassRoomUserFactory.php" timestamp="1509853795905">
         <mark key="[" line="5" column="39" />
@@ -716,6 +718,7 @@
         <mark key="^" line="36" column="76" />
         <mark key="." line="36" column="76" />
       </file>
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/routes/web.php" timestamp="1510559581885" />
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/deposit-complete.php" timestamp="1510159296578">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="73" />
@@ -1240,17 +1243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="31" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="223" column="11" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="21" column="31" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="150" column="7" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="162" column="7" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="220" column="11" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="321" column="19" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
-      <jump line="20" column="12" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
-      <jump line="32" column="15" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
-      <jump line="125" column="26" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
-      <jump line="143" column="22" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
       <jump line="154" column="22" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
       <jump line="163" column="26" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
       <jump line="166" column="36" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
@@ -1340,6 +1332,17 @@
       <jump line="21" column="36" filename="$USER_HOME$/luritas/example/node_modules/bootstrap-select/package.json" />
       <jump line="59" column="89" filename="$USER_HOME$/luritas/example/node_modules/bootstrap-select/package.json" />
       <jump line="70" column="19" filename="$USER_HOME$/luritas/example/node_modules/bootstrap-select/package.json" />
+      <jump line="31" column="0" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
+      <jump line="334" column="4" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
+      <jump line="181" column="0" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
+      <jump line="37" column="27" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
+      <jump line="339" column="20" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
+      <jump line="47" column="14" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
+      <jump line="338" column="0" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
+      <jump line="344" column="32" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
+      <jump line="86" column="0" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
+      <jump line="46" column="16" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1362,8 +1365,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>j</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2905,49 +2908,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
-        <text>js</text>
+        <text>echo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8b3B0aW9uIHZhbHVlPSIiPjE8L29wdGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBcRXhjZXB0aW9uKCfqsJXsoJwg7JeQ65+sISEhISEhIScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGltcG9ydCAifmJvb3RzdHJhcC1zZWxlY3QiOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCTxkaXYgY2xhc3M9IiI+CgoJCQkJPC9kaXY+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCWJzMy1nCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCTxkaXYgY2xhc3M9InBhbmVsIHBhbmVsLWRlZmF1bHQiPgoJCQkJCTxkaXYgY2xhc3M9InBhbmVsLWJvZHkiPgoJCQkJCQlQYW5lbCBib2R5IC4uLgoJCQkJCTwvZGl2PgoJCQkJPC9kaXY+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3ViamVjdHMpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3ViamVjdCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgREI6OnRhYmxlKCdyZWNlbnRfdXNlcnMnKS0+ZGVsZXRlKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkc2NoZWR1bGUtPmNvbW1hbmQoJycpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBcRXhjZXB0aW9uKCfqsJXsoJwg7JeQ65+sISEhISEhIScpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJGNudDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRlLT5nZXRNZXNzYWdlKCkpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBcRXhjZXB0aW9uKCfqsJXsoJwg7JeQMjIyMjIyMuufrCcpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR1c2VyKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIGlkPSIiIHBsYWNlaG9sZGVyPSIiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRyZXN1bHQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>js</last-search>
+      <last-search>echo</last-search>
       <last-offset />
-      <last-pattern>js</last-pattern>
+      <last-pattern>echo</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpbnB1dFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2955,9 +2958,6 @@
     </search>
     <history>
       <history-search>
-        <entry>elic</entry>
-        <entry>getDeposit</entry>
-        <entry>sofrDele</entry>
         <entry encoding="base64">XDxTb2Z0RGVsZXRlc1w+</entry>
         <entry>proxy</entry>
         <entry>extr</entry>
@@ -2975,6 +2975,9 @@
         <entry encoding="base64">XDxzdWJqZWN0c1w+</entry>
         <entry>start</entry>
         <entry>js</entry>
+        <entry>closed</entry>
+        <entry>setcl</entry>
+        <entry>echo</entry>
       </history-search>
       <history-cmd>
         <entry>30</entry>
