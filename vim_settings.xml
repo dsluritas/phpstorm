@@ -117,11 +117,11 @@
       <file name="$USER_HOME$/luritas/point/app/Http/Controllers/UserController.php" timestamp="1510648160008">
         <mark key="[" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/git/ptp/dashboard/app/Admin/Controllers/UserController.php" timestamp="1510722167175">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="89" column="94" />
+      <file name="$USER_HOME$/git/ptp/dashboard/app/Admin/Controllers/UserController.php" timestamp="1510723295118">
+        <mark key="[" line="78" column="32" />
+        <mark key="]" line="78" column="38" />
+        <mark key="." line="78" column="38" />
+        <mark key="^" line="78" column="38" />
       </file>
       <file name="$USER_HOME$/luritas/point/resources/views/academy/show.blade.php" timestamp="1510646838168">
         <mark key="[" line="14" column="0" />
@@ -400,8 +400,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1943,13 +1943,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>three</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>admin_user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGdyaWQtPmlkKCdJRCcpLT5zb3J0YWJsZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGZvcm0tPmRpc3BsYXkoJ2lkJywgJ0lEJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
