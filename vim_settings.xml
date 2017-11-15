@@ -11,6 +11,13 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/.env" timestamp="1510734911117">
+        <mark key="'" line="30" column="19" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="44" column="12" />
+      </file>
       <file name="/a.dummy" timestamp="1510647113200">
         <mark key="[" line="0" column="0" />
       </file>
@@ -36,11 +43,11 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/seoul-git/data/app/House.php" timestamp="1510725067140">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="20" column="4" />
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/app/House.php" timestamp="1510728472913">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="19" column="64" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/app/User.php" timestamp="1510724952286">
         <mark key="[" line="22" column="5" />
@@ -59,6 +66,12 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="12" column="31" />
       </file>
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/resources/views/emails.reminder.blade.php" timestamp="1510732059612">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="/PHP Console" timestamp="1510725888356">
         <mark key="[" line="0" column="0" />
       </file>
@@ -67,17 +80,16 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/seoul-git/data/app/Console/Kernel.php" timestamp="1510638290160">
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="33" column="25" />
-        <mark key="." line="33" column="25" />
-        <mark key="^" line="33" column="25" />
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/app/Console/Kernel.php" timestamp="1510734135747">
+        <mark key="[" line="39" column="19" />
+        <mark key="]" line="39" column="18" />
+        <mark key="^" line="39" column="18" />
+        <mark key="." line="39" column="18" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/helper.php" timestamp="1510680860028">
-        <mark key="'" line="18" column="39" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/app/SeoulHouse.php" timestamp="1510733168003">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1510680926852">
         <mark key="[" line="0" column="0" />
@@ -95,11 +107,17 @@
       <file name="$USER_HOME$/git/ptp/seoul-git/seoul/wp-content/themes/Avada-Child-Theme/js/bundle.js" timestamp="1510725717865">
         <mark key="'" line="247" column="223" />
       </file>
-      <file name="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" timestamp="1510726983738">
-        <mark key="'" line="82" column="16" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/resources/views/emails/reminder.blade.php" timestamp="1510733401992">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" timestamp="1510733391921">
+        <mark key="'" line="222" column="36" />
+        <mark key="[" line="235" column="21" />
+        <mark key="]" line="235" column="21" />
+        <mark key="." line="235" column="21" />
       </file>
       <file name="$USER_HOME$/git/ptp/admin/config/admin.php" timestamp="1510716097475">
         <mark key="[" line="87" column="26" />
@@ -115,12 +133,6 @@
         <mark key="]" line="29" column="24" />
         <mark key="." line="29" column="24" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" timestamp="1510681098218">
-        <mark key="'" line="308" column="4" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/luritas/point/app/Http/Controllers/UserController.php" timestamp="1510648160008">
         <mark key="[" line="8" column="6" />
       </file>
@@ -135,20 +147,11 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ManagesFrequencies.php" timestamp="1510733649810">
+        <mark key="'" line="14" column="26" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/luritas/point/app/User.php" />
-      <jump line="7" column="0" filename="$USER_HOME$/luritas/point/.env" />
-      <jump line="103" column="19" filename="$USER_HOME$/luritas/point/routes/web.php" />
-      <jump line="133" column="0" filename="$USER_HOME$/luritas/point/routes/web.php" />
-      <jump line="150" column="10" filename="$USER_HOME$/luritas/point/resources/views/student/dashboard.blade.php" />
-      <jump line="111" column="17" filename="$USER_HOME$/luritas/point/resources/views/student/dashboard.blade.php" />
-      <jump line="11" column="17" filename="$USER_HOME$/luritas/point/resources/views/academy/show.blade.php" />
-      <jump line="77" column="1" filename="$USER_HOME$/luritas/point/app/Academy.php" />
-      <jump line="41" column="8" filename="$USER_HOME$/luritas/point/app/Academy.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/luritas/point/resources/views/auth/register.blade.php" />
-      <jump line="25" column="52" filename="$USER_HOME$/luritas/point/resources/views/academy/show.blade.php" />
-      <jump line="53" column="0" filename="$USER_HOME$/luritas/point/app/Http/Controllers/AcademyController.php" />
       <jump line="48" column="9" filename="$USER_HOME$/luritas/point/app/Http/Controllers/AcademyController.php" />
       <jump line="55" column="26" filename="$USER_HOME$/luritas/point/app/Http/Controllers/AcademyController.php" />
       <jump line="49" column="18" filename="$USER_HOME$/luritas/point/app/Http/Controllers/AcademyController.php" />
@@ -162,7 +165,6 @@
       <jump line="31" column="0" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
       <jump line="334" column="4" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
       <jump line="181" column="0" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
-      <jump line="37" column="27" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
       <jump line="1" column="0" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
       <jump line="339" column="20" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
       <jump line="47" column="14" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
@@ -237,6 +239,19 @@
       <jump line="81" column="16" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
       <jump line="16" column="31" filename="$USER_HOME$/git/ptp/seoul-git/seoul/wp-content/themes/Avada-Child-Theme/js/bundle.js" />
       <jump line="247" column="223" filename="$USER_HOME$/git/ptp/seoul-git/seoul/wp-content/themes/Avada-Child-Theme/js/bundle.js" />
+      <jump line="90" column="38" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
+      <jump line="57" column="9" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
+      <jump line="105" column="25" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
+      <jump line="52" column="0" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
+      <jump line="37" column="4" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
+      <jump line="223" column="14" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
+      <jump line="113" column="28" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
+      <jump line="221" column="36" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
+      <jump line="30" column="19" filename="$USER_HOME$/git/ptp/seoul-git/data/.env" />
+      <jump line="404" column="40" filename="$USER_HOME$/git/ptp/seoul-git/data/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ManagesFrequencies.php" />
+      <jump line="9" column="16" filename="$USER_HOME$/git/ptp/seoul-git/data/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ManagesFrequencies.php" />
+      <jump line="11" column="24" filename="$USER_HOME$/git/ptp/seoul-git/data/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ManagesFrequencies.php" />
+      <jump line="14" column="26" filename="$USER_HOME$/git/ptp/seoul-git/data/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ManagesFrequencies.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -259,8 +274,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaG91c2VzQnVpbGRlci0+Z2V0KCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1802,49 +1817,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>toSql</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>naver</text>
+        <text encoding="base64">XDxleHByZXNzaW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZvcm0tPmRpc3BsYXkoJ2lkJywgJ0lEJyk7Cg==</text>
+        <text encoding="base64">TUFJTF9VU0VSTkFNRT1sdXJpdGFzQGR1c2UuY28ua3IKTUFJTF9QQVNTV09SRD1lblJqcWx0cHRrZH5+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaG91c2VzQnVpbGRlci0+Z2V0KCkpOwo=</text>
+        <text encoding="base64">TUFJTF9VU0VSTkFNRT1qb2VAcGluZWFwcGxlcy5rcgpNQUlMX1BBU1NXT1JEPXJsYXdvcm5yMTJACg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaG91c2VzQnVpbGRlci0+dG9TcWwoKSk7Cg==</text>
+        <text encoding="base64">TUFJTF9VU0VSTkFNRT1qb2VAcGluZWFwcGxlcy5rcgpNQUlMX1BBU1NXT1JEPXJsYXdvcm5yMTJACg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcU29mdERlbGV0ZXM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaG91c2VzQnVpbGRlci0+Z2V0KCkpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaG91c2VzQnVpbGRlcik7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaG91c2VzQnVpbGRlci0+Z2V0KCkpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaG91c2VzQnVpbGRlcik7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHVzZSBTb2Z0RGVsZXRlczsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTZW91bEhvdXNlOjoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">7Iqk7LyA7KSE65+s6rCAIOuPjOyVmOyKteuLiOuLpC4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGUtPmdldE1lc3NhZ2UoKSk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaG91c2VzQnVpbGRlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>naver</last-search>
+      <last-search encoding="base64">XDxleHByZXNzaW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>naver</last-pattern>
+      <last-pattern encoding="base64">XDxleHByZXNzaW9uXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpbnB1dFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1852,14 +1867,6 @@
     </search>
     <history>
       <history-search>
-        <entry>start</entry>
-        <entry>js</entry>
-        <entry>closed</entry>
-        <entry>setcl</entry>
-        <entry>echo</entry>
-        <entry>xdevbug</entry>
-        <entry>xdebug</entry>
-        <entry encoding="base64">XDxmaXJlQ29ubmVjdGlvbkV2ZW50XD4=</entry>
         <entry>투자하기</entry>
         <entry>대출약</entry>
         <entry>대출</entry>
@@ -1872,9 +1879,16 @@
         <entry>admin_user</entry>
         <entry>uusers</entry>
         <entry>naver</entry>
+        <entry encoding="base64">XDxob3VzZVR5cGVcPg==</entry>
+        <entry>naverId</entry>
+        <entry>naver_id</entry>
+        <entry>idx_na</entry>
+        <entry>성공</entry>
+        <entry encoding="base64">XDxzdWNjZXNzXD4=</entry>
+        <entry>MAIL</entry>
+        <entry encoding="base64">XDxleHByZXNzaW9uXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>30</entry>
         <entry>130</entry>
         <entry>15</entry>
         <entry>x</entry>
@@ -1894,6 +1908,7 @@
         <entry>436</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5ub3JtIGkjIA==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
