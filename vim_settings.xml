@@ -51,16 +51,24 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/seoul-git/data/app/Console/Kernel.php" timestamp="1510801505999">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/app/Console/Kernel.php" timestamp="1510806950622">
+        <mark key="[" line="38" column="10" />
+        <mark key="]" line="39" column="27" />
+        <mark key="." line="39" column="27" />
+        <mark key="^" line="39" column="27" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/index.php" timestamp="1510763067592">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/seoul-git/.gitignore" timestamp="1510807109000">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-list.php" timestamp="1510750153742">
         <mark key="'" line="78" column="35" />
@@ -102,12 +110,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/seoul-git/data/.env" timestamp="1510798969348">
-        <mark key="'" line="30" column="19" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="38" column="18" />
-        <mark key="^" line="38" column="18" />
-        <mark key="." line="38" column="18" />
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/.env" timestamp="1510807183102">
+        <mark key="'" line="48" column="17" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="48" column="17" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-config.php" timestamp="1510593094054">
         <mark key="[" line="89" column="0" />
@@ -200,12 +208,11 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" timestamp="1510802228839">
-        <mark key="'" line="77" column="38" />
-        <mark key="[" line="48" column="35" />
-        <mark key="]" line="48" column="37" />
-        <mark key="." line="48" column="37" />
-        <mark key="^" line="48" column="37" />
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" timestamp="1510807442822">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="244" column="52" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" timestamp="1510756678622">
         <mark key="[" line="36" column="64" />
@@ -243,9 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="9" filename="$USER_HOME$/PhpstormProjects/snsld/wp-admin/index.php" />
-      <jump line="143" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-admin/index.php" />
-      <jump line="143" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-admin/admin.php" />
       <jump line="28" column="20" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
       <jump line="42" column="14" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/investment.php" />
       <jump line="44" column="12" filename="$USER_HOME$/PhpstormProjects/snsld/helper.php" />
@@ -343,6 +347,9 @@
       <jump line="78" column="37" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
       <jump line="86" column="62" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
       <jump line="77" column="38" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/git/ptp/seoul-git/.gitignore" />
+      <jump line="25" column="0" filename="$USER_HOME$/git/ptp/seoul-git/.gitignore" />
+      <jump line="49" column="17" filename="$USER_HOME$/git/ptp/seoul-git/data/.env" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -365,8 +372,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Week</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRob3VzZS0+dXNlciA9ICRob3VzZS0+dXNlclR5cGU7Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1917,34 +1924,34 @@
         <text encoding="base64">TUFJTF9QQVNTV09SRD16dnBncnplcXN5ZWV5em55Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5kYWlseSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRob3VzZS0+dXNlciA9ICRob3VzZS0+dXNlclR5cGU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5ldmVyeU1pbnV0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRob3VzZS0+dXNlciA9ICR0aGlzLT5nZXRVc2VyKCRob3VzZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaG91c2VzQnVpbGRlci0+dG9TcWwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaG91c2UtPnVzZXIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRzdGFydCA9IENhcmJvbjo6bm93KCktPnN1YkRheSgpLT5mb3JtYXQoJ1ktbS1kJyk7Ci8vICAgICAgICAkZW5kID0gQ2FyYm9uOjpub3coKS0+Zm9ybWF0KCdZLW0tZCcpOwovLyAgICAgICAgJGRhdGVzWzBdID0gJHN0YXJ0OwovLyAgICAgICAgJGRhdGVzWzFdID0gJGVuZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TUFJTF9VU0VSTkFNRT1sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5kYWlseSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TUFJTF9EUklWRVI9c210cAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5ldmVyeU1pbnV0ZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRob3VzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaG91c2VzQnVpbGRlci0+dG9TcWwoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRob3VzZSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICRzdGFydCA9IENhcmJvbjo6bm93KCktPnN1YkRheSgpLT5mb3JtYXQoJ1ktbS1kJyk7Ci8vICAgICAgICAkZW5kID0gQ2FyYm9uOjpub3coKS0+Zm9ybWF0KCdZLW0tZCcpOwovLyAgICAgICAgJGRhdGVzWzBdID0gJHN0YXJ0OwovLyAgICAgICAgJGRhdGVzWzFdID0gJGVuZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
+        <text encoding="base64">TUFJTF9VU0VSTkFNRT1sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
@@ -1980,7 +1987,6 @@
         <entry encoding="base64">XDxnZXRVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>x</entry>
         <entry>214</entry>
         <entry>100</entry>
         <entry>132</entry>
@@ -2000,6 +2006,7 @@
         <entry>400</entry>
         <entry>440</entry>
         <entry>w</entry>
+        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
