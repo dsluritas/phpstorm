@@ -53,6 +53,13 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ptp/dashboard/composer.json" timestamp="1510814835199">
+        <mark key="'" line="7" column="1" />
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/bundle.js" timestamp="1510809484455">
         <mark key="'" line="291" column="418" />
         <mark key="[" line="291" column="409" />
@@ -64,12 +71,6 @@
         <mark key="]" line="39" column="27" />
         <mark key="." line="39" column="27" />
         <mark key="^" line="39" column="27" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/index.php" timestamp="1510763067592">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/.gitignore" timestamp="1510807109000">
         <mark key="'" line="26" column="0" />
@@ -161,11 +162,12 @@
         <mark key="^" line="69" column="13" />
         <mark key="." line="69" column="13" />
       </file>
-      <file name="$USER_HOME$/git/ptp/dashboard/.env" timestamp="1510808878253">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="26" column="13" />
-        <mark key="^" line="26" column="13" />
-        <mark key="." line="26" column="13" />
+      <file name="$USER_HOME$/git/ptp/dashboard/.env" timestamp="1510814893596">
+        <mark key="'" line="21" column="16" />
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="5" column="27" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/app/SeoulHouse.php" timestamp="1510733168003">
         <mark key="[" line="5" column="0" />
@@ -255,12 +257,6 @@
         <mark key="." line="87" column="26" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/app/Classes/Funding.php" timestamp="1510750471078">
-        <mark key="'" line="426" column="0" />
-        <mark key="[" line="426" column="0" />
-        <mark key="]" line="426" column="0" />
-        <mark key="." line="426" column="0" />
-      </file>
       <file name="$USER_HOME$/luritas/example/src/app.js" timestamp="1510502318631">
         <mark key="[" line="1" column="26" />
       </file>
@@ -271,17 +267,8 @@
         <mark key="^" line="166" column="25" />
         <mark key="." line="166" column="25" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-load.php" timestamp="1510763323351">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="385" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="196" column="53" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="191" column="36" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="148" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="25" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="181" column="40" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
@@ -379,6 +366,9 @@
       <jump line="386" column="27" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
       <jump line="35" column="17" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/detail.php" />
       <jump line="70" column="7" filename="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/detail.php" />
+      <jump line="7" column="1" filename="$USER_HOME$/git/ptp/dashboard/composer.json" />
+      <jump line="19" column="0" filename="$USER_HOME$/git/ptp/dashboard/.env" />
+      <jump line="21" column="16" filename="$USER_HOME$/git/ptp/dashboard/.env" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -402,7 +392,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>sidebar-collapse</text>
+        <text>.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1944,49 +1934,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sidebar-collapse</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text>de</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICdsYXlvdXQnICA9PiBbJ3NpZGViYXItbWluaScsICdzaWRlYmFyLWNvbGxhcHNlJ10sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDtlLzthLDtjKzsnZgg7KKL7J2A67CpIOq1rO2VmOq4sOyXkOyEnCDsoJzqs7XtlZjripQg7ISc67mE7Iqk66Gc7I2oIOyEuOyeheyekOyXkOqyjCDsiJjsiJjro4zrpbwg67Cb7KeAIOyViuqzoCDsnoTrjIDsnbjqs7wg7J6E7LCo7J247J2EIOyXsOqysO2VtOykjeuLiOuLpC4K</text>
+        <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1pZGUtaGVscGVyIjogIl4yLjQiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDtlLzthLDtjKzsnZgg7KKL7J2A67CpIOq1rO2VmOq4sOyXkOyEnCDsoJzqs7XtlZjripQg7ISc67mE7Iqk66Gc7I2oIOyEuOyeheyekOyXkOqyjCDsiJjsiJjro4zrpbwg67Cb7KeAIOyViuqzoCDsnoTrjIDsnbjqs7wg7J6E7LCo7J247J2EIOyXsOqysO2VtOykjeuLiOuLpC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJ3d3cucGV0ZXJwYW56LmNvbSI+7ZS87YSw7YysIOuwlOuhnOqwgOq4sDwvYT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9ImFsZXJ0IiBhcmlhLWhpZGRlbj0idHJ1ZSI+JnRpbWVzOzwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJ3d3cucGV0ZXJwYW56LmNvbSI+7ZS87YSw7YysIOuwlOuhnOqwgOq4sDwvYT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTQiIHN0eWxlPSJwYWRkaW5nOjA7IHdpZHRoOiAzMDBweDsiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtIj4KICAgICAgICAgICAgICAgICAgICA8c3Ryb25nPuyjvOydmOyCrO2VrTwvc3Ryb25nPgogICAgICAgICAgICAgICAgICAgIDxwPu2VtOuLueunpOusvOydmCDqsIDqsqnsnYAg7Iuk6rGw656YIOqwgOqyqeydtCDslYTri4jrr4DroZwg6rOE7JW97IScIOyekeyEseyLnCDqsIDqsqnrs4Drj5nsnbQg7J6I7J2E7IiYIOyeiOyKteuLiOuLpC48L3A+CiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9ImFsZXJ0IiBhcmlhLWhpZGRlbj0idHJ1ZSI+JnRpbWVzOzwvYnV0dG9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTQiIHN0eWxlPSJwYWRkaW5nOjA7IHdpZHRoOiAzMDBweDsiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTQiIHN0eWxlPSJwYWRkaW5nOjA7IHdpZHRoOiAzMDBweDsiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtIj4KICAgICAgICAgICAgICAgICAgICA8c3Ryb25nPuyjvOydmOyCrO2VrTwvc3Ryb25nPgogICAgICAgICAgICAgICAgICAgIDxwPu2VtOuLueunpOusvOydmCDqsIDqsqnsnYAg7Iuk6rGw656YIOqwgOqyqeydtCDslYTri4jrr4DroZwg6rOE7JW97IScIOyekeyEseyLnCDqsIDqsqnrs4Drj5nsnbQg7J6I7J2E7IiYIOyeiOyKteuLiOuLpC48L3A+CiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaG91c2VzQnVpbGRlci0+dG9TcWwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTQiIHN0eWxlPSJwYWRkaW5nOjA7IHdpZHRoOiAzMDBweDsiPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaG91c2VzQnVpbGRlci0+dG9TcWwoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aHI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search>de</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern>de</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>투자상품</last-substitute>
       <last-dir>1</last-dir>
@@ -1994,7 +1984,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MAIL</entry>
         <entry encoding="base64">XDxleHByZXNzaW9uXD4=</entry>
         <entry>투자상품</entry>
         <entry encoding="base64">XDxhbW91bnRcPg==</entry>
@@ -2014,6 +2003,7 @@
         <entry encoding="base64">XDxpc1plcm9cPg==</entry>
         <entry encoding="base64">XDxnZXRIb3VzZUxpc3RCeURhdGVcPg==</entry>
         <entry>create</entry>
+        <entry>de</entry>
       </history-search>
       <history-cmd>
         <entry>214</entry>
