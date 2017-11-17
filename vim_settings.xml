@@ -233,11 +233,11 @@
       <file name="/PHP Console" timestamp="1510905818006">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/app.js" timestamp="1510762551490">
-        <mark key="[" line="77" column="5" />
-        <mark key="]" line="69" column="13" />
-        <mark key="^" line="69" column="13" />
-        <mark key="." line="69" column="13" />
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/app.js" timestamp="1510939755564">
+        <mark key="[" line="50" column="33" />
+        <mark key="]" line="50" column="36" />
+        <mark key="^" line="50" column="36" />
+        <mark key="." line="50" column="36" />
       </file>
       <file name="$USER_HOME$/git/ptp/china-duse/composer.json" timestamp="1510903368752">
         <mark key="[" line="14" column="0" />
@@ -319,16 +319,19 @@
       <file name="$USER_HOME$/luritas/example/src/app.js" timestamp="1510502318631">
         <mark key="[" line="1" column="26" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" timestamp="1510939578460">
+        <mark key="'" line="19" column="31" />
+        <mark key="[" line="37" column="28" />
+        <mark key="]" line="37" column="30" />
+        <mark key="." line="37" column="30" />
+        <mark key="^" line="37" column="30" />
+      </file>
       <file name="$USER_HOME$/git/ptp/china-duse/app/Http/Controllers/AddressTranslationController.php" timestamp="1510913307811">
         <mark key="'" line="175" column="45" />
         <mark key="n" line="176" column="25" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1022" column="59" filename="$USER_HOME$/git/ptp/dashboard/vendor/laravelcollective/html/src/FormBuilder.php" />
-      <jump line="75" column="25" filename="$USER_HOME$/git/ptp/dashboard/vendor/laravelcollective/html/src/FormBuilder.php" />
-      <jump line="166" column="6" filename="$USER_HOME$/git/ptp/dashboard/vendor/laravelcollective/html/src/FormBuilder.php" />
-      <jump line="487" column="16" filename="$USER_HOME$/git/ptp/dashboard/vendor/laravelcollective/html/src/FormBuilder.php" />
       <jump line="497" column="23" filename="$USER_HOME$/git/ptp/dashboard/vendor/laravelcollective/html/src/FormBuilder.php" />
       <jump line="504" column="18" filename="$USER_HOME$/git/ptp/dashboard/vendor/laravelcollective/html/src/FormBuilder.php" />
       <jump line="516" column="52" filename="$USER_HOME$/git/ptp/dashboard/vendor/laravelcollective/html/src/FormBuilder.php" />
@@ -425,6 +428,10 @@
       <jump line="328" column="35" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="329" column="35" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="68" column="7" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
+      <jump line="17" column="12" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="150" column="7" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="4" column="27" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="19" column="31" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -448,7 +455,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Account()</text>
+        <text>closed</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1990,49 +1997,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Account()</text>
+        <text>closed</text>
       </register>
       <register name="/" type="4">
-        <text>profile</text>
+        <text>funding-list</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gInskdGhpcy0+Z2V0QmFua05hbWVCeUNvZGUoJGFjY291bnRbJ+yDge2ZmOqzhOyijOydgO2Wiey9lOuTnCddKX0geyRhY2NvdW50Wyfsg4HtmZjqs4TsoozrsojtmLgnXX0geyRhY2NvdW50Wyfsg4HtmZjqs4TsoozsmIjquIjso7wnXX0iOwo=</text>
+        <text encoding="base64">ICAgIGlmIChkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgiY2xvc2VkIikpIHsKICAgICAgICBjbG9zZWQgPSBuZXcgVnVlKHsKICAgICAgICAgICAgZWw6ICcjY2xvc2VkJywKICAgICAgICAgICAgZGF0YTogewogICAgICAgICAgICAgICAgc3RhdHVzOiAnY2xvc2VkJwogICAgICAgICAgICB9LAogICAgICAgICAgICBjb21wdXRlZDogeyAgICAgLy8gY29tcHV0ZWQgdnMgbWV0aG9kIDogY29tcHV0ZWQg64qUIOyCrOyaqeuQnCB2YWx1ZeydmCDrs4DtmZTqsIAg7JeG7J2EIOqyveyasCDsupDsi5zqsJLsnYQg7IKs7JqpCgogICAgICAgICAgICB9LAogICAgICAgICAgICBjb21wb25lbnRzOiB7CiAgICAgICAgICAgICAgICAnZnVuZC1yYWlzaW5nJzogcmVxdWlyZSgnLi9jb21wb25lbnRzL2Z1bmRSYWlzaW5nLnZ1ZScpCiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sb3I6ICMzMzMzMzM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRkKCRkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbG9yOiAjMzMzMzMzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRkKCR1cmwpOwo=</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRkKCRwYXRoKTsK</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGQoJHBhdGgpOwo=</text>
+        <text encoding="base64">ICAgIH0KICAgICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGhwaW5mbygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGhwaW5mbygpOwo=</text>
+        <text encoding="base64">ICAgIGRkKCRkYXRhKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRkKDEyMyk7Cg==</text>
+        <text encoding="base64">ICAgIGRkKCR1cmwpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgIGRkKCRwYXRoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>profile</last-search>
+      <last-search>funding-list</last-search>
       <last-offset />
-      <last-pattern>profile</last-pattern>
+      <last-pattern>funding-list</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>투자상품</last-substitute>
       <last-dir>1</last-dir>
@@ -2040,7 +2047,6 @@
     </search>
     <history>
       <history-search>
-        <entry>model</entry>
         <entry>macro</entry>
         <entry>form</entry>
         <entry>get</entry>
@@ -2060,6 +2066,7 @@
         <entry encoding="base64">XDxyZXN1bHRzXD4=</entry>
         <entry>ttf</entry>
         <entry>profile</entry>
+        <entry>funding-list</entry>
       </history-search>
       <history-cmd>
         <entry>q05</entry>
