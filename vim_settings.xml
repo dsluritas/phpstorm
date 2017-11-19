@@ -89,11 +89,11 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="$USER_HOME$/study/myapp/app/Tag.php" timestamp="1511103918116">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="12" column="51" />
-        <mark key="." line="12" column="51" />
-        <mark key="^" line="12" column="51" />
+      <file name="$USER_HOME$/study/myapp/app/Tag.php" timestamp="1511105251235">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+        <mark key="^" line="10" column="27" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/bundle.js" timestamp="1510809484455">
         <mark key="'" line="291" column="418" />
@@ -644,7 +644,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>UTC</text>
+        <text>tags</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2186,7 +2186,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>UTC</text>
+        <text>tags</text>
       </register>
       <register name="/" type="4">
         <text>loc</text>
