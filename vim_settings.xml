@@ -272,12 +272,12 @@
         <mark key="." line="282" column="0" />
         <mark key="^" line="354" column="45" />
       </file>
-      <file name="$USER_HOME$/study/myapp/routes/web.php" timestamp="1511059840967">
-        <mark key="'" line="13" column="8" />
-        <mark key="[" line="63" column="10" />
-        <mark key="]" line="70" column="41" />
-        <mark key="." line="70" column="41" />
-        <mark key="^" line="70" column="41" />
+      <file name="$USER_HOME$/study/myapp/routes/web.php" timestamp="1511101309463">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="104" column="17" />
       </file>
       <file name="/PHP Console" timestamp="1510905818006">
         <mark key="[" line="0" column="0" />
@@ -476,8 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="32" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/includes/class-avada-google-fonts.php" />
-      <jump line="161" column="34" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/includes/class-avada-google-fonts.php" />
       <jump line="230" column="55" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/includes/class-avada-google-fonts.php" />
       <jump line="237" column="35" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/includes/class-avada-google-fonts.php" />
       <jump line="238" column="44" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/includes/class-avada-google-fonts.php" />
@@ -576,6 +574,8 @@
       <jump line="899" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-login.php" />
       <jump line="529" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-login.php" />
       <jump line="757" column="9" filename="$USER_HOME$/PhpstormProjects/snsld/wp-login.php" />
+      <jump line="72" column="0" filename="$USER_HOME$/study/myapp/routes/web.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/study/myapp/routes/web.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -599,7 +599,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2141,7 +2141,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>form_id</text>
@@ -2150,31 +2150,31 @@
         <text encoding="base64">CWRvX2FjdGlvbiggJ3dwX2xvZ2luJywgJHVzZXItPnVzZXJfbG9naW4sICR1c2VyICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRkKCR1c2VybmFtZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRfUkVRVUVTVCk7CiAgICBkaWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRfUkVRVUVTVCk7CiAgICBkaWUoKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWRpZSgpOwo=</text>
+        <text encoding="base64">ICAgIGRkKCR1c2VybmFtZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRfUkVRVUVTVCk7CiAgICBkaWUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkgICAgZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRfUkVRVUVTVCk7CiAgICBkaWUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkgICAgdmFyX2R1bXAoJF9QT1NUKTsK</text>
+        <text encoding="base64">CWRpZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRkKCRjcmVkZW50aWFscyk7CiAgICBlY2hvICdhYWFhYWFhYWFhYSc7CiAgICBkaWUoKTsK</text>
+        <text encoding="base64">ZGllKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
