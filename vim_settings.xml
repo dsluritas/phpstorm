@@ -40,6 +40,12 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
+      <file name="$USER_HOME$/study/myapp/database/migrations/2017_11_19_150002_create_article_tag_table.php" timestamp="1511103863837">
+        <mark key="[" line="20" column="64" />
+        <mark key="]" line="28" column="6" />
+        <mark key="^" line="28" column="6" />
+        <mark key="." line="28" column="6" />
+      </file>
       <file name="$USER_HOME$/study/myapp/database/migrations/2017_11_19_024235_add_name_to_authors_table.php" timestamp="1511059390591">
         <mark key="[" line="15" column="62" />
         <mark key="]" line="16" column="46" />
@@ -82,6 +88,12 @@
         <mark key="]" line="13" column="38" />
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
+      </file>
+      <file name="$USER_HOME$/study/myapp/app/Tag.php" timestamp="1511103918116">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="12" column="51" />
+        <mark key="." line="12" column="51" />
+        <mark key="^" line="12" column="51" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/js/bundle.js" timestamp="1510809484455">
         <mark key="'" line="291" column="418" />
@@ -155,6 +167,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/study/myapp/database/migrations/2017_11_19_145938_create_tags_table.php" timestamp="1511103624387">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="18" column="43" />
+        <mark key="^" line="18" column="43" />
+        <mark key="." line="18" column="43" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/api.php" timestamp="1510976948817">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -166,6 +184,12 @@
         <mark key="]" line="21" column="10" />
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
+      </file>
+      <file name="$USER_HOME$/study/myapp/database/migrations/2017_11_19_144526_create_articles_table.php" timestamp="1511102809089">
+        <mark key="[" line="18" column="69" />
+        <mark key="]" line="18" column="110" />
+        <mark key="^" line="18" column="110" />
+        <mark key="." line="18" column="110" />
       </file>
       <file name="$USER_HOME$/study/myapp/database/migrations/2017_11_19_023520_create_authors_table.php" timestamp="1511059008501">
         <mark key="[" line="17" column="34" />
@@ -260,6 +284,13 @@
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/plugins/fusion-builder/css/style.css" timestamp="1511081630618">
         <mark key="'" line="243" column="2" />
       </file>
+      <file name="$USER_HOME$/study/myapp/app/User.php" timestamp="1511103108632">
+        <mark key="'" line="39" column="5" />
+        <mark key="[" line="51" column="5" />
+        <mark key="]" line="52" column="45" />
+        <mark key="." line="52" column="45" />
+        <mark key="^" line="52" column="45" />
+      </file>
       <file name="$USER_HOME$/luritas/point/app/Http/Controllers/SettingsController.php" timestamp="1510647780047">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -278,6 +309,9 @@
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
         <mark key="^" line="104" column="17" />
+      </file>
+      <file name="$USER_HOME$/study/myapp/config/mail.php" timestamp="1511102341061">
+        <mark key="'" line="57" column="5" />
       </file>
       <file name="/PHP Console" timestamp="1510905818006">
         <mark key="[" line="0" column="0" />
@@ -298,6 +332,9 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/study/myapp/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" timestamp="1511102219378">
+        <mark key="'" line="49" column="18" />
       </file>
       <file name="$USER_HOME$/git/ptp/dashboard/.env" timestamp="1510814893596">
         <mark key="'" line="21" column="16" />
@@ -323,8 +360,15 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511087206502">
+      <file name="/Dummy.txt" timestamp="1511102597207">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/study/myapp/config/app.php" timestamp="1511104305837">
+        <mark key="'" line="74" column="22" />
+        <mark key="[" line="67" column="19" />
+        <mark key="]" line="67" column="28" />
+        <mark key="." line="67" column="28" />
+        <mark key="^" line="67" column="28" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/storage/logs/laravel.log" timestamp="1510799006269">
         <mark key="'" line="1" column="0" />
@@ -350,10 +394,6 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/functions.php" timestamp="1511082530257">
-        <mark key="'" line="21" column="74" />
-        <mark key="." line="320" column="1" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/schedule-detail.php" timestamp="1510747018067">
         <mark key="'" line="22" column="48" />
@@ -423,11 +463,12 @@
         <mark key="]" line="295" column="0" />
         <mark key="." line="295" column="0" />
       </file>
-      <file name="$USER_HOME$/study/myapp/.env" timestamp="1511001028195">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/study/myapp/.env" timestamp="1511102358984">
+        <mark key="'" line="16" column="17" />
+        <mark key="[" line="32" column="15" />
+        <mark key="]" line="32" column="15" />
+        <mark key="^" line="32" column="13" />
+        <mark key="." line="32" column="15" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-content/funding-type2.php" timestamp="1510978727342">
         <mark key="[" line="68" column="56" />
@@ -440,6 +481,10 @@
         <mark key="[" line="443" column="0" />
         <mark key="]" line="443" column="0" />
         <mark key="." line="443" column="0" />
+      </file>
+      <file name="$USER_HOME$/study/myapp/app/Article.php" timestamp="1511103949557">
+        <mark key="'" line="17" column="23" />
+        <mark key="[" line="31" column="5" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/updateUser.php" timestamp="1510840238380">
         <mark key="[" line="38" column="18" />
@@ -476,19 +521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="55" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/includes/class-avada-google-fonts.php" />
-      <jump line="237" column="35" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/includes/class-avada-google-fonts.php" />
-      <jump line="238" column="44" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/includes/class-avada-google-fonts.php" />
-      <jump line="243" column="35" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/includes/class-avada-google-fonts.php" />
-      <jump line="245" column="55" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/includes/class-avada-google-fonts.php" />
-      <jump line="296" column="29" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/includes/class-avada-google-fonts.php" />
-      <jump line="298" column="63" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/includes/class-avada-google-fonts.php" />
-      <jump line="302" column="17" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/includes/class-avada-google-fonts.php" />
-      <jump line="305" column="25" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/includes/class-avada-google-fonts.php" />
-      <jump line="314" column="39" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/includes/class-avada-google-fonts.php" />
-      <jump line="317" column="26" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/includes/class-avada-google-fonts.php" />
-      <jump line="42" column="17" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/includes/class-avada-google-fonts.php" />
-      <jump line="68" column="45" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/includes/class-avada-google-fonts.php" />
       <jump line="107" column="41" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/includes/class-avada-google-fonts.php" />
       <jump line="66" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/includes/class-avada-google-fonts.php" />
       <jump line="25" column="4" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/includes/class-avada-google-fonts.php" />
@@ -576,6 +608,19 @@
       <jump line="757" column="9" filename="$USER_HOME$/PhpstormProjects/snsld/wp-login.php" />
       <jump line="72" column="0" filename="$USER_HOME$/study/myapp/routes/web.php" />
       <jump line="1" column="0" filename="$USER_HOME$/study/myapp/routes/web.php" />
+      <jump line="49" column="18" filename="$USER_HOME$/study/myapp/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" />
+      <jump line="16" column="17" filename="$USER_HOME$/study/myapp/.env" />
+      <jump line="22" column="0" filename="$USER_HOME$/study/myapp/config/mail.php" />
+      <jump line="51" column="71" filename="$USER_HOME$/study/myapp/config/mail.php" />
+      <jump line="57" column="5" filename="$USER_HOME$/study/myapp/config/mail.php" />
+      <jump line="24" column="5" filename="$USER_HOME$/study/myapp/app/User.php" />
+      <jump line="17" column="23" filename="$USER_HOME$/study/myapp/app/Article.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/study/myapp/config/app.php" />
+      <jump line="76" column="20" filename="$USER_HOME$/study/myapp/config/app.php" />
+      <jump line="117" column="8" filename="$USER_HOME$/study/myapp/config/app.php" />
+      <jump line="18" column="16" filename="$USER_HOME$/study/myapp/config/app.php" />
+      <jump line="54" column="36" filename="$USER_HOME$/study/myapp/config/app.php" />
+      <jump line="74" column="22" filename="$USER_HOME$/study/myapp/config/app.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -598,8 +643,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>UTC</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2141,49 +2186,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>UTC</text>
       </register>
       <register name="/" type="4">
-        <text>form_id</text>
+        <text>loc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWRvX2FjdGlvbiggJ3dwX2xvZ2luJywgJHVzZXItPnVzZXJfbG9naW4sICR1c2VyICk7Cg==</text>
+        <text encoding="base64">TUFJTF9GUk9NX0FERFJFU1M9am9obkBleGFtcGxlLmNvbQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXBzKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRkKCR1c2VybmFtZSk7Cg==</text>
+        <text encoding="base64">TUFJTF9EUklWRVI9c210Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRfUkVRVUVTVCk7CiAgICBkaWUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRfUkVRVUVTVCk7CiAgICBkaWUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWRpZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>form_id</last-search>
+      <last-search>loc</last-search>
       <last-offset />
-      <last-pattern>form_id</last-pattern>
+      <last-pattern>loc</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>투자상품</last-substitute>
       <last-dir>1</last-dir>
@@ -2191,13 +2236,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hasCo</entry>
-        <entry>error</entry>
-        <entry>google</entry>
-        <entry>google_fu</entry>
-        <entry>google_fun</entry>
-        <entry>google_font</entry>
-        <entry>get_google_fonts</entry>
         <entry>css</entry>
         <entry>fusion</entry>
         <entry>fonts</entry>
@@ -2211,6 +2249,13 @@
         <entry>init</entry>
         <entry encoding="base64">PGZvcm0=</entry>
         <entry>form_id</entry>
+        <entry>drive</entry>
+        <entry>mil</entry>
+        <entry>MAIL</entry>
+        <entry>from</entry>
+        <entry>locate</entry>
+        <entry>locale</entry>
+        <entry>loc</entry>
       </history-search>
       <history-cmd>
         <entry>q05</entry>
