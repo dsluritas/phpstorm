@@ -113,6 +113,12 @@
         <mark key="^" line="432" column="56" />
         <mark key="." line="432" column="56" />
       </file>
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/app/Console/Kernel.php" timestamp="1511137969998">
+        <mark key="[" line="30" column="31" />
+        <mark key="]" line="31" column="14" />
+        <mark key="^" line="31" column="14" />
+        <mark key="." line="31" column="14" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/index.php" timestamp="1511086763656">
         <mark key="'" line="26" column="10" />
         <mark key="[" line="1" column="0" />
@@ -360,7 +366,7 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511102597207">
+      <file name="/Dummy.txt" timestamp="1511105510512">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/study/myapp/config/app.php" timestamp="1511104305837">
@@ -644,7 +650,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>tags</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2186,7 +2192,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>tags</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>loc</text>
