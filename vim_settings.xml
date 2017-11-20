@@ -44,6 +44,12 @@
         <mark key="." line="143" column="23" />
         <mark key="^" line="143" column="23" />
       </file>
+      <file name="$USER_HOME$/study/admin/vendor/tcg/voyager/src/Voyager.php" timestamp="1511183932374">
+        <mark key="[" line="165" column="16" />
+        <mark key="]" line="165" column="15" />
+        <mark key="." line="165" column="15" />
+        <mark key="^" line="165" column="15" />
+      </file>
       <file name="$USER_HOME$/git/ptp/dashboard/app/Http/Controllers/HomeController.php" timestamp="1510899339509">
         <mark key="'" line="17" column="4" />
         <mark key="[" line="26" column="0" />
@@ -526,7 +532,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>@</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2068,7 +2074,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text>쿠폰내역</text>
