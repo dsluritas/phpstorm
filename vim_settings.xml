@@ -70,11 +70,6 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/app/Classes/Page.php" timestamp="1511185548373">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/git/ptp/china-duse/app/Http/routes.php" timestamp="1510912456803">
         <mark key="'" line="409" column="43" />
         <mark key="[" line="431" column="76" />
@@ -322,7 +317,7 @@
         <mark key="." line="67" column="28" />
         <mark key="^" line="67" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511254306698">
+      <file name="/Dummy.txt" timestamp="1511255109555">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/storage/logs/laravel.log" timestamp="1510799006269">
@@ -352,6 +347,9 @@
         <mark key="]" line="21" column="8" />
         <mark key="^" line="21" column="42" />
         <mark key="." line="21" column="8" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/vendor/tcg/voyager/package.json" timestamp="1511255087366">
+        <mark key="'" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/css/app.scss" timestamp="1511085213375">
         <mark key="'" line="5" column="0" />
@@ -393,11 +391,6 @@
         <mark key="." line="82" column="39" />
         <mark key="^" line="82" column="39" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-content/funding-type2.php" timestamp="1511179838300">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/updateUser.php" timestamp="1510840238380">
         <mark key="[" line="38" column="18" />
         <mark key="]" line="38" column="18" />
@@ -437,8 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="538" column="26" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
-      <jump line="589" column="17" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
       <jump line="592" column="25" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
       <jump line="635" column="17" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
       <jump line="640" column="25" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
@@ -537,6 +528,8 @@
       <jump line="9" column="50" filename="$USER_HOME$/study/admin/config/filesystems.php" />
       <jump line="9" column="6867" filename="$USER_HOME$/study/admin/public/vendor/laravel-admin/bootstrap-fileinput/js/fileinput.min.js" />
       <jump line="205" column="25" filename="$USER_HOME$/git/ptp/seoul-git/data/config/voyager.php" />
+      <jump line="43" column="5" filename="$USER_HOME$/git/ptp/seoul-git/data/vendor/tcg/voyager/package.json" />
+      <jump line="17" column="0" filename="$USER_HOME$/git/ptp/seoul-git/data/vendor/tcg/voyager/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
