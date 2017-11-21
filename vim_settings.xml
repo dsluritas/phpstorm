@@ -19,6 +19,12 @@
         <mark key="." line="81" column="37" />
         <mark key="^" line="81" column="37" />
       </file>
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/app/Subway.php" timestamp="1511252654904">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="13" column="1" />
+        <mark key="." line="13" column="1" />
+        <mark key="^" line="13" column="1" />
+      </file>
       <file name="$USER_HOME$/study/myapp/database/migrations/2017_11_19_150002_create_article_tag_table.php" timestamp="1511103863837">
         <mark key="[" line="20" column="64" />
         <mark key="]" line="28" column="6" />
@@ -127,6 +133,10 @@
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
       </file>
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/app/Agent.php" timestamp="1511252375297">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="35" />
+      </file>
       <file name="$USER_HOME$/study/myapp/database/migrations/2017_11_19_144526_create_articles_table.php" timestamp="1511102809089">
         <mark key="[" line="18" column="69" />
         <mark key="]" line="18" column="110" />
@@ -155,12 +165,6 @@
         <mark key="]" line="83" column="47" />
         <mark key="^" line="83" column="47" />
         <mark key="." line="83" column="47" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" timestamp="1511185545237">
-        <mark key="'" line="194" column="9" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="34" />
-        <mark key="." line="200" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/dashboard/app/Http/Controllers/AddressController.php" timestamp="1510903519897">
         <mark key="'" line="22" column="0" />
@@ -216,9 +220,9 @@
         <mark key="^" line="39" column="43" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/git/ptp/seoul-git/data/config/voyager.php" timestamp="1511230761161">
-        <mark key="'" line="220" column="0" />
-        <mark key="[" line="134" column="13" />
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/config/voyager.php" timestamp="1511252826333">
+        <mark key="'" line="205" column="25" />
+        <mark key="[" line="205" column="26" />
         <mark key="]" line="134" column="14" />
         <mark key="." line="134" column="14" />
         <mark key="^" line="134" column="14" />
@@ -318,7 +322,7 @@
         <mark key="." line="67" column="28" />
         <mark key="^" line="67" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511251026530">
+      <file name="/Dummy.txt" timestamp="1511252755497">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/storage/logs/laravel.log" timestamp="1510799006269">
@@ -433,7 +437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="537" column="25" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
       <jump line="538" column="26" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
       <jump line="589" column="17" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
       <jump line="592" column="25" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
@@ -533,6 +536,7 @@
       <jump line="43" column="5" filename="$USER_HOME$/study/admin/config/filesystems.php" />
       <jump line="9" column="50" filename="$USER_HOME$/study/admin/config/filesystems.php" />
       <jump line="9" column="6867" filename="$USER_HOME$/study/admin/public/vendor/laravel-admin/bootstrap-fileinput/js/fileinput.min.js" />
+      <jump line="205" column="25" filename="$USER_HOME$/git/ptp/seoul-git/data/config/voyager.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -556,7 +560,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>sidebar-mini', 'sidebar-collapse</text>
+        <text>aidx</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2098,49 +2102,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sidebar-mini', 'sidebar-collapse</text>
+        <text>aidx</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhXD4=</text>
+        <text>json</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICdsYXlvdXQnICA9PiBbJ3NpZGViYXItbWluaScsICdzaWRlYmFyLWNvbGxhcHNlJ10sCg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkcHJpbWFyeUtleSA9ICdhaWR4JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT50aW1lem9uZSgnQXNpYS9TZW91bCcpOwo=</text>
+        <text encoding="base64">ICAgICRwcmltYXJ5X2tleSA9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkY29udGVudCk7Cg==</text>
+        <text encoding="base64">ICAgICR0aQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcCgkY29udGVudCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2NvbnRlbnQyJyA9PiAkY29udGVudDIsCiAgICAgICAgICAgICAgICAgICAgICAgICdjb250ZW50MycgPT4gJGNvbnRlbnQzLAogICAgICAgICAgICAgICAgICAgICAgICAnY29udGVudDQnID0+ICRjb250ZW50NCwKICAgICAgICAgICAgICAgICAgICAgICAgJ2NvbnRlbnQ1JyA9PiAkY29udGVudDUsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cHAoJGNvbnRlbnQzKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRkKCRxKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJzEyMzEzMTInOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT50aW1lem9uZSgnQXNpYS9TZW91bCcpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkY29udGVudCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcCgkY29udGVudCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2NvbnRlbnQyJyA9PiAkY29udGVudDIsCiAgICAgICAgICAgICAgICAgICAgICAgICdjb250ZW50MycgPT4gJGNvbnRlbnQzLAogICAgICAgICAgICAgICAgICAgICAgICAnY29udGVudDQnID0+ICRjb250ZW50NCwKICAgICAgICAgICAgICAgICAgICAgICAgJ2NvbnRlbnQ1JyA9PiAkY29udGVudDUsCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRwb3N0cyA9IFtdOwoKICAgICR0YXggPSAkb1sndGF4J107Cgo=</text>
+        <text encoding="base64">cHAoJGNvbnRlbnQzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
+      <last-search>json</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
+      <last-pattern>json</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>투자상품</last-substitute>
       <last-dir>1</last-dir>
@@ -2148,7 +2152,6 @@
     </search>
     <history>
       <history-search>
-        <entry>type2</entry>
         <entry>내용</entry>
         <entry encoding="base64">XDxhdHRhY2htZW50c1w+</entry>
         <entry>쿠폰내역</entry>
@@ -2168,6 +2171,7 @@
         <entry>dis</entry>
         <entry>disk</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry>json</entry>
       </history-search>
       <history-cmd>
         <entry>q05</entry>
