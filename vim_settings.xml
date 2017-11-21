@@ -274,6 +274,12 @@
       <file name="/PHP Console" timestamp="1510905818006">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/study/admin/config/admin.php" timestamp="1511247774897">
+        <mark key="[" line="143" column="19" />
+        <mark key="]" line="143" column="9" />
+        <mark key="." line="143" column="9" />
+        <mark key="^" line="143" column="9" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/app.js" timestamp="1511084808839">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="10" column="23" />
@@ -540,7 +546,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>http://www.firstam.co.kr/main/main.aspx</text>
+        <text>sidebar-mini', 'sidebar-collapse</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2082,13 +2088,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>http://www.firstam.co.kr/main/main.aspx</text>
+        <text>sidebar-mini', 'sidebar-collapse</text>
       </register>
       <register name="/" type="4">
         <text>hook</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTQiIHN0eWxlPSJwYWRkaW5nOjA7IHdpZHRoOiAzMDBweDsiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtaW5mbyI+CiAgICAgICAgICAgICAgICAgICAgPHN0cm9uZz5aZXJvIOu2gOuPmeyCsOydtOuegD88L3N0cm9uZz4KICAgICAgICAgICAgICAgICAgICA8cD7tlLzthLDtjKzsnZgg7KKL7J2A67CpIOq1rO2VmOq4sOyXkOyEnCDsoJzqs7XtlZjripQg7ISc67mE7Iqk66Gc7I2oIOyEuOyeheyekOyXkOqyjCDsiJjsiJjro4zrpbwg67Cb7KeAIOyViuqzoCDsnoTrjIDsnbjqs7wg7J6E7LCo7J247J2EIOyXsOqysO2VtOykjeuLiOuLpC4gPC9wPgogICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJ0ZXh0LXJpZ2h0Ij4gPGI+PGEgaHJlZj0iaHR0cDovL3d3dy5wZXRlcnBhbnouY29tIj7tlLzthLDtjKwg67CU66Gc6rCA6riwID48L2E+IDwvYj48L3A+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICdsYXlvdXQnICA9PiBbJ3NpZGViYXItbWluaScsICdzaWRlYmFyLWNvbGxhcHNlJ10sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT50aW1lem9uZSgnQXNpYS9TZW91bCcpOwo=</text>
