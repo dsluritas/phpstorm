@@ -19,12 +19,6 @@
         <mark key="." line="81" column="37" />
         <mark key="^" line="81" column="37" />
       </file>
-      <file name="$USER_HOME$/git/ptp/seoul-git/data/app/User.php" timestamp="1511172772632">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="33" />
-        <mark key="." line="8" column="34" />
-      </file>
       <file name="$USER_HOME$/study/myapp/database/migrations/2017_11_19_150002_create_article_tag_table.php" timestamp="1511103863837">
         <mark key="[" line="20" column="64" />
         <mark key="]" line="28" column="6" />
@@ -88,11 +82,6 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="39" column="29" />
       </file>
-      <file name="$USER_HOME$/luritas/point/app/User.php" timestamp="1511172802073">
-        <mark key="'" line="58" column="35" />
-        <mark key="[" line="61" column="11" />
-        <mark key="]" line="63" column="18" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-content/funding-type4.php" timestamp="1510978742741">
         <mark key="'" line="21" column="65" />
         <mark key="[" line="84" column="56" />
@@ -113,6 +102,9 @@
         <mark key="." line="22" column="26" />
         <mark key="^" line="22" column="26" />
       </file>
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" timestamp="1511161497583">
+        <mark key="'" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-list.php" timestamp="1510978139110">
         <mark key="'" line="88" column="20" />
         <mark key="[" line="86" column="59" />
@@ -125,6 +117,9 @@
         <mark key="]" line="22" column="12" />
         <mark key="." line="22" column="12" />
         <mark key="^" line="22" column="12" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/routes/web.php" timestamp="1511172459358">
+        <mark key="'" line="34" column="20" />
       </file>
       <file name="$USER_HOME$/study/myapp/database/migrations/2017_11_19_145938_create_tags_table.php" timestamp="1511103624387">
         <mark key="[" line="16" column="37" />
@@ -144,6 +139,9 @@
         <mark key="]" line="21" column="10" />
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/assets/css/style.min.css" timestamp="1511082786431">
+        <mark key="'" line="0" column="43696" />
       </file>
       <file name="$USER_HOME$/study/myapp/database/migrations/2017_11_19_023520_create_authors_table.php" timestamp="1511059008501">
         <mark key="[" line="17" column="34" />
@@ -214,12 +212,12 @@
         <mark key="^" line="39" column="43" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/git/ptp/seoul-git/data/config/voyager.php" timestamp="1511172982898">
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/config/voyager.php" timestamp="1511230761161">
         <mark key="'" line="220" column="0" />
-        <mark key="[" line="15" column="46" />
-        <mark key="]" line="15" column="54" />
-        <mark key="." line="15" column="54" />
-        <mark key="^" line="15" column="54" />
+        <mark key="[" line="134" column="13" />
+        <mark key="]" line="134" column="14" />
+        <mark key="." line="134" column="14" />
+        <mark key="^" line="134" column="14" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/.env" timestamp="1511164006617">
         <mark key="'" line="49" column="17" />
@@ -240,12 +238,19 @@
         <mark key="^" line="18" column="32" />
         <mark key="." line="18" column="32" />
       </file>
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/hooks/hooks.json" timestamp="1511231171672" />
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/plugins/fusion-builder/css/style.css" timestamp="1511081630618">
+        <mark key="'" line="243" column="2" />
+      </file>
       <file name="$USER_HOME$/study/myapp/app/User.php" timestamp="1511103108632">
         <mark key="'" line="39" column="5" />
         <mark key="[" line="51" column="5" />
         <mark key="]" line="52" column="45" />
         <mark key="." line="52" column="45" />
         <mark key="^" line="52" column="45" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1511156602863">
+        <mark key="'" line="963" column="20" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" timestamp="1511194386569">
         <mark key="'" line="302" column="56" />
@@ -255,6 +260,9 @@
         <mark key="." line="286" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/composer.json" timestamp="1511178711343" />
+      <file name="$USER_HOME$/study/myapp/config/mail.php" timestamp="1511102341061">
+        <mark key="'" line="57" column="5" />
+      </file>
       <file name="$USER_HOME$/study/myapp/routes/web.php" timestamp="1511101309463">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="105" column="0" />
@@ -272,12 +280,18 @@
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="29" />
       </file>
+      <file name="$USER_HOME$/study/myapp/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" timestamp="1511102219378">
+        <mark key="'" line="49" column="18" />
+      </file>
       <file name="$USER_HOME$/git/ptp/dashboard/.env" timestamp="1510814893596">
         <mark key="'" line="21" column="16" />
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="27" />
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/composer.json" timestamp="1511231248893">
+        <mark key="'" line="40" column="9" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/helper.php" timestamp="1511073869367">
         <mark key="'" line="167" column="40" />
@@ -401,14 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="43" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
-      <jump line="193" column="53" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
-      <jump line="201" column="17" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
-      <jump line="242" column="36" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
-      <jump line="251" column="21" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
-      <jump line="255" column="43" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
-      <jump line="260" column="53" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
-      <jump line="265" column="17" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
       <jump line="266" column="17" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
       <jump line="267" column="17" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
       <jump line="268" column="17" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
@@ -501,6 +507,14 @@
       <jump line="252" column="21" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
       <jump line="254" column="30" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
       <jump line="390" column="27" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
+      <jump line="32" column="6" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.json" />
+      <jump line="14" column="14" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.json" />
+      <jump line="61" column="9" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.json" />
+      <jump line="63" column="28" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.json" />
+      <jump line="11" column="9" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.json" />
+      <jump line="12" column="9" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.json" />
+      <jump line="18" column="18" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.json" />
+      <jump line="39" column="9" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -523,8 +537,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT50aW1lem9uZSgnQXNpYS9TZW91bCcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2066,10 +2080,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>creat</text>
+        <text>lara</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldFBvc3RzKCkKewogICAgZ2xvYmFsICR3cGRiOwogICAgJHEgPSAkd3BkYi0+Z2V0X3Jlc3VsdHMoJ1NFTEVDVCAqIEZST00gc25zbC5wb3N0cyB3aGVyZSBpZCA9IDU7Jyk7Cgp9Cg==</text>
@@ -2106,9 +2120,9 @@
       </register>
     </registers>
     <search>
-      <last-search>creat</last-search>
+      <last-search>lara</last-search>
       <last-offset />
-      <last-pattern>creat</last-pattern>
+      <last-pattern>lara</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>투자상품</last-substitute>
       <last-dir>1</last-dir>
@@ -2116,10 +2130,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mobile-number-1</entry>
-        <entry>doc</entry>
-        <entry>php</entry>
-        <entry>doctrine</entry>
         <entry>user</entry>
         <entry>model</entry>
         <entry encoding="base64">XDxBdXRoZW50aWNhdGFibGVcPg==</entry>
@@ -2136,6 +2146,10 @@
         <entry>content</entry>
         <entry encoding="base64">XDxjb250ZW50XD4=</entry>
         <entry>creat</entry>
+        <entry>style</entry>
+        <entry>layout</entry>
+        <entry>hook</entry>
+        <entry>lara</entry>
       </history-search>
       <history-cmd>
         <entry>q05</entry>
