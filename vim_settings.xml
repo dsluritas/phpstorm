@@ -19,6 +19,13 @@
         <mark key="." line="81" column="37" />
         <mark key="^" line="81" column="37" />
       </file>
+      <file name="$USER_HOME$/study/admin/config/app.php" timestamp="1511335332730">
+        <mark key="'" line="61" column="39" />
+        <mark key="[" line="80" column="18" />
+        <mark key="]" line="80" column="19" />
+        <mark key="." line="80" column="19" />
+        <mark key="^" line="93" column="27" />
+      </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/app/Subway.php" timestamp="1511252654904">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="13" column="1" />
@@ -56,6 +63,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="7" />
+      </file>
+      <file name="$USER_HOME$/study/admin/resources/views/home.blade.php" timestamp="1511334991927">
+        <mark key="]" line="18" column="90" />
+        <mark key="^" line="18" column="90" />
+        <mark key="." line="18" column="90" />
       </file>
       <file name="$USER_HOME$/study/admin/resources/assets/js/app.js" timestamp="1511332271361">
         <mark key="[" line="17" column="81" />
@@ -475,8 +487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="759" column="17" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
-      <jump line="762" column="21" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
       <jump line="12" column="0" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
       <jump line="14" column="38" filename="$USER_HOME$/git/ptp/seoul-git/data/routes/web.php" />
       <jump line="47" column="20" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
@@ -575,6 +585,8 @@
       <jump line="28" column="0" filename="$USER_HOME$/study/admin/vendor/laravel/passport/resources/views/authorize.blade.php" />
       <jump line="40" column="1" filename="$USER_HOME$/study/admin/vendor/laravel/passport/resources/views/authorize.blade.php" />
       <jump line="48" column="0" filename="$USER_HOME$/study/admin/vendor/laravel/passport/resources/views/authorize.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/study/admin/config/app.php" />
+      <jump line="61" column="39" filename="$USER_HOME$/study/admin/config/app.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -597,8 +609,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1kZWJ1Z2JhciI6ICJeMy4xIiwKICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1pZGUtaGVscGVyIjogIl4yLjQiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2140,10 +2152,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>token</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>app.js</text>
+        <text>time</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1pZGUtaGVscGVyIjogIl4yLjQiLAo=</text>
@@ -2180,9 +2192,9 @@
       </register>
     </registers>
     <search>
-      <last-search>app.js</last-search>
+      <last-search>time</last-search>
       <last-offset />
-      <last-pattern>app.js</last-pattern>
+      <last-pattern>time</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>투자상품</last-substitute>
       <last-dir>1</last-dir>
@@ -2190,7 +2202,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Inno</entry>
         <entry>msyql</entry>
         <entry>mysql</entry>
         <entry>content</entry>
@@ -2210,6 +2221,7 @@
         <entry>doby</entry>
         <entry>body</entry>
         <entry>app.js</entry>
+        <entry>time</entry>
       </history-search>
       <history-cmd>
         <entry>q05</entry>
