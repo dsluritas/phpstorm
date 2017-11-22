@@ -10,6 +10,9 @@
         <mark key="." line="1585" column="41" />
         <mark key="^" line="1585" column="41" />
       </file>
+      <file name="$USER_HOME$/study/admin/resources/assets/js/components/passport/PersonalAccessTokens.vue" timestamp="1511336216667">
+        <mark key="'" line="5" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1510647113200">
         <mark key="[" line="0" column="0" />
       </file>
@@ -64,10 +67,10 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="7" />
       </file>
-      <file name="$USER_HOME$/study/admin/resources/views/home.blade.php" timestamp="1511334991927">
-        <mark key="]" line="18" column="90" />
-        <mark key="^" line="18" column="90" />
-        <mark key="." line="18" column="90" />
+      <file name="$USER_HOME$/study/admin/resources/views/home.blade.php" timestamp="1511336314944">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/study/admin/resources/assets/js/app.js" timestamp="1511332271361">
         <mark key="[" line="17" column="81" />
@@ -487,7 +490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
       <jump line="14" column="38" filename="$USER_HOME$/git/ptp/seoul-git/data/routes/web.php" />
       <jump line="47" column="20" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
       <jump line="60" column="13" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
@@ -587,6 +589,7 @@
       <jump line="48" column="0" filename="$USER_HOME$/study/admin/vendor/laravel/passport/resources/views/authorize.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/study/admin/config/app.php" />
       <jump line="61" column="39" filename="$USER_HOME$/study/admin/config/app.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/study/admin/resources/assets/js/components/passport/PersonalAccessTokens.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -609,8 +612,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJPHBhc3Nwb3J0LWNsaWVudHM+PC9wYXNzcG9ydC1jbGllbnRzPgo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2161,31 +2164,31 @@
         <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1pZGUtaGVscGVyIjogIl4yLjQiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1kZWJ1Z2JhciI6ICJeMy4xIiwKICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1pZGUtaGVscGVyIjogIl4yLjQiLAo=</text>
+        <text encoding="base64">CQkJCQkJPHBhc3Nwb3J0LWNsaWVudHM+PC9wYXNzcG9ydC1jbGllbnRzPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1pZGUtaGVscGVyIjogIl4yLjQiLAo=</text>
+        <text encoding="base64">CQkJCQkJPHBhc3Nwb3J0LXBlcnNvbmFsLWFjY2Vzcy10b2tlbnM+PC9wYXNzcG9ydC1wZXJzb25hbC1hY2Nlc3MtdG9rZW5zPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1pZGUtaGVscGVyIjogIl4yLjQiLAo=</text>
+        <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1kZWJ1Z2JhciI6ICJeMy4xIiwKICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1pZGUtaGVscGVyIjogIl4yLjQiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1pZGUtaGVscGVyIjogIl4yLjQiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1pZGUtaGVscGVyIjogIl4yLjQiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiZW5jb3JlL2xhcmF2ZWwtYWRtaW4iOiAiXjEuNSIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRwcmltYXJ5X2tleSA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICR0aQo=</text>
+        <text encoding="base64">ICAgICAgICAiZW5jb3JlL2xhcmF2ZWwtYWRtaW4iOiAiXjEuNSIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICRwcmltYXJ5X2tleSA9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
