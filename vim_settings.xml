@@ -92,7 +92,7 @@
       <file name="$USER_HOME$/PhpstormProjects/snsld/index.php" timestamp="1511310473102">
         <mark key="'" line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/study/admin/composer.json" timestamp="1511331597563">
+      <file name="$USER_HOME$/study/admin/composer.json" timestamp="1511334160519">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -167,10 +167,10 @@
         <mark key="^" line="19" column="35" />
       </file>
       <file name="$USER_HOME$/study/admin/app/Providers/AuthServiceProvider.php" timestamp="1511332826622">
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/assets/css/style.min.css" timestamp="1511082786431">
         <mark key="'" line="0" column="43696" />
@@ -227,11 +227,11 @@
         <mark key="^" line="69" column="35" />
       </file>
       <file name="$USER_HOME$/study/admin/vendor/laravel/passport/resources/views/authorize.blade.php" timestamp="1511332852240">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="93" column="10" />
-        <mark key="]" line="95" column="7" />
-        <mark key="^" line="95" column="7" />
-        <mark key="." line="95" column="7" />
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="88" column="10" />
+        <mark key="]" line="88" column="7" />
+        <mark key="^" line="88" column="7" />
+        <mark key="." line="88" column="7" />
       </file>
       <file name="$USER_HOME$/git/ptp/dashboard/routes/web.php" timestamp="1510894090271">
         <mark key="[" line="22" column="41" />
@@ -343,8 +343,10 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/git/ptp/seoul-git/data/composer.json" timestamp="1511239597926">
+      <file name="$USER_HOME$/git/ptp/seoul-git/data/composer.json" timestamp="1511333915558">
         <mark key="'" line="62" column="9" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="46" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/helper.php" timestamp="1511073869367">
         <mark key="'" line="167" column="40" />
@@ -595,8 +597,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>token</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1kZWJ1Z2JhciI6ICJeMy4xIiwKICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1pZGUtaGVscGVyIjogIl4yLjQiLAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2144,34 +2146,34 @@
         <text>app.js</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkcHJpbWFyeUtleSA9ICdhaWR4JzsK</text>
+        <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1pZGUtaGVscGVyIjogIl4yLjQiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1kZWJ1Z2JhciI6ICJeMy4xIiwKICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1pZGUtaGVscGVyIjogIl4yLjQiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1pZGUtaGVscGVyIjogIl4yLjQiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiZW5jb3JlL2xhcmF2ZWwtYWRtaW4iOiAiXjEuNSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1pZGUtaGVscGVyIjogIl4yLjQiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRwcmltYXJ5X2tleSA9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICR0aQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAiZW5jb3JlL2xhcmF2ZWwtYWRtaW4iOiAiXjEuNSIsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICRwcmltYXJ5X2tleSA9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT50aW1lem9uZSgnQXNpYS9TZW91bCcpOwo=</text>
+        <text encoding="base64">ICAgICR0aQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkY29udGVudCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
