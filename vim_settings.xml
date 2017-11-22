@@ -82,6 +82,12 @@
         <mark key="^" line="32" column="1" />
         <mark key="." line="32" column="1" />
       </file>
+      <file name="$USER_HOME$/study/admin/config/saml2_settings.php" timestamp="1511342899198">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="3" column="29" />
+        <mark key="^" line="3" column="29" />
+      </file>
       <file name="$USER_HOME$/git/ptp/dashboard/composer.json" timestamp="1510903341200">
         <mark key="'" line="7" column="1" />
         <mark key="[" line="13" column="0" />
@@ -621,8 +627,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRkKCRyZXF1ZXN0LT5hbGwoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>localhost:8000/simplesal';</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2164,7 +2170,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>your-app.com</text>
+        <text>localhost:8000/simplesal';</text>
       </register>
       <register name="/" type="4">
         <text>time</text>
