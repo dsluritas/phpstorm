@@ -57,6 +57,12 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="7" />
       </file>
+      <file name="$USER_HOME$/study/admin/resources/assets/js/app.js" timestamp="1511332271361">
+        <mark key="[" line="17" column="81" />
+        <mark key="]" line="32" column="1" />
+        <mark key="^" line="32" column="1" />
+        <mark key="." line="32" column="1" />
+      </file>
       <file name="$USER_HOME$/git/ptp/dashboard/composer.json" timestamp="1510903341200">
         <mark key="'" line="7" column="1" />
         <mark key="[" line="13" column="0" />
@@ -86,6 +92,11 @@
       <file name="$USER_HOME$/PhpstormProjects/snsld/index.php" timestamp="1511310473102">
         <mark key="'" line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/study/admin/composer.json" timestamp="1511331597563">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-content/funding-type4.php" timestamp="1510978742741">
         <mark key="'" line="21" column="65" />
         <mark key="[" line="84" column="56" />
@@ -99,6 +110,13 @@
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/study/admin/config/auth.php" timestamp="1511332179952">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="44" column="27" />
+        <mark key="]" line="44" column="32" />
+        <mark key="^" line="44" column="32" />
+        <mark key="." line="44" column="32" />
       </file>
       <file name="$USER_HOME$/git/ptp/china-duse/.env" timestamp="1510902969727">
         <mark key="[" line="10" column="12" />
@@ -147,6 +165,12 @@
         <mark key="]" line="21" column="10" />
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
+      </file>
+      <file name="$USER_HOME$/study/admin/app/Providers/AuthServiceProvider.php" timestamp="1511332826622">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada/assets/css/style.min.css" timestamp="1511082786431">
         <mark key="'" line="0" column="43696" />
@@ -202,6 +226,13 @@
         <mark key="." line="69" column="35" />
         <mark key="^" line="69" column="35" />
       </file>
+      <file name="$USER_HOME$/study/admin/vendor/laravel/passport/resources/views/authorize.blade.php" timestamp="1511332852240">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="93" column="10" />
+        <mark key="]" line="95" column="7" />
+        <mark key="^" line="95" column="7" />
+        <mark key="." line="95" column="7" />
+      </file>
       <file name="$USER_HOME$/git/ptp/dashboard/routes/web.php" timestamp="1510894090271">
         <mark key="[" line="22" column="41" />
         <mark key="]" line="22" column="45" />
@@ -255,6 +286,19 @@
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1511156602863">
         <mark key="'" line="963" column="20" />
+      </file>
+      <file name="$USER_HOME$/study/admin/resources/assets/js/components/passport/AuthorizedClients.vue" timestamp="1511332408117">
+        <mark key="'" line="108" column="1" />
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/study/admin/app/User.php" timestamp="1511331948453">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="10" column="31" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" timestamp="1511194386569">
         <mark key="'" line="302" column="56" />
@@ -429,13 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="635" column="17" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
-      <jump line="640" column="25" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
-      <jump line="693" column="17" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
-      <jump line="697" column="25" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
-      <jump line="711" column="43" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
-      <jump line="729" column="38" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
-      <jump line="756" column="17" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
       <jump line="759" column="17" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
       <jump line="762" column="21" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
       <jump line="12" column="0" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.lock" />
@@ -529,6 +566,13 @@
       <jump line="43" column="5" filename="$USER_HOME$/git/ptp/seoul-git/data/vendor/tcg/voyager/package.json" />
       <jump line="17" column="0" filename="$USER_HOME$/git/ptp/seoul-git/data/vendor/tcg/voyager/package.json" />
       <jump line="43" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/index.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/study/admin/config/auth.php" />
+      <jump line="107" column="1" filename="$USER_HOME$/study/admin/resources/assets/js/components/passport/AuthorizedClients.vue" />
+      <jump line="4" column="0" filename="$USER_HOME$/study/admin/vendor/laravel/passport/resources/views/authorize.blade.php" />
+      <jump line="80" column="0" filename="$USER_HOME$/study/admin/vendor/laravel/passport/resources/views/authorize.blade.php" />
+      <jump line="28" column="0" filename="$USER_HOME$/study/admin/vendor/laravel/passport/resources/views/authorize.blade.php" />
+      <jump line="40" column="1" filename="$USER_HOME$/study/admin/vendor/laravel/passport/resources/views/authorize.blade.php" />
+      <jump line="48" column="0" filename="$USER_HOME$/study/admin/vendor/laravel/passport/resources/views/authorize.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -552,7 +596,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>aidx</text>
+        <text>token</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2094,49 +2138,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>aidx</text>
+        <text>token</text>
       </register>
       <register name="/" type="4">
-        <text>json</text>
+        <text>app.js</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkcHJpbWFyeUtleSA9ICdhaWR4JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICRwcmltYXJ5X2tleSA9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICR0aQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAiZW5jb3JlL2xhcmF2ZWwtYWRtaW4iOiAiXjEuNSIsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICRwcmltYXJ5X2tleSA9Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT50aW1lem9uZSgnQXNpYS9TZW91bCcpOwo=</text>
+        <text encoding="base64">ICAgICR0aQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkY29udGVudCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcCgkY29udGVudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2NvbnRlbnQyJyA9PiAkY29udGVudDIsCiAgICAgICAgICAgICAgICAgICAgICAgICdjb250ZW50MycgPT4gJGNvbnRlbnQzLAogICAgICAgICAgICAgICAgICAgICAgICAnY29udGVudDQnID0+ICRjb250ZW50NCwKICAgICAgICAgICAgICAgICAgICAgICAgJ2NvbnRlbnQ1JyA9PiAkY29udGVudDUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT50aW1lem9uZSgnQXNpYS9TZW91bCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHAoJGNvbnRlbnQzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkY29udGVudCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>json</last-search>
+      <last-search>app.js</last-search>
       <last-offset />
-      <last-pattern>json</last-pattern>
+      <last-pattern>app.js</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>투자상품</last-substitute>
       <last-dir>1</last-dir>
@@ -2144,10 +2188,6 @@
     </search>
     <history>
       <history-search>
-        <entry>내용</entry>
-        <entry encoding="base64">XDxhdHRhY2htZW50c1w+</entry>
-        <entry>쿠폰내역</entry>
-        <entry>engins</entry>
         <entry>Inno</entry>
         <entry>msyql</entry>
         <entry>mysql</entry>
@@ -2164,6 +2204,10 @@
         <entry>disk</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>json</entry>
+        <entry>api</entry>
+        <entry>doby</entry>
+        <entry>body</entry>
+        <entry>app.js</entry>
       </history-search>
       <history-cmd>
         <entry>q05</entry>
