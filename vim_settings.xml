@@ -114,7 +114,7 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="39" column="29" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/index.php" timestamp="1511310473102">
+      <file name="$USER_HOME$/PhpstormProjects/snsld/index.php" timestamp="1511359609300">
         <mark key="'" line="43" column="0" />
       </file>
       <file name="$USER_HOME$/study/admin/composer.json" timestamp="1511334160519">
@@ -484,12 +484,12 @@
       <file name="$USER_HOME$/luritas/example/src/app.js" timestamp="1510502318631">
         <mark key="[" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" timestamp="1510939578460">
-        <mark key="'" line="19" column="31" />
-        <mark key="[" line="37" column="28" />
-        <mark key="]" line="37" column="30" />
-        <mark key="." line="37" column="30" />
-        <mark key="^" line="37" column="30" />
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" timestamp="1511360042069">
+        <mark key="'" line="16" column="10" />
+        <mark key="[" line="40" column="93" />
+        <mark key="]" line="40" column="102" />
+        <mark key="." line="40" column="102" />
+        <mark key="^" line="40" column="102" />
       </file>
       <file name="$USER_HOME$/study/admin/config/filesystems.php" timestamp="1511250777338">
         <mark key="'" line="9" column="50" />
@@ -513,7 +513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="62" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
       <jump line="86" column="62" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
       <jump line="89" column="34" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
       <jump line="90" column="33" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
@@ -613,6 +612,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/study/admin/routes/web.php" />
       <jump line="22" column="14" filename="$USER_HOME$/study/admin/routes/web.php" />
       <jump line="5" column="0" filename="$USER_HOME$/study/admin/routes/api.php" />
+      <jump line="16" column="10" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
