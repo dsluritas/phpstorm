@@ -114,12 +114,11 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="39" column="29" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/index.php" timestamp="1511404708814">
+      <file name="$USER_HOME$/PhpstormProjects/snsld/index.php" timestamp="1511405527142">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="52" column="121" />
-        <mark key="]" line="56" column="42" />
-        <mark key="^" line="56" column="42" />
-        <mark key="." line="56" column="42" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/study/admin/composer.json" timestamp="1511334160519">
         <mark key="[" line="8" column="0" />
@@ -642,8 +641,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2194,31 +2193,31 @@
         <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1pZGUtaGVscGVyIjogIl4yLjQiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JGNvbnRlbnQgPSBnZXRQb3N0cygkaXRlbSk7CiRpbWFnZXMgPSAnJzsgLy9nZXRJbWFnZSgpOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQoJGl0ZW0pOwo=</text>
+        <text encoding="base64">JGNsaWVudCA9IG5ldyBSYXZlbl9DbGllbnQoJ2h0dHBzOi8vYWE4YmI4NzU1MTE3NGNhOGFlMjY3N2M0YzUzMDQxMzg6YjY2NDNiYTEwYzhkNDE4NTlmMzhmM2EwMjQ4YzJlM2FAc2VudHJ5LmlvLzI0OTQxNicpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JGNvbnRlbnQgPSBnZXRQb3N0cygkaXRlbSk7CiRpbWFnZXMgPSAnJzsgLy9nZXRJbWFnZSgpOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JGNvbnRlbnQgPSBnZXRQb3N0cygkaXRlbSk7Cg==</text>
+        <text encoding="base64">ZGQoJGl0ZW0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JHN0YXJ0ID0gdGltZSgpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRkKCR0aXRsZSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">JGNvbnRlbnQgPSBnZXRQb3N0cygkaXRlbSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">JHN0YXJ0ID0gdGltZSgpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRxID0gJHdwZGItPmdldF9yZXN1bHRzKCJTRUxFQ1QgKiBGUk9NIHNuc2wucG9zdHMgd2hlcmUgdGl0bGUgPSAneyR0aXRsZX0nOyIpOwo=</text>
+        <text encoding="base64">ICAgIGRkKCR0aXRsZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGQoJGNvbnRlbnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
