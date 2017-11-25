@@ -60,12 +60,6 @@
         <mark key="." line="47" column="19" />
         <mark key="^" line="47" column="19" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/index.php" timestamp="1511483313222">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="$USER_HOME$/study/admin/composer.json" timestamp="1511334160519">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -310,10 +304,11 @@
         <mark key="." line="52" column="45" />
         <mark key="^" line="52" column="45" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" timestamp="1511526697865">
-        <mark key="[" line="150" column="66" />
-        <mark key="]" line="150" column="66" />
-        <mark key="." line="150" column="66" />
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" timestamp="1511528147666">
+        <mark key="[" line="190" column="68" />
+        <mark key="]" line="188" column="39" />
+        <mark key="^" line="188" column="39" />
+        <mark key="." line="188" column="39" />
       </file>
       <file name="$USER_HOME$/study/myapp/routes/web.php" timestamp="1511101309463">
         <mark key="'" line="1" column="0" />
@@ -390,12 +385,12 @@
       <file name="$USER_HOME$/luritas/example/src/app.js" timestamp="1510502318631">
         <mark key="[" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" timestamp="1511361045961">
-        <mark key="'" line="16" column="10" />
-        <mark key="[" line="40" column="110" />
-        <mark key="]" line="40" column="111" />
-        <mark key="." line="40" column="111" />
-        <mark key="^" line="40" column="112" />
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" timestamp="1511529418942">
+        <mark key="'" line="16" column="32" />
+        <mark key="[" line="99" column="29" />
+        <mark key="]" line="98" column="43" />
+        <mark key="." line="98" column="43" />
+        <mark key="^" line="98" column="43" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/HouseController.php" timestamp="1511156331173">
         <mark key="'" line="532" column="39" />
@@ -406,9 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="56" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="301" column="56" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="304" column="56" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="307" column="56" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="188" column="17" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
       <jump line="235" column="22" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
@@ -451,7 +443,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/study/admin/routes/web.php" />
       <jump line="22" column="14" filename="$USER_HOME$/study/admin/routes/web.php" />
       <jump line="5" column="0" filename="$USER_HOME$/study/admin/routes/api.php" />
-      <jump line="16" column="10" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
       <jump line="232" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="17" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="131" column="41" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
@@ -506,6 +497,10 @@
       <jump line="153" column="23" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="161" column="63" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="162" column="21" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
+      <jump line="29" column="39" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="253" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="264" column="20" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="16" column="32" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -528,8 +523,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>posts/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2071,49 +2066,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>posts/</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbWFnZXNcPg==</text>
+        <text encoding="base64">XDxjYXJkc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaW1hZ2VzID0gc3RyX3JlcGxhY2UoJ10nLCAnJywgJGltYWdlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuY2FyZHMgPSByZXN1bHQuZGF0YS5JdGVtc1t0aGlzLnN0YXR1cy5pbmRleE9mKHRoaXMuJHBhcmVudC5zdGF0dXMpXVsnSXRlbSddOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZGQoJHZhbHVlKT8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkaW1hZ2VzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvIGdldHR5cGUoJGltYWdlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmNhcmRzWzBdID0gcmVzdWx0LmRhdGEuSXRlbXNbdGhpcy5zdGF0dXMuaW5kZXhPZih0aGlzLiRwYXJlbnQuc3RhdHVzKV1bJ0l0ZW0nXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZChjb3VudCgkaW1hZ2VzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICh0eXBlb2YgdGhpcy5jYXJkcyAhPT0gJ2FycmF5Jykgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3BocCBkZCgkaW1hZ2VzKT8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3BocAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZCgkaW1hZ2VzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbWFnZXNcPg==</last-search>
+      <last-search encoding="base64">XDxjYXJkc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbWFnZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjYXJkc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>투자상품</last-substitute>
       <last-dir>1</last-dir>
@@ -2121,9 +2116,6 @@
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
-        <entry>api</entry>
-        <entry>doby</entry>
         <entry>body</entry>
         <entry>app.js</entry>
         <entry>time</entry>
@@ -2141,6 +2133,9 @@
         <entry>toSl</entry>
         <entry>getP</entry>
         <entry encoding="base64">XDxpbWFnZXNcPg==</entry>
+        <entry>card</entry>
+        <entry>cards</entry>
+        <entry encoding="base64">XDxjYXJkc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>436</entry>
