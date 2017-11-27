@@ -31,8 +31,8 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/study/admin/config/app.php" timestamp="1511335332730">
-        <mark key="'" line="61" column="39" />
+      <file name="$USER_HOME$/study/admin/config/app.php" timestamp="1511767757163">
+        <mark key="'" line="137" column="0" />
         <mark key="[" line="80" column="18" />
         <mark key="]" line="80" column="19" />
         <mark key="." line="80" column="19" />
@@ -207,10 +207,11 @@
         <mark key="[" line="95" column="22" />
         <mark key="." line="95" column="4" />
       </file>
-      <file name="$USER_HOME$/study/admin/routes/web.php" timestamp="1511339017031">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="25" />
-        <mark key="." line="23" column="25" />
+      <file name="$USER_HOME$/study/admin/routes/web.php" timestamp="1511768320039">
+        <mark key="[" line="28" column="42" />
+        <mark key="]" line="29" column="18" />
+        <mark key="^" line="29" column="18" />
+        <mark key="." line="29" column="18" />
       </file>
       <file name="$USER_HOME$/study/myapp/database/migrations/2017_11_19_145938_create_tags_table.php" timestamp="1511103624387">
         <mark key="[" line="16" column="37" />
@@ -324,6 +325,7 @@
         <mark key="^" line="39" column="43" />
         <mark key="." line="15" column="19" />
       </file>
+      <file name="$USER_HOME$/study/admin/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php" timestamp="1511767962923" />
       <file name="$USER_HOME$/git/ptp/seoul-git/data/config/voyager.php" timestamp="1511252826333">
         <mark key="'" line="205" column="25" />
         <mark key="[" line="205" column="26" />
@@ -436,7 +438,7 @@
         <mark key="." line="67" column="28" />
         <mark key="^" line="67" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511764861078">
+      <file name="/Dummy.txt" timestamp="1511767963403">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/storage/logs/laravel.log" timestamp="1510799006269">
@@ -537,7 +539,14 @@
         <mark key="." line="100" column="30" />
         <mark key="^" line="100" column="30" />
       </file>
-      <file name="$USER_HOME$/study/admin/config/filesystems.php" timestamp="1511250777338">
+      <file name="$USER_HOME$/study/admin/tests/Feature/ExampleTest.php" timestamp="1511768262152">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="53" column="53" />
+        <mark key="]" line="53" column="55" />
+        <mark key="." line="53" column="55" />
+        <mark key="^" line="53" column="55" />
+      </file>
+      <file name="$USER_HOME$/study/admin/config/filesystems.php" timestamp="1511767781910">
         <mark key="'" line="9" column="50" />
         <mark key="[" line="48" column="10" />
         <mark key="]" line="49" column="7" />
@@ -559,12 +568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="30" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
-      <jump line="390" column="27" filename="$USER_HOME$/git/ptp/seoul-git/data/app/Http/Controllers/HouseController.php" />
-      <jump line="32" column="6" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.json" />
-      <jump line="14" column="14" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.json" />
-      <jump line="61" column="9" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.json" />
-      <jump line="63" column="28" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.json" />
       <jump line="11" column="9" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.json" />
       <jump line="12" column="9" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.json" />
       <jump line="18" column="18" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.json" />
@@ -659,6 +662,12 @@
       <jump line="1150" column="51" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/plugins/kboard/class/KBContent.class.php" />
       <jump line="64" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/dashboard.php" />
       <jump line="27" column="10" filename="$USER_HOME$/PhpstormProjects/snsld/index.php" />
+      <jump line="50" column="14" filename="$USER_HOME$/study/admin/tests/Feature/ExampleTest.php" />
+      <jump line="38" column="24" filename="$USER_HOME$/study/admin/tests/Feature/ExampleTest.php" />
+      <jump line="42" column="0" filename="$USER_HOME$/study/admin/tests/Feature/ExampleTest.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/study/admin/config/app.php" />
+      <jump line="137" column="0" filename="$USER_HOME$/study/admin/config/app.php" />
+      <jump line="18" column="4" filename="$USER_HOME$/study/admin/tests/Feature/ExampleTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -681,8 +690,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>MyIndex</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICRqc29uID0gY29sbGVjdCgK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2224,49 +2233,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MyIndex</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>userdata</text>
+        <text>store</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPm1lbWJlcl9kaXNwbGF5ID0gJGN1cnJlbnRfdXNlci0+ZGlzcGxheV9uYW1lOwo=</text>
+        <text encoding="base64">ICAgICRqc29uID0gY29sbGVjdChbCiAgICAgICAgJ2NyZWF0ZWQnID0+IHRydWUsCiAgICBdKS0+dG9Kc29uKCk7CiAgICByZXR1cm4gJGpzb247Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICRqc29uID0gY29sbGVjdCgK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">WwogICAgICAgICdjcmVhdGVkJyA9PiB0cnVlLAogICAgXSktPnRvSnNvbigpOw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRkKDExMSk7Cg==</text>
+        <text encoding="base64">ICAgICRqc29uID0gY29sbGVjdChbCiAgICAgICAgJ2NyZWF0ZWQnID0+IHRydWUsCiAgICBdKS0+dG9Kc29uKCk7CiAgICByZXR1cm4gJGpzb247Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRkKCRkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdG9yYWdlOjpkcml2ZSgnbG9jYWwnKS0+ZmFrZSgnYXZhdGFycycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRkKCR1cmwpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdG9yYWdlOjpkcml2ZSgnbG9jYWwnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRkKCR1cmwpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZChTdG9yYWdlOjpkaXNrKCdhdmF0YXJzJykpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRkKCRmaWxlKTsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxBdXRoXFVzZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGQoJHBhdGgpOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxVcGxvYWRlZEZpbGU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGhwaW5mbygpOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxVc2VyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
       </register>
     </registers>
     <search>
-      <last-search>userdata</last-search>
+      <last-search>store</last-search>
       <last-offset />
-      <last-pattern>userdata</last-pattern>
+      <last-pattern>store</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>투자상품</last-substitute>
       <last-dir>1</last-dir>
@@ -2274,9 +2283,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getPost</entry>
-        <entry>redi</entry>
-        <entry>redis</entry>
         <entry>handl</entry>
         <entry encoding="base64">XDxzbGFja1dlYmhvb2tVcmxcPg==</entry>
         <entry>slcack</entry>
@@ -2294,6 +2300,9 @@
         <entry>debug</entry>
         <entry>display_name</entry>
         <entry>userdata</entry>
+        <entry>fake</entry>
+        <entry>stora</entry>
+        <entry>store</entry>
       </history-search>
       <history-cmd>
         <entry>436</entry>
