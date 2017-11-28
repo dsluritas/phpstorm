@@ -351,6 +351,13 @@
         <mark key="." line="22" column="26" />
         <mark key="^" line="22" column="26" />
       </file>
+      <file name="$USER_HOME$/study/admin/Envoy.blade.php" timestamp="1511860589344">
+        <mark key="'" line="0" column="15" />
+        <mark key="[" line="18" column="90" />
+        <mark key="]" line="18" column="90" />
+        <mark key="^" line="18" column="95" />
+        <mark key="." line="18" column="90" />
+      </file>
       <file name="$USER_HOME$/study/myapp/database/migrations/2017_11_19_145938_create_tags_table.php" timestamp="1511103624387">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="18" column="43" />
@@ -587,9 +594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="18" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.json" />
-      <jump line="39" column="9" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.json" />
-      <jump line="57" column="9" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.json" />
       <jump line="62" column="9" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.json" />
       <jump line="16" column="0" filename="$USER_HOME$/study/admin/config/filesystems.php" />
       <jump line="24" column="33" filename="$USER_HOME$/study/admin/config/filesystems.php" />
@@ -687,6 +691,9 @@
       <jump line="18" column="4" filename="$USER_HOME$/study/admin/tests/Feature/ExampleTest.php" />
       <jump line="149" column="13" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
       <jump line="24" column="0" filename="$USER_HOME$/study/admin/config/services.php" />
+      <jump line="10" column="8" filename="$USER_HOME$/study/admin/Envoy.blade.php" />
+      <jump line="9" column="23" filename="$USER_HOME$/study/admin/Envoy.blade.php" />
+      <jump line="0" column="15" filename="$USER_HOME$/study/admin/Envoy.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -709,8 +716,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcQ2FzaGllclxDYXNoaWVyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>bots</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2252,49 +2259,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>€</text>
+        <text>bots</text>
       </register>
       <register name="/" type="4">
-        <text>stri</text>
+        <text>web</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3N0cmlwZV9pZCcpLT5udWxsYWJsZSgpOwogICAgICAgICAgICAkdGFibGUtPnN0cmluZygnY2FyZF9icmFuZCcpLT5udWxsYWJsZSgpOwogICAgICAgICAgICAkdGFibGUtPnN0cmluZygnY2FyZF9sYXN0X2ZvdXInKS0+bnVsbGFibGUoKTsKICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXAoJ3RyaWFsX2VuZHNfYXQnKS0+bnVsbGFibGUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcQ2FzaGllclxDYXNoaWVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDYXNoaWVyOjp1c2VDdXJyZW5jeSgnZXVyJywgJ3dvbicpOwo=</text>
+        <text encoding="base64">QGluY2x1ZGUoJ3ZlbmRvci9hdXRvbG9hZC5waHAnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVzZSBMYXJhdmVsXENhc2hpZXJcQ2FzaGllcjsK</text>
+        <text encoding="base64">QHRhc2soJ2ZvbycpCiMgLi4uCkBlbmR0YXNrCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">CgoJY2Qgc2l0ZQoKCUBpZiAoJGJyYW5jaCkKCQlnaXQgcHVsbCBvcmlnaW4ge3sgJGJyYW5jaCB9fQoJQGVuZGlmCgoJcGhwIGFydGlzYW4gbWlncmF0ZQpAZW5kdGFzawoKQHNldHVwCiRub3cgPSBuZXcgRGF0ZVRpbWUoKTsKCiRlbnZpcm9ubWVudCA9IGlzc2V0KCRlbnYpID8gJGVudiA6ICJ0ZXN0aW5nIjsKQGVuZHNldHVwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZSBCaWxsYWJsZTsK</text>
+        <text encoding="base64">bHMgLWxhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHNlY3Rpb24oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFibGUtPnN0cmluZygnc3RyaXBlX2lkJyktPm51bGxhYmxlKCk7CiAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2NhcmRfYnJhbmQnKS0+bnVsbGFibGUoKTsKICAgICAgICAkdGFibGUtPnN0cmluZygnY2FyZF9sYXN0X2ZvdXInKS0+bnVsbGFibGUoKTsKICAgICAgICAkdGFibGUtPnRpbWVzdGFtcCgndHJpYWxfZW5kc19hdCcpLT5udWxsYWJsZSgpOwo=</text>
+        <text encoding="base64">QHNlY3Rpb24oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIExhcmF2ZWxcQ2FzaGllclxDYXNoaWVyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6Ogo=</text>
+        <text encoding="base64">ICAgICAgICBDYXNoaWVyOjp1c2VDdXJyZW5jeSgnZXVyJywgJ3dvbicpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
       </register>
     </registers>
     <search>
-      <last-search>stri</last-search>
+      <last-search>web</last-search>
       <last-offset />
-      <last-pattern>stri</last-pattern>
+      <last-pattern>web</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>투자상품</last-substitute>
       <last-dir>1</last-dir>
@@ -2302,7 +2309,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzbGFja1dlYmhvb2tVcmxcPg==</entry>
         <entry>slcack</entry>
         <entry encoding="base64">XDxzZW5kVG9Ob3RpZmlhYmxlXD4=</entry>
         <entry encoding="base64">XDxzZW5kTm93XD4=</entry>
@@ -2322,6 +2328,7 @@
         <entry>stora</entry>
         <entry>store</entry>
         <entry>stri</entry>
+        <entry>web</entry>
       </history-search>
       <history-cmd>
         <entry>436</entry>
