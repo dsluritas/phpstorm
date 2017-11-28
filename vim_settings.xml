@@ -171,6 +171,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada/header.php" timestamp="1511876458796">
+        <mark key="'" line="75" column="18" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="92" column="27" />
+        <mark key="." line="91" column="0" />
+      </file>
       <file name="$USER_HOME$/study/admin/config/admin.php" timestamp="1511247774897">
         <mark key="[" line="143" column="19" />
         <mark key="]" line="143" column="9" />
@@ -256,6 +263,10 @@
       </file>
       <file name="$USER_HOME$/study/admin/config/services.php" timestamp="1511857076088">
         <mark key="'" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1511876332907">
+        <mark key="[" line="26" column="51" />
+        <mark key="]" line="26" column="73" />
       </file>
       <file name="$USER_HOME$/study/admin/config/filesystems.php" timestamp="1511767781910">
         <mark key="'" line="9" column="50" />
@@ -594,20 +605,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="9" filename="$USER_HOME$/git/ptp/seoul-git/data/composer.json" />
-      <jump line="16" column="0" filename="$USER_HOME$/study/admin/config/filesystems.php" />
-      <jump line="24" column="33" filename="$USER_HOME$/study/admin/config/filesystems.php" />
-      <jump line="35" column="49" filename="$USER_HOME$/study/admin/config/filesystems.php" />
-      <jump line="36" column="34" filename="$USER_HOME$/study/admin/config/filesystems.php" />
-      <jump line="43" column="5" filename="$USER_HOME$/study/admin/config/filesystems.php" />
-      <jump line="9" column="50" filename="$USER_HOME$/study/admin/config/filesystems.php" />
-      <jump line="9" column="6867" filename="$USER_HOME$/study/admin/public/vendor/laravel-admin/bootstrap-fileinput/js/fileinput.min.js" />
-      <jump line="205" column="25" filename="$USER_HOME$/git/ptp/seoul-git/data/config/voyager.php" />
-      <jump line="43" column="5" filename="$USER_HOME$/git/ptp/seoul-git/data/vendor/tcg/voyager/package.json" />
-      <jump line="17" column="0" filename="$USER_HOME$/git/ptp/seoul-git/data/vendor/tcg/voyager/package.json" />
-      <jump line="43" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/index.php" />
-      <jump line="13" column="0" filename="$USER_HOME$/study/admin/config/auth.php" />
-      <jump line="107" column="1" filename="$USER_HOME$/study/admin/resources/assets/js/components/passport/AuthorizedClients.vue" />
       <jump line="4" column="0" filename="$USER_HOME$/study/admin/vendor/laravel/passport/resources/views/authorize.blade.php" />
       <jump line="80" column="0" filename="$USER_HOME$/study/admin/vendor/laravel/passport/resources/views/authorize.blade.php" />
       <jump line="28" column="0" filename="$USER_HOME$/study/admin/vendor/laravel/passport/resources/views/authorize.blade.php" />
@@ -694,6 +691,20 @@
       <jump line="10" column="8" filename="$USER_HOME$/study/admin/Envoy.blade.php" />
       <jump line="9" column="23" filename="$USER_HOME$/study/admin/Envoy.blade.php" />
       <jump line="0" column="15" filename="$USER_HOME$/study/admin/Envoy.blade.php" />
+      <jump line="178" column="9" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada/header.php" />
+      <jump line="58" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada/header.php" />
+      <jump line="61" column="186" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada/header.php" />
+      <jump line="62" column="183" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada/header.php" />
+      <jump line="64" column="22" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada/header.php" />
+      <jump line="73" column="113" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada/header.php" />
+      <jump line="80" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada/header.php" />
+      <jump line="81" column="114" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada/header.php" />
+      <jump line="82" column="33" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada/header.php" />
+      <jump line="114" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada/header.php" />
+      <jump line="16" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada/header.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada/header.php" />
+      <jump line="103" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada/header.php" />
+      <jump line="70" column="18" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada/header.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -716,8 +727,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>bots</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2259,49 +2270,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>bots</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>web</text>
+        <text>head</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3N0cmlwZV9pZCcpLT5udWxsYWJsZSgpOwogICAgICAgICAgICAkdGFibGUtPnN0cmluZygnY2FyZF9icmFuZCcpLT5udWxsYWJsZSgpOwogICAgICAgICAgICAkdGFibGUtPnN0cmluZygnY2FyZF9sYXN0X2ZvdXInKS0+bnVsbGFibGUoKTsKICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXAoJ3RyaWFsX2VuZHNfYXQnKS0+bnVsbGFibGUoKTsK</text>
+      <register name="0" type="4">
+        <text>$_SERVER['REQUEST_URI']</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGluY2x1ZGUoJ3ZlbmRvci9hdXRvbG9hZC5waHAnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHRhc2soJ2ZvbycpCiMgLi4uCkBlbmR0YXNrCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHBhdGgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgoJY2Qgc2l0ZQoKCUBpZiAoJGJyYW5jaCkKCQlnaXQgcHVsbCBvcmlnaW4ge3sgJGJyYW5jaCB9fQoJQGVuZGlmCgoJcGhwIGFydGlzYW4gbWlncmF0ZQpAZW5kdGFzawoKQHNldHVwCiRub3cgPSBuZXcgRGF0ZVRpbWUoKTsKCiRlbnZpcm9ubWVudCA9IGlzc2V0KCRlbnYpID8gJGVudiA6ICJ0ZXN0aW5nIjsKQGVuZHNldHVwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnMTExMTExMTExMTExMTExMTExMTExMTExMTExMSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bHMgLWxhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnMTExMTExMTExMTExMTExMTExMTExMTExMTExMSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QHNlY3Rpb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcigkcCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QHNlY3Rpb24oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcQ2FzaGllclxDYXNoaWVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDYXNoaWVyOjp1c2VDdXJyZW5jeSgnZXVyJywgJ3dvbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
       </register>
     </registers>
     <search>
-      <last-search>web</last-search>
+      <last-search>head</last-search>
       <last-offset />
-      <last-pattern>web</last-pattern>
+      <last-pattern>head</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>투자상품</last-substitute>
       <last-dir>1</last-dir>
@@ -2309,8 +2320,6 @@
     </search>
     <history>
       <history-search>
-        <entry>slcack</entry>
-        <entry encoding="base64">XDxzZW5kVG9Ob3RpZmlhYmxlXD4=</entry>
         <entry encoding="base64">XDxzZW5kTm93XD4=</entry>
         <entry encoding="base64">XDxzZW5kXD4=</entry>
         <entry>slack</entry>
@@ -2329,6 +2338,8 @@
         <entry>store</entry>
         <entry>stri</entry>
         <entry>web</entry>
+        <entry>heade</entry>
+        <entry>head</entry>
       </history-search>
       <history-cmd>
         <entry>436</entry>
