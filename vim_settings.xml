@@ -296,9 +296,10 @@
       <file name="$USER_HOME$/study/admin/config/services.php" timestamp="1511857076088">
         <mark key="'" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1511876332907">
-        <mark key="[" line="26" column="51" />
-        <mark key="]" line="26" column="73" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1511958453055">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/study/admin/config/filesystems.php" timestamp="1511767781910">
         <mark key="'" line="9" column="50" />
@@ -433,11 +434,12 @@
         <mark key="^" line="18" column="42" />
         <mark key="." line="18" column="42" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/helper.php" timestamp="1511787269006">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/helper.php" timestamp="1511958751408">
         <mark key="'" line="145" column="13" />
-        <mark key="[" line="126" column="75" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
+        <mark key="[" line="71" column="8" />
+        <mark key="]" line="71" column="12" />
+        <mark key="^" line="71" column="12" />
+        <mark key="." line="71" column="12" />
       </file>
       <file name="$USER_HOME$/git/ptp/dashboard/app/Http/Controllers/AddressController.php" timestamp="1510903519897">
         <mark key="'" line="22" column="0" />
@@ -552,6 +554,13 @@
       <file name="/PHP Console" timestamp="1510905818006">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" timestamp="1511959114357">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="296" column="0" />
+        <mark key="]" line="296" column="0" />
+        <mark key="^" line="284" column="44" />
+        <mark key="." line="296" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/app.js" timestamp="1511084808839">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="10" column="23" />
@@ -576,7 +585,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511878309675">
+      <file name="/Dummy.txt" timestamp="1511958462372">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/storage/logs/laravel.log" timestamp="1510799006269">
@@ -652,7 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/study/slack/app/User.php" />
       <jump line="60" column="0" filename="$USER_HOME$/study/slack/app/Notifications/Slack.php" />
       <jump line="14" column="3" filename="$USER_HOME$/study/slack/app/Notifications/Slack.php" />
       <jump line="0" column="0" filename="$USER_HOME$/study/slack/app/Notifications/Slack.php" />
@@ -752,6 +760,7 @@
       <jump line="70" column="5" filename="$USER_HOME$/study/admin/config/scout.php" />
       <jump line="34" column="0" filename="$USER_HOME$/study/admin/.env" />
       <jump line="0" column="4" filename="$USER_HOME$/study/admin/config/scout.php" />
+      <jump line="18" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -774,8 +783,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlucHV0Q29kZS5sZW5ndGggIT09IDYpIHsKICAgICAgICAgICAgICAgIGFsZXJ0KCfsnbjspp3rsojtmLjrpbwg7J6F66Cl7ZW07KO87IS47JqUJyk7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2317,49 +2326,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>ID</text>
+        <text>인증에</text>
       </register>
-      <register name="0" type="4">
-        <text>ALGOLIA_SECRET</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgaWYgKHRydWUpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">WDlUNU1DWlNGRQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlucHV0Q29kZS5sZW5ndGggIT09IDYpIHsKICAgICAgICAgICAgICAgIGFsZXJ0KCfsnbjspp3rsojtmLjrpbwg7J6F66Cl7ZW07KO87IS47JqUJyk7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0cnVlKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHIK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogYmxhY2s7Cg==</text>
+        <text encoding="base64">WDlUNU1DWlNGRQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiB0cmFuc3BhcmVudDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVsLmludmVzdG1lbnQtc3RhdHVzID4gbGkuYWN0aXZlID4gYSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0gQ2VudGVyZWQgUGlsbHMgLS0+CiAgICA8dWwgY2xhc3M9Im5hdiBuYXYtcGlsbHMgbmF2LWp1c3RpZmllZCI+CiAgICAgICAgPGxpIGNsYXNzPSJhY3RpdmUiPjxhIGhyZWY9IiMiPkhvbWU8L2E+PC9saT4KICAgICAgICA8bGk+PGEgaHJlZj0iIyI+TWVudSAxPC9hPjwvbGk+CiAgICAgICAgPGxpPjxhIGhyZWY9IiMiPk1lbnUgMjwvYT48L2xpPgogICAgICAgIDxsaT48YSBocmVmPSIjIj5NZW51IDM8L2E+PC9saT4KICAgIDwvdWw+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ID</last-search>
+      <last-search>인증에</last-search>
       <last-offset />
-      <last-pattern>ID</last-pattern>
+      <last-pattern>인증에</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>check</last-substitute>
       <last-dir>1</last-dir>
@@ -2367,7 +2376,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stri</entry>
         <entry>web</entry>
         <entry>heade</entry>
         <entry>head</entry>
@@ -2387,6 +2395,7 @@
         <entry>quee</entry>
         <entry>que</entry>
         <entry>ID</entry>
+        <entry>인증에</entry>
       </history-search>
       <history-cmd>
         <entry>436</entry>
