@@ -204,6 +204,9 @@
         <mark key="^" line="96" column="47" />
         <mark key="." line="96" column="44" />
       </file>
+      <file name="$USER_HOME$/study/admin/config/scout.php" timestamp="1511925836490">
+        <mark key="'" line="38" column="35" />
+      </file>
       <file name="$USER_HOME$/study/admin/config/admin.php" timestamp="1511247774897">
         <mark key="[" line="143" column="19" />
         <mark key="]" line="143" column="9" />
@@ -462,11 +465,12 @@
       <file name="$USER_HOME$/luritas/point/app/Http/Controllers/UserController.php" timestamp="1510648160008">
         <mark key="[" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/study/admin/.env" timestamp="1511246971378">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-        <mark key="^" line="10" column="20" />
+      <file name="$USER_HOME$/study/admin/.env" timestamp="1511925842767">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="33" column="18" />
+        <mark key="]" line="35" column="15" />
+        <mark key="." line="35" column="15" />
+        <mark key="^" line="35" column="15" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/dashboard.php" timestamp="1511576723538">
         <mark key="'" line="64" column="0" />
@@ -516,11 +520,11 @@
         <mark key="." line="52" column="45" />
         <mark key="^" line="52" column="45" />
       </file>
-      <file name="$USER_HOME$/study/admin/app/User.php" timestamp="1511857450827">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="28" />
-        <mark key="^" line="10" column="28" />
-        <mark key="." line="10" column="28" />
+      <file name="$USER_HOME$/study/admin/app/User.php" timestamp="1511925790205">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="24" column="54" />
+        <mark key="^" line="24" column="54" />
+        <mark key="." line="24" column="54" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-detail.php" timestamp="1511528147666">
         <mark key="[" line="190" column="68" />
@@ -645,9 +649,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="20" filename="$USER_HOME$/study/slack/vendor/laravel/framework/src/Illuminate/Notifications/NotificationSender.php" />
-      <jump line="55" column="20" filename="$USER_HOME$/study/slack/vendor/laravel/framework/src/Illuminate/Notifications/NotificationSender.php" />
-      <jump line="16" column="0" filename="$USER_HOME$/study/slack/app/Notifications/InvoicePaid.php" />
       <jump line="70" column="4" filename="$USER_HOME$/study/slack/app/Notifications/InvoicePaid.php" />
       <jump line="15" column="35" filename="$USER_HOME$/study/slack/app/Notifications/InvoicePaid.php" />
       <jump line="38" column="6" filename="$USER_HOME$/study/slack/app/Notifications/Slack.php" />
@@ -745,6 +746,9 @@
       <jump line="351" column="35" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="443" column="27" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="444" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
+      <jump line="7" column="0" filename="$USER_HOME$/study/admin/config/scout.php" />
+      <jump line="38" column="35" filename="$USER_HOME$/study/admin/config/scout.php" />
+      <jump line="18" column="0" filename="$USER_HOME$/study/admin/.env" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2313,7 +2317,7 @@
         <text encoding="base64">PC9zbWFsbD4=</text>
       </register>
       <register name="/" type="4">
-        <text>동의함</text>
+        <text>que</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">dWwubmF2LmludmVzdG1lbnQtc3RhdHVzID4gbGkgPiBhIHs=</text>
@@ -2350,9 +2354,9 @@
       </register>
     </registers>
     <search>
-      <last-search>동의함</last-search>
+      <last-search>que</last-search>
       <last-offset />
-      <last-pattern>동의함</last-pattern>
+      <last-pattern>que</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>check</last-substitute>
       <last-dir>1</last-dir>
@@ -2360,8 +2364,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fake</entry>
-        <entry>stora</entry>
         <entry>store</entry>
         <entry>stri</entry>
         <entry>web</entry>
@@ -2380,6 +2382,8 @@
         <entry>stylke</entry>
         <entry>style</entry>
         <entry>동의함</entry>
+        <entry>quee</entry>
+        <entry>que</entry>
       </history-search>
       <history-cmd>
         <entry>436</entry>
