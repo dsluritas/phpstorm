@@ -303,7 +303,7 @@
         <mark key="^" line="36" column="22" />
         <mark key="." line="38" column="18" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1511976850278">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1512011229131">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="^" line="34" column="16" />
@@ -578,7 +578,8 @@
         <mark key="." line="105" column="0" />
         <mark key="^" line="104" column="17" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/updateUser.php" timestamp="1512010524536">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/updateUser.php" timestamp="1512011221050">
+        <mark key="'" line="106" column="0" />
         <mark key="[" line="58" column="13" />
         <mark key="]" line="58" column="13" />
         <mark key="^" line="58" column="13" />
@@ -701,7 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="13" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
       <jump line="24" column="0" filename="$USER_HOME$/study/admin/config/services.php" />
       <jump line="10" column="8" filename="$USER_HOME$/study/admin/Envoy.blade.php" />
       <jump line="9" column="23" filename="$USER_HOME$/study/admin/Envoy.blade.php" />
@@ -801,6 +801,7 @@
       <jump line="181" column="58" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
       <jump line="19" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
       <jump line="36" column="31" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
+      <jump line="106" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/updateUser.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
