@@ -578,11 +578,11 @@
         <mark key="." line="105" column="0" />
         <mark key="^" line="104" column="17" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/updateUser.php" timestamp="1511963537615">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="^" line="63" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/updateUser.php" timestamp="1512010524536">
+        <mark key="[" line="58" column="13" />
+        <mark key="]" line="58" column="13" />
+        <mark key="^" line="58" column="13" />
+        <mark key="." line="58" column="13" />
       </file>
       <file name="/PHP Console" timestamp="1510905818006">
         <mark key="[" line="0" column="0" />
@@ -625,7 +625,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512001617362">
+      <file name="/Dummy.txt" timestamp="1512010517645">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/storage/logs/laravel.log" timestamp="1510799006269">
@@ -823,8 +823,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>뒤</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2366,7 +2366,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDxicj4g</text>
+        <text>뒤</text>
       </register>
       <register name="/" type="4">
         <text>휴대폰</text>
