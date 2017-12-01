@@ -566,11 +566,12 @@
         <mark key="^" line="39" column="43" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/app/Classes/User.php" timestamp="1512120297089">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/app/Classes/User.php" timestamp="1512121850540">
         <mark key="'" line="2" column="11" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
+        <mark key="[" line="33" column="39" />
+        <mark key="]" line="33" column="57" />
+        <mark key="." line="33" column="57" />
+        <mark key="^" line="33" column="57" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-includes/user.php" timestamp="1511087264508">
         <mark key="[" line="28" column="0" />
@@ -868,8 +869,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>baek@sunho.net</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2411,7 +2412,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>isset($data['상환계좌번호']) ? $data['상환계좌번호'] : '',</text>
+        <text>baek@sunho.net</text>
       </register>
       <register name="/" type="4">
         <text>pp</text>
