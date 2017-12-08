@@ -604,11 +604,12 @@
       <file name="/PHP Console" timestamp="1510905818006">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" timestamp="1512709809024">
-        <mark key="'" line="274" column="36" />
-        <mark key="[" line="132" column="46" />
-        <mark key="]" line="132" column="46" />
-        <mark key="." line="132" column="46" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" timestamp="1512710485093">
+        <mark key="'" line="275" column="36" />
+        <mark key="[" line="266" column="43" />
+        <mark key="]" line="266" column="47" />
+        <mark key="." line="266" column="47" />
+        <mark key="^" line="266" column="47" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/moving_quote_new.blade.php" timestamp="1512698810956">
         <mark key="'" line="79" column="25" />
@@ -819,7 +820,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGRpc2FibGVk</text>
+        <text>function (i, v</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2361,13 +2362,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRpc2FibGVk</text>
+        <text>function (i, v</text>
       </register>
       <register name="/" type="4">
         <text>new-account</text>
       </register>
-      <register name="0" type="4">
-        <text>name=&quot;name&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3X2FjY291bnQucHJvcCgnZGlzYWJsZWQnLCBmdW5jdGlvbiAoaSwgdikgewo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2NyZWF0ZWRfYXQnID0+IENhcmJvbjo6Cg==</text>
