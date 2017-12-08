@@ -329,6 +329,11 @@
         <mark key="." line="1585" column="41" />
         <mark key="^" line="1585" column="41" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/ExtraServiceController.php" timestamp="1512709404651">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+      </file>
       <file name="$USER_HOME$/study/myapp/app/Http/Controllers/ArticlesController.php" timestamp="1511060103296">
         <mark key="[" line="80" column="5" />
         <mark key="]" line="81" column="37" />
@@ -426,7 +431,6 @@
         <mark key="^" line="19" column="12" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/study/admin/vendor/sabberworm/php-css-parser/lib/Sabberworm/CSS/Settings.php" timestamp="1511916984787" />
       <file name="$USER_HOME$/study/myapp/database/migrations/2017_11_19_145938_create_tags_table.php" timestamp="1511103624387">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="18" column="43" />
@@ -632,7 +636,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512010517645">
+      <file name="/Dummy.txt" timestamp="1512709457543">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/storage/logs/laravel.log" timestamp="1510799006269">
@@ -830,8 +834,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>뒤</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2391,22 +2395,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPD9waHAKICAgICAgICAgICAgJGRhdGFbJ+2ctOuMgO2PsCddID0gJyc7CiAgICAgICAgICAgID8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPD9waHAKICAgICAgICAgICAgJGRhdGFbJ+2ctOuMgO2PsCddID0gJyc7CiAgICAgICAgICAgID8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRkKCRsb2cpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGQoJHVybCk7Cg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGQoJHVzZXJfaXApOwo=</text>
+        <text encoding="base64">ICAgIGRkKCRsb2cpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>211</text>
