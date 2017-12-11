@@ -472,8 +472,8 @@
         <mark key="^" line="18" column="42" />
         <mark key="." line="18" column="42" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/helper.php" timestamp="1511977780275">
-        <mark key="'" line="19" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/helper.php" timestamp="1512963625863">
+        <mark key="'" line="222" column="0" />
         <mark key="[" line="219" column="41" />
         <mark key="]" line="219" column="44" />
         <mark key="." line="219" column="44" />
@@ -543,11 +543,6 @@
         <mark key="]" line="15" column="19" />
         <mark key="^" line="39" column="43" />
         <mark key="." line="15" column="19" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/app/Classes/User.php" timestamp="1512650473642">
-        <mark key="'" line="329" column="30" />
-        <mark key="[" line="58" column="16" />
-        <mark key="]" line="58" column="28" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-includes/user.php" timestamp="1511087264508">
         <mark key="[" line="28" column="0" />
@@ -799,6 +794,7 @@
       <jump line="132" column="55" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
       <jump line="160" column="29" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
       <jump line="274" column="36" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
+      <jump line="222" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
