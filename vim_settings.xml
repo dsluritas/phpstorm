@@ -71,12 +71,12 @@
         <mark key="." line="63" column="45" />
         <mark key="^" line="63" column="45" />
       </file>
-      <file name="$USER_HOME$/docker/peterpanz/admin/app/User.php" timestamp="1513150590133">
+      <file name="$USER_HOME$/docker/peterpanz/admin/app/User.php" timestamp="1513157766444">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="16" column="30" />
-        <mark key="." line="16" column="30" />
-        <mark key="^" line="16" column="30" />
+        <mark key="[" line="39" column="7" />
+        <mark key="]" line="39" column="61" />
+        <mark key="." line="39" column="61" />
+        <mark key="^" line="39" column="61" />
       </file>
       <file name="$USER_HOME$/git/ptp/dashboard/composer.json" timestamp="1510903341200">
         <mark key="'" line="7" column="1" />
@@ -102,12 +102,6 @@
         <mark key="[" line="165" column="16" />
         <mark key="]" line="165" column="16" />
         <mark key="." line="165" column="16" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/index.php" timestamp="1511577616074">
-        <mark key="'" line="27" column="10" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/study/admin/composer.json" timestamp="1511334160519">
         <mark key="[" line="8" column="0" />
@@ -200,12 +194,6 @@
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/dashboard.php" timestamp="1512650650786">
-        <mark key="'" line="89" column="30" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="101" column="36" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/style.css" timestamp="1511977645196">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="19" column="40" />
@@ -266,12 +254,6 @@
         <mark key="]" line="96" column="44" />
         <mark key="^" line="96" column="47" />
         <mark key="." line="96" column="44" />
-      </file>
-      <file name="$USER_HOME$/study/admin/config/scout.php" timestamp="1511930883954">
-        <mark key="'" line="0" column="4" />
-        <mark key="[" line="74" column="25" />
-        <mark key="]" line="74" column="38" />
-        <mark key="." line="74" column="39" />
       </file>
       <file name="$USER_HOME$/study/admin/config/admin.php" timestamp="1511247774897">
         <mark key="[" line="143" column="19" />
@@ -601,12 +583,6 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/dashboard.php" timestamp="1511576723538">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/config/auth.php" timestamp="1511172596767">
         <mark key="'" line="58" column="42" />
         <mark key="[" line="69" column="27" />
@@ -697,12 +673,6 @@
         <mark key="." line="266" column="47" />
         <mark key="^" line="266" column="47" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/moving_quote_new.blade.php" timestamp="1512698810956">
-        <mark key="'" line="79" column="25" />
-        <mark key="[" line="681" column="41" />
-        <mark key="]" line="681" column="41" />
-        <mark key="." line="681" column="41" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/app.js" timestamp="1511084808839">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="10" column="23" />
@@ -756,6 +726,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="9" column="46" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/docker/peterpanz/admin/app/Agent.php" timestamp="1513158042382">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="49" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/detail.php" timestamp="1511239474664">
         <mark key="'" line="83" column="7" />
@@ -918,8 +894,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1ZmIK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2461,7 +2437,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>TB_AGENT</text>
       </register>
       <register name="/" type="4">
         <text>User</text>
@@ -2470,31 +2446,31 @@
         <text encoding="base64">PD9waHAKCm5hbWVzcGFjZSBBcHA7Cgp1c2UgSWxsdW1pbmF0ZVxOb3RpZmljYXRpb25zXE5vdGlmaWFibGU7CnVzZSBJbGx1bWluYXRlXEZvdW5kYXRpb25cQXV0aFxVc2VyIGFzIEF1dGhlbnRpY2F0YWJsZTsKCmNsYXNzIFVzZXIgZXh0ZW5kcyBcVENHXFZveWFnZXJcTW9kZWxzXFVzZXIKewogICAgdXNlIE5vdGlmaWFibGU7CiAgICAvKioKICAgICAqIFRoZSBhdHRyaWJ1dGVzIHRoYXQgYXJlIG1hc3MgYXNzaWduYWJsZS4KICAgICAqCiAgICAgKiBAdmFyIGFycmF5CiAgICAgKi8KICAgIHByb3RlY3RlZCAkZmlsbGFibGUgPSBbCiAgICAgICAgJ25hbWUnLCAnZW1haWwnLCAncGFzc3dvcmQnLAogICAgXTsKCiAgICAvKioKICAgICAqIFRoZSBhdHRyaWJ1dGVzIHRoYXQgc2hvdWxkIGJlIGhpZGRlbiBmb3IgYXJyYXlzLgogICAgICoKICAgICAqIEB2YXIgYXJyYXkKICAgICAqLwogICAgcHJvdGVjdGVkICRoaWRkZW4gPSBbCiAgICAgICAgJ3Bhc3N3b3JkJywgJ3JlbWVtYmVyX3Rva2VuJywKICAgIF07Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICR1c2VyID0gVXNlcjo6Z2V0KCktPmZpcnN0KCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1ZmIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxBdXRoXFVzZXIgYXMgQXV0aGVudGljYXRhYmxlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxBdXRoXFVzZXIgYXMgQXV0aGVudGljYXRhYmxlOwo=</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PD9waHAKCm5hbWVzcGFjZSBBcHA7Cgp1c2UgSWxsdW1pbmF0ZVxOb3RpZmljYXRpb25zXE5vdGlmaWFibGU7CnVzZSBJbGx1bWluYXRlXEZvdW5kYXRpb25cQXV0aFxVc2VyIGFzIEF1dGhlbnRpY2F0YWJsZTsKCmNsYXNzIEFkbWluIGV4dGVuZHMgXFRDR1xWb3lhZ2VyXE1vZGVsc1xVc2VyCnsKICAgIHVzZSBOb3RpZmlhYmxlOwogICAgLyoqCiAgICAgKiBUaGUgYXR0cmlidXRlcyB0aGF0IGFyZSBtYXNzIGFzc2lnbmFibGUuCiAgICAgKgogICAgICogQHZhciBhcnJheQogICAgICovCgogICAgcHJvdGVjdGVkICRmaWxsYWJsZSA9IFsKICAgICAgICAnbmFtZScsICdlbWFpbCcsICdwYXNzd29yZCcsCiAgICBdOwoKICAgIC8qKgogICAgICogVGhlIGF0dHJpYnV0ZXMgdGhhdCBzaG91bGQgYmUgaGlkZGVuIGZvciBhcnJheXMuCiAgICAgKgogICAgICogQHZhciBhcnJheQogICAgICovCiAgICBwcm90ZWN0ZWQgJGhpZGRlbiA9IFsKICAgICAgICAncGFzc3dvcmQnLCAncmVtZW1iZXJfdG9rZW4nLAogICAgXTsKfQo=</text>
+        <text encoding="base64">ICAgICR1c2VyID0gVXNlcjo6Z2V0KCktPmZpcnN0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxBdXRoXFVzZXIgYXMgQXV0aGVudGljYXRhYmxlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzZSBJbGx1bWluYXRlXEZvdW5kYXRpb25cQXV0aFxVc2VyIGFzIEF1dGhlbnRpY2F0YWJsZTsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxBdXRoXFVzZXIgYXMgQXV0aGVudGljYXRhYmxlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcTW9kZWw7Cg==</text>
+        <text encoding="base64">PD9waHAKCm5hbWVzcGFjZSBBcHA7Cgp1c2UgSWxsdW1pbmF0ZVxOb3RpZmljYXRpb25zXE5vdGlmaWFibGU7CnVzZSBJbGx1bWluYXRlXEZvdW5kYXRpb25cQXV0aFxVc2VyIGFzIEF1dGhlbnRpY2F0YWJsZTsKCmNsYXNzIEFkbWluIGV4dGVuZHMgXFRDR1xWb3lhZ2VyXE1vZGVsc1xVc2VyCnsKICAgIHVzZSBOb3RpZmlhYmxlOwogICAgLyoqCiAgICAgKiBUaGUgYXR0cmlidXRlcyB0aGF0IGFyZSBtYXNzIGFzc2lnbmFibGUuCiAgICAgKgogICAgICogQHZhciBhcnJheQogICAgICovCgogICAgcHJvdGVjdGVkICRmaWxsYWJsZSA9IFsKICAgICAgICAnbmFtZScsICdlbWFpbCcsICdwYXNzd29yZCcsCiAgICBdOwoKICAgIC8qKgogICAgICogVGhlIGF0dHJpYnV0ZXMgdGhhdCBzaG91bGQgYmUgaGlkZGVuIGZvciBhcnJheXMuCiAgICAgKgogICAgICogQHZhciBhcnJheQogICAgICovCiAgICBwcm90ZWN0ZWQgJGhpZGRlbiA9IFsKICAgICAgICAncGFzc3dvcmQnLCAncmVtZW1iZXJfdG9rZW4nLAogICAgXTsKfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxBdXRoXFVzZXIgYXMgQXV0aGVudGljYXRhYmxlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkdGFibGUgPSAnVEJfVVNFUic7CiAgICBwcm90ZWN0ZWQgJHByaW1hcnlLZXkgPSAndWlkeCc7Cg==</text>
+        <text encoding="base64">ICAgIHVzZSBJbGx1bWluYXRlXEZvdW5kYXRpb25cQXV0aFxVc2VyIGFzIEF1dGhlbnRpY2F0YWJsZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
