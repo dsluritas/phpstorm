@@ -360,6 +360,12 @@
         <mark key="^" line="49" column="7" />
         <mark key="." line="49" column="7" />
       </file>
+      <file name="$USER_HOME$/docker/peterpanz/admin/config/voyager.php" timestamp="1513145214343">
+        <mark key="[" line="214" column="45" />
+        <mark key="]" line="200" column="30" />
+        <mark key="." line="200" column="30" />
+        <mark key="^" line="200" column="30" />
+      </file>
       <file name="$USER_HOME$/git/ptp/china-duse/app/Http/Controllers/Api/MapViewController.php" timestamp="1510913050247">
         <mark key="'" line="677" column="17" />
         <mark key="[" line="1585" column="39" />
@@ -881,8 +887,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>#22A7F0</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2424,13 +2430,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>#22A7F0</text>
       </register>
       <register name="/" type="4">
         <text>new-account</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">REJfSE9TVD1kb2NrZXIuZm9yLm1hYy5sb2NhbGhvc3QK</text>
+        <text encoding="base64">ICAgICdwcmltYXJ5X2NvbG9yJyA9PiAnIzIyQTdGMCcsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
