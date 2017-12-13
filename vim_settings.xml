@@ -446,11 +446,10 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/docker/peterpanz/admin/.env" timestamp="1513132525106">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="9" column="16" />
-        <mark key="." line="9" column="16" />
-        <mark key="^" line="9" column="16" />
+      <file name="$USER_HOME$/docker/peterpanz/admin/.env" timestamp="1513133786594">
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/study/slack/.env" timestamp="1511519253420">
         <mark key="'" line="1" column="12" />
@@ -517,10 +516,11 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/docker/peterpanz/admin/routes/web.php" timestamp="1513131530265">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/docker/peterpanz/admin/routes/web.php" timestamp="1513134013275">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="13" />
+        <mark key="^" line="17" column="33" />
       </file>
       <file name="$USER_HOME$/study/myapp/database/migrations/2017_11_19_023520_create_authors_table.php" timestamp="1511059008501">
         <mark key="[" line="17" column="34" />
@@ -881,8 +881,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">REJfSE9TVD1kb2NrZXIuZm9yLm1hYy5sb2NhbGhvc3QK</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2424,7 +2424,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$dns</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>new-account</text>
