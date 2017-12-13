@@ -145,6 +145,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/docker/peterpanz/admin/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php" timestamp="1513132491269">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/api.php" timestamp="1511577592426">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -440,6 +445,12 @@
         <mark key="]" line="10" column="27" />
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
+      </file>
+      <file name="$USER_HOME$/docker/peterpanz/admin/.env" timestamp="1513132525106">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+        <mark key="^" line="9" column="16" />
       </file>
       <file name="$USER_HOME$/study/slack/.env" timestamp="1511519253420">
         <mark key="'" line="1" column="12" />
@@ -871,7 +882,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRkKGVudigiREJfSE9TVCIpKTsK</text>
+        <text encoding="base64">REJfSE9TVD1kb2NrZXIuZm9yLm1hYy5sb2NhbGhvc3QK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2413,43 +2424,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>$dns</text>
       </register>
       <register name="/" type="4">
         <text>new-account</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3X2FjY291bnQucHJvcCgnZGlzYWJsZWQnLCBmdW5jdGlvbiAoaSwgdikgewo=</text>
+        <text encoding="base64">REJfSE9TVD1kb2NrZXIuZm9yLm1hYy5sb2NhbGhvc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRkKGVudigiREJfSE9TVCIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGRzbik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGR1bXAoJHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGRzbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2UoJHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgIGRkKGVudigiREJfSE9TVCIpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRkKCR1c2VyKTsK</text>
+        <text encoding="base64">ICAgIGR1bXAoJHVzZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2UoJHVzZXIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkdGFibGUgPSAnVEJfVVNFUic7Cg==</text>
+        <text encoding="base64">ICAgIGRkKCR1c2VyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRkKGVudignREJfSE9TVCcpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkdGFibGUgPSAnVEJfVVNFUic7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGRkKGVudignREJfSE9TVCcpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>450</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2483,7 +2494,6 @@
         <entry>new-account</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5ub3JtIGkjIA==</entry>
         <entry>400</entry>
         <entry>440</entry>
@@ -2501,8 +2511,9 @@
         <entry>102</entry>
         <entry>82</entry>
         <entry>41</entry>
-        <entry>w</entry>
         <entry>211</entry>
+        <entry>47</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
