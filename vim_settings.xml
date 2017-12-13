@@ -506,7 +506,7 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/docker/peterpanz/admin/routes/web.php" timestamp="1513130891736">
+      <file name="$USER_HOME$/docker/peterpanz/admin/routes/web.php" timestamp="1513131530265">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -871,7 +871,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGR1bXAoJHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgIGRkKGVudigiREJfSE9TVCIpKTsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2422,31 +2422,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbmV3X2FjY291bnQucHJvcCgnZGlzYWJsZWQnLCBmdW5jdGlvbiAoaSwgdikgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGR1bXAoJHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgIGRkKGVudigiREJfSE9TVCIpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2UoJHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgIGR1bXAoJHVzZXIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRkKCR1c2VyKTsK</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2UoJHVzZXIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRkKCR1c2VyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkdGFibGUgPSAnVEJfVVNFUic7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRkKGVudignREJfSE9TVCcpKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkdGFibGUgPSAnVEJfVVNFUic7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGRkKGVudignREJfSE9TVCcpKTsK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NyZWF0ZWRfYXQnID0+IENhcmJvbjo6Cg==</text>
+        <text encoding="base64">ICAgIGRkKGVudignREJfSE9TVCcpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>450</text>
