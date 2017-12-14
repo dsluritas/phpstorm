@@ -704,7 +704,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513149867066">
+      <file name="/Dummy.txt" timestamp="1513211478237">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/storage/logs/laravel.log" timestamp="1510799006269">
@@ -732,6 +732,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="49" />
+      </file>
+      <file name="$USER_HOME$/docker/peterpanz/admin/resources/views/layouts/app.blade.php" timestamp="1513211487468">
+        <mark key="'" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/detail.php" timestamp="1511239474664">
         <mark key="'" line="83" column="7" />
@@ -872,6 +875,7 @@
       <jump line="44" column="32" filename="$USER_HOME$/docker/peterpanz/admin/config/voyager.php" />
       <jump line="5" column="6" filename="$USER_HOME$/docker/peterpanz/admin/config/voyager.php" />
       <jump line="168" column="36" filename="$USER_HOME$/docker/peterpanz/admin/config/voyager.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/docker/peterpanz/admin/resources/views/layouts/app.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2440,7 +2444,7 @@
         <text>TB_AGENT</text>
       </register>
       <register name="/" type="4">
-        <text>User</text>
+        <text>brand</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PD9waHAKCm5hbWVzcGFjZSBBcHA7Cgp1c2UgSWxsdW1pbmF0ZVxOb3RpZmljYXRpb25zXE5vdGlmaWFibGU7CnVzZSBJbGx1bWluYXRlXEZvdW5kYXRpb25cQXV0aFxVc2VyIGFzIEF1dGhlbnRpY2F0YWJsZTsKCmNsYXNzIFVzZXIgZXh0ZW5kcyBcVENHXFZveWFnZXJcTW9kZWxzXFVzZXIKewogICAgdXNlIE5vdGlmaWFibGU7CiAgICAvKioKICAgICAqIFRoZSBhdHRyaWJ1dGVzIHRoYXQgYXJlIG1hc3MgYXNzaWduYWJsZS4KICAgICAqCiAgICAgKiBAdmFyIGFycmF5CiAgICAgKi8KICAgIHByb3RlY3RlZCAkZmlsbGFibGUgPSBbCiAgICAgICAgJ25hbWUnLCAnZW1haWwnLCAncGFzc3dvcmQnLAogICAgXTsKCiAgICAvKioKICAgICAqIFRoZSBhdHRyaWJ1dGVzIHRoYXQgc2hvdWxkIGJlIGhpZGRlbiBmb3IgYXJyYXlzLgogICAgICoKICAgICAqIEB2YXIgYXJyYXkKICAgICAqLwogICAgcHJvdGVjdGVkICRoaWRkZW4gPSBbCiAgICAgICAgJ3Bhc3N3b3JkJywgJ3JlbWVtYmVyX3Rva2VuJywKICAgIF07Cn0K</text>
@@ -2477,15 +2481,14 @@
       </register>
     </registers>
     <search>
-      <last-search>User</last-search>
+      <last-search>brand</last-search>
       <last-offset />
-      <last-pattern>User</last-pattern>
+      <last-pattern>brand</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>check</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry encoding="base64">XDxjaGVja0ludmVzdG1lbnRcPg==</entry>
         <entry>투자하기</entry>
@@ -2505,6 +2508,7 @@
         <entry>redi</entry>
         <entry>new-account</entry>
         <entry>User</entry>
+        <entry>brand</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5ub3JtIGkjIA==</entry>
