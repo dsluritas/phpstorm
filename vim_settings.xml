@@ -20,12 +20,6 @@
         <mark key="." line="80" column="19" />
         <mark key="^" line="93" column="27" />
       </file>
-      <file name="$USER_HOME$/docker/peterpanz/admin/vendor/tcg/voyager/publishable/config/voyager.php" timestamp="1513149811774">
-        <mark key="[" line="15" column="46" />
-        <mark key="]" line="15" column="50" />
-        <mark key="." line="15" column="50" />
-        <mark key="^" line="15" column="50" />
-      </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/app/Subway.php" timestamp="1511252654904">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="13" column="1" />
@@ -58,25 +52,12 @@
         <mark key="." line="165" column="15" />
         <mark key="^" line="165" column="15" />
       </file>
-      <file name="$USER_HOME$/docker/peterpanz/admin/app/Admin.php" timestamp="1513148855991">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="10" column="30" />
-      </file>
       <file name="$USER_HOME$/study/slack/app/Notifications/Slack.php" timestamp="1511524614403">
         <mark key="'" line="16" column="6" />
         <mark key="[" line="68" column="23" />
         <mark key="]" line="63" column="45" />
         <mark key="." line="63" column="45" />
         <mark key="^" line="63" column="45" />
-      </file>
-      <file name="$USER_HOME$/docker/peterpanz/admin/app/User.php" timestamp="1513157766444">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="39" column="7" />
-        <mark key="]" line="39" column="61" />
-        <mark key="." line="39" column="61" />
-        <mark key="^" line="39" column="61" />
       </file>
       <file name="$USER_HOME$/git/ptp/dashboard/composer.json" timestamp="1510903341200">
         <mark key="'" line="7" column="1" />
@@ -98,10 +79,11 @@
         <mark key="." line="47" column="19" />
         <mark key="^" line="47" column="19" />
       </file>
-      <file name="$USER_HOME$/docker/peterpanz/admin/vendor/tcg/voyager/src/Voyager.php" timestamp="1513149986282">
-        <mark key="[" line="165" column="16" />
-        <mark key="]" line="165" column="16" />
-        <mark key="." line="165" column="16" />
+      <file name="$USER_HOME$/PhpstormProjects/snsld/index.php" timestamp="1511577616074">
+        <mark key="'" line="27" column="10" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/study/admin/composer.json" timestamp="1511334160519">
         <mark key="[" line="8" column="0" />
@@ -158,21 +140,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/docker/peterpanz/admin/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php" timestamp="1513132491269">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/api.php" timestamp="1511577592426">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/docker/peterpanz/admin/config/auth.php" timestamp="1513149392317">
-        <mark key="[" line="69" column="40" />
-        <mark key="]" line="81" column="32" />
-        <mark key="." line="81" column="32" />
-        <mark key="^" line="81" column="32" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/moving_item_select.blade.php" timestamp="1512700450725">
         <mark key="'" line="373" column="75" />
@@ -193,6 +164,12 @@
         <mark key="]" line="11" column="20" />
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/dashboard.php" timestamp="1512650650786">
+        <mark key="'" line="89" column="30" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="101" column="36" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/style.css" timestamp="1511977645196">
         <mark key="'" line="1" column="0" />
@@ -254,6 +231,12 @@
         <mark key="]" line="96" column="44" />
         <mark key="^" line="96" column="47" />
         <mark key="." line="96" column="44" />
+      </file>
+      <file name="$USER_HOME$/study/admin/config/scout.php" timestamp="1511930883954">
+        <mark key="'" line="0" column="4" />
+        <mark key="[" line="74" column="25" />
+        <mark key="]" line="74" column="38" />
+        <mark key="." line="74" column="39" />
       </file>
       <file name="$USER_HOME$/study/admin/config/admin.php" timestamp="1511247774897">
         <mark key="[" line="143" column="19" />
@@ -367,13 +350,6 @@
         <mark key="^" line="49" column="7" />
         <mark key="." line="49" column="7" />
       </file>
-      <file name="$USER_HOME$/docker/peterpanz/admin/config/voyager.php" timestamp="1513148660040">
-        <mark key="'" line="168" column="36" />
-        <mark key="[" line="15" column="46" />
-        <mark key="]" line="15" column="50" />
-        <mark key="." line="15" column="50" />
-        <mark key="^" line="15" column="50" />
-      </file>
       <file name="$USER_HOME$/git/ptp/china-duse/app/Http/Controllers/Api/MapViewController.php" timestamp="1510913050247">
         <mark key="'" line="677" column="17" />
         <mark key="[" line="1585" column="39" />
@@ -460,12 +436,6 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/docker/peterpanz/admin/.env" timestamp="1513150249195">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="7" column="18" />
-      </file>
       <file name="$USER_HOME$/study/slack/.env" timestamp="1511519253420">
         <mark key="'" line="1" column="12" />
         <mark key="[" line="36" column="8" />
@@ -531,9 +501,6 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/docker/peterpanz/admin/routes/web.php" timestamp="1513150199262">
-        <mark key="^" line="20" column="13" />
-      </file>
       <file name="$USER_HOME$/study/myapp/database/migrations/2017_11_19_023520_create_authors_table.php" timestamp="1511059008501">
         <mark key="[" line="17" column="34" />
         <mark key="]" line="18" column="42" />
@@ -582,6 +549,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/dashboard.php" timestamp="1511576723538">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/config/auth.php" timestamp="1511172596767">
         <mark key="'" line="58" column="42" />
@@ -673,6 +646,12 @@
         <mark key="." line="266" column="47" />
         <mark key="^" line="266" column="47" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/moving_quote_new.blade.php" timestamp="1512698810956">
+        <mark key="'" line="79" column="25" />
+        <mark key="[" line="681" column="41" />
+        <mark key="]" line="681" column="41" />
+        <mark key="." line="681" column="41" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/app.js" timestamp="1511084808839">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="10" column="23" />
@@ -704,7 +683,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513211478237">
+      <file name="/Dummy.txt" timestamp="1513055819794">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/storage/logs/laravel.log" timestamp="1510799006269">
@@ -726,15 +705,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="9" column="46" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/docker/peterpanz/admin/app/Agent.php" timestamp="1513158042382">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="14" column="49" />
-      </file>
-      <file name="$USER_HOME$/docker/peterpanz/admin/resources/views/layouts/app.blade.php" timestamp="1513211487468">
-        <mark key="'" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/seoul/seoul/wp-content/themes/Avada-Child-Theme/detail.php" timestamp="1511239474664">
         <mark key="'" line="83" column="7" />
@@ -868,14 +838,6 @@
       <jump line="160" column="29" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
       <jump line="274" column="36" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
       <jump line="222" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
-      <jump line="16" column="0" filename="$USER_HOME$/docker/peterpanz/admin/app/User.php" />
-      <jump line="217" column="48" filename="$USER_HOME$/docker/peterpanz/admin/config/voyager.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/docker/peterpanz/admin/app/User.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/docker/peterpanz/admin/app/Admin.php" />
-      <jump line="44" column="32" filename="$USER_HOME$/docker/peterpanz/admin/config/voyager.php" />
-      <jump line="5" column="6" filename="$USER_HOME$/docker/peterpanz/admin/config/voyager.php" />
-      <jump line="168" column="36" filename="$USER_HOME$/docker/peterpanz/admin/config/voyager.php" />
-      <jump line="3" column="0" filename="$USER_HOME$/docker/peterpanz/admin/resources/views/layouts/app.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -899,7 +861,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1ZmIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2441,54 +2403,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TB_AGENT</text>
+        <text>function (i, v</text>
       </register>
       <register name="/" type="4">
-        <text>brand</text>
+        <text>new-account</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PD9waHAKCm5hbWVzcGFjZSBBcHA7Cgp1c2UgSWxsdW1pbmF0ZVxOb3RpZmljYXRpb25zXE5vdGlmaWFibGU7CnVzZSBJbGx1bWluYXRlXEZvdW5kYXRpb25cQXV0aFxVc2VyIGFzIEF1dGhlbnRpY2F0YWJsZTsKCmNsYXNzIFVzZXIgZXh0ZW5kcyBcVENHXFZveWFnZXJcTW9kZWxzXFVzZXIKewogICAgdXNlIE5vdGlmaWFibGU7CiAgICAvKioKICAgICAqIFRoZSBhdHRyaWJ1dGVzIHRoYXQgYXJlIG1hc3MgYXNzaWduYWJsZS4KICAgICAqCiAgICAgKiBAdmFyIGFycmF5CiAgICAgKi8KICAgIHByb3RlY3RlZCAkZmlsbGFibGUgPSBbCiAgICAgICAgJ25hbWUnLCAnZW1haWwnLCAncGFzc3dvcmQnLAogICAgXTsKCiAgICAvKioKICAgICAqIFRoZSBhdHRyaWJ1dGVzIHRoYXQgc2hvdWxkIGJlIGhpZGRlbiBmb3IgYXJyYXlzLgogICAgICoKICAgICAqIEB2YXIgYXJyYXkKICAgICAqLwogICAgcHJvdGVjdGVkICRoaWRkZW4gPSBbCiAgICAgICAgJ3Bhc3N3b3JkJywgJ3JlbWVtYmVyX3Rva2VuJywKICAgIF07Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3X2FjY291bnQucHJvcCgnZGlzYWJsZWQnLCBmdW5jdGlvbiAoaSwgdikgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1ZmIK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRkKGVudignREJfSE9TVCcpKTsK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NyZWF0ZWRfYXQnID0+IENhcmJvbjo6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICR1c2VyID0gVXNlcjo6Z2V0KCktPmZpcnN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbW9kZWwtPmlkOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxBdXRoXFVzZXIgYXMgQXV0aGVudGljYXRhYmxlOwo=</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGUoWwogICAgICAgICAgICAnJwogICAgICAgIF0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxBdXRoXFVzZXIgYXMgQXV0aGVudGljYXRhYmxlOwo=</text>
+        <text encoding="base64">ICAgICktPnNhdmUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PD9waHAKCm5hbWVzcGFjZSBBcHA7Cgp1c2UgSWxsdW1pbmF0ZVxOb3RpZmljYXRpb25zXE5vdGlmaWFibGU7CnVzZSBJbGx1bWluYXRlXEZvdW5kYXRpb25cQXV0aFxVc2VyIGFzIEF1dGhlbnRpY2F0YWJsZTsKCmNsYXNzIEFkbWluIGV4dGVuZHMgXFRDR1xWb3lhZ2VyXE1vZGVsc1xVc2VyCnsKICAgIHVzZSBOb3RpZmlhYmxlOwogICAgLyoqCiAgICAgKiBUaGUgYXR0cmlidXRlcyB0aGF0IGFyZSBtYXNzIGFzc2lnbmFibGUuCiAgICAgKgogICAgICogQHZhciBhcnJheQogICAgICovCgogICAgcHJvdGVjdGVkICRmaWxsYWJsZSA9IFsKICAgICAgICAnbmFtZScsICdlbWFpbCcsICdwYXNzd29yZCcsCiAgICBdOwoKICAgIC8qKgogICAgICogVGhlIGF0dHJpYnV0ZXMgdGhhdCBzaG91bGQgYmUgaGlkZGVuIGZvciBhcnJheXMuCiAgICAgKgogICAgICogQHZhciBhcnJheQogICAgICovCiAgICBwcm90ZWN0ZWQgJGhpZGRlbiA9IFsKICAgICAgICAncGFzc3dvcmQnLCAncmVtZW1iZXJfdG9rZW4nLAogICAgXTsKfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxBdXRoXFVzZXIgYXMgQXV0aGVudGljYXRhYmxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVzZSBJbGx1bWluYXRlXEZvdW5kYXRpb25cQXV0aFxVc2VyIGFzIEF1dGhlbnRpY2F0YWJsZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxicj4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>450</text>
       </register>
     </registers>
     <search>
-      <last-search>brand</last-search>
+      <last-search>new-account</last-search>
       <last-offset />
-      <last-pattern>brand</last-pattern>
+      <last-pattern>new-account</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
+        <entry encoding="base64">XDxmdW5kc1VzZVw+</entry>
+        <entry>check</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry encoding="base64">XDxjaGVja0ludmVzdG1lbnRcPg==</entry>
         <entry>투자하기</entry>
@@ -2507,10 +2471,9 @@
         <entry>휴대폰</entry>
         <entry>redi</entry>
         <entry>new-account</entry>
-        <entry>User</entry>
-        <entry>brand</entry>
       </history-search>
       <history-cmd>
+        <entry>q</entry>
         <entry encoding="base64">JzwsJz5ub3JtIGkjIA==</entry>
         <entry>400</entry>
         <entry>440</entry>
@@ -2528,9 +2491,8 @@
         <entry>102</entry>
         <entry>82</entry>
         <entry>41</entry>
-        <entry>211</entry>
-        <entry>47</entry>
         <entry>w</entry>
+        <entry>211</entry>
       </history-cmd>
       <history-expr />
       <history-input />
