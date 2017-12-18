@@ -205,6 +205,9 @@
         <mark key="." line="6" column="9" />
         <mark key="^" line="6" column="9" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1513565128659">
+        <mark key="'" line="669" column="11" />
+      </file>
       <file name="$USER_HOME$/study/admin/resources/assets/js/components/passport/AuthorizedClients.vue" timestamp="1511332408117">
         <mark key="'" line="108" column="1" />
         <mark key="[" line="1" column="18" />
@@ -461,7 +464,7 @@
         <mark key="^" line="44" column="32" />
         <mark key="." line="44" column="32" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/public/js/single_view.js" timestamp="1513563333186" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/public/js/single_view.js" timestamp="1513565098895" />
       <file name="$USER_HOME$/git/ptp/china-duse/.env" timestamp="1510902969727">
         <mark key="[" line="10" column="12" />
         <mark key="]" line="22" column="26" />
@@ -688,7 +691,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513563829130">
+      <file name="/Dummy.txt" timestamp="1513565103235">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/storage/logs/laravel.log" timestamp="1510799006269">
@@ -768,8 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/investment.php" />
-      <jump line="71" column="3" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/investment.php" />
       <jump line="72" column="22" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/investment.php" />
       <jump line="89" column="30" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/dashboard.php" />
       <jump line="495" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
@@ -863,6 +864,13 @@
       <jump line="414" column="20" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/UserController.php" />
       <jump line="490" column="38" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/UserController.php" />
       <jump line="492" column="34" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/UserController.php" />
+      <jump line="630" column="18" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="667" column="11" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="145" column="44" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="555" column="9" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="562" column="9" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="586" column="9" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
+      <jump line="669" column="11" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2431,7 +2439,7 @@
         <text>function (i, v</text>
       </register>
       <register name="/" type="4">
-        <text>sendReport</text>
+        <text>신고</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3X2FjY291bnQucHJvcCgnZGlzYWJsZWQnLCBmdW5jdGlvbiAoaSwgdikgewo=</text>
@@ -2468,16 +2476,14 @@
       </register>
     </registers>
     <search>
-      <last-search>sendReport</last-search>
+      <last-search>신고</last-search>
       <last-offset />
-      <last-pattern>sendReport</last-pattern>
+      <last-pattern>신고</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>투자하기</entry>
-        <entry>ul</entry>
         <entry>stylke</entry>
         <entry>동의함</entry>
         <entry>quee</entry>
@@ -2496,6 +2502,8 @@
         <entry>Report</entry>
         <entry>sensend_reportdReport</entry>
         <entry>sendReport</entry>
+        <entry>ㅅㅣㄴ고</entry>
+        <entry>신고</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
