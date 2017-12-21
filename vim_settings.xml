@@ -386,12 +386,12 @@
         <mark key="." line="52" column="45" />
         <mark key="^" line="52" column="45" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" timestamp="1513819516969">
-        <mark key="'" line="583" column="36" />
-        <mark key="[" line="567" column="50" />
-        <mark key="]" line="567" column="50" />
-        <mark key="." line="567" column="50" />
-        <mark key="^" line="589" column="82" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" timestamp="1513820925465">
+        <mark key="'" line="540" column="24" />
+        <mark key="[" line="599" column="0" />
+        <mark key="]" line="599" column="0" />
+        <mark key="." line="599" column="0" />
+        <mark key="^" line="569" column="36" />
       </file>
       <file name="$USER_HOME$/study/myapp/routes/web.php" timestamp="1511101309463">
         <mark key="'" line="1" column="0" />
@@ -514,16 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/moving_quote_new.blade.php" />
-      <jump line="539" column="30" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/moving_quote_new.blade.php" />
-      <jump line="149" column="34" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/moving_quote_new.blade.php" />
-      <jump line="332" column="38" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/moving_quote_new.blade.php" />
-      <jump line="514" column="42" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/moving_quote_new.blade.php" />
-      <jump line="558" column="42" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/moving_quote_new.blade.php" />
-      <jump line="592" column="42" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/moving_quote_new.blade.php" />
-      <jump line="614" column="42" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/moving_quote_new.blade.php" />
-      <jump line="676" column="42" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/moving_quote_new.blade.php" />
-      <jump line="49" column="33" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/moving_quote_new.blade.php" />
       <jump line="153" column="8" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/moving_quote_new.blade.php" />
       <jump line="644" column="79" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/moving_quote_new.blade.php" />
       <jump line="683" column="47" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/moving_quote_new.blade.php" />
@@ -614,6 +604,16 @@
       <jump line="40" column="39" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/functions.php" />
       <jump line="49" column="35" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/functions.php" />
       <jump line="580" column="36" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
+      <jump line="64" column="23" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
+      <jump line="422" column="68" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
+      <jump line="518" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
+      <jump line="519" column="16" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
+      <jump line="520" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
+      <jump line="521" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
+      <jump line="522" column="66" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
+      <jump line="523" column="27" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
+      <jump line="525" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
+      <jump line="540" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -636,8 +636,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICogMTAwMDA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgJC5nZXQoImh0dHBzOi8vd3d3LnNuc2wua3IvYXBpL3NjaGVkdWxlPyIgKyBwYXJhbSwgZnVuY3Rpb24gKHJlcywgc3RhdHVzKSB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhzdGF0dXMpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVzKTsKICAgICAgICAgICAgICAgIGh0bWwgPSAnIFwKICAgICAgICAgICAgICAgIDx0cj5cCiAgICAgICAgICAgICAgICAgICAgPHRkIGNvbHNwYW49IjQiPlwKICAgICAgICAgICAgICAgICAgICAgICAgPGgzIGNsYXNzPSJ0ZXh0LWNlbnRlciI+YWpheCEhISEhISEhISEhISEhISEhISE8L2gzPiBcCiAgICAgICAgICAgICAgICAgICAgPC90ZD4gXAogICAgICAgICAgICAgICAgPC90cj5cCiAgICAgICAgICAgICAgICAnOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coYW1vdW50KTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICovCgoKICAgICAgICAgICAgaWYgKGFtb3VudCA9PT0gMCkgewogICAgICAgICAgICAgICAgaHRtbCA9ICcgXAogICAgICAgICAgICAgICAgPHRyPlwKICAgICAgICAgICAgICAgICAgICA8dGQgY29sc3Bhbj0iNCI+XAogICAgICAgICAgICAgICAgICAgICAgICA8aDMgY2xhc3M9InRleHQtY2VudGVyIj7quIjslaHsnYQg7J6F66Cl7ZWY7IS47JqULjwvaDM+IFwKICAgICAgICAgICAgICAgICAgICA8L3RkPiBcCiAgICAgICAgICAgICAgICA8L3RyPlwKICAgICAgICAgICAgICAgICc7CiAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2179,56 +2179,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICogMTAwMDA=</text>
+        <text>원천징수입력</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY2hlZHVsZVw+</text>
+        <text encoding="base64">XDxtb2RhbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnVuY3Rpb24gd0NvbW1hKHgpIHsKICAgIHJldHVybiB4LnRvU3RyaW5nKCkucmVwbGFjZSgvXEIoPz0oXGR7M30pKyg/IVxkKSkvZywgIiwiKTsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgJC5nZXQoImh0dHBzOi8vd3d3LnNuc2wua3IvYXBpL3NjaGVkdWxlPyIgKyBwYXJhbSwgZnVuY3Rpb24gKHJlcywgc3RhdHVzKSB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhzdGF0dXMpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVzKTsKICAgICAgICAgICAgICAgIGh0bWwgPSAnIFwKICAgICAgICAgICAgICAgIDx0cj5cCiAgICAgICAgICAgICAgICAgICAgPHRkIGNvbHNwYW49IjQiPlwKICAgICAgICAgICAgICAgICAgICAgICAgPGgzIGNsYXNzPSJ0ZXh0LWNlbnRlciI+YWpheCEhISEhISEhISEhISEhISEhISE8L2gzPiBcCiAgICAgICAgICAgICAgICAgICAgPC90ZD4gXAogICAgICAgICAgICAgICAgPC90cj5cCiAgICAgICAgICAgICAgICAnOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coYW1vdW50KTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICovCgoKICAgICAgICAgICAgaWYgKGFtb3VudCA9PT0gMCkgewogICAgICAgICAgICAgICAgaHRtbCA9ICcgXAogICAgICAgICAgICAgICAgPHRyPlwKICAgICAgICAgICAgICAgICAgICA8dGQgY29sc3Bhbj0iNCI+XAogICAgICAgICAgICAgICAgICAgICAgICA8aDMgY2xhc3M9InRleHQtY2VudGVyIj7quIjslaHsnYQg7J6F66Cl7ZWY7IS47JqULjwvaDM+IFwKICAgICAgICAgICAgICAgICAgICA8L3RkPiBcCiAgICAgICAgICAgICAgICA8L3RyPlwKICAgICAgICAgICAgICAgICc7CiAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJCgnI3NjaGVkdWxlLXRhYmxlJykuaHRtbChodG1sKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnI3NjaGVkdWxlLXRhYmxlJykuaHRtbChodG1sKTsK</text>
+        <text encoding="base64">PGEgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIgZGF0YS10b2dnbGU9Im1vZGFsIiBocmVmPSIjc2NoZWR1bGUiPlRyaWdnZXIgbW9kYWw8L2E+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhID0gSlNPTi5wYXJzZShkYXRhKTsKCiAgICAgICAgICAgICAgICAgICAgYWxlcnQoZGF0YSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaHRtbCA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJCgnI3NjaGVkdWxlLXRhYmxlJykuaHRtbChodG1sKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhzdGF0dXMpOwogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGVydCgiQW4gQUpBWCBlcnJvciBvY2N1cmVkOiAiICsgc3RhdHVzICsgIlxuRXJyb3I6ICIgKyBlcnJvcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzY2hlZHVsZVw+</last-search>
+      <last-search encoding="base64">XDxtb2RhbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY2hlZHVsZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxtb2RhbFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>que</entry>
-        <entry>ID</entry>
         <entry>인증에</entry>
         <entry encoding="base64">XDxCQU5LU1w+</entry>
         <entry>변경</entry>
@@ -2247,6 +2245,8 @@
         <entry>투자하기</entry>
         <entry encoding="base64">XDxib290c3RyYXBcPg==</entry>
         <entry encoding="base64">XDxzY2hlZHVsZVw+</entry>
+        <entry>투자금액</entry>
+        <entry encoding="base64">XDxtb2RhbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
