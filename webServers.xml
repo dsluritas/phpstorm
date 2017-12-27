@@ -30,6 +30,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="d5d11e19-5e71-459a-b348-db59c75f983d" name="new new snsl" url="http://www.snsl.kr">
+        <fileTransfer host="www.snsl.kr" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
