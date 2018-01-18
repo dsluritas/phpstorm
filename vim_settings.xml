@@ -184,12 +184,12 @@
         <mark key="." line="13" column="33" />
         <mark key="^" line="13" column="33" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1516246154994">
+      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1516250425223">
         <mark key="'" line="6" column="20" />
-        <mark key="[" line="63" column="23" />
-        <mark key="]" line="63" column="23" />
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="12" />
         <mark key="^" line="63" column="23" />
-        <mark key="." line="63" column="23" />
+        <mark key="." line="4" column="12" />
       </file>
       <file name="$USER_HOME$/git/ptp/dashboard/app/Http/Controllers/AddressController.php" timestamp="1510903519897">
         <mark key="'" line="22" column="0" />
@@ -278,6 +278,12 @@
         <mark key="]" line="52" column="45" />
         <mark key="." line="52" column="45" />
         <mark key="^" line="52" column="45" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" timestamp="1516250416993">
+        <mark key="[" line="1103" column="33" />
+        <mark key="]" line="1111" column="0" />
+        <mark key="^" line="1111" column="0" />
+        <mark key="." line="1111" column="0" />
       </file>
       <file name="$USER_HOME$/study/admin/resources/assets/js/components/passport/AuthorizedClients.vue" timestamp="1511332408117">
         <mark key="'" line="108" column="1" />
@@ -384,7 +390,7 @@
         <mark key="." line="67" column="28" />
         <mark key="^" line="67" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515661399826">
+      <file name="/Dummy.txt" timestamp="1516250220411">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/storage/logs/laravel.log" timestamp="1510799006269">
@@ -400,12 +406,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="59" column="56" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/functions.php" timestamp="1513785089893">
-        <mark key="'" line="49" column="35" />
-        <mark key="]" line="47" column="3" />
-        <mark key="." line="47" column="3" />
-        <mark key="^" line="47" column="3" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/functions.php" timestamp="1511525908171">
         <mark key="'" line="39" column="0" />
@@ -478,6 +478,9 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" timestamp="1516250219718">
+        <mark key="'" line="16" column="7" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/app/Classes/Funding.php" timestamp="1511185564532">
         <mark key="'" line="524" column="0" />
         <mark key="[" line="527" column="9" />
@@ -528,7 +531,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="23" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
       <jump line="268" column="14" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
       <jump line="281" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
       <jump line="132" column="55" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
@@ -628,6 +630,7 @@
       <jump line="4" column="16" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
       <jump line="5" column="16" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
       <jump line="6" column="20" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
+      <jump line="16" column="7" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -650,8 +653,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2193,10 +2196,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>http://localhost:8000</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkdXNlYXBpXD4=</text>
+        <text encoding="base64">XDxBcGlVcmxcPg==</text>
       </register>
       <register name="0" type="4">
         <text>http://localhost:8000</text>
@@ -2233,16 +2236,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkdXNlYXBpXD4=</last-search>
+      <last-search encoding="base64">XDxBcGlVcmxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkdXNlYXBpXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxBcGlVcmxcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>휴대폰</entry>
-        <entry>redi</entry>
         <entry>new-account</entry>
         <entry>bootstrap</entry>
         <entry encoding="base64">XDx3cF9zY3JpcHRzXD4=</entry>
@@ -2261,6 +2262,8 @@
         <entry encoding="base64">XDxBUElfU1VNTUFSWVw+</entry>
         <entry>원천징수</entry>
         <entry encoding="base64">XDxkdXNlYXBpXD4=</entry>
+        <entry>http</entry>
+        <entry encoding="base64">XDxBcGlVcmxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
