@@ -34,6 +34,12 @@
         <mark key="." line="90" column="42" />
         <mark key="^" line="90" column="65" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Helpers/Helper.php" timestamp="1516257766989">
+        <mark key="[" line="507" column="15" />
+        <mark key="]" line="508" column="7" />
+        <mark key="." line="508" column="7" />
+        <mark key="^" line="508" column="7" />
+      </file>
       <file name="$USER_HOME$/git/ptp/dashboard/config/admin.php" timestamp="1510813876066">
         <mark key="'" line="156" column="1" />
         <mark key="[" line="143" column="19" />
@@ -356,6 +362,9 @@
         <mark key="]" line="681" column="41" />
         <mark key="." line="681" column="41" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/public/js/app.js" timestamp="1516257296769">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/js/app.js" timestamp="1511084808839">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="10" column="23" />
@@ -397,7 +406,7 @@
         <mark key="." line="67" column="28" />
         <mark key="^" line="67" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516254975108">
+      <file name="/Dummy.txt" timestamp="1516257602205">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/storage/logs/laravel.log" timestamp="1510799006269">
@@ -485,8 +494,9 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" timestamp="1516254959462">
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" timestamp="1516257293700">
         <mark key="'" line="806" column="5" />
+        <mark key="[" line="16" column="39" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/app/Classes/Funding.php" timestamp="1511185564532">
         <mark key="'" line="524" column="0" />
@@ -534,8 +544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="451" column="34" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/UserController.php" />
-      <jump line="462" column="30" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/UserController.php" />
       <jump line="484" column="43" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/UserController.php" />
       <jump line="414" column="20" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/UserController.php" />
       <jump line="490" column="38" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/UserController.php" />
@@ -634,6 +642,8 @@
       <jump line="709" column="18" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
       <jump line="806" column="5" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/app.js" />
       <jump line="35" column="28" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/GlobalMenu.vue" />
+      <jump line="40438" column="35" filename="$USER_HOME$/git/ptp/peterWEB/public/js/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/ptp/peterWEB/public/js/app.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -656,8 +666,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>app</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2202,52 +2212,51 @@
         <text>app</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcGlVcmxcPg==</text>
+        <text>ApiUrl</text>
       </register>
       <register name="0" type="4">
         <text>http://localhost:8000</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aHR0cDovL3BldGVyd2ViLmFwcC8/ZmlsdGVyPWxhdGl0dWRlOjM3LjUxMDk5MTl+MzcuNTIyOTQ2NiU3QyU3Q2xvbmdpdHVkZToxMjcuMDA0MjEyNH4xMjcuMDQ1MTkwOSZ6b29tTGV2ZWw9MTAmY2VudGVyPSU3QiUyMnklMjI6MzcuNTE2OTcxLCUyMl9sYXQlMjI6MzcuNTE2OTcxLCUyMnglMjI6MTI3LjAyNDcsJTIyX2xuZyUyMjoxMjcuMDI0NyU3RAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aHR0cDovL3BldGVyd2ViLmFwcC8/ZmlsdGVyPWxhdGl0dWRlOjM3LjUxMDk5MTl+MzcuNTIyOTQ2NiU3QyU3Q2xvbmdpdHVkZToxMjcuMDA0MjEyNH4xMjcuMDQ1MTkwOSZ6b29tTGV2ZWw9MTAmY2VudGVyPSU3QiUyMnklMjI6MzcuNTE2OTcxLCUyMl9sYXQlMjI6MzcuNTE2OTcxLCUyMnglMjI6MTI3LjAyNDcsJTIyX2xuZyUyMjoxMjcuMDI0NyU3RAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmlzaXQoJy8nKS0+c2VlKCdMYXJhdmVsJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmlzaXQoJy8nKS0+c2VlKCdMYXJhdmVsJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmlzCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmlzCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBTb2NpYWxpdGU6OndpdGgoJ29rdGEnKS0+cmVkaXJlY3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcGlVcmxcPg==</last-search>
+      <last-search>ApiUrl</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcGlVcmxcPg==</last-pattern>
+      <last-pattern>ApiUrl</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0JvcnJvd2VyXD4=</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry>투자하기</entry>
         <entry encoding="base64">XDxib290c3RyYXBcPg==</entry>
@@ -2267,6 +2276,7 @@
         <entry>options</entry>
         <entry>api</entry>
         <entry encoding="base64">XDxhcGlVcmxcPg==</entry>
+        <entry>ApiUrl</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
