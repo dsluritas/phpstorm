@@ -129,11 +129,11 @@
         <mark key="^" line="82" column="24" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/.env" timestamp="1516254752569">
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="3" column="27" />
-        <mark key="." line="3" column="27" />
-        <mark key="^" line="3" column="27" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/.env" timestamp="1516258502754">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/git/okta/tests/Feature/Example1Test.php" timestamp="1515665061868">
         <mark key="[" line="25" column="0" />
@@ -188,12 +188,12 @@
         <mark key="." line="13" column="33" />
         <mark key="^" line="13" column="33" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1516254842408">
-        <mark key="'" line="20" column="0" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/.env" timestamp="1516258798221">
+        <mark key="'" line="40" column="0" />
         <mark key="[" line="63" column="36" />
-        <mark key="]" line="77" column="31" />
-        <mark key="^" line="77" column="31" />
-        <mark key="." line="77" column="31" />
+        <mark key="]" line="63" column="39" />
+        <mark key="^" line="63" column="39" />
+        <mark key="." line="63" column="39" />
       </file>
       <file name="$USER_HOME$/git/ptp/dashboard/app/Http/Controllers/AddressController.php" timestamp="1510903519897">
         <mark key="'" line="22" column="0" />
@@ -406,7 +406,7 @@
         <mark key="." line="67" column="28" />
         <mark key="^" line="67" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516257602205">
+      <file name="/Dummy.txt" timestamp="1516258757364">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/storage/logs/laravel.log" timestamp="1510799006269">
@@ -544,10 +544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="484" column="43" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/UserController.php" />
-      <jump line="414" column="20" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/UserController.php" />
-      <jump line="490" column="38" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/UserController.php" />
-      <jump line="492" column="34" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/UserController.php" />
       <jump line="630" column="18" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
       <jump line="667" column="11" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
       <jump line="145" column="44" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
@@ -644,6 +640,10 @@
       <jump line="35" column="28" filename="$USER_HOME$/git/ptp/peterWEB/resources/assets/js/components/GlobalMenu.vue" />
       <jump line="40438" column="35" filename="$USER_HOME$/git/ptp/peterWEB/public/js/app.js" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ptp/peterWEB/public/js/app.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
+      <jump line="9" column="16" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
+      <jump line="71" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
+      <jump line="40" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -666,8 +666,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>dev</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2209,10 +2209,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
-        <text>ApiUrl</text>
+        <text>KAKAO</text>
       </register>
       <register name="0" type="4">
         <text>http://localhost:8000</text>
@@ -2249,16 +2249,14 @@
       </register>
     </registers>
     <search>
-      <last-search>ApiUrl</last-search>
+      <last-search>KAKAO</last-search>
       <last-offset />
-      <last-pattern>ApiUrl</last-pattern>
+      <last-pattern>KAKAO</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cmxcPg==</entry>
-        <entry>투자하기</entry>
         <entry encoding="base64">XDxib290c3RyYXBcPg==</entry>
         <entry encoding="base64">XDxzY2hlZHVsZVw+</entry>
         <entry>투자금액</entry>
@@ -2277,6 +2275,8 @@
         <entry>api</entry>
         <entry encoding="base64">XDxhcGlVcmxcPg==</entry>
         <entry>ApiUrl</entry>
+        <entry>app</entry>
+        <entry>KAKAO</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
