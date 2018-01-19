@@ -94,7 +94,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="21" column="9" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Agency.php" timestamp="1516331966594">
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Agency.php" timestamp="1516332750000">
         <mark key="'" line="261" column="22" />
       </file>
       <file name="$USER_HOME$/study/slack/.env" timestamp="1511519253420">
@@ -212,9 +212,9 @@
         <mark key="^" line="23" column="38" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/User.php" timestamp="1516331229849">
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/User.php" timestamp="1516332778552">
         <mark key="'" line="605" column="39" />
-        <mark key="[" line="268" column="0" />
+        <mark key="[" line="238" column="5" />
         <mark key="]" line="268" column="0" />
         <mark key="." line="268" column="0" />
       </file>
@@ -238,8 +238,8 @@
         <mark key="^" line="53" column="51" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" timestamp="1516332231463">
-        <mark key="'" line="1100" column="9" />
+      <file name="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" timestamp="1516332476534">
+        <mark key="'" line="707" column="9" />
       </file>
       <file name="$USER_HOME$/luritas/point/app/Http/Controllers/UserController.php" timestamp="1510648160008">
         <mark key="[" line="8" column="6" />
@@ -271,7 +271,7 @@
         <mark key="^" line="88" column="7" />
         <mark key="." line="88" column="7" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/AgencyController.php" timestamp="1516332228762">
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/AgencyController.php" timestamp="1516332428507">
         <mark key="'" line="623" column="32" />
         <mark key="[" line="619" column="31" />
         <mark key="]" line="620" column="19" />
@@ -433,7 +433,7 @@
         <mark key="." line="67" column="28" />
         <mark key="^" line="67" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516331874040">
+      <file name="/Dummy.txt" timestamp="1516332771336">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/storage/logs/laravel.log" timestamp="1510799006269">
@@ -577,8 +577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/updateUser.php" />
-      <jump line="30" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/updateUser.php" />
       <jump line="199" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="70" column="48" filename="$USER_HOME$/PhpstormProjects/snsl/app/Classes/Funding.php" />
       <jump line="79" column="66" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
@@ -665,7 +663,6 @@
       <jump line="106" column="45" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_list.blade.php" />
       <jump line="87" column="0" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
       <jump line="1103" column="19" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
-      <jump line="1100" column="9" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
       <jump line="39" column="52" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
       <jump line="277" column="24" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
       <jump line="463" column="23" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
@@ -677,6 +674,9 @@
       <jump line="222" column="22" filename="$USER_HOME$/git/ptp/duseAPI/app/Agency.php" />
       <jump line="229" column="33" filename="$USER_HOME$/git/ptp/duseAPI/app/Agency.php" />
       <jump line="261" column="22" filename="$USER_HOME$/git/ptp/duseAPI/app/Agency.php" />
+      <jump line="1084" column="9" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
+      <jump line="1100" column="9" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
+      <jump line="707" column="9" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2245,7 +2245,7 @@
         <text>dev</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZW5hbHR5XD4=</text>
+        <text encoding="base64">XDxmaWxsUmVwb3J0SW5mb3JtYXRpb25cPg==</text>
       </register>
       <register name="0" type="4">
         <text>http://localhost:8000</text>
@@ -2282,16 +2282,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZW5hbHR5XD4=</last-search>
+      <last-search encoding="base64">XDxmaWxsUmVwb3J0SW5mb3JtYXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZW5hbHR5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxsUmVwb3J0SW5mb3JtYXRpb25cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcGlVcmxcPg==</entry>
-        <entry>ApiUrl</entry>
         <entry>app</entry>
         <entry>KAKAO</entry>
         <entry>NAVER</entry>
@@ -2307,9 +2305,11 @@
         <entry>경고회수</entry>
         <entry>경고</entry>
         <entry encoding="base64">XDx3YXJuaW5nX2NvdW50XD4=</entry>
-        <entry encoding="base64">XDxyZXBvcnRTdW1tYXJ5QmluZFw+</entry>
         <entry>summary</entry>
         <entry encoding="base64">XDxwZW5hbHR5XD4=</entry>
+        <entry encoding="base64">XDxkYXRlV2l0aG91dFRpbWVcPg==</entry>
+        <entry encoding="base64">XDxyZXBvcnRTdW1tYXJ5QmluZFw+</entry>
+        <entry encoding="base64">XDxmaWxsUmVwb3J0SW5mb3JtYXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
