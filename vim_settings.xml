@@ -27,6 +27,12 @@
         <mark key="." line="80" column="19" />
         <mark key="^" line="93" column="27" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_list.blade.php" timestamp="1516331831196">
+        <mark key="'" line="106" column="45" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1516330398574">
+        <mark key="'" line="69" column="16" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/investment.php" timestamp="1512651290801">
         <mark key="'" line="78" column="10" />
         <mark key="[" line="90" column="42" />
@@ -87,6 +93,9 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="21" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Agency.php" timestamp="1516331966594">
+        <mark key="'" line="261" column="22" />
       </file>
       <file name="$USER_HOME$/study/slack/.env" timestamp="1511519253420">
         <mark key="'" line="1" column="12" />
@@ -161,6 +170,7 @@
         <mark key="^" line="105" column="30" />
         <mark key="." line="105" column="30" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/CustomerReportVerificationLog.php" timestamp="1516330790857" />
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/js/app.js" timestamp="1513819286039">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
@@ -202,6 +212,12 @@
         <mark key="^" line="23" column="38" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/User.php" timestamp="1516331229849">
+        <mark key="'" line="605" column="39" />
+        <mark key="[" line="268" column="0" />
+        <mark key="]" line="268" column="0" />
+        <mark key="." line="268" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/dashboard.php" timestamp="1512650650786">
         <mark key="'" line="89" column="30" />
         <mark key="[" line="98" column="0" />
@@ -221,6 +237,9 @@
         <mark key="]" line="54" column="0" />
         <mark key="^" line="53" column="51" />
         <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" timestamp="1516332231463">
+        <mark key="'" line="1100" column="9" />
       </file>
       <file name="$USER_HOME$/luritas/point/app/Http/Controllers/UserController.php" timestamp="1510648160008">
         <mark key="[" line="8" column="6" />
@@ -251,6 +270,13 @@
         <mark key="]" line="88" column="7" />
         <mark key="^" line="88" column="7" />
         <mark key="." line="88" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/AgencyController.php" timestamp="1516332228762">
+        <mark key="'" line="623" column="32" />
+        <mark key="[" line="619" column="31" />
+        <mark key="]" line="620" column="19" />
+        <mark key="." line="620" column="19" />
+        <mark key="^" line="620" column="19" />
       </file>
       <file name="$USER_HOME$/git/ptp/peterWEB/resources/views/parts/report_house.blade.php" timestamp="1511156913199">
         <mark key="[" line="145" column="38" />
@@ -296,6 +322,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/VerificationReportReceiveController.php" timestamp="1516330755409" />
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" timestamp="1514339510554">
         <mark key="'" line="199" column="0" />
         <mark key="[" line="23" column="0" />
@@ -406,7 +433,7 @@
         <mark key="." line="67" column="28" />
         <mark key="^" line="67" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516258757364">
+      <file name="/Dummy.txt" timestamp="1516331874040">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/seoul-git/data/storage/logs/laravel.log" timestamp="1510799006269">
@@ -436,6 +463,9 @@
         <mark key="]" line="21" column="8" />
         <mark key="^" line="21" column="42" />
         <mark key="." line="21" column="8" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1516331871150">
+        <mark key="'" line="463" column="23" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/css/app.scss" timestamp="1511085213375">
         <mark key="'" line="5" column="0" />
@@ -498,6 +528,9 @@
         <mark key="'" line="806" column="5" />
         <mark key="[" line="16" column="39" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" timestamp="1516331613537">
+        <mark key="'" line="334" column="47" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/app/Classes/Funding.php" timestamp="1511185564532">
         <mark key="'" line="524" column="0" />
         <mark key="[" line="527" column="9" />
@@ -544,60 +577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="562" column="9" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
-      <jump line="586" column="9" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
-      <jump line="669" column="11" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/single.blade.php" />
-      <jump line="25" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="6" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/functions.php" />
-      <jump line="33" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/functions.php" />
-      <jump line="37" column="36" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/functions.php" />
-      <jump line="38" column="39" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/functions.php" />
-      <jump line="47" column="84" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/functions.php" />
-      <jump line="102" column="25" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule-detail.php" />
-      <jump line="517" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="57" column="28" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="534" column="23" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="26" column="17" filename="$USER_HOME$/PhpstormProjects/snsl/api/main/data.php" />
-      <jump line="28" column="18" filename="$USER_HOME$/PhpstormProjects/snsl/api/main/data.php" />
-      <jump line="30" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/api/main/data.php" />
-      <jump line="21" column="77" filename="$USER_HOME$/PhpstormProjects/snsl/api/main/data.php" />
-      <jump line="34" column="41" filename="$USER_HOME$/PhpstormProjects/snsl/api/main/data.php" />
-      <jump line="3" column="32" filename="$USER_HOME$/PhpstormProjects/snsl/api/main/data.php" />
-      <jump line="5" column="41" filename="$USER_HOME$/PhpstormProjects/snsl/api/main/data.php" />
-      <jump line="13" column="5" filename="$USER_HOME$/PhpstormProjects/snsl/api/main/data.php" />
-      <jump line="15" column="41" filename="$USER_HOME$/PhpstormProjects/snsl/api/main/data.php" />
-      <jump line="32" column="5" filename="$USER_HOME$/PhpstormProjects/snsl/api/main/data.php" />
-      <jump line="697" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="26" column="17" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="366" column="62" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="374" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="527" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="514" column="14" filename="$USER_HOME$/PhpstormProjects/snsl/app/Classes/User.php" />
-      <jump line="21" column="88" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/functions.php" />
-      <jump line="22" column="108" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/functions.php" />
-      <jump line="23" column="94" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/functions.php" />
-      <jump line="25" column="111" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/functions.php" />
-      <jump line="31" column="40" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/functions.php" />
-      <jump line="32" column="81" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/functions.php" />
-      <jump line="36" column="16" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/functions.php" />
-      <jump line="39" column="36" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/functions.php" />
-      <jump line="40" column="39" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/functions.php" />
-      <jump line="49" column="35" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/functions.php" />
-      <jump line="580" column="36" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="64" column="23" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="422" column="68" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="518" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="519" column="16" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="520" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="521" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="522" column="66" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="523" column="27" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="525" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="540" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="71" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
-      <jump line="17" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/updateUser.php" />
-      <jump line="81" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
-      <jump line="73" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/updateUser.php" />
       <jump line="36" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/updateUser.php" />
       <jump line="30" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/updateUser.php" />
       <jump line="199" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
@@ -644,6 +623,60 @@
       <jump line="59" column="1" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
       <jump line="60" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
       <jump line="61" column="0" filename="$USER_HOME$/git/ptp/peterWEB/.env" />
+      <jump line="751" column="0" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="79" column="23" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="128" column="23" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="155" column="37" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="158" column="27" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="202" column="30" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="242" column="10" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="243" column="12" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="309" column="27" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="460" column="18" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="461" column="19" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="462" column="18" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="588" column="81" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="656" column="56" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="707" column="18" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="33" column="38" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="34" column="46" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="35" column="47" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="38" column="57" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="69" column="16" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" />
+      <jump line="335" column="4" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
+      <jump line="334" column="47" filename="$USER_HOME$/git/ptp/peterWEB/app/Http/Controllers/AgencyController.php" />
+      <jump line="366" column="53" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="175" column="26" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="478" column="19" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="514" column="19" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="686" column="27" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/AgencyController.php" />
+      <jump line="69" column="18" filename="$USER_HOME$/git/ptp/duseAPI/app/User.php" />
+      <jump line="102" column="84" filename="$USER_HOME$/git/ptp/duseAPI/app/User.php" />
+      <jump line="702" column="27" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/AgencyController.php" />
+      <jump line="605" column="39" filename="$USER_HOME$/git/ptp/duseAPI/app/User.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_list.blade.php" />
+      <jump line="57" column="28" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_list.blade.php" />
+      <jump line="77" column="101" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_list.blade.php" />
+      <jump line="80" column="35" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_list.blade.php" />
+      <jump line="284" column="23" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
+      <jump line="897" column="18" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
+      <jump line="67" column="20" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
+      <jump line="283" column="20" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
+      <jump line="106" column="45" filename="$USER_HOME$/git/ptp/peterWEB/resources/views/agency_list.blade.php" />
+      <jump line="87" column="0" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
+      <jump line="1103" column="19" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
+      <jump line="1100" column="9" filename="$USER_HOME$/git/ptp/peterWEB/public/js/house_manager.js" />
+      <jump line="39" column="52" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="277" column="24" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="463" column="23" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" />
+      <jump line="623" column="32" filename="$USER_HOME$/git/ptp/duseAPI/app/Http/Controllers/AgencyController.php" />
+      <jump line="114" column="14" filename="$USER_HOME$/git/ptp/duseAPI/app/Agency.php" />
+      <jump line="207" column="22" filename="$USER_HOME$/git/ptp/duseAPI/app/Agency.php" />
+      <jump line="212" column="22" filename="$USER_HOME$/git/ptp/duseAPI/app/Agency.php" />
+      <jump line="217" column="22" filename="$USER_HOME$/git/ptp/duseAPI/app/Agency.php" />
+      <jump line="222" column="22" filename="$USER_HOME$/git/ptp/duseAPI/app/Agency.php" />
+      <jump line="229" column="33" filename="$USER_HOME$/git/ptp/duseAPI/app/Agency.php" />
+      <jump line="261" column="22" filename="$USER_HOME$/git/ptp/duseAPI/app/Agency.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -666,8 +699,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>dev</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhc2RmCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2212,34 +2245,34 @@
         <text>dev</text>
       </register>
       <register name="/" type="4">
-        <text>NAVER</text>
+        <text encoding="base64">XDxwZW5hbHR5XD4=</text>
       </register>
       <register name="0" type="4">
         <text>http://localhost:8000</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhc2RmCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aHR0cDovL3BldGVyd2ViLmFwcC8/ZmlsdGVyPWxhdGl0dWRlOjM3LjUxMDk5MTl+MzcuNTIyOTQ2NiU3QyU3Q2xvbmdpdHVkZToxMjcuMDA0MjEyNH4xMjcuMDQ1MTkwOSZ6b29tTGV2ZWw9MTAmY2VudGVyPSU3QiUyMnklMjI6MzcuNTE2OTcxLCUyMl9sYXQlMjI6MzcuNTE2OTcxLCUyMnglMjI6MTI3LjAyNDcsJTIyX2xuZyUyMjoxMjcuMDI0NyU3RAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aHR0cDovL3BldGVyd2ViLmFwcC8/ZmlsdGVyPWxhdGl0dWRlOjM3LjUxMDk5MTl+MzcuNTIyOTQ2NiU3QyU3Q2xvbmdpdHVkZToxMjcuMDA0MjEyNH4xMjcuMDQ1MTkwOSZ6b29tTGV2ZWw9MTAmY2VudGVyPSU3QiUyMnklMjI6MzcuNTE2OTcxLCUyMl9sYXQlMjI6MzcuNTE2OTcxLCUyMnglMjI6MTI3LjAyNDcsJTIyX2xuZyUyMjoxMjcuMDI0NyU3RAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmlzaXQoJy8nKS0+c2VlKCdMYXJhdmVsJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmlzCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmlzaXQoJy8nKS0+c2VlKCdMYXJhdmVsJyk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
@@ -2249,34 +2282,34 @@
       </register>
     </registers>
     <search>
-      <last-search>NAVER</last-search>
+      <last-search encoding="base64">XDxwZW5hbHR5XD4=</last-search>
       <last-offset />
-      <last-pattern>NAVER</last-pattern>
+      <last-pattern encoding="base64">XDxwZW5hbHR5XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzY2hlZHVsZVw+</entry>
-        <entry>투자금액</entry>
-        <entry encoding="base64">XDxtb2RhbFw+</entry>
-        <entry>form</entry>
-        <entry>url</entry>
-        <entry>hidden</entry>
-        <entry encoding="base64">XDxBUElfU1VNTUFSWVw+</entry>
-        <entry>원천징수</entry>
-        <entry encoding="base64">XDxkdXNlYXBpXD4=</entry>
-        <entry>http</entry>
-        <entry>https</entry>
-        <entry encoding="base64">XDxBcGlVcmxcPg==</entry>
-        <entry>dev</entry>
-        <entry>options</entry>
-        <entry>api</entry>
         <entry encoding="base64">XDxhcGlVcmxcPg==</entry>
         <entry>ApiUrl</entry>
         <entry>app</entry>
         <entry>KAKAO</entry>
         <entry>NAVER</entry>
+        <entry>list</entry>
+        <entry>agency</entry>
+        <entry>report</entry>
+        <entry encoding="base64">XDxzZWxlY3RlZF90YWJcPg==</entry>
+        <entry>agency_list</entry>
+        <entry>categories</entry>
+        <entry encoding="base64">XDx3YXJuaW5nTG9nc1w+</entry>
+        <entry encoding="base64">XDx3YXJuaW5nQ291bnRVcFw+</entry>
+        <entry>신고매물</entry>
+        <entry>경고회수</entry>
+        <entry>경고</entry>
+        <entry encoding="base64">XDx3YXJuaW5nX2NvdW50XD4=</entry>
+        <entry encoding="base64">XDxyZXBvcnRTdW1tYXJ5QmluZFw+</entry>
+        <entry>summary</entry>
+        <entry encoding="base64">XDxwZW5hbHR5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
