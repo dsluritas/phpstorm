@@ -54,11 +54,12 @@
         <mark key="." line="90" column="42" />
         <mark key="^" line="90" column="65" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peter/app/Http/Controllers/HouseController.php" timestamp="1516933584577">
-        <mark key="'" line="532" column="20" />
-        <mark key="[" line="744" column="0" />
-        <mark key="]" line="744" column="0" />
-        <mark key="." line="744" column="0" />
+      <file name="$USER_HOME$/git/ptp/peter/app/Http/Controllers/HouseController.php" timestamp="1516941523314">
+        <mark key="'" line="801" column="35" />
+        <mark key="[" line="768" column="77" />
+        <mark key="]" line="768" column="77" />
+        <mark key="." line="768" column="77" />
+        <mark key="^" line="768" column="77" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Helpers/Helper.php" timestamp="1516934292571">
         <mark key="[" line="519" column="64" />
@@ -80,11 +81,12 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="7" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peter/public/js/register_house.js" timestamp="1516936936326">
-        <mark key="'" line="939" column="31" />
-        <mark key="[" line="1024" column="0" />
-        <mark key="]" line="1024" column="0" />
-        <mark key="." line="1024" column="0" />
+      <file name="$USER_HOME$/git/ptp/peter/public/js/register_house.js" timestamp="1516941247208">
+        <mark key="'" line="944" column="21" />
+        <mark key="[" line="1295" column="50" />
+        <mark key="]" line="1295" column="36" />
+        <mark key="^" line="1295" column="36" />
+        <mark key="." line="1295" column="36" />
       </file>
       <file name="$USER_HOME$/study/slack/app/Notifications/Slack.php" timestamp="1511524614403">
         <mark key="'" line="16" column="6" />
@@ -93,12 +95,12 @@
         <mark key="." line="63" column="45" />
         <mark key="^" line="63" column="45" />
       </file>
-      <file name="$USER_HOME$/git/ptp/ceo/resources/assets/js/components/HouseTable.vue" timestamp="1516937160489">
+      <file name="$USER_HOME$/git/ptp/ceo/resources/assets/js/components/HouseTable.vue" timestamp="1516941183264">
         <mark key="'" line="324" column="30" />
-        <mark key="[" line="411" column="0" />
-        <mark key="]" line="411" column="0" />
-        <mark key="." line="411" column="0" />
-        <mark key="^" line="412" column="57" />
+        <mark key="[" line="412" column="6" />
+        <mark key="]" line="412" column="7" />
+        <mark key="^" line="412" column="7" />
+        <mark key="." line="412" column="7" />
       </file>
       <file name="$USER_HOME$/git/ptp/dashboard/composer.json" timestamp="1510903341200">
         <mark key="'" line="7" column="1" />
@@ -169,12 +171,12 @@
         <mark key="^" line="82" column="24" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/.env" timestamp="1516933086441">
-        <mark key="'" line="89" column="21" />
-        <mark key="[" line="90" column="15" />
-        <mark key="]" line="90" column="13" />
-        <mark key="." line="90" column="13" />
-        <mark key="^" line="90" column="13" />
+      <file name="$USER_HOME$/git/ptp/duseAPI/.env" timestamp="1516941776432">
+        <mark key="'" line="6" column="15" />
+        <mark key="[" line="94" column="117" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="96" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-list.php" timestamp="1510978139110">
         <mark key="'" line="88" column="20" />
@@ -200,11 +202,11 @@
         <mark key="^" line="105" column="30" />
         <mark key="." line="105" column="30" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peter/.env" timestamp="1516935659256">
-        <mark key="[" line="80" column="44" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/git/ptp/peter/.env" timestamp="1516941394025">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/js/app.js" timestamp="1513819286039">
         <mark key="[" line="0" column="0" />
@@ -487,8 +489,8 @@
         <mark key="^" line="53" column="21" />
         <mark key="." line="53" column="21" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peter/app/Http/routes.php" timestamp="1516934882910">
-        <mark key="'" line="244" column="14" />
+      <file name="$USER_HOME$/git/ptp/peter/app/Http/routes.php" timestamp="1516941251601">
+        <mark key="'" line="249" column="17" />
       </file>
       <file name="$USER_HOME$/git/okta/config/services.php" timestamp="1515660964488">
         <mark key="'" line="1" column="0" />
@@ -568,17 +570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1322" column="25" filename="$USER_HOME$/git/ptp/peter/resources/views/parts/register_house.blade.php" />
-      <jump line="1328" column="29" filename="$USER_HOME$/git/ptp/peter/resources/views/parts/register_house.blade.php" />
-      <jump line="67" column="13" filename="$USER_HOME$/git/ptp/peter/resources/views/parts/register_house.blade.php" />
-      <jump line="73" column="37" filename="$USER_HOME$/git/ptp/peter/resources/views/parts/register_house.blade.php" />
-      <jump line="78" column="104" filename="$USER_HOME$/git/ptp/peter/resources/views/parts/register_house.blade.php" />
-      <jump line="113" column="44" filename="$USER_HOME$/git/ptp/peter/resources/views/parts/register_house.blade.php" />
-      <jump line="126" column="77" filename="$USER_HOME$/git/ptp/peter/resources/views/parts/register_house.blade.php" />
-      <jump line="137" column="90" filename="$USER_HOME$/git/ptp/peter/resources/views/parts/register_house.blade.php" />
-      <jump line="144" column="92" filename="$USER_HOME$/git/ptp/peter/resources/views/parts/register_house.blade.php" />
-      <jump line="186" column="40" filename="$USER_HOME$/git/ptp/peter/resources/views/parts/register_house.blade.php" />
-      <jump line="187" column="44" filename="$USER_HOME$/git/ptp/peter/resources/views/parts/register_house.blade.php" />
       <jump line="190" column="89" filename="$USER_HOME$/git/ptp/peter/resources/views/parts/register_house.blade.php" />
       <jump line="199" column="40" filename="$USER_HOME$/git/ptp/peter/resources/views/parts/register_house.blade.php" />
       <jump line="200" column="44" filename="$USER_HOME$/git/ptp/peter/resources/views/parts/register_house.blade.php" />
@@ -668,6 +659,17 @@
       <jump line="14" column="24" filename="$USER_HOME$/git/ptp/ceo/resources/assets/js/components/HouseTable.vue" />
       <jump line="71" column="27" filename="$USER_HOME$/git/ptp/ceo/resources/assets/js/components/HouseTable.vue" />
       <jump line="324" column="30" filename="$USER_HOME$/git/ptp/ceo/resources/assets/js/components/HouseTable.vue" />
+      <jump line="921" column="0" filename="$USER_HOME$/git/ptp/peter/public/js/register_house.js" />
+      <jump line="944" column="21" filename="$USER_HOME$/git/ptp/peter/public/js/register_house.js" />
+      <jump line="77" column="0" filename="$USER_HOME$/git/ptp/peter/.env" />
+      <jump line="243" column="63" filename="$USER_HOME$/git/ptp/peter/app/Http/routes.php" />
+      <jump line="249" column="17" filename="$USER_HOME$/git/ptp/peter/app/Http/routes.php" />
+      <jump line="785" column="0" filename="$USER_HOME$/git/ptp/peter/app/Http/Controllers/HouseController.php" />
+      <jump line="800" column="35" filename="$USER_HOME$/git/ptp/peter/app/Http/Controllers/HouseController.php" />
+      <jump line="63" column="0" filename="$USER_HOME$/git/ptp/duseAPI/.env" />
+      <jump line="17" column="0" filename="$USER_HOME$/git/ptp/duseAPI/.env" />
+      <jump line="91" column="0" filename="$USER_HOME$/git/ptp/duseAPI/.env" />
+      <jump line="6" column="15" filename="$USER_HOME$/git/ptp/duseAPI/.env" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -691,7 +693,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpbmRvdy5vcGVuKHByb2Nlc3MuZW52Lk1JWF9XRUJfVVJMICsgJy9hZ2VuY3kvZWRpdF9ob3VzZS8nICsgaGlkeCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -2233,57 +2235,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>http://peter.test</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>MIX_WEB_URL</text>
+        <text>cdn</text>
       </register>
       <register name="0" type="4">
-        <text>process.env.MIX_WEB_URL</text>
+        <text>APP_CEO_URL</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpbmRvdy5vcGVuKHByb2Nlc3MuZW52Lk1JWF9XRUJfVVJMICsgJy9hZ2VuY3kvZWRpdF9ob3VzZS8nICsgaGlkeCkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpbmRvdy5vcGVuKHByb2Nlc3MuZW52Lk1JWF9XRUJfVVJMICsgJy9hZ2VuY3kvZWRpdF9ob3VzZS8nICsgaGlkeCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOyDiOywveycvOuhnCDsiJjsoJUg7Y6Y7J207KeAIOyXtOq4sAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">V0VCX1VSTD1odHRwOi8vZGV2LnBldGVycGFuei5jb20K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">QVBQX1VSTD1odHRwOi8vYXBpLmRldi5wZXRlcnBhbnouY29tCkFQSV9VUkw9aHR0cDovL2FwaS5kZXYucGV0ZXJwYW56LmNvbQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCcvYWdlbmN5L2xpc3QvcHJvY2Vzc2luZycpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBBUFBfRU5WPWxvY2FsCkFQUF9FTlY9cHJvZHVjdGlvbgpBUFBfREVCVUc9dHJ1ZQpBUFBfS0VZPWJhc2U2NDpQdTRCejhKbEEvd2tpeVg0VFNReUZsU0lPMnlsaHdpSy95c3lkM0xuSE5JPQpBUFBfVVJMPWh0dHA6Ly9wZXRlci50ZXN0CkFQSV9VUkw9aHR0cDovL2R1c2UtYXBpLnRlc3QKTUlYX0FQSV9VUkw9aHR0cDovL2R1c2UtYXBpLnRlc3QKCgpEQl9DT05ORUNUSU9OPW15c3FsCkRCX0hPU1Q9MTI3LjAuMC4xCkRCX1BPUlQ9MzMwNgpEQl9EQVRBQkFTRT1kdWtrdWJpMgpEQl9VU0VSTkFNRT1ob21lc3RlYWQKREJfUEFTU1dPUkQ9c2VjcmV0Cg==</text>
+        <text encoding="base64">QVBQX0NFT19VUkw9aHR0cDovL2Nlby50ZXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyDiiI/iiYjPgOKInsK1w5PiiJHFk8KhwrbCq+KAlMK/w4Mgw6bCr8KlwqwgVUlEWCAsIOKIgsOBw7jLhsOm4omkwrHigJrDpsKvwqXCrCDOqeKInsKr4oCi4oiRxZIgwrHiiI/iiKvigJMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyDCseKAmsKh4oiPIOKIj+KJiM+A4oiewrXDk+KIkcWTwr/DgyDDpsKvwqXCrCBMSCBVSURYIMKqw4vCocK24oiewrDCpeKApgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDsg4jssL3snLzroZwg7IiY7KCVIO2OmOydtOyngCDsl7TquLAKICAgICAgICB3aW5kb3cub3Blbihwcm9jZXNzLmVudi5NSVhfV0VCX1VSTCArICcvYWdlbmN5L2VkaXRfaG91c2UvJyArIGhpZHgpCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TkFWRVJfQ0FGRV9DQVRFR09SSUVTPSLCsMOCIOKJpcKqwqHLneKIj+KIguKIkeKIms6p4omI4oia4oCh4oirw5niiILDm3zCuuKJoMO4w5TCscKrwqHLhsO44oSiIMKh76yC4oie4oml4oiP4omIz4DiiJ58wrrLhsK1wrXCscKrwqHLhsO44oSiIMKh76yC4oie4oml4oiP4omIPs+A4oiefOKImsOK4oiawqrCscKrwqHLhsO44oSiIMKh76yC4oie4oml4oiP4omIz4DiiJ58wr/CuOKIgsObwrHCq8Khy4bDuOKEoiDCoe+sguKInuKJpeKIj+KJiM+A4oiefOKInsOKwqrDm8KxwqvCocuGw7jihKIgwqHvrILiiJ7iiaXiiI/iiYjPgOKInnzCv8K44oiCw5vCscKrwqHLhsO44oSiIMKh76yC4oie4oml4oiP4omICs+A4oiefOKInsOKwqrDm8KxwqvCocuGw7jihKIgwqHvrILiiJ7iiaXiiI/iiYjPgOKInnziiKvFksKqw43CscKrwqHLhsO44oSiIMKh76yC4oie4oml4oiP4omIz4DiiJ58wr/CuMKxz4DCqsOBz4DCtM6pwqsg4oia76yC4oiawrXiiI/iiYjPgOKInnzCv8K4wrHPgMOm4oiG4oiGxpLiiIbDhiDCoe+sguKInuKJpeKIj+KJiArPgOKInnzCsMOCIMOm4oKsIMK1w5PiiJHFkyDCoe+sguKInuKJpeKIj+KJiM+A4oieIgpOQVZFUl9DQUZFX0NBVEVHT1JZX0VUQ19OQU1FPSLCsMOCIMOm4oKsIMK1w5PiiJHFkyDCoe+sguKInuKJpeKIj+KJiM+A4oieIgpOQVZFUl9DQUZFX0NBVEVHT1JZX0RJU0FCTEVEX05BTUU9IsK/wrjCsc+AwqrDgc+AwrTOqcKrIOKImu+sguKImsK14oiP4omIz4DiiJ58wr/CuMKxz4DDpuKIhuKIhsaS4oiGw4YgwqHvrILiiJ7iiaXiiI/iiYjPgOKIniIK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBSRUFMX0lOSUNJU19NSUQg4oiewrAgzqnCq8KhwrYgwr/LmsO4w47CtcKrwqXCrCDiiJ7ihKLCv8OD4oiPw4Eg4omI4peKzqniiKviiIbDhiDCu8OY4oiew4rDuMKwwrriiaDCpcKsICdJTklDSVNfTUlEPUlOSXBheVRlc3QnIOKIj8K2IMKqw4HDuMOOCg==</text>
+        <text encoding="base64">ICAgICAgICDso7zrr7zrk7Hrs7jrlYzshJwg7KO87IaM66W8IOuvuOyVhOu2gOuPmeyCsOyXkOqyjCDslYzroKTso7wK</text>
       </register>
       <register name=":" type="4">
-        <text>x</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>MIX_WEB_URL</last-search>
+      <last-search>cdn</last-search>
       <last-offset />
-      <last-pattern>MIX_WEB_URL</last-pattern>
+      <last-pattern>cdn</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>edit</entry>
-        <entry>houseEditView</entry>
-        <entry>WEB</entry>
         <entry>agency</entry>
         <entry>registHouseForm</entry>
         <entry>alert</entry>
@@ -2294,13 +2293,16 @@
         <entry>form</entry>
         <entry>수정하기</entry>
         <entry>sumbit</entry>
-        <entry>submit</entry>
         <entry encoding="base64">XDxsYXRcPg==</entry>
         <entry>debug</entry>
         <entry>debugger</entry>
         <entry>hre</entry>
         <entry>_WEB_URL + '</entry>
         <entry>MIX_WEB_URL</entry>
+        <entry>submit</entry>
+        <entry>manage_house</entry>
+        <entry>pro</entry>
+        <entry>cdn</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -2321,8 +2323,8 @@
         <entry>82</entry>
         <entry>41</entry>
         <entry>211</entry>
-        <entry>w</entry>
         <entry>x</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
