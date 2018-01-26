@@ -61,7 +61,7 @@
         <mark key="." line="63" column="45" />
         <mark key="^" line="63" column="45" />
       </file>
-      <file name="$USER_HOME$/git/ptp/ceo/resources/assets/js/components/HouseTable.vue" timestamp="1516935856343">
+      <file name="$USER_HOME$/git/ptp/ceo/resources/assets/js/components/HouseTable.vue" timestamp="1516936661301">
         <mark key="[" line="411" column="72" />
         <mark key="]" line="411" column="70" />
         <mark key="." line="411" column="70" />
@@ -2237,7 +2237,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsYXRcPg==</text>
+        <text>debugger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3aW5kb3cub3Blbihwcm9jZXNzLmVudi5NSVhfV0VCX1VSTCArICcvZWRpdF9ob3VzZS8nICsgaGlkeCkK</text>
@@ -2274,16 +2274,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsYXRcPg==</last-search>
+      <last-search>debugger</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsYXRcPg==</last-pattern>
+      <last-pattern>debugger</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpblBlbmFsdHlcPg==</entry>
-        <entry encoding="base64">XDxnZXRDdXJyZW50UGVuYWx0eVw+</entry>
         <entry>ai</entry>
         <entry>api</entry>
         <entry>route</entry>
@@ -2302,6 +2300,8 @@
         <entry>sumbit</entry>
         <entry>submit</entry>
         <entry encoding="base64">XDxsYXRcPg==</entry>
+        <entry>debug</entry>
+        <entry>debugger</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
