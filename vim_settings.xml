@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/ptp/peter/app/Http/Controllers/AgencyController.php" timestamp="1517033375616">
+        <mark key="'" line="850" column="47" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="179" column="17" />
+      </file>
       <file name="$USER_HOME$/git/ptp/ceo/resources/assets/js/components/FilterBar.vue" timestamp="1516953749556">
         <mark key="'" line="88" column="7" />
       </file>
@@ -67,12 +72,11 @@
         <mark key="^" line="225" column="70" />
         <mark key="." line="225" column="67" />
       </file>
-      <file name="$USER_HOME$/git/ptp/ceo/resources/views/layouts/_navigation.blade.php" timestamp="1517108099014">
-        <mark key="'" line="75" column="4" />
-        <mark key="[" line="77" column="30" />
-        <mark key="]" line="77" column="36" />
-        <mark key="." line="77" column="36" />
-        <mark key="^" line="77" column="36" />
+      <file name="$USER_HOME$/git/ptp/ceo/resources/views/layouts/_navigation.blade.php" timestamp="1517113763322">
+        <mark key="'" line="58" column="20" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/git/okta/app/Providers/EventServiceProvider.php" timestamp="1515661178697">
         <mark key="[" line="17" column="0" />
@@ -89,6 +93,11 @@
         <mark key="]" line="345" column="62" />
         <mark key="^" line="345" column="62" />
         <mark key="." line="345" column="62" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/blog/resources/views/layouts/app.blade.php" timestamp="1517113743928">
+        <mark key="'" line="61" column="50" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="59" column="43" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/.env" timestamp="1516958471814">
         <mark key="'" line="6" column="15" />
@@ -166,6 +175,11 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/public/js/app.js" timestamp="1516257296769">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ptp/peter/app/Helpers/Helper.php" timestamp="1517033401450">
+        <mark key="'" line="1040" column="0" />
+        <mark key="[" line="1120" column="0" />
+        <mark key="]" line="1139" column="5" />
+      </file>
       <file name="$USER_HOME$/git/ptp/peter/resources/views/agency/header.blade.php" timestamp="1517108717744">
         <mark key="'" line="59" column="42" />
         <mark key="[" line="63" column="17" />
@@ -173,8 +187,8 @@
         <mark key="." line="58" column="54" />
         <mark key="^" line="58" column="54" />
       </file>
-      <file name="$USER_HOME$/git/ptp/ceo/routes/web.php" timestamp="1517108495494">
-        <mark key="'" line="20" column="24" />
+      <file name="$USER_HOME$/git/ptp/ceo/routes/web.php" timestamp="1517113568596">
+        <mark key="'" line="51" column="13" />
         <mark key="[" line="49" column="79" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
@@ -237,14 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="9" filename="$USER_HOME$/git/ptp/ceo/app/Http/Controllers/API/HomeAPIController.php" />
-      <jump line="179" column="24" filename="$USER_HOME$/git/ptp/ceo/app/Http/Controllers/API/HomeAPIController.php" />
-      <jump line="175" column="13" filename="$USER_HOME$/git/ptp/ceo/app/Http/Controllers/API/HomeAPIController.php" />
-      <jump line="158" column="9" filename="$USER_HOME$/git/ptp/ceo/app/Http/Controllers/API/HomeAPIController.php" />
-      <jump line="166" column="28" filename="$USER_HOME$/git/ptp/ceo/app/Http/Controllers/API/HomeAPIController.php" />
-      <jump line="174" column="12" filename="$USER_HOME$/git/ptp/ceo/app/Http/Controllers/API/HomeAPIController.php" />
-      <jump line="259" column="13" filename="$USER_HOME$/git/ptp/peter/app/Http/routes.php" />
-      <jump line="51" column="24" filename="$USER_HOME$/git/ptp/peter/resources/views/agency/header_new.blade.php" />
       <jump line="518" column="24" filename="$USER_HOME$/git/ptp/peter/resources/views/agency/header_new.blade.php" />
       <jump line="39" column="59" filename="$USER_HOME$/git/ptp/peter/resources/views/agency/header_new.blade.php" />
       <jump line="103" column="34" filename="$USER_HOME$/git/ptp/peter/resources/views/agency/header_new.blade.php" />
@@ -337,6 +343,14 @@
       <jump line="43" column="32" filename="$USER_HOME$/git/ptp/peter/resources/views/agency/header.blade.php" />
       <jump line="58" column="42" filename="$USER_HOME$/git/ptp/peter/resources/views/agency/header.blade.php" />
       <jump line="52" column="30" filename="$USER_HOME$/git/ptp/peter/resources/views/agency/header_new.blade.php" />
+      <jump line="58" column="20" filename="$USER_HOME$/git/ptp/ceo/resources/views/layouts/_navigation.blade.php" />
+      <jump line="51" column="13" filename="$USER_HOME$/git/ptp/ceo/routes/web.php" />
+      <jump line="2" column="0" filename="$USER_HOME$/git/ptp/blog/resources/views/layouts/app.blade.php" />
+      <jump line="45" column="45" filename="$USER_HOME$/git/ptp/blog/resources/views/layouts/app.blade.php" />
+      <jump line="46" column="45" filename="$USER_HOME$/git/ptp/blog/resources/views/layouts/app.blade.php" />
+      <jump line="55" column="59" filename="$USER_HOME$/git/ptp/blog/resources/views/layouts/app.blade.php" />
+      <jump line="57" column="78" filename="$USER_HOME$/git/ptp/blog/resources/views/layouts/app.blade.php" />
+      <jump line="61" column="50" filename="$USER_HOME$/git/ptp/blog/resources/views/layouts/app.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -360,7 +374,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
+        <text encoding="base64">CQkJCQkJPGEgaHJlZj0ie3sgcm91dGUoJ2xvZ291dCcpIH19Ij7roZzqt7jslYTsm4M8L2E+Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1902,49 +1916,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>hidx</text>
+        <text encoding="base64">IGNsYXNzPSJkcm9wZG93bi1pdGVtIHJvdXRlci1saW5rLWFjdGl2ZSI=</text>
       </register>
       <register name="/" type="4">
-        <text>lur</text>
+        <text encoding="base64">XDxsb2dvdXRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>, 'http://ceo.peterpanz.com'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Int7IHJvdXRlKCdsb2dvdXQnKSB9fSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbmNsaWNrPSJldmVudC5wcmV2ZW50RGVmYXVsdCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdsb2dvdXQtZm9ybScpLnN1Ym1pdCgpOyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nb3V0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
+        <text encoding="base64">CQkJCQkJPGEgaHJlZj0ie3sgcm91dGUoJ2xvZ291dCcpIH19Ij7roZzqt7jslYTsm4M8L2E+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">CQkJCQkJCUxvZ291dAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzdWx0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaGlkeCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlc3VsdDsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaGlkeCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlc3VsdDsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQGluY2x1ZGUoJ2FnZW5jeS5oZWFkZXInKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlc3VsdDsK</text>
       </register>
       <register name=":" type="4">
         <text>881</text>
       </register>
     </registers>
     <search>
-      <last-search>lur</last-search>
+      <last-search encoding="base64">XDxsb2dvdXRcPg==</last-search>
       <last-offset />
-      <last-pattern>lur</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dvdXRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>title</last-substitute>
       <last-dir>1</last-dir>
@@ -1952,8 +1966,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiYXNpY0xpc3RMaXZlXD4=</entry>
-        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
         <entry encoding="base64">XDxnZXRBZ2VuY3lOYXZlclNlZW5Db3Vwb25Db3VudFw+</entry>
         <entry encoding="base64">XDxuU2l0ZUNvdXBvbkRhdGVcPg==</entry>
         <entry encoding="base64">XDxuQ291cG9uQ291bnRcPg==</entry>
@@ -1972,6 +1984,8 @@
         <entry>rand</entry>
         <entry>이전버전</entry>
         <entry>lur</entry>
+        <entry>out</entry>
+        <entry encoding="base64">XDxsb2dvdXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>28</entry>
