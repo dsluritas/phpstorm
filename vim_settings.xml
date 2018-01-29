@@ -33,12 +33,12 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1516339280997">
         <mark key="'" line="708" column="18" />
       </file>
-      <file name="$USER_HOME$/git/ptp/ceo/.env" timestamp="1517020382376">
-        <mark key="'" line="27" column="15" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="25" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/git/ptp/ceo/.env" timestamp="1517196688290">
+        <mark key="'" line="10" column="7" />
+        <mark key="[" line="109" column="15" />
+        <mark key="]" line="109" column="15" />
+        <mark key="^" line="109" column="25" />
+        <mark key="." line="109" column="15" />
       </file>
       <file name="$USER_HOME$/git/ptp/ceo/resources/views/layouts/app.blade.php" timestamp="1516955678338">
         <mark key="[" line="27" column="13" />
@@ -200,7 +200,7 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517188068527">
+      <file name="/Dummy.txt" timestamp="1517196274269">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1516336418748">
@@ -273,7 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="16" filename="$USER_HOME$/git/ptp/peter/app/Http/routes.php" />
       <jump line="76" column="16" filename="$USER_HOME$/git/ptp/peter/app/Http/routes.php" />
       <jump line="79" column="16" filename="$USER_HOME$/git/ptp/peter/app/Http/routes.php" />
       <jump line="82" column="16" filename="$USER_HOME$/git/ptp/peter/app/Http/routes.php" />
@@ -373,6 +372,7 @@
       <jump line="83" column="52" filename="$USER_HOME$/git/ptp/ceo/resources/assets/js/components/Home.vue" />
       <jump line="85" column="52" filename="$USER_HOME$/git/ptp/ceo/resources/assets/js/components/Home.vue" />
       <jump line="40" column="8" filename="$USER_HOME$/git/ptp/ceo/app/Http/Controllers/API/HomeAPIController.php" />
+      <jump line="10" column="7" filename="$USER_HOME$/git/ptp/ceo/.env" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -396,7 +396,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1938,7 +1938,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>report_status</text>
