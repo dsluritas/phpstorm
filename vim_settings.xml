@@ -33,12 +33,12 @@
       <file name="$USER_HOME$/git/ptp/peterWEB/app/Http/routes.php" timestamp="1516339280997">
         <mark key="'" line="708" column="18" />
       </file>
-      <file name="$USER_HOME$/git/ptp/ceo/.env" timestamp="1517196688290">
+      <file name="$USER_HOME$/git/ptp/ceo/.env" timestamp="1517200528931">
         <mark key="'" line="10" column="7" />
-        <mark key="[" line="109" column="15" />
-        <mark key="]" line="109" column="15" />
-        <mark key="^" line="109" column="25" />
-        <mark key="." line="109" column="15" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="1" />
+        <mark key="^" line="109" column="1" />
+        <mark key="." line="109" column="1" />
       </file>
       <file name="$USER_HOME$/git/ptp/ceo/resources/views/layouts/app.blade.php" timestamp="1516955678338">
         <mark key="[" line="27" column="13" />
@@ -87,12 +87,9 @@
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Agency.php" timestamp="1516338585658">
         <mark key="'" line="261" column="22" />
       </file>
-      <file name="$USER_HOME$/git/ptp/ceo/resources/assets/js/components/Home.vue" timestamp="1517189751336">
-        <mark key="'" line="85" column="52" />
-        <mark key="[" line="402" column="70" />
-        <mark key="]" line="402" column="70" />
+      <file name="$USER_HOME$/git/ptp/ceo/resources/assets/js/components/Home.vue" timestamp="1517201220892">
+        <mark key="'" line="438" column="7" />
         <mark key="^" line="402" column="70" />
-        <mark key="." line="402" column="70" />
       </file>
       <file name="$USER_HOME$/git/ptp/blog/resources/views/layouts/app.blade.php" timestamp="1517116211692">
         <mark key="'" line="61" column="50" />
@@ -138,8 +135,8 @@
       <file name="$USER_HOME$/git/ptp/peter/resources/views/agency_info_update.blade.php" timestamp="1517116377462">
         <mark key="'" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/ceo/resources/assets/js/app.js" timestamp="1517040194621">
-        <mark key="'" line="167" column="26" />
+      <file name="$USER_HOME$/git/ptp/ceo/resources/assets/js/app.js" timestamp="1517201319058">
+        <mark key="'" line="134" column="4" />
         <mark key="[" line="82" column="13" />
         <mark key="]" line="82" column="18" />
         <mark key="^" line="82" column="18" />
@@ -194,13 +191,14 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/ceo/resources/views/home.blade.php" timestamp="1517116429091">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="8" column="15" />
-        <mark key="." line="8" column="15" />
-        <mark key="^" line="8" column="15" />
+      <file name="$USER_HOME$/git/ptp/ceo/resources/views/home.blade.php" timestamp="1517201347693">
+        <mark key="'" line="4" column="10" />
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="61" />
+        <mark key="." line="9" column="61" />
+        <mark key="^" line="9" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517196274269">
+      <file name="/Dummy.txt" timestamp="1517201090026">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/duseAPI/app/Http/routes.php" timestamp="1516336418748">
@@ -257,12 +255,10 @@
         <mark key="." line="156" column="4" />
         <mark key="^" line="156" column="4" />
       </file>
-      <file name="$USER_HOME$/git/ptp/peter/resources/views/layouts/agency.blade.php" timestamp="1517116392677">
-        <mark key="'" line="43" column="13" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="47" column="5" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="12" column="44" />
+      <file name="$USER_HOME$/git/ptp/peter/resources/views/layouts/agency.blade.php" timestamp="1517201428932">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/ceo/app/Helpers/Helper.php" timestamp="1517066588986">
         <mark key="'" line="159" column="27" />
@@ -273,15 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="16" filename="$USER_HOME$/git/ptp/peter/app/Http/routes.php" />
-      <jump line="79" column="16" filename="$USER_HOME$/git/ptp/peter/app/Http/routes.php" />
-      <jump line="82" column="16" filename="$USER_HOME$/git/ptp/peter/app/Http/routes.php" />
-      <jump line="85" column="16" filename="$USER_HOME$/git/ptp/peter/app/Http/routes.php" />
-      <jump line="89" column="16" filename="$USER_HOME$/git/ptp/peter/app/Http/routes.php" />
-      <jump line="92" column="16" filename="$USER_HOME$/git/ptp/peter/app/Http/routes.php" />
-      <jump line="93" column="93" filename="$USER_HOME$/git/ptp/peter/app/Http/routes.php" />
-      <jump line="94" column="16" filename="$USER_HOME$/git/ptp/peter/app/Http/routes.php" />
-      <jump line="95" column="17" filename="$USER_HOME$/git/ptp/peter/app/Http/routes.php" />
       <jump line="98" column="16" filename="$USER_HOME$/git/ptp/peter/app/Http/routes.php" />
       <jump line="100" column="17" filename="$USER_HOME$/git/ptp/peter/app/Http/routes.php" />
       <jump line="102" column="17" filename="$USER_HOME$/git/ptp/peter/app/Http/routes.php" />
@@ -373,6 +360,15 @@
       <jump line="85" column="52" filename="$USER_HOME$/git/ptp/ceo/resources/assets/js/components/Home.vue" />
       <jump line="40" column="8" filename="$USER_HOME$/git/ptp/ceo/app/Http/Controllers/API/HomeAPIController.php" />
       <jump line="10" column="7" filename="$USER_HOME$/git/ptp/ceo/.env" />
+      <jump line="4" column="10" filename="$USER_HOME$/git/ptp/ceo/resources/views/home.blade.php" />
+      <jump line="29" column="16" filename="$USER_HOME$/git/ptp/ceo/resources/assets/js/app.js" />
+      <jump line="33" column="15" filename="$USER_HOME$/git/ptp/ceo/resources/assets/js/app.js" />
+      <jump line="438" column="7" filename="$USER_HOME$/git/ptp/ceo/resources/assets/js/components/Home.vue" />
+      <jump line="131" column="10" filename="$USER_HOME$/git/ptp/ceo/resources/assets/js/app.js" />
+      <jump line="144" column="19" filename="$USER_HOME$/git/ptp/ceo/resources/assets/js/app.js" />
+      <jump line="143" column="4" filename="$USER_HOME$/git/ptp/ceo/resources/assets/js/app.js" />
+      <jump line="135" column="19" filename="$USER_HOME$/git/ptp/ceo/resources/assets/js/app.js" />
+      <jump line="134" column="4" filename="$USER_HOME$/git/ptp/ceo/resources/assets/js/app.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -395,8 +391,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHt7IGRkKHNlc3Npb24oKS0+Z2V0KCdlcnJvcicpKSB9fQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1938,49 +1934,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Hello Vue world!!!</text>
       </register>
       <register name="/" type="4">
-        <text>report_status</text>
+        <text>swal</text>
       </register>
-      <register name="0" type="4">
-        <text>{{ process.env.MIX_WEB_URL }}/agency/event/{{event.idx}}</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQk8c2NyaXB0PgogICAgICAgICAgICBzd2FsQ29uZmlybSgne3sgc2Vzc2lvbignZXJyb3InKSB9fScpOwoJCTwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHt7IGRkKHNlc3Npb24oKS0+Z2V0KCdlcnJvcicpKSB9fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJPGEgaHJlZj0ie3sgcm91dGUoJ2xvZ291dCcpIH19Ij7roZzqt7jslYTsm4M8L2E+Cg==</text>
+        <text encoding="base64">QGVuZGlmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCUxvZ291dAo=</text>
+        <text encoding="base64">QGlmKHNlc3Npb24oJ2Vycm9yJykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3dhbENvbmZpcm0oJ3t7IHNlc3Npb24oJ2Vycm9yJykgfX0nKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgIEBpZihzZXNzaW9uKCdlcnJvcicpKQogICAgICAgIHN3YWxDb25maXJtKCd7eyBzZXNzaW9uKCdlcnJvcicpIH19Jyk7CiAgICBAZW5kaWYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaGlkeCk7Cg==</text>
+        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">CUBpZihzZXNzaW9uKCdlcnJvcicpKQoJCTxzY3JpcHQ+CiAgICAgICAgICAgIHN3YWxDb25maXJtKCd7eyBzZXNzaW9uKCdlcnJvcicpIH19Jyk7CgkJPC9zY3JpcHQ+CglAZW5kaWYK</text>
       </register>
       <register name=":" type="4">
         <text>881</text>
       </register>
     </registers>
     <search>
-      <last-search>report_status</last-search>
+      <last-search>swal</last-search>
       <last-offset />
-      <last-pattern>report_status</last-pattern>
+      <last-pattern>swal</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>title</last-substitute>
       <last-dir>1</last-dir>
@@ -1988,7 +1984,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NEW</entry>
         <entry>rand</entry>
         <entry>이전버전</entry>
         <entry>lur</entry>
@@ -2008,6 +2003,7 @@
         <entry>허위매물</entry>
         <entry encoding="base64">XDxyZXBvcnRfc3RhdHVzXD4=</entry>
         <entry>report_status</entry>
+        <entry>swal</entry>
       </history-search>
       <history-cmd>
         <entry>28</entry>
