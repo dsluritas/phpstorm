@@ -60,6 +60,12 @@
         <mark key="^" line="1295" column="36" />
         <mark key="." line="1295" column="36" />
       </file>
+      <file name="$USER_HOME$/git/ptp/ceo.peter/resources/views/layouts/_footer.blade.php" timestamp="1517972612525">
+        <mark key="[" line="24" column="56" />
+        <mark key="]" line="24" column="72" />
+        <mark key="^" line="20" column="80" />
+        <mark key="." line="24" column="56" />
+      </file>
       <file name="$USER_HOME$/git/ptp/ceo/resources/assets/js/components/HouseTable.vue" timestamp="1516955628668">
         <mark key="'" line="401" column="19" />
         <mark key="[" line="337" column="0" />
@@ -200,7 +206,7 @@
         <mark key="." line="9" column="61" />
         <mark key="^" line="9" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517970712784">
+      <file name="/Dummy.txt" timestamp="1517972502541">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/ceo.peter/resources/assets/js/components/Home-new.vue" timestamp="1517970568471">
@@ -408,8 +414,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgZW52KCdXRUJfVVJMJykgfX0vbG9nb3V0IiBjbGFzcz0iZHJvcGRvd24taXRlbSByb3V0ZXItbGluay1hY3RpdmUiPuuhnOq3uOyVhOybgzwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHRhcmdldD0iX2JsYW5rIg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1951,13 +1957,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>APP_CEO_URL</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>only-mobile</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCTxsaSBjbGFzcz0ibmF2LWl0ZW0iPgoJCQkJCTxhIGhyZWY9Int7IGVudignV0VCX1VSTCcpIH19L2xvZ291dCIgY2xhc3M9ImRyb3Bkb3duLWl0ZW0gcm91dGVyLWxpbmstYWN0aXZlIj7roZzqt7jslYTsm4M8L2E+CgkJCQk8L2xpPgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHRhcmdldD0iX2JsYW5rIg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgZW52KCdXRUJfVVJMJykgfX0vbG9nb3V0IiBjbGFzcz0iZHJvcGRvd24taXRlbSByb3V0ZXItbGluay1hY3RpdmUiPuuhnOq3uOyVhOybgzwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4K</text>
