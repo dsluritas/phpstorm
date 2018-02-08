@@ -110,12 +110,12 @@
       <file name="/Dummy.txt" timestamp="1518072825431">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/ceo.peter/resources/assets/js/components/Home-new.vue" timestamp="1518074530472">
+      <file name="$USER_HOME$/git/ptp/ceo.peter/resources/assets/js/components/Home-new.vue" timestamp="1518074754498">
         <mark key="'" line="8" column="40" />
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="9" column="39" />
-        <mark key="." line="9" column="39" />
-        <mark key="^" line="19" column="39" />
+        <mark key="[" line="9" column="44" />
+        <mark key="]" line="9" column="61" />
+        <mark key="." line="9" column="61" />
+        <mark key="^" line="9" column="61" />
       </file>
       <file name="$USER_HOME$/git/ptp/ceo.peter/tests/Feature/ExampleTest.php" timestamp="1517985520083">
         <mark key="[" line="18" column="32" />
@@ -294,7 +294,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>data.profile_image.profile_img_path+'123124'</text>
+        <text>profile_image</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1836,7 +1836,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data.profile_image.profile_img_path+'123124'</text>
+        <text>profile_image</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9maWxlX2ltYWdlXD4=</text>
