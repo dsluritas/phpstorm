@@ -110,10 +110,12 @@
       <file name="/Dummy.txt" timestamp="1518072825431">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/ceo.peter/resources/assets/js/components/Home-new.vue" timestamp="1518073204953">
-        <mark key="[" line="385" column="0" />
-        <mark key="]" line="385" column="0" />
-        <mark key="." line="385" column="0" />
+      <file name="$USER_HOME$/git/ptp/ceo.peter/resources/assets/js/components/Home-new.vue" timestamp="1518074530472">
+        <mark key="'" line="8" column="40" />
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="9" column="39" />
+        <mark key="." line="9" column="39" />
+        <mark key="^" line="19" column="39" />
       </file>
       <file name="$USER_HOME$/git/ptp/ceo.peter/tests/Feature/ExampleTest.php" timestamp="1517985520083">
         <mark key="[" line="18" column="32" />
@@ -169,8 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="4" filename="$USER_HOME$/git/ptp/ceo.peter/tests/Browser/HomeTest.php" />
-      <jump line="117" column="54" filename="$USER_HOME$/git/ptp/ceo.peter/resources/assets/js/components/Home-new.vue" />
       <jump line="120" column="54" filename="$USER_HOME$/git/ptp/ceo.peter/resources/assets/js/components/Home-new.vue" />
       <jump line="98" column="28" filename="$USER_HOME$/git/ptp/ceo.peter/tests/Browser/HomeTest.php" />
       <jump line="99" column="30" filename="$USER_HOME$/git/ptp/ceo.peter/tests/Browser/HomeTest.php" />
@@ -208,7 +208,6 @@
       <jump line="938" column="0" filename="$USER_HOME$/git/ptp/ceo.peter/resources/assets/js/components/Home-new.vue" />
       <jump line="580" column="0" filename="$USER_HOME$/git/ptp/ceo.peter/resources/assets/js/components/Home-new.vue" />
       <jump line="6" column="36" filename="$USER_HOME$/git/ptp/ceo.peter/resources/assets/js/components/Home-new.vue" />
-      <jump line="8" column="35" filename="$USER_HOME$/git/ptp/ceo.peter/resources/assets/js/components/Home-new.vue" />
       <jump line="836" column="16" filename="$USER_HOME$/git/ptp/ceo.peter/resources/assets/js/components/Home-new.vue" />
       <jump line="829" column="16" filename="$USER_HOME$/git/ptp/ceo.peter/resources/assets/js/components/Home-new.vue" />
       <jump line="822" column="16" filename="$USER_HOME$/git/ptp/ceo.peter/resources/assets/js/components/Home-new.vue" />
@@ -269,6 +268,9 @@
       <jump line="589" column="13" filename="$USER_HOME$/git/ptp/ceo.peter/resources/assets/js/components/Home-new.vue" />
       <jump line="583" column="7" filename="$USER_HOME$/git/ptp/ceo.peter/resources/assets/js/components/Home-new.vue" />
       <jump line="38" column="27" filename="$USER_HOME$/git/ptp/ceo.peter/resources/assets/js/components/AdStatus.vue" />
+      <jump line="369" column="56" filename="$USER_HOME$/git/ptp/ceo.peter/resources/assets/js/components/Home-new.vue" />
+      <jump line="9" column="44" filename="$USER_HOME$/git/ptp/ceo.peter/resources/assets/js/components/Home-new.vue" />
+      <jump line="8" column="40" filename="$USER_HOME$/git/ptp/ceo.peter/resources/assets/js/components/Home-new.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -291,8 +293,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>data.profile_image.profile_img_path+'123124'</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1834,10 +1836,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>피터팬의 좋은방 구하기 BIZ</text>
+        <text>data.profile_image.profile_img_path+'123124'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhXD4=</text>
+        <text encoding="base64">XDxwcm9maWxlX2ltYWdlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iL2ltYWdlcy9pY29uL2ljb24tcGV0ZXJwYW4tYmlnLnBuZyIgYWx0PSIiIGNsYXNzPSJwci0xIj4K</text>
@@ -1846,37 +1848,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZChhcHAoKS0+ZW52aXJvbm1lbnQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkaW50ZWdlciA9ICcnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW+y2nOyymF0gW0hUTUwvaW1nXSDsnoXroKXtlZwg6rK966Gc7JeQIOydtOuvuOyngOqwgCDsl4bsnYTrlYwo7JeR67CVKSDrjIDssrTtlaAg7J2066+47KeAIOyngOygle2VmOq4sHzsnpHshLHsnpAg7Jik7KGw7JaRCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaW50ZWdlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">d2FpdEZvcignLmxlYWRlcicpCiAgICAgICAgICAgIC0+c2NyZWVuc2hvdCgnaG9tZScp</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZChhcHAoKS0+ZW52aXJvbm1lbnQoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEhvbWUg7ZmU66m0IOygkeq3vAo=</text>
+        <text encoding="base64">ICAgICAgICAkaW50ZWdlciA9ICcnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaW50ZWdlcik7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">d2FpdEZvcignLmxlYWRlcicpCiAgICAgICAgICAgIC0+c2NyZWVuc2hvdCgnaG9tZScp</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cn0K</text>
+        <text encoding="base64">ICAgICAqIEhvbWUg7ZmU66m0IOygkeq3vAo=</text>
       </register>
       <register name=":" type="4">
         <text>1005</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
+      <last-search encoding="base64">XDxwcm9maWxlX2ltYWdlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9maWxlX2ltYWdlXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>title</last-substitute>
       <last-dir>1</last-dir>
@@ -1884,8 +1886,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxib2FyZHNcPg==</entry>
-        <entry>board</entry>
         <entry>허위매물</entry>
         <entry encoding="base64">XDxyZXBvcnRfc3RhdHVzXD4=</entry>
         <entry>report_status</entry>
@@ -1904,6 +1904,8 @@
         <entry>thro</entry>
         <entry>throw</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry encoding="base64">XDxwcm9maWxlX2ltZ19wYXRoXD4=</entry>
+        <entry encoding="base64">XDxwcm9maWxlX2ltYWdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>36</entry>
